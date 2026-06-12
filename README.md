@@ -31,9 +31,11 @@ python3 app.py 9001     # 指定端口
 
 ## 信源
 
-- **国际**：Fair Competition Law（竞业/商业秘密专业博客，整站在题）、DOJ 新闻稿、FTC 新闻稿（均按主题词过滤），及 Google News 英文检索（trade secret lawsuit / economic espionage / non-compete / DTSA）
-- **国内**：36氪、Solidot、cnBeta（关键词过滤），及 Google News 中文检索（商业秘密 / 侵犯商业秘密判决 / 竞业限制 / 刑事·经济间谍 / 反不正当竞争）
-- 实测不可用已排除：Seyfarth Trading Secrets、Crowell Trade Secrets Trends（403 WAF）、IPWatchdog（超时）、natlawreview（404）
+- **官方官网（HTML 解析）**：最高人民法院（court.gov.cn/zixun.html）、最高人民检察院（spp.gov.cn/spp/tt/）、最高法知识产权法庭（ipc.court.gov.cn）——无 RSS，通过 `type:"html"` + `item_re` 解析列表页；`official:True` 使其天然通过「立法监管」官方闸门
+- **知产公众号**：知产力 / IPRdaily / 知识产权那点事 / 知产财经——公众号无公开 RSS（wechat2rss 为 JS 站不可解析），经由 Google News 索引其网站版与各平台分发镜像收录
+- **国际**：Fair Competition Law（竞业/商业秘密专业博客，整站在题）、DOJ 新闻稿、FTC 新闻稿、Law360 IP 频道（均按主题词过滤），及 Google News 英文检索（trade secret lawsuit / economic & industrial espionage / non-compete / DTSA / chip theft）
+- **国内综合**：36氪、Solidot、cnBeta（关键词过滤），及 Google News 中文检索（商业秘密 / 判决 / 竞业限制 / 刑事·经济间谍 / 不正当竞争 / 客户名单 / 技术泄密 / 知识产权犯罪）
+- 实测不可用已排除：Seyfarth、Crowell、tradesecretsinsider、JD Supra（WAF/503）、IPWatchdog（超时）、natlawreview、Fisher Phillips（404）、知产力官网直抓（文章页 JS 渲染无日期）
 
 ## 自定义与部署
 

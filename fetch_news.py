@@ -50,6 +50,17 @@ def bnews(query):
 #   implies  该信源天然满足的相关性维度（见下方"相关性闸门"）：
 #            core=商业秘密专门领域（单独命中即收录）  topic=主题维度  legal=法律维度
 SOURCES = [
+    # —— 官方机构官网（无 RSS，直接解析新闻列表页；item_re 依次捕获 链接/标题/日期，
+    #     official 标记使其新闻天然通过「立法监管」的官方主体闸门）——
+    {"name": "最高人民法院", "type": "html", "url": "https://www.court.gov.cn/zixun.html",
+     "base": "https://www.court.gov.cn", "official": True, "region": "国内", "weight": 3.0, "implies": ("legal",),
+     "item_re": r'<a[^>]+href="(/zixun/xiangqing/\d+\.html)"[^>]*>(.*?)</a>\s*<i class="date">(20\d{2}-\d{2}-\d{2})</i>'},
+    {"name": "最高人民检察院", "type": "html", "url": "https://www.spp.gov.cn/spp/tt/index.shtml",
+     "base": "https://www.spp.gov.cn", "official": True, "region": "国内", "weight": 3.0, "implies": ("legal",),
+     "item_re": r'<a href="(/spp/[^"]+\.shtml)"[^>]*>([^<]{8,90})</a>\s*<[^>]*>\s*(20\d{2}-\d{2}-\d{2})'},
+    {"name": "最高法知识产权法庭", "type": "html", "url": "https://ipc.court.gov.cn/zh-cn/news/index.html",
+     "base": "https://ipc.court.gov.cn", "official": True, "region": "国内", "weight": 3.0, "implies": ("legal",),
+     "item_re": r'<a href="(/zh-cn/news/view-\d+\.html)"[^>]*title="([^"]{6,90})"[^>]*>.*?(20\d{2}/\d{2}/\d{2})'},
     # —— 国际专业源 ——
     # Fair Competition Law：竞业限制/商业秘密专业博客，整站在题
     {"name": "Fair Competition Law", "url": "https://www.faircompetitionlaw.com/feed/", "region": "国际", "weight": 3.0, "implies": ("core",)},
@@ -74,6 +85,8 @@ SOURCES = [
     {"name": "Google News", "url": gnews("不正当竞争 判决 OR 反不正当竞争 处罚"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("芯片 窃密 OR 技术泄密"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("知识产权犯罪 OR 侵犯知识产权 刑事"), "region": "国内", "weight": 2.0, "implies": ()},
+    # 头部知产微信公众号的网站版/转载镜像（公众号本身无公开 RSS，经由 Google News 索引其各平台分发版）
+    {"name": "Google News", "url": gnews('"知产力" OR "IPRdaily" OR "知识产权那点事" OR "知产财经"'), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("trade secret lawsuit OR trade secret misappropriation", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("economic espionage OR trade secret theft", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("non-compete agreement lawsuit OR NDA dispute", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
@@ -364,6 +377,23 @@ def parse_feed(raw, source):
     return items
 
 
+def parse_html_list(raw, source):
+    """解析无 RSS 官网的新闻列表页：source["item_re"] 须依次捕获 (相对链接, 标题, 日期)。
+    列表页无具体时刻，统一记为当天 12:00（北京时间）。"""
+    page = raw.decode("utf-8", "ignore")
+    items = []
+    for m in re.finditer(source["item_re"], page, re.S):
+        href, title, date = m.group(1), strip_html(m.group(2)), m.group(3)
+        date = re.sub(r"[年/月.]", "-", date).rstrip("日")
+        try:
+            pub = datetime.strptime(date, "%Y-%m-%d").replace(hour=12, tzinfo=TZ)
+        except ValueError:
+            continue
+        items.append({"title": title, "link": urllib.parse.urljoin(source["base"], href),
+                      "summary": "", "time": pub, "src": source["name"]})
+    return items
+
+
 def keyword_score(text):
     score, hits = 0.0, []
     low = text.lower()
@@ -375,14 +405,14 @@ def keyword_score(text):
     return min(score, 12.0), hits
 
 
-def categorize(title, summary):
+def categorize(title, summary, official=False):
     # 标题优先：标题命中的类别比摘要里顺带提到的更能代表主题
     full = title + " " + summary
     for text in (title, summary):
         for name, pattern in CATEGORIES:
             if re.search(pattern, text, re.I):
-                if name == "立法监管" and (not is_official(full) or OPINION_RE.search(title)):
-                    continue  # 立法监管须有官方主体且非观点文章，否则继续匹配后续类别
+                if name == "立法监管" and ((not official and not is_official(full)) or OPINION_RE.search(title)):
+                    continue  # 立法监管须有官方主体（官网信源天然满足）且非观点文章
                 return name
     return DEFAULT_CATEGORY
 
@@ -413,7 +443,10 @@ def jaccard(a, b):
 def fetch_source(source):
     try:
         raw = fetch(source["url"])
-        items = parse_feed(raw, source)
+        if source.get("type") == "html":
+            items = parse_html_list(raw, source)
+        else:
+            items = parse_feed(raw, source)
         return source, items, None
     except Exception as e:
         return source, [], str(e)
@@ -454,6 +487,7 @@ def fetch_all():
                     "time": t, "source": it["src"], "feed": source["name"],
                     "region": source["region"], "weight": source["weight"],
                     "kw_score": score, "keywords": hits,
+                    "official": source.get("official", False),
                 })
 
     # —— 聚类去重：标题相似的合并为一条，来源累加（即"n 个信源"）——
@@ -465,6 +499,7 @@ def fetch_all():
                 if item["source"] not in c["sources"]:
                     c["sources"].append(item["source"])
                 c["time"] = max(c["time"], item["time"])
+                c["official"] = c.get("official", False) or item.get("official", False)
                 if len(item["summary"]) > len(c["summary"]):
                     c["summary"] = item["summary"]
                 break
@@ -490,7 +525,7 @@ def fetch_all():
         age_h = (now - c["time"]).total_seconds() / 3600
         recency = max(0.0, 4.0 - age_h / 18.0)  # 连续衰减：新发布 +4，72 小时后归零
         heat = round(c["kw_score"] + c["weight"] + recency + 2.0 * (len(c["sources"]) - 1), 1)
-        category = categorize(c["title"], c["summary"])
+        category = categorize(c["title"], c["summary"], c.get("official", False))
         top_kw = sorted(set(c["keywords"]), key=lambda k: -len(k))[:3]
         # 重要度（要闻排序用）：不含时效项，立法/案例类别与里程碑事件加分
         importance = c["kw_score"] + c["weight"] + 2.0 * (len(c["sources"]) - 1)
