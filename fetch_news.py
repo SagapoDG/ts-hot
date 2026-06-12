@@ -9,10 +9,13 @@ import concurrent.futures
 import email.utils
 import gzip
 import html
+import http.cookiejar
 import json
 from collections import Counter
 import re
 import sys
+import threading
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -42,6 +45,10 @@ def gnews(query, zh=True):
 def bnews(query):
     return f"https://www.bing.com/news/search?q={urllib.parse.quote(query)}&format=rss"
 
+def sogou(query):
+    """搜狗微信搜索（type=2 为公众号文章）"""
+    return f"https://weixin.sogou.com/weixin?type=2&query={urllib.parse.quote(query)}"
+
 # 信源配置：
 #   name     展示名称
 #   url      RSS/Atom 地址
@@ -70,6 +77,10 @@ SOURCES = [
     {"name": "FTC 美国联邦贸易委员会", "url": "https://www.ftc.gov/feeds/press-release.xml", "region": "国际", "weight": 2.5, "implies": ("legal",)},
     # Law360 知识产权频道（法律维度天然满足），泛知产新闻，须命中主题词筛出商业秘密相关
     {"name": "Law360 知识产权", "url": "https://www.law360.com/ip/rss", "region": "国际", "weight": 2.5, "implies": ("legal",)},
+    # —— 微信公众号（搜狗微信搜索，type=sogou：解析结果页并还原真实文章链接）——
+    {"name": "微信公众号", "type": "sogou", "url": sogou("商业秘密"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "微信公众号", "type": "sogou", "url": sogou("竞业限制"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "微信公众号", "type": "sogou", "url": sogou("侵犯商业秘密"), "region": "国内", "weight": 2.0, "implies": ()},
     # —— 国内综合源（须命中专门词，或主题+法律双维度）——
     {"name": "36氪", "url": "https://36kr.com/feed", "region": "国内", "weight": 1.5, "implies": ()},
     {"name": "Solidot", "url": "https://www.solidot.org/index.rss", "region": "国内", "weight": 1.5, "implies": ()},
@@ -133,6 +144,7 @@ EXCLUDE_RE = re.compile(
     r"8点1氪|【早知道】|播早报|氪星晚报|早报丨|晚报丨|"
     r"研究院 ?\||研究报告|行业报告|白皮书|研报|"
     r"是否.{0,20}业务往来|投资者互动|互动平台|破局者|新标杆|领跑者|"
+    r"背后的商业秘密|揭开.{0,8}的秘密|"
     r"电视剧|电影|剧集|小说|综艺", re.I)
 
 
@@ -394,6 +406,62 @@ def parse_html_list(raw, source):
     return items
 
 
+SOGOU_LOCK = threading.Lock()  # 搜狗请求全局串行+限速，避免触发反爬验证
+
+
+def fetch_sogou(source):
+    """搜狗微信搜索：抓取公众号文章。跳转链接带会话 token 会过期，
+    需带搜索会话 Cookie 请求跳转页，从 JS 片段拼出真实 mp.weixin.qq.com 地址。"""
+    with SOGOU_LOCK:
+        return _fetch_sogou(source)
+
+
+def _fetch_sogou(source):
+    cj = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    opener.addheaders = [("User-Agent", UA), ("Referer", "https://weixin.sogou.com/"),
+                         ("Accept-Language", "zh-CN,zh;q=0.9")]
+
+    def get(url):
+        time.sleep(1.2)
+        raw = opener.open(url, timeout=TIMEOUT).read()
+        if raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
+        return raw.decode("utf-8", "ignore")
+
+    page = get(source["url"])
+    if 'id="sogou_vr_' not in page:
+        if "antispider" in page.lower() or "验证" in page:
+            raise RuntimeError("搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）")
+        return []
+    cutoff = datetime.now(TZ) - timedelta(days=HIGHLIGHT_DAYS)
+    items = []
+    for li in re.findall(r'<li[^>]*id="sogou_vr_[^"]*".*?</li>', page, re.S):
+        m_title = re.search(r'<h3>\s*<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', li, re.S)
+        m_ts = re.search(r"timeConvert\('(\d+)'\)", li)
+        if not m_title or not m_ts:
+            continue
+        pub = datetime.fromtimestamp(int(m_ts.group(1)), TZ)
+        if pub < cutoff:
+            continue  # 旧文先过滤，避免为其解析真实链接（减少请求量防限流）
+        link = urllib.parse.urljoin("https://weixin.sogou.com/", html.unescape(m_title.group(1)))
+        try:
+            frags = re.findall(r"url \+= '([^']*)'", get(link))
+            real = "".join(frags).replace("@", "")
+            if real.startswith("http"):
+                link = real
+        except Exception:
+            pass  # 还原失败则保留搜狗跳转链接
+        m_acc = re.search(r'class="account"[^>]*>(.*?)</a>', li, re.S)
+        m_sum = re.search(r'class="txt-info"[^>]*>(.*?)</p>', li, re.S)
+        items.append({"title": strip_html(m_title.group(2)),
+                      "link": link,
+                      "summary": strip_html(m_sum.group(1)) if m_sum else "",
+                      "time": pub,
+                      "src": strip_html(m_acc.group(1)) if m_acc else source["name"]})
+    return items
+
+
 def keyword_score(text):
     score, hits = 0.0, []
     low = text.lower()
@@ -442,11 +510,12 @@ def jaccard(a, b):
 
 def fetch_source(source):
     try:
-        raw = fetch(source["url"])
-        if source.get("type") == "html":
-            items = parse_html_list(raw, source)
+        if source.get("type") == "sogou":
+            items = fetch_sogou(source)
+        elif source.get("type") == "html":
+            items = parse_html_list(fetch(source["url"]), source)
         else:
-            items = parse_feed(raw, source)
+            items = parse_feed(fetch(source["url"]), source)
         return source, items, None
     except Exception as e:
         return source, [], str(e)
@@ -508,10 +577,10 @@ def fetch_all():
             item["sources"] = [item["source"]]
             clusters.append(item)
 
-    # —— Google News 子信源限流：同一外部媒体最多 3 条，避免营销类站点刷屏 ——
+    # —— 检索类信源限流：同一外部媒体/公众号最多 3 条，避免营销类账号刷屏 ——
     capped, per_src = [], {}
     for c in sorted(clusters, key=lambda x: -(x["kw_score"] + x["weight"])):
-        if c["feed"] == "Google News":
+        if c["feed"] in ("Google News", "微信公众号"):
             n = per_src.get(c["source"], 0)
             if n >= 3:
                 continue
