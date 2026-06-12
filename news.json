@@ -2,7 +2,9 @@
  "generated_at": "2026-06-13T06:17:48.449067+08:00",
  "count": 18,
  "highlight_count": 18,
- "errors": [],
+ "errors": [
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119"
+ ],
  "items": [
   {
    "title": "宁夏第四届企业商业秘密保护能力提升服务月活动在石嘴山启动",
@@ -683,7 +685,7 @@
     "region": "国际",
     "category": "诉讼仲裁",
     "heat": 8.0,
-    "hot": false,
+    "hot": true,
     "tags": [
      "trade secret",
      "court",
