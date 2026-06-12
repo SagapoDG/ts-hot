@@ -57,6 +57,8 @@ SOURCES = [
     {"name": "DOJ 美国司法部", "url": "https://www.justice.gov/news/rss?type=press_release", "region": "国际", "weight": 2.5, "implies": ("legal",)},
     # FTC（竞业限制规则等），须命中主题词
     {"name": "FTC 美国联邦贸易委员会", "url": "https://www.ftc.gov/feeds/press-release.xml", "region": "国际", "weight": 2.5, "implies": ("legal",)},
+    # Law360 知识产权频道（法律维度天然满足），泛知产新闻，须命中主题词筛出商业秘密相关
+    {"name": "Law360 知识产权", "url": "https://www.law360.com/ip/rss", "region": "国际", "weight": 2.5, "implies": ("legal",)},
     # —— 国内综合源（须命中专门词，或主题+法律双维度）——
     {"name": "36氪", "url": "https://36kr.com/feed", "region": "国内", "weight": 1.5, "implies": ()},
     {"name": "Solidot", "url": "https://www.solidot.org/index.rss", "region": "国内", "weight": 1.5, "implies": ()},
@@ -67,15 +69,26 @@ SOURCES = [
     {"name": "Google News", "url": gnews("竞业限制 OR 竞业禁止 OR 保密协议"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("商业秘密 刑事 OR 经济间谍 OR 商业间谍"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("反不正当竞争 OR 商业秘密 保护"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("客户名单 OR 经营秘密 纠纷"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("离职员工 泄密 OR 带走 技术"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("不正当竞争 判决 OR 反不正当竞争 处罚"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("芯片 窃密 OR 技术泄密"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("知识产权犯罪 OR 侵犯知识产权 刑事"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("trade secret lawsuit OR trade secret misappropriation", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("economic espionage OR trade secret theft", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("non-compete agreement lawsuit OR NDA dispute", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("trade secrets law OR DTSA ruling", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("corporate espionage OR industrial espionage", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("employee poaching lawsuit OR non-solicitation", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("trade secret injunction OR confidentiality breach lawsuit", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("chip technology theft OR semiconductor trade secret", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     # —— 要闻回顾专用：when:60d 拉取近两个月的立法与案例 ——
     {"name": "Google News", "url": gnews("商业秘密 判决 OR 商业秘密 案例 when:60d"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("商业秘密 立法 OR 商业秘密 司法解释 when:60d"), "region": "国内", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("竞业限制 判决 OR 不正当竞争 案例 when:60d"), "region": "国内", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("trade secret verdict OR trade secret jury when:60d", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
     {"name": "Google News", "url": gnews("trade secrets legislation OR non-compete rule when:60d", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
+    {"name": "Google News", "url": gnews("economic espionage charges OR trade secret indictment when:60d", zh=False), "region": "国际", "weight": 2.0, "implies": ()},
 ]
 
 # —— 相关性闸门 ——
@@ -83,12 +96,16 @@ SOURCES = [
 # 或同时命中「主题维度」×「法律维度」，才会收录。
 # 专业信源通过 implies 预先满足相应维度（如 Fair Competition Law 天然 core）。
 CORE_RE = re.compile(
-    r"商业秘密|商业机密|商业间谍|经济间谍|竞业限制|竞业禁止|竞业协议|技术秘密|侵犯.{0,4}秘密|"
-    r"trade secrets?|misappropriation|economic espionage|non-?compete|restrictive covenant|\bDTSA\b|\bUTSA\b", re.I)
+    r"商业秘密|商业机密|商业间谍|经济间谍|产业间谍|竞业限制|竞业禁止|竞业协议|技术秘密|侵犯.{0,4}秘密|"
+    r"不正当竞争|客户名单|技术泄密|知识产权犯罪|"
+    r"trade secrets?|misappropriation|economic espionage|industrial espionage|corporate espionage|"
+    r"non-?compete|non-?solicit|restrictive covenant|\bDTSA\b|\bUTSA\b", re.I)
 TOPIC_RE = re.compile(
-    r"保密协议|保密义务|保密信息|泄密|窃密|窃取|经营信息|跳槽|挖角|离职.{0,6}(带走|泄)|源代码|配方|工艺|"
-    r"\bNDA\b|confidential information|confidentiality agreement|insider theft|IP theft|"
-    r"proprietary (?:information|technology|data)|poach", re.I)
+    r"保密协议|保密义务|保密信息|泄密|窃密|窃取|盗取|经营信息|经营秘密|商业情报|跳槽|挖角|挖人|内鬼|"
+    r"离职.{0,8}(带走|泄|窃)|带走.{0,8}(技术|资料|代码|图纸|客户)|源代码|源码|配方|工艺|图纸|研发数据|"
+    r"知识产权.{0,4}(刑事|保护|侵权)|"
+    r"\bNDA\b|confidential information|confidentiality (?:agreement|breach)|insider theft|IP theft|"
+    r"technology theft|proprietary (?:information|technology|data)|poach|client list|customer list", re.I)
 LEGAL_RE = re.compile(
     r"合规|监管|执法|处罚|罚款|约谈|立案|诉讼|起诉|应诉|判决|裁决|裁定|判赔|法院|法庭|检察|批捕|公诉|获刑|"
     r"立法|法案|法律|条例|办法|规定|草案|征求意见|司法解释|指南|禁令|市场监管|知识产权局|"
@@ -101,6 +118,7 @@ EXCLUDE_RE = re.compile(
     r"Legal 500|Chambers (USA|Global|Asia)|ranking|recogni[sz]e[sd]?\b|(律所|律师).{0,10}(荣誉|上榜|榜单|排名|推荐)|"
     r"权威榜单|靠谱的.{0,15}律师|"
     r"8点1氪|【早知道】|播早报|氪星晚报|早报丨|晚报丨|"
+    r"研究院 ?\||研究报告|行业报告|白皮书|研报|"
     r"是否.{0,20}业务往来|投资者互动|互动平台|破局者|新标杆|领跑者|"
     r"电视剧|电影|剧集|小说|综艺", re.I)
 
@@ -120,9 +138,11 @@ KEYWORDS = {
           "技术秘密", "反不正当竞争法", "司法解释", "trade secret", "trade secrets",
           "misappropriation", "economic espionage", "non-compete", "noncompete", "DTSA"],
     2.0: ["保密协议", "保密义务", "保密信息", "窃密", "泄密", "判赔", "禁令", "反不正当竞争",
-          "经营信息", "跳槽", "挖角", "源代码", "知识产权", "刑事", "获刑", "批捕",
+          "不正当竞争", "经营信息", "客户名单", "技术泄密", "产业间谍", "知识产权犯罪",
+          "恶意侵权", "天价", "跳槽", "挖角", "挖人", "内鬼", "源代码", "知识产权", "刑事", "获刑", "批捕",
           "NDA", "confidential information", "confidentiality", "restrictive covenant",
-          "injunction", "verdict", "jury", "espionage", "indictment", "convicted", "FBI"],
+          "non-solicitation", "injunction", "verdict", "jury", "espionage", "indictment",
+          "convicted", "FBI"],
     1.0: ["保密", "秘密", "窃取", "盗取", "诉讼", "判决", "和解", "赔偿", "员工", "离职",
           "lawsuit", "theft", "stolen", "court", "settlement", "ruling", "criminal",
           "former employee", "proprietary", "poach"],
@@ -133,9 +153,9 @@ KEYWORDS = {
 CATEGORIES = [
     ("刑事打击", r"刑事|批捕|逮捕|拘留|公诉|获刑|判刑|量刑|有期徒刑|缓刑|经济间谍|间谍罪|抓获|犯罪|涉嫌.{0,8}罪|"
                 r"criminal|indict|convict|sentenc|prison|plea|espionage|\bFBI\b|prosecutor"),
-    ("诉讼仲裁", r"诉讼|仲裁|判决|裁决|法院|起诉|应诉|和解|判赔|集体诉讼|诉讼时效|"
+    ("诉讼仲裁", r"诉讼|仲裁|判决|裁决|法院|起诉|应诉|和解|判赔|被判|赔偿|索赔|集体诉讼|诉讼时效|"
                 r"class action|lawsuit|litigation|arbitration|arbitral|tribunal|court|ruling|verdict|settlement|"
-                r"\bjury\b|\bsue[sd]?\b|\bsuits?\b|\bawards?\b|federal circuit|appeals court|statute of limitations|accrual"),
+                r"\bjury\b|\bsue[sd]?\b|\bsuits?\b|\bawards?\b|\balleg|federal circuit|appeals court|statute of limitations|accrual"),
     ("行政执法", r"行政处罚|市场监管|约谈|执法|查处|通报|整改|立案调查|罚款|"
                 r"\bfine[sd]?\b|penalt|enforcement action|sanction|337调查|\bITC\b"),
     ("立法监管", r"法案|条例|征求意见|立法|新规|办法|司法解释|指南|标准|草案|模板|发布|发文|出台|修订|"
