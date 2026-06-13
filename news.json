@@ -1,18 +1,11 @@
 {
- "generated_at": "2026-06-14T04:41:06.540137+08:00",
+ "generated_at": "2026-06-14T05:56:22.604214+08:00",
  "count": 52,
  "highlight_count": 18,
  "errors": [
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "cnBeta: The read operation timed out",
-  "Google News: IncompleteRead(0 bytes read)",
-  "Google News: The read operation timed out",
-  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
  ],
  "items": [
   {
@@ -26,7 +19,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.8,
+   "heat": 16.7,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -37,29 +30,6 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "侵犯商业秘密 经济 损失认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781383842&ver=6780&signature=TgAzyjkQlhh3dA2JJC9a2R5KHTgCKVWCiRPGRt4heJ0jbdpCXjUiWpd9tI8iwbxZGmE174LwmEQUjllHQU28JJCFsatzK-pBHQS-VYygQQfhKTzyontWK6xFNWs0uOKo&new=1",
-   "summary": "1999年审结的昌达公司 侵犯商业秘密 案,是我国早期商业秘密刑事司法实践中的代表性案例.该案涉及商业秘密认定、损失数额计算、...",
-   "time": "2026-06-13T05:14:53+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 13.7,
-   "hot": true,
-   "tags": [
-    "侵犯商业秘密",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "Former Google engineer convicted of economic espionage loses bid for new US trial",
@@ -95,8 +65,8 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 11.7,
-   "hot": false,
+   "heat": 11.6,
+   "hot": true,
    "tags": [
     "restrictive covenant",
     "noncompete"
@@ -117,7 +87,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "trade secret",
@@ -203,7 +173,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "court",
@@ -225,12 +195,39 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 4.4,
+   "heat": 4.3,
    "hot": false,
    "tags": [],
    "importance": 4.5,
    "kw_score": 0.0,
    "weight": 1.5,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "宁夏第四届企业商业秘密保护能力提升服务月活动在石嘴山启动",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWWpvaV9pQzZOXzdSc04tdjNmeDFOX214Mk9HTjhPTDFtSDhGYjlZOHI3TFlJb1dSWUpKQUdKM1pjZ3hzUDY3OEZWWS1Qd3l2SlhRc3FfNjRVV0hBbS1VWEVCbUxESFdsS1E?oc=5",
+   "summary": "",
+   "time": "2026-06-12T22:16:04+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "人民网",
+    "凤凰网山东",
+    "新浪财经",
+    "thepaper.cn",
+    "jinantimes.com.cn",
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 18.2,
+   "hot": true,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 16.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
@@ -259,75 +256,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "宁夏第四届企业商业秘密保护能力提升服务月活动在石嘴山启动",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWWpvaV9pQzZOXzdSc04tdjNmeDFOX214Mk9HTjhPTDFtSDhGYjlZOHI3TFlJb1dSWUpKQUdKM1pjZ3hzUDY3OEZWWS1Qd3l2SlhRc3FfNjRVV0hBbS1VWEVCbUxESFdsS1E?oc=5",
-   "summary": "",
-   "time": "2026-06-12T22:16:04+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "人民网",
-    "凤凰网山东",
-    "thepaper.cn",
-    "新浪财经"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 14.3,
-   "hot": true,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 12.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "商业秘密 强监管时代,企业如何守住核心资产?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781301744&ver=6779&signature=6qj7uU82dfakIPf5cj68bve0O0GPfh7iyUMCmactiRfyLc22*APeWDgsmryTvYwTIc9hN811vD59VZMADL0r-uVc5aFVAKKgbcH7ooIlJ-zKnVY*IpwN8JUXEAIGUXmx&new=1",
-   "summary": "2025年12月,最高人民法院知识产权法庭敲下一槌,一起高端机床装备领域的 商业秘密 侵权案,判赔3.8亿元.就在此前一个月,另一...",
-   "time": "2026-06-12T23:04:05+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 12.3,
-   "hot": true,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "判赔"
-   ],
-   "importance": 12.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 强监管时代,企业如何守住核心资产?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781322618&ver=6779&signature=6qj7uU82dfakIPf5cj68bve0O0GPfh7iyUMCmactiRcXKr95J*cUNaKFxs022vsE4Vt73OgZQOYMZvLx-DYh2rwt-If5XBBy8xrAD1qXVuH4kh6GDDMbjBc57MBeFXOy&new=1",
-   "summary": "2025年12月,最高人民法院知识产权法庭敲下一槌,一起高端机床装备领域的 商业秘密 侵权案,判赔3.8亿元.就在此前一个月,另一...",
-   "time": "2026-06-12T23:04:05+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 12.3,
-   "hot": true,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "判赔"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Tick Tock- Related Trade Secrets Have Single Accrual Date Under DTSA Statute of Limitations",
@@ -374,6 +302,50 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "商业秘密 强监管时代,企业如何守住核心资产?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781301744&ver=6779&signature=6qj7uU82dfakIPf5cj68bve0O0GPfh7iyUMCmactiRfyLc22*APeWDgsmryTvYwTIc9hN811vD59VZMADL0r-uVc5aFVAKKgbcH7ooIlJ-zKnVY*IpwN8JUXEAIGUXmx&new=1",
+   "summary": "2025年12月,最高人民法院知识产权法庭敲下一槌,一起高端机床装备领域的 商业秘密 侵权案,判赔3.8亿元.就在此前一个月,另一...",
+   "time": "2026-06-12T23:04:05+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 12.3,
+   "hot": true,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "判赔"
+   ],
+   "importance": 12.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "商业秘密 强监管时代,企业如何守住核心资产?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781322618&ver=6779&signature=6qj7uU82dfakIPf5cj68bve0O0GPfh7iyUMCmactiRcXKr95J*cUNaKFxs022vsE4Vt73OgZQOYMZvLx-DYh2rwt-If5XBBy8xrAD1qXVuH4kh6GDDMbjBc57MBeFXOy&new=1",
+   "summary": "2025年12月,最高人民法院知识产权法庭敲下一槌,一起高端机床装备领域的 商业秘密 侵权案,判赔3.8亿元.就在此前一个月,另一...",
+   "time": "2026-06-12T23:04:05+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 12.3,
+   "hot": true,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "判赔"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "【转载】市场监管总局公布八起侵犯商业秘密典型案例",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU1XcTIwTzVDblBsY1BYSnRHa0NLUS02aHRMR3c0cm1MdVp3UUV2WW9vMlFIY202czI2NEplMXZXUEN0U0FzMHZxeTFUdDFYcWlNMnhaY1hVc3QyY0hPdHAzcjA3UFhLbnZ0QmJRanlrZEdWaS10UWlTMDZXcGFPaHVZRUo?oc=5",
    "summary": "",
@@ -384,7 +356,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -407,7 +379,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -416,29 +388,6 @@
    "importance": 11.0,
    "kw_score": 6.0,
    "weight": 2.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "从小鹏公司提起 竞业限制 劳动仲裁,向离职员工索赔近千万的案例来看:违反 竞业限制 约定,股权收益是否需要返还?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781383816&ver=6780&signature=FCMv9gdvSTtihqQxLh5cSzIozAYP*GsW*0D6Lk6aRJQv3rzHDyppeA2QXtA0mxhNbdGbPqoNjYwCoL1cuVxPT2rHWU0aFPr4XnVhbsj-OYBLw61Lb-qgHB*wQy3dKiVi&new=1",
-   "summary": "一份是《 竞业限制 协议》,另一份是《股权激励协议》,同时也支付了两笔对价,一笔是 竞业限制 补偿金,另一笔是股权激励,而劳动...",
-   "time": "2026-06-12T14:37:40+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.9,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "离职",
-    "员工"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -452,7 +401,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -475,7 +424,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "noncompete"
@@ -484,28 +433,6 @@
    "kw_score": 3.0,
    "weight": 3.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "济南市启动第四届“企业商业秘密保护能力提升服务月”活动",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jV1ExaWxOZDJBMmgzaDRuMUVtSHlDWVVMc21oMVJoaU9nR0RldE5vWHE5aHkzQWZhNXc2dWVZUVk1R0plaHVvbnd3?oc=5",
-   "summary": "",
-   "time": "2026-06-12T22:16:04+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "凤凰网山东"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
@@ -528,17 +455,39 @@
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
+   "title": "济南市启动第四届“企业商业秘密保护能力提升服务月”活动",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jV1ExaWxOZDJBMmgzaDRuMUVtSHlDWVVMc21oMVJoaU9nR0RldE5vWHE5aHkzQWZhNXc2dWVZUVk1R0plaHVvbnd3?oc=5",
+   "summary": "",
+   "time": "2026-06-12T22:16:04+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "凤凰网山东"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "李德宝：从典型案例看企业商业秘密保护及风险防范",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkY4Umx4TFlSaGNGTXU5blk2M0oxbGR5bXp0eXhMdWZJMXBpY1ZHclVPQlNLUmVVWTRYTm8zWFZWWEcxcmluUHlybFc1eU5BS3I4WWJGMThZSWFYODBRcWtEdFd5Y1FuQUJxRGdiWmJqRHAtRzlOblUyR3lVSExNWDJOSW4wVkdWbW1LVw?oc=5",
    "summary": "",
    "time": "2026-06-12T09:29:10+08:00",
    "date": "2026-06-12",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.6,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -560,7 +509,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "noncompete"
@@ -581,7 +530,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "泄密",
@@ -603,7 +552,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "不正当竞争"
@@ -622,7 +571,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -666,7 +615,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -674,29 +623,6 @@
    ],
    "importance": 10.5,
    "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制协议惹争议：离职员工被索赔千万元，普通岗位也中招",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYS03YmQxUFhrbGhZdXFOX1V1Q1g3RFFia0s0UDJkMFRWa3pBU3FTdHUxMjZvMGlOcmpIMC1CYTJGSnJXOUd4WGFXdw?oc=5",
-   "summary": "",
-   "time": "2026-06-11T20:30:13+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "无忧资讯"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 7.9,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "离职",
-    "员工"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -711,7 +637,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -719,6 +645,29 @@
     "员工"
    ],
    "importance": 9.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "竞业限制协议惹争议：离职员工被索赔千万元，普通岗位也中招",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYS03YmQxUFhrbGhZdXFOX1V1Q1g3RFFia0s0UDJkMFRWa3pBU3FTdHUxMjZvMGlOcmpIMC1CYTJGSnJXOUd4WGFXdw?oc=5",
+   "summary": "",
+   "time": "2026-06-11T20:30:13+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "无忧资讯"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 7.8,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "离职",
+    "员工"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -732,7 +681,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -751,11 +700,11 @@
    "time": "2026-06-11T18:41:07+08:00",
    "date": "2026-06-11",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.8,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1066,13 +1015,13 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "我市进一步织密织牢商业秘密保护服务网络",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUm4tRGVncEJSb3hwb2ttcUlvdVAwMWVjLUlVbm5DMWthLXdzaFBIdlVXOXVMVVZDOGRSc3pzZ2RfNG5qMWpzZkJGY0ZCRDZYSldqbmlNb21TNUZ3cWRDMlplOEwwbGdtT01HVVJvdUMtbF9rWjFn?oc=5",
+   "title": "绍兴市第四届商业秘密保护能力提升服务月启动仪式暨专题培训在柯桥举办",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHVIMFBYSlNYRkRZWVJXeEp1Z2hzSjZ6MjN2LWdLN3h4TDJWLTFjY082WVpDbjZoYnVpUjhIaW9BbGxsUFFMTHpzcGZZTFQ3c1E2c2EydHAwbEpzTl9jVWVpWlZocGJWekRHdlg1eUgtdndUMkxibVBVS3hnRjFVOG1R?oc=5",
    "summary": "",
-   "time": "2026-06-09T11:58:00+08:00",
+   "time": "2026-06-09T18:13:16+08:00",
    "date": "2026-06-09",
    "sources": [
-    "sz.gov.cn"
+    "新华网浙江"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -1088,13 +1037,13 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "绍兴市第四届商业秘密保护能力提升服务月启动仪式暨专题培训在柯桥举办",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHVIMFBYSlNYRkRZWVJXeEp1Z2hzSjZ6MjN2LWdLN3h4TDJWLTFjY082WVpDbjZoYnVpUjhIaW9BbGxsUFFMTHpzcGZZTFQ3c1E2c2EydHAwbEpzTl9jVWVpWlZocGJWekRHdlg1eUgtdndUMkxibVBVS3hnRjFVOG1R?oc=5",
+   "title": "我市进一步织密织牢商业秘密保护服务网络",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUm4tRGVncEJSb3hwb2ttcUlvdVAwMWVjLUlVbm5DMWthLXdzaFBIdlVXOXVMVVZDOGRSc3pzZ2RfNG5qMWpzZkJGY0ZCRDZYSldqbmlNb21TNUZ3cWRDMlplOEwwbGdtT01HVVJvdUMtbF9rWjFn?oc=5",
    "summary": "",
-   "time": "2026-06-09T18:13:16+08:00",
+   "time": "2026-06-09T11:58:00+08:00",
    "date": "2026-06-09",
    "sources": [
-    "新华网浙江"
+    "sz.gov.cn"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -1168,7 +1117,7 @@
    "tags": [
     "恶意侵权",
     "商业秘密",
-    "挖人"
+    "秘密"
    ],
    "importance": 18.5,
    "kw_score": 11.0,
@@ -1279,11 +1228,11 @@
     "region": "国内",
     "category": "诉讼仲裁",
     "heat": 13.0,
-    "hot": false,
+    "hot": true,
     "tags": [
      "恶意侵权",
      "商业秘密",
-     "挖人"
+     "秘密"
     ],
     "importance": 18.5,
     "kw_score": 11.0,
@@ -1537,7 +1486,7 @@
     "date": "2026-05-25",
     "sources": [
      "新浪财经",
-     "搜狐网"
+     "Sohu"
     ],
     "region": "国内",
     "category": "诉讼仲裁",
@@ -1567,8 +1516,8 @@
     "heat": 8.0,
     "hot": false,
     "tags": [
-     "技术秘密",
      "知识产权",
+     "技术秘密",
      "秘密"
     ],
     "importance": 13.5,
@@ -1615,7 +1564,7 @@
     "tags": [
      "侵犯商业秘密",
      "商业秘密",
-     "判决"
+     "秘密"
     ],
     "importance": 13.5,
     "kw_score": 9.0,
