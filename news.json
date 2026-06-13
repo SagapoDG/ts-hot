@@ -1,9 +1,18 @@
 {
- "generated_at": "2026-06-14T04:50:10.972774+08:00",
- "count": 53,
+ "generated_at": "2026-06-14T04:41:06.540137+08:00",
+ "count": 52,
  "highlight_count": 18,
  "errors": [
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119"
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "cnBeta: The read operation timed out",
+  "Google News: IncompleteRead(0 bytes read)",
+  "Google News: The read operation timed out",
+  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
  ],
  "items": [
   {
@@ -98,27 +107,26 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "【劳动合同】没有 竞业限制 补偿,可以不遵守 竞业限制 吗?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781383816&ver=6780&signature=7-DHCHQbpm3TT7hF-Xow4J6YwT8GPkTdKuqyAFUUU5YZmscNEc3cnr4ca-WqzdnMI6Dp64lOrvebZME7FREtWIaoETzQCQh0plNon4IuVfwHlIYHAhpTjz1bp0ci-Lp3&new=1",
-   "summary": "竞业限制 是指企业与负有保守商业秘密义务的劳动者约定,在解除或终止劳动合同后一定期限内,劳动者不得到与本单位生产或经营同...",
-   "time": "2026-06-13T00:01:19+08:00",
+   "title": "Cross-Border Trade Secret Disputes Put German Employers in Legal Limbo as Top Labor Court Seeks EU G",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjJJN0R3ODN5S1RaNXFmUmZ5SHYxVkNyWlJxbmRlcm5nc01zUzRqYTlyS1RYd3ZDZW5JVEdiVjBLd0ZYUVBlYlU1ZGdneGNLVnBNMlNGNnd2dnlJampXWWxuYTJ3ZnlZMWltU0NsaGNiRUptZS1pSUQzRWJITHJvQjlnTzhVa01qSEdYVnBuazVDQk5ucDAxckpYRmtTeURJTHlUVm94SnZ1RU1nZDkyVmZXb0JEa2tDWUNDVDNHRE4wLWJIQmZ3QmtIUTE?oc=5",
+   "summary": "Cross-Border Trade Secret Disputes Put German Employers in Legal Limbo as Top Labor Court Seeks EU G AD HOC NEWS",
+   "time": "2026-06-13T08:57:59+08:00",
    "date": "2026-06-13",
    "sources": [
-    "微信公众号"
+    "AD HOC NEWS"
    ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.4,
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.9,
    "hot": false,
    "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
+    "trade secret",
+    "court"
    ],
-   "importance": 9.0,
-   "kw_score": 7.0,
+   "importance": 8.5,
+   "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
@@ -183,6 +191,28 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Appeals court revives RICO claim against CEO over alleged employee poaching",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQS1yT0VxMENzTFpzRGNBcE5xc21Sai0yOExCOGtqYlZSSGpFb2tQZFlxTGd0SVM5Z21YU280bzl4c2c2TlVQb3ZPVFVwa1hSa2Z6MDIyWnBNa2RubHlELXpRVGcwVXZvb3VhRkpOaXVDMjJaSExXLVE1bXBpUTZtLURXYjNpWVRxZTlUaXZBV0xJeVdqaFR2NFBpNXZvMVhlRDhYYUdQOEJuRmZXSmFUc25rODNMSkhTazFnYVdTSWNYMWZacF9FckYzeXhNOHowVWwxWg?oc=5",
+   "summary": "",
+   "time": "2026-06-13T01:51:35+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "hcamag.com"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 6.5,
+   "hot": false,
+   "tags": [
+    "court",
+    "poach"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
@@ -256,50 +286,6 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "Tick Tock- Related Trade Secrets Have Single Accrual Date Under DTSA Statute of Limitations",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0hWVk9DVlV1TUpqNjZaNGRSZWJPQXBJSnlhWEZYOVV4MjUxRjVuZVJXZktKWTJGdDM4dnllOUg3WERhYWZnelRQdkVFYUFKOXdPdllYVjg2REJUYXhpdXRGMDVjQzdTb0daYjVwbGNCcXZ5cC0tZW9BZ2FiakZXblRFclhEMkRoR3A0SVZLMUVUTXBtczk2SWxuSVBvWWFyZXBmdXNreVhoSEFh0gGyAUFVX3lxTE56dl9SV1I3TTRnV3czUE95NmhUQ3gyMmYwOVNUNE5iVmtqOVdJcTU2S0ZuX0N0bnpWdWVZdXBEdjAwblhuSmpId2hyalhJaDFPd3lFR1g3MkJPSHNMcER0RHlOX0tvYUxhVUlkLUFDSUE3dHRxVnA0aGh1VWhIVFdaTUxIWkZhS0U5ZUVvNUtWXzdaVDlPYjFEcTB1dGJsMWdmeXRDTWhUbVVBUkhwdTJneHc?oc=5",
-   "summary": "",
-   "time": "2026-06-12T04:53:20+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "The National Law Review"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 12.3,
-   "hot": true,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "DTSA"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Tick Tock- Related Trade Secrets Have Single Accrual Date Under DTSA Statute of Limitations",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenZfUldSN000Z1d3M1BPeTZoVEN4MjJmMDlTVDROYlZrajlXSXE1NktGbl9DdG56VnVlWXVwRHYwMG5YbkpqSHdocmpYSWgxT3d5RUdYNzJCT0hzTHBEdER5Tl9Lb2FMYVVJZC1BQ0lBN3R0cVZwNGhodVVoSFRXWk1MSFpGYUtFOWVFbzVLVl83WlQ5T2IxRHEwdXRibDFnZnl0Q01oVG1VQVJIcHUyZ3h30gGyAUFVX3lxTE56dl9SV1I3TTRnV3czUE95NmhUQ3gyMmYwOVNUNE5iVmtqOVdJcTU2S0ZuX0N0bnpWdWVZdXBEdjAwblhuSmpId2hyalhJaDFPd3lFR1g3MkJPSHNMcER0RHlOX0tvYUxhVUlkLUFDSUE3dHRxVnA0aGh1VWhIVFdaTUxIWkZhS0U5ZUVvNUtWXzdaVDlPYjFEcTB1dGJsMWdmeXRDTWhUbVVBUkhwdTJneHc?oc=5",
-   "summary": "",
-   "time": "2026-06-12T04:53:39+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "The National Law Review"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 12.3,
-   "hot": true,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "DTSA"
-   ],
-   "importance": 13.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "商业秘密 强监管时代,企业如何守住核心资产?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781301744&ver=6779&signature=6qj7uU82dfakIPf5cj68bve0O0GPfh7iyUMCmactiRfyLc22*APeWDgsmryTvYwTIc9hN811vD59VZMADL0r-uVc5aFVAKKgbcH7ooIlJ-zKnVY*IpwN8JUXEAIGUXmx&new=1",
    "summary": "2025年12月,最高人民法院知识产权法庭敲下一槌,一起高端机床装备领域的 商业秘密 侵权案,判赔3.8亿元.就在此前一个月,另一...",
@@ -341,6 +327,50 @@
    "importance": 12.5,
    "kw_score": 8.0,
    "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Tick Tock- Related Trade Secrets Have Single Accrual Date Under DTSA Statute of Limitations",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0hWVk9DVlV1TUpqNjZaNGRSZWJPQXBJSnlhWEZYOVV4MjUxRjVuZVJXZktKWTJGdDM4dnllOUg3WERhYWZnelRQdkVFYUFKOXdPdllYVjg2REJUYXhpdXRGMDVjQzdTb0daYjVwbGNCcXZ5cC0tZW9BZ2FiakZXblRFclhEMkRoR3A0SVZLMUVUTXBtczk2SWxuSVBvWWFyZXBmdXNreVhoSEFh0gGyAUFVX3lxTE56dl9SV1I3TTRnV3czUE95NmhUQ3gyMmYwOVNUNE5iVmtqOVdJcTU2S0ZuX0N0bnpWdWVZdXBEdjAwblhuSmpId2hyalhJaDFPd3lFR1g3MkJPSHNMcER0RHlOX0tvYUxhVUlkLUFDSUE3dHRxVnA0aGh1VWhIVFdaTUxIWkZhS0U5ZUVvNUtWXzdaVDlPYjFEcTB1dGJsMWdmeXRDTWhUbVVBUkhwdTJneHc?oc=5",
+   "summary": "",
+   "time": "2026-06-12T04:53:20+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "The National Law Review"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.3,
+   "hot": true,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "DTSA"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Tick Tock- Related Trade Secrets Have Single Accrual Date Under DTSA Statute of Limitations",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenZfUldSN000Z1d3M1BPeTZoVEN4MjJmMDlTVDROYlZrajlXSXE1NktGbl9DdG56VnVlWXVwRHYwMG5YbkpqSHdocmpYSWgxT3d5RUdYNzJCT0hzTHBEdER5Tl9Lb2FMYVVJZC1BQ0lBN3R0cVZwNGhodVVoSFRXWk1MSFpGYUtFOWVFbzVLVl83WlQ5T2IxRHEwdXRibDFnZnl0Q01oVG1VQVJIcHUyZ3h30gGyAUFVX3lxTE56dl9SV1I3TTRnV3czUE95NmhUQ3gyMmYwOVNUNE5iVmtqOVdJcTU2S0ZuX0N0bnpWdWVZdXBEdjAwblhuSmpId2hyalhJaDFPd3lFR1g3MkJPSHNMcER0RHlOX0tvYUxhVUlkLUFDSUE3dHRxVnA0aGh1VWhIVFdaTUxIWkZhS0U5ZUVvNUtWXzdaVDlPYjFEcTB1dGJsMWdmeXRDTWhUbVVBUkhwdTJneHc?oc=5",
+   "summary": "",
+   "time": "2026-06-12T04:53:39+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "The National Law Review"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.3,
+   "hot": true,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "DTSA"
+   ],
+   "importance": 13.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -1036,13 +1066,13 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "绍兴市第四届商业秘密保护能力提升服务月启动仪式暨专题培训在柯桥举办",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHVIMFBYSlNYRkRZWVJXeEp1Z2hzSjZ6MjN2LWdLN3h4TDJWLTFjY082WVpDbjZoYnVpUjhIaW9BbGxsUFFMTHpzcGZZTFQ3c1E2c2EydHAwbEpzTl9jVWVpWlZocGJWekRHdlg1eUgtdndUMkxibVBVS3hnRjFVOG1R?oc=5",
+   "title": "我市进一步织密织牢商业秘密保护服务网络",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUm4tRGVncEJSb3hwb2ttcUlvdVAwMWVjLUlVbm5DMWthLXdzaFBIdlVXOXVMVVZDOGRSc3pzZ2RfNG5qMWpzZkJGY0ZCRDZYSldqbmlNb21TNUZ3cWRDMlplOEwwbGdtT01HVVJvdUMtbF9rWjFn?oc=5",
    "summary": "",
-   "time": "2026-06-09T18:13:16+08:00",
+   "time": "2026-06-09T11:58:00+08:00",
    "date": "2026-06-09",
    "sources": [
-    "新华网浙江"
+    "sz.gov.cn"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -1058,13 +1088,13 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "我市进一步织密织牢商业秘密保护服务网络",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUm4tRGVncEJSb3hwb2ttcUlvdVAwMWVjLUlVbm5DMWthLXdzaFBIdlVXOXVMVVZDOGRSc3pzZ2RfNG5qMWpzZkJGY0ZCRDZYSldqbmlNb21TNUZ3cWRDMlplOEwwbGdtT01HVVJvdUMtbF9rWjFn?oc=5",
+   "title": "绍兴市第四届商业秘密保护能力提升服务月启动仪式暨专题培训在柯桥举办",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHVIMFBYSlNYRkRZWVJXeEp1Z2hzSjZ6MjN2LWdLN3h4TDJWLTFjY082WVpDbjZoYnVpUjhIaW9BbGxsUFFMTHpzcGZZTFQ3c1E2c2EydHAwbEpzTl9jVWVpWlZocGJWekRHdlg1eUgtdndUMkxibVBVS3hnRjFVOG1R?oc=5",
    "summary": "",
-   "time": "2026-06-09T11:58:00+08:00",
+   "time": "2026-06-09T18:13:16+08:00",
    "date": "2026-06-09",
    "sources": [
-    "sz.gov.cn"
+    "新华网浙江"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -1249,7 +1279,7 @@
     "region": "国内",
     "category": "诉讼仲裁",
     "heat": 13.0,
-    "hot": true,
+    "hot": false,
     "tags": [
      "恶意侵权",
      "商业秘密",
