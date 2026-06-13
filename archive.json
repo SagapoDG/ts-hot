@@ -915,7 +915,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.3,
+  "heat": 10.2,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -1781,8 +1781,8 @@
   "sources": [
    "人民网",
    "凤凰网山东",
-   "新浪财经",
    "thepaper.cn",
+   "新浪财经",
    "搜狐网"
   ],
   "region": "国内",
@@ -1850,17 +1850,18 @@
   "date": "2026-06-11",
   "sources": [
    "搜狐网",
+   "新浪财经",
    "ygacity.com"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 9.1,
+  "heat": 11.1,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 8.0,
+  "importance": 10.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -3871,18 +3872,19 @@
   "sources": [
    "Yahoo Finance",
    "Reuters",
-   "MedTech Dive"
+   "MedTech Dive",
+   "MSN"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.0,
+  "heat": 14.0,
   "hot": false,
   "tags": [
    "trade secret",
    "verdict",
    "court"
   ],
-  "importance": 14.5,
+  "importance": 16.5,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -4059,6 +4061,8 @@
    "verdict"
   ],
   "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0VVaDFaT04wVUZtR1Jib29pLWR2RnpBR29WQkZ1am1Zd3cwcUprRFRqeWFPblhMTjJWajhxVW8xVlVDZ0pvSURVMzhBd3hobUhVc21TWDdWMjYzVVh0cS1LUmVHeExIT19mVEFLb2RXUHFnQTRZZ3lMVENaRFptNA?oc=5": {
@@ -5210,5 +5214,27 @@
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://faircompetitionlaw.com/2026/06/13/six-more-noncompete-laws-healthcare-architects-interns-and-apprentices/": {
+  "title": "Six more noncompete laws: healthcare, architects, interns, and apprentices",
+  "url": "https://faircompetitionlaw.com/2026/06/13/six-more-noncompete-laws-healthcare-architects-interns-and-apprentices/",
+  "summary": "New laws in Iowa, Louisiana, Maine, Maryland, Nebraska, and New Hampshire continue the expansion of restrictive covenant regulation.",
+  "time": "2026-06-13T23:01:30+08:00",
+  "date": "2026-06-13",
+  "sources": [
+   "Fair Competition Law"
+  ],
+  "region": "国际",
+  "category": "竞业与保密",
+  "heat": 12.0,
+  "hot": false,
+  "tags": [
+   "restrictive covenant",
+   "noncompete"
+  ],
+  "importance": 8.0,
+  "kw_score": 5.0,
+  "weight": 3.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
  }
 }

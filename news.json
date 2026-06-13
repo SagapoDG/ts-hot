@@ -1,12 +1,20 @@
 {
- "generated_at": "2026-06-13T22:35:42.809546+08:00",
- "count": 46,
+ "generated_at": "2026-06-13T23:01:39.746397+08:00",
+ "count": 47,
  "highlight_count": 18,
  "errors": [
-  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高人民法院: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "最高人民检察院: <urlopen error _ssl.c:1112: The handshake operation timed out>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "微信公众号: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "36氪: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Solidot: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Google News: The read operation timed out",
+  "Google News: IncompleteRead(0 bytes read)",
+  "Google News: The read operation timed out",
+  "Google News: The read operation timed out",
+  "Google News: The read operation timed out"
  ],
  "items": [
   {
@@ -56,6 +64,28 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "Six more noncompete laws: healthcare, architects, interns, and apprentices",
+   "url": "https://faircompetitionlaw.com/2026/06/13/six-more-noncompete-laws-healthcare-architects-interns-and-apprentices/",
+   "summary": "New laws in Iowa, Louisiana, Maine, Maryland, Nebraska, and New Hampshire continue the expansion of restrictive covenant regulation.",
+   "time": "2026-06-13T23:01:30+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "Fair Competition Law"
+   ],
+   "region": "国际",
+   "category": "竞业与保密",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "restrictive covenant",
+    "noncompete"
+   ],
+   "importance": 8.0,
+   "kw_score": 5.0,
+   "weight": 3.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PS2xNd0tRVDhiZThSWHpFWFpob3Y3R21ZcWplSW5YWjN3RWpiZnhSSmtlMUtzVGJmTVRoSHljVEJzZ2xwVDdFY2J0WkdHb0psYk03VDJvdzZJZW1VWVBkR0RCMHItMURPbnUyWE4tcUVObEJ5bklPdA?oc=5",
    "summary": "",
@@ -66,7 +96,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -181,7 +211,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 18.4,
+   "heat": 18.3,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -201,8 +231,8 @@
    "sources": [
     "人民网",
     "凤凰网山东",
-    "新浪财经",
     "thepaper.cn",
+    "新浪财经",
     "搜狐网"
    ],
    "region": "国内",
@@ -383,7 +413,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 8.6,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -498,6 +528,30 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "第四届“企业商业秘密保护能力提升服务月”，全城联动，80场活动→",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFGZEJPWnBLbXpXNkxrVlc2N2NFeFZlazlTQ2FVbzJ5U0o5bU1ETUpmTWdUdXhzRGhsUGxyaU5wZ1Z4T3dmWU9ScFdaT28tVlJ1ajlhZzF2RUtVVFdGTWNTYUNhN0FYa2ZmNTdaNHdpYmVwRjZCTEpVUl9jSVcyVUllMXpzMUktbWlGSw?oc=5",
+   "summary": "",
+   "time": "2026-06-11T18:41:07+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "搜狐网",
+    "新浪财经",
+    "ygacity.com"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "Pagaya sues Klarna over alleged trade secret misappropriation",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVpMSFdMNUwwa2tmVkM2WkdvMml0T2xxOFBwSXlWZ2FwUTNZalNhQTBCMTVUanpBTDZmN01hYTRLbGV2SXc5aHI2WnBUWE9YNUoxbnVraFJlZ1I1LWxXRWYwU1hHTUR3V3RXYWpUbkE4UEV3VEd3SVFMcGJrbllJaF9DNzZ2b1RjLVpSSHVESkoybmpKd0ctd2dZMDFvY29Pa3lEYw?oc=5",
    "summary": "",
@@ -509,7 +563,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -519,29 +573,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "第四届“企业商业秘密保护能力提升服务月”，全城联动，80场活动→",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFGZEJPWnBLbXpXNkxrVlc2N2NFeFZlazlTQ2FVbzJ5U0o5bU1ETUpmTWdUdXhzRGhsUGxyaU5wZ1Z4T3dmWU9ScFdaT28tVlJ1ajlhZzF2RUtVVFdGTWNTYUNhN0FYa2ZmNTdaNHdpYmVwRjZCTEpVUl9jSVcyVUllMXpzMUktbWlGSw?oc=5",
-   "summary": "",
-   "time": "2026-06-11T18:41:07+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "搜狐网",
-    "ygacity.com"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 9.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "US biotech fires trade secrets suit at Chinese pharma group",
@@ -1161,6 +1192,32 @@
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
    {
+    "title": "Court overturns Insulet’s $59M trade secret verdict against EOFlow",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEN3MmY3dko4YUpvdFZoeXRkNHY4bmdkMnprMUMydklTdVNXcmFjVTAwTHVsUDNLMF96V0N4Y2xpbXZpYmdTQ2h4Vlh5clE3eFFVU0xoVVVFelcwZnZUZ09pNVZfaUx0TXlCSnVlYzJKTDJmbEUxbWk5Q0J1RDJjZHJKbGFCczFabEotN29zTjZlcEZwVmVoTlFkbHR6NzRJS3UydA?oc=5",
+    "summary": "",
+    "time": "2026-06-01T15:00:00+08:00",
+    "date": "2026-06-01",
+    "sources": [
+     "Yahoo Finance",
+     "Reuters",
+     "MedTech Dive",
+     "MSN"
+    ],
+    "region": "国际",
+    "category": "诉讼仲裁",
+    "heat": 14.0,
+    "hot": false,
+    "tags": [
+     "trade secret",
+     "verdict",
+     "court"
+    ],
+    "importance": 16.5,
+    "kw_score": 6.0,
+    "weight": 2.0,
+    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+   },
+   {
     "title": "《反不正当竞争法》关于侵犯 商业秘密 惩罚性赔偿的认定规则//河南企业法律顾问服务律师",
     "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781322618&ver=6779&signature=3SCn0bpaWNbwy3bzgLBRp3rCy1WYQIUZY9O3alotnkinRBfZDgnYTDHI4xx50LE6-FwyHE43x9v7V0Gd88MfsvpsSeZbGLsS0YL1tifPm7kh9ya8IfG11KjTcO*G7LF0&new=1",
     "summary": "本文旨在系统解析《反不正当竞争法》框架下侵犯 商业秘密 行为适用惩罚性赔偿的具体规则.该制度的核心在于,当经营者恶意实施侵...",
@@ -1251,31 +1308,6 @@
     ],
     "importance": 14.5,
     "kw_score": 8.0,
-    "weight": 2.0,
-    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-   },
-   {
-    "title": "US court overturns Insulet's $59 million insulin-pump trade secret verdict against EOFlow",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFZHclUwbkdSZG9sZ0tiS05QSFdxOW01QVhUbWJoV3FlYS0yNFVnb3YxVXVNT0JtOWtwRHczOWV0eTJTbTRLSFNUWEl3ODNNWDQyekg1TnhBeUNEaTBmUmVXemxIbVJud0tyakpaalk2VEZLd1hHVDRtNnRCTnpkVkZ2dVlmYmFxd0VsellDdFZzOTVIdGctSHN6eS0yQlQ0ZDJYUnFZbUNSUk9YNkNZdldmMkg4OFZwY3Bz?oc=5",
-    "summary": "",
-    "time": "2026-06-01T15:00:00+08:00",
-    "date": "2026-06-01",
-    "sources": [
-     "Reuters",
-     "MedTech Dive",
-     "MSN"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 12.0,
-    "hot": false,
-    "tags": [
-     "trade secret",
-     "verdict",
-     "court"
-    ],
-    "importance": 14.5,
-    "kw_score": 6.0,
     "weight": 2.0,
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
