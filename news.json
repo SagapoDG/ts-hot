@@ -1,15 +1,12 @@
 {
- "generated_at": "2026-06-13T21:41:39.386712+08:00",
- "count": 45,
+ "generated_at": "2026-06-13T22:35:42.809546+08:00",
+ "count": 46,
  "highlight_count": 18,
  "errors": [
+  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
  ],
  "items": [
   {
@@ -23,7 +20,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 17.2,
+   "heat": 17.1,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -76,6 +73,8 @@
     "秘密"
    ],
    "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
@@ -131,7 +130,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [],
    "importance": 4.5,
@@ -155,7 +154,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 18.7,
+   "heat": 18.6,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -202,18 +201,19 @@
    "sources": [
     "人民网",
     "凤凰网山东",
+    "新浪财经",
     "thepaper.cn",
-    "新浪财经"
+    "搜狐网"
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.7,
+   "heat": 16.6,
    "hot": true,
    "tags": [
     "商业秘密",
     "秘密"
    ],
-   "importance": 12.0,
+   "importance": 14.0,
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -317,7 +317,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.8,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -340,7 +340,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.1,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -362,7 +362,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "noncompete"
@@ -403,7 +403,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.0,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -425,7 +425,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "noncompete"
@@ -446,7 +446,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "泄密",
@@ -468,7 +468,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 6.1,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "不正当竞争"
@@ -487,7 +487,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -496,30 +496,6 @@
    ],
    "importance": 13.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "第四届“企业商业秘密保护能力提升服务月”，全城联动，80场活动→",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFGZEJPWnBLbXpXNkxrVlc2N2NFeFZlazlTQ2FVbzJ5U0o5bU1ETUpmTWdUdXhzRGhsUGxyaU5wZ1Z4T3dmWU9ScFdaT28tVlJ1ajlhZzF2RUtVVFdGTWNTYUNhN0FYa2ZmNTdaNHdpYmVwRjZCTEpVUl9jSVcyVUllMXpzMUktbWlGSw?oc=5",
-   "summary": "",
-   "time": "2026-06-11T18:41:07+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "搜狐网",
-    "新浪财经",
-    "ygacity.com"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Pagaya sues Klarna over alleged trade secret misappropriation",
@@ -545,6 +521,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "第四届“企业商业秘密保护能力提升服务月”，全城联动，80场活动→",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFGZEJPWnBLbXpXNkxrVlc2N2NFeFZlazlTQ2FVbzJ5U0o5bU1ETUpmTWdUdXhzRGhsUGxyaU5wZ1Z4T3dmWU9ScFdaT28tVlJ1ajlhZzF2RUtVVFdGTWNTYUNhN0FYa2ZmNTdaNHdpYmVwRjZCTEpVUl9jSVcyVUllMXpzMUktbWlGSw?oc=5",
+   "summary": "",
+   "time": "2026-06-11T18:41:07+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "搜狐网",
+    "ygacity.com"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 9.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 8.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "US biotech fires trade secrets suit at Chinese pharma group",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGNKRzNCV2Q2UVlmWUJTRUlxTlJETVBlTXJlbk11eU5weGNGOHdvQy02WlF0czNJbFRwek13b05VcHJKeWNnTEFyUTJkWEZxTVliOWJmX2VwUlU2TW42djN1OFpVc2l5Zm1Id0hrdmI3MzJZaHZmR2FsN3VhTEJpbUdQYmxjUF96N2pEWEp0Y2ZSTl9SUGhxXzBrVGpLQ1hhS2FjMm9iSUE?oc=5",
    "summary": "",
@@ -555,7 +554,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -563,29 +562,6 @@
    ],
    "importance": 10.5,
    "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制协议惹争议：离职员工被索赔千万元，普通岗位也中招",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYS03YmQxUFhrbGhZdXFOX1V1Q1g3RFFia0s0UDJkMFRWa3pBU3FTdHUxMjZvMGlOcmpIMC1CYTJGSnJXOUd4WGFXdw?oc=5",
-   "summary": "",
-   "time": "2026-06-11T20:30:13+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "无忧资讯"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "离职",
-    "员工"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -600,7 +576,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -608,6 +584,29 @@
     "员工"
    ],
    "importance": 9.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "竞业限制协议惹争议：离职员工被索赔千万元，普通岗位也中招",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYS03YmQxUFhrbGhZdXFOX1V1Q1g3RFFia0s0UDJkMFRWa3pBU3FTdHUxMjZvMGlOcmpIMC1CYTJGSnJXOUd4WGFXdw?oc=5",
+   "summary": "",
+   "time": "2026-06-11T20:30:13+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "无忧资讯"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "离职",
+    "员工"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -621,7 +620,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -679,26 +678,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "“数据”“算法”等被纳入保护范畴，《商业秘密保护规定》6月起正式施行",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmMxeW53ZkpmbkQ3TzBoM05MdWhXdXQ4LWtyRENWTzh0d1Z4WndiS1Y4LUFFZjkxZGJ6bXRhenBiVkhRQ2N3OTBES3M3T01FQlBZM1lRaTQtRlpZb0gxcndkYm5KbGt2OG05Vkh4REZ3N1RqTUQtY1UzYUhkYmdmUnhjZ0E4dE0?oc=5",
-   "summary": "",
-   "time": "2026-06-10T14:38:00+08:00",
-   "date": "2026-06-10",
-   "sources": [
-    "Sina finance"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 6.5,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "Agensys Sues Biopharmas For Alleged Trade Secret Theft",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlNFWVVHX0c5NFNzX05FdTdSUU83aUtKcDJGRUdiQnBNXzIxcTJPaC02Z1dLa3BSc3lqSWxCOG1DM2hCeVpQX3JnXzdySGxXSjJFNWU3UkN2UVdpbm14SlJ3ZU5ZMkdyUklTNzFmNU5BVVQtUlBRbU5Da3RTN21faVFpeUFSM3hEWWtKcU9Ya0dOOWVTcnluMEp30gFWQVVfeXFMTnRobUloTjJlNzJSNmdFVm9HblBkaUZiQU1oU3NONW91MC16Q0MwODZwUV9VVkZON3R2N29MZS1XclV5VVo3dS03SHVKUXZTOGVETkdvUGc?oc=5",
    "summary": "",
@@ -721,13 +700,35 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Edelman Loses Mariner Trade Secret Suit",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEF5aVdZeU9kZ1pmeFY1QmZqeFBVbEgtazBET2lUOWJQZDJ5cXEyVkQyRmVZQ25qZzJ0eHI2UGtSZVNuMGdWSmExSWwwU1QzWW5RSGdtZWNKUmJuWmstQkpTVDl1aUt4TG11OHRJNnZkdTVoU1FsbUdCWUhHS2FSWFB5WlBKZnN5Tk01Tkk5LXNFSWJtZlNXVU9Fdk5MSE5a?oc=5",
+   "title": "“数据”“算法”等被纳入保护范畴，《商业秘密保护规定》6月起正式施行",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmMxeW53ZkpmbkQ3TzBoM05MdWhXdXQ4LWtyRENWTzh0d1Z4WndiS1Y4LUFFZjkxZGJ6bXRhenBiVkhRQ2N3OTBES3M3T01FQlBZM1lRaTQtRlpZb0gxcndkYm5KbGt2OG05Vkh4REZ3N1RqTUQtY1UzYUhkYmdmUnhjZ0E4dE0?oc=5",
    "summary": "",
-   "time": "2026-06-10T00:12:14+08:00",
+   "time": "2026-06-10T14:38:00+08:00",
    "date": "2026-06-10",
    "sources": [
-    "Yahoo Finance"
+    "Sina finance"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "LPL loses motion to dismiss RIA's trade secret suit",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMThicUxYd2RxY0F3ZE1kcWhaaG9XcVNqaHNfMlowbjVwVkhXRTh1QW1zLUpxd2VPNmlOVS1hV0hhbW5MOVJSNy1QbHF3VEVuNXV0RFFYdHc1X0RPX3RDeEtaN0c4dEM1QldQYlljOWVkakRsd2duYUxQd2NiZHA0NDY3U3hFaVd0NHpMdlhkaEdtSkE?oc=5",
+   "summary": "",
+   "time": "2026-06-10T10:01:16+08:00",
+   "date": "2026-06-10",
+   "sources": [
+    "Citywire"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -742,13 +743,13 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "LPL loses motion to dismiss RIA's trade secret suit",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMThicUxYd2RxY0F3ZE1kcWhaaG9XcVNqaHNfMlowbjVwVkhXRTh1QW1zLUpxd2VPNmlOVS1hV0hhbW5MOVJSNy1QbHF3VEVuNXV0RFFYdHc1X0RPX3RDeEtaN0c4dEM1QldQYlljOWVkakRsd2duYUxQd2NiZHA0NDY3U3hFaVd0NHpMdlhkaEdtSkE?oc=5",
+   "title": "Edelman Loses Mariner Trade Secret Suit",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEF5aVdZeU9kZ1pmeFY1QmZqeFBVbEgtazBET2lUOWJQZDJ5cXEyVkQyRmVZQ25qZzJ0eHI2UGtSZVNuMGdWSmExSWwwU1QzWW5RSGdtZWNKUmJuWmstQkpTVDl1aUt4TG11OHRJNnZkdTVoU1FsbUdCWUhHS2FSWFB5WlBKZnN5Tk01Tkk5LXNFSWJtZlNXVU9Fdk5MSE5a?oc=5",
    "summary": "",
-   "time": "2026-06-10T10:01:16+08:00",
+   "time": "2026-06-10T00:12:14+08:00",
    "date": "2026-06-10",
    "sources": [
-    "Citywire"
+    "Yahoo Finance"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -832,7 +833,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 2.6,
+   "heat": 2.5,
    "hot": false,
    "tags": [
     "noncompete"
@@ -937,6 +938,28 @@
    "date": "2026-06-09",
    "sources": [
     "sz.gov.cn"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "全省第四届“企业商业秘密保护能力提升服务月”启动仪式在兰州举行",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zVXpHeU52TFExSFZmMXVkdlN0czJkbVEzUzNzcUpZVm5rNlYyeW1VUVRYaHlrYmRhX0FGYWhrQnVncVE5TU1kdEEwSmRGTTlWWWZWc3VNaXhmNU11ckE?oc=5",
+   "summary": "",
+   "time": "2026-06-09T18:00:00+08:00",
+   "date": "2026-06-09",
+   "sources": [
+    "thepaper.cn"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -1232,14 +1255,14 @@
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
    {
-    "title": "Court overturns Insulet’s $59M trade secret verdict against EOFlow",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzZyLTVHT1lmbzl3a01PUkhPaUtLTTYwZGd6T2dnaDNaRkUxVGhYVkc0OUpLUkhxWnpwd3N0TFBzQWRKSVhSMjJTZGZMMGpDU2ZYNUJsbzJqdXl2QmdkU2tpUTJlN0pPU3c0T3ppaE5aOFVQQ3lCckhKNHExd1pMQWgyN2hVLVV1QlBnaW1iS2J3aVBzdTJHR0V2cjE1eGRCZEJvYXBaQTM?oc=5",
+    "title": "US court overturns Insulet's $59 million insulin-pump trade secret verdict against EOFlow",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFZHclUwbkdSZG9sZ0tiS05QSFdxOW01QVhUbWJoV3FlYS0yNFVnb3YxVXVNT0JtOWtwRHczOWV0eTJTbTRLSFNUWEl3ODNNWDQyekg1TnhBeUNEaTBmUmVXemxIbVJud0tyakpaalk2VEZLd1hHVDRtNnRCTnpkVkZ2dVlmYmFxd0VsellDdFZzOTVIdGctSHN6eS0yQlQ0ZDJYUnFZbUNSUk9YNkNZdldmMkg4OFZwY3Bz?oc=5",
     "summary": "",
     "time": "2026-06-01T15:00:00+08:00",
     "date": "2026-06-01",
     "sources": [
-     "MedTech Dive",
      "Reuters",
+     "MedTech Dive",
      "MSN"
     ],
     "region": "国际",
