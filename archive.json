@@ -103,7 +103,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -871,11 +871,13 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
+   "商业秘密",
    "秘密"
   ],
   "importance": 11.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10OVlSZlk0NnA4SkVFZEgxWjJhdGQ5c2xjb3lnWDZpRVROVElIQXFJVnZMUFRuZnh2UEpsRmplWU90c2djZElaUVRkYW9HdlM5Vm1TejhReDM?oc=5": {
@@ -913,7 +915,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.4,
+  "heat": 10.3,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -1781,17 +1783,18 @@
    "人民网",
    "凤凰网山东",
    "thepaper.cn",
-   "新浪财经"
+   "新浪财经",
+   "搜狐网"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 14.7,
+  "heat": 16.7,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 12.0,
+  "importance": 14.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -1848,17 +1851,18 @@
   "date": "2026-06-11",
   "sources": [
    "搜狐网",
-   "新浪财经"
+   "新浪财经",
+   "ygacity.com"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 9.2,
+  "heat": 11.2,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 8.0,
+  "importance": 10.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -2218,21 +2222,20 @@
   "title": "《商业秘密保护规定》实施，算法首次纳入保护",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLZ0JQOXlxOEtuWmVBUjQwZ2NweVR0WGdFYlk2aEdYVGxjZEFUZ0NackMxeGpnRGU4U3AzaHFabk02ZnRPRHlJa1BMakJKZXg0b1Z3NQ?oc=5",
   "summary": "",
-  "time": "2026-06-02T15:00:00+08:00",
+  "time": "2026-06-02T09:00:00+08:00",
   "date": "2026-06-02",
   "sources": [
-   "星岛环球网",
-   "星島頭條"
+   "星岛环球网"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 8.0,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 8.0,
+  "importance": 6.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -3588,18 +3591,19 @@
   "date": "2026-06-01",
   "sources": [
    "Reuters",
-   "MedTech Dive"
+   "MedTech Dive",
+   "MSN"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 12.0,
   "hot": false,
   "tags": [
    "trade secret",
    "verdict",
    "court"
   ],
-  "importance": 12.5,
+  "importance": 14.5,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -3868,20 +3872,19 @@
   "date": "2026-06-01",
   "sources": [
    "Yahoo Finance",
-   "Reuters",
    "MedTech Dive",
-   "MSN"
+   "Reuters"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 14.0,
+  "heat": 12.0,
   "hot": false,
   "tags": [
    "trade secret",
    "verdict",
    "court"
   ],
-  "importance": 16.5,
+  "importance": 14.5,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -4909,7 +4912,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 7.7,
+  "heat": 7.6,
   "hot": false,
   "tags": [
    "知识产权"
@@ -5071,5 +5074,95 @@
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+ },
+ "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRVIzY2paQmhnOXNfN2hfdkFzOG4yZWFsR2tod1NkNmkzRF9BNnhWNXRjVm9ZOU9CWVVKMGUwRGxSZGZkbWhjSHRVc2ZabzdmSVUzbjV4WW5JSW52cnc?oc=5": {
+  "title": "4·26特辑∣拍问界M9案判赔25万：商业秘密的法律防线有多严？",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRVIzY2paQmhnOXNfN2hfdkFzOG4yZWFsR2tod1NkNmkzRF9BNnhWNXRjVm9ZOU9CWVVKMGUwRGxSZGZkbWhjSHRVc2ZabzdmSVUzbjV4WW5JSW52cnc?oc=5",
+  "summary": "",
+  "time": "2026-04-26T15:00:00+08:00",
+  "date": "2026-04-26",
+  "sources": [
+   "thepaper.cn"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 8.0,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "秘密",
+   "判赔"
+  ],
+  "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1ZXd2ZyYkxjRlgwc1FreTBMRzF2eHpVc0cySEltaUdNc1FDQTZxbUxiSkh4b0kxbUd4STJMV3BYTjdSaHU5Wm50amZickZmbU9CNXppOVNBRkd4TDVKaEVYNXJOOG1FOEpWb1lHZXJOX3RYamR4TjBDNXZMSy1XUkFZWkgyWVJaVXBrdlR2TW1IeFBqQkV5bGM3RnAzM19UaGg4R1dVS3hRVXBzei1QUG5tcjkxR0ZvOFEyQ2hB?oc=5": {
+  "title": "CAFC Finds District Court Erred in Precluding Unjust Enrichment Damages in Trade Secret Case",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1ZXd2ZyYkxjRlgwc1FreTBMRzF2eHpVc0cySEltaUdNc1FDQTZxbUxiSkh4b0kxbUd4STJMV3BYTjdSaHU5Wm50amZickZmbU9CNXppOVNBRkd4TDVKaEVYNXJOOG1FOEpWb1lHZXJOX3RYamR4TjBDNXZMSy1XUkFZWkgyWVJaVXBrdlR2TW1IeFBqQkV5bGM3RnAzM19UaGg4R1dVS3hRVXBzei1QUG5tcjkxR0ZvOFEyQ2hB?oc=5",
+  "summary": "",
+  "time": "2026-05-27T01:05:40+08:00",
+  "date": "2026-05-27",
+  "sources": [
+   "IPWatchdog.com"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 6.0,
+  "hot": false,
+  "tags": [
+   "trade secret",
+   "court"
+  ],
+  "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjlPUjczN3FWb0ZyS21yN1E3U2ZKTFY0eW5lQTRKVnBVWTNudzlUbExhUG03ZlQ1SmRxZXg0aW9nbUdaU3pXb3Nzc1ZyWVAyWnRFU2tmWWVnNUpIeUVsem9IR0h6RHVpVU85dmJBNUJSUXdhVjB3QmoxcXBWSGoyUXR4Y09MZ0hvX18ycDB4TnhWdXB1T01BVC1DWjN6YnNaa3NMMzVXU0NYM0ZHcmI0bXZDSXc5Ny1iR2RlSElBMA?oc=5": {
+  "title": "Cummins ordered to pay $23 million in trade secret lawsuit",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjlPUjczN3FWb0ZyS21yN1E3U2ZKTFY0eW5lQTRKVnBVWTNudzlUbExhUG03ZlQ1SmRxZXg0aW9nbUdaU3pXb3Nzc1ZyWVAyWnRFU2tmWWVnNUpIeUVsem9IR0h6RHVpVU85dmJBNUJSUXdhVjB3QmoxcXBWSGoyUXR4Y09MZ0hvX18ycDB4TnhWdXB1T01BVC1DWjN6YnNaa3NMMzVXU0NYM0ZHcmI0bXZDSXc5Ny1iR2RlSElBMA?oc=5",
+  "summary": "",
+  "time": "2026-05-30T05:33:29+08:00",
+  "date": "2026-05-30",
+  "sources": [
+   "Trucks, Parts, Service"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 6.0,
+  "hot": false,
+  "tags": [
+   "trade secret",
+   "lawsuit"
+  ],
+  "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU1XcTIwTzVDblBsY1BYSnRHa0NLUS02aHRMR3c0cm1MdVp3UUV2WW9vMlFIY202czI2NEplMXZXUEN0U0FzMHZxeTFUdDFYcWlNMnhaY1hVc3QyY0hPdHAzcjA3UFhLbnZ0QmJRanlrZEdWaS10UWlTMDZXcGFPaHVZRUo?oc=5": {
+  "title": "【转载】市场监管总局公布八起侵犯商业秘密典型案例",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU1XcTIwTzVDblBsY1BYSnRHa0NLUS02aHRMR3c0cm1MdVp3UUV2WW9vMlFIY202czI2NEplMXZXUEN0U0FzMHZxeTFUdDFYcWlNMnhaY1hVc3QyY0hPdHAzcjA3UFhLbnZ0QmJRanlrZEdWaS10UWlTMDZXcGFPaHVZRUo?oc=5",
+  "summary": "",
+  "time": "2026-06-12T23:50:51+08:00",
+  "date": "2026-06-12",
+  "sources": [
+   "新浪财经"
+  ],
+  "region": "国内",
+  "category": "行政执法",
+  "heat": 11.8,
+  "hot": false,
+  "tags": [
+   "侵犯商业秘密",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 11.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
  }
 }
