@@ -1,9 +1,38 @@
 {
- "generated_at": "2026-06-16T00:54:23.060607+08:00",
- "count": 113,
+ "generated_at": "2026-06-16T01:25:17.419226+08:00",
+ "count": 119,
  "highlight_count": 19,
- "errors": [],
+ "errors": [
+  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+ ],
  "items": [
+  {
+   "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSl9adEF2STU0SGNCQkp1UXFMU2ptUHFza0dlcF9LdlF2MEo4R1ZWdGREM1RKcExzdHJUM2Y3VmFObktIdE1Hb2xkQlVxbUtncm11aTZfZkRxZ29oRjJCbmlxVzlQZGNGWDE1SVdsNHlTbEtDN0FWNkg0Ykktb3lSRzc4VG1QNnVnb2tZT0tXeGJwaGoyN2x1aVltUXc0d1dzUnE4OEpjdEsybVXSAbABQVVfeXFMT1ljSVlRZV9UcVRmLXBRVnQ0V19sb1FyZzFPc1dMcDJNSUFLZmZGTDUtR2RNRE9SeENDdXNsSHRveTNtZDg3YlR6S19DZGtWTUhTMGw4VnpJN0s0aEJqN1lLYXZDN0JybDhxR1lWN2QtSkQ1d1gzYlJiYTN1RW84dVVpc1FBY1ZfZXU1T2RFVlFBU0dOLWQ3cDdNZGJDc0NhMUNCeXJURUpZUDRnR0dFWUY?oc=5",
+   "summary": "",
+   "time": "2026-06-16T00:39:54+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "CNBC TV18"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
   {
    "title": "芮松艳: 商业秘密 案件的审理逻辑与诉讼策略选择",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781488160&ver=6783&signature=T2Ju8kdoZafNXeL1xzmzpzwT6ztp3Okol*iU9DZmvVlR03rPKB-Uwowk3cCIH4fN2ZmdVRN*Vnm6UxCVjGcxCXlp4sqXK42fc9p6spD6rPgRlzJAEMpIl6PJ78N6WVs0&new=1",
@@ -268,7 +297,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -281,40 +310,17 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "商业秘密 “改头换面”后使用为何仍构成侵权?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540801&ver=6784&signature=eMf3uSlZPfgYNr8Xn7IN9PdszH-TnpUBcT-M5nD1*N3Vn3o78u0NpDc5LPUo9ClBr088300UPsfp1vWsXbJwcYEnPLKgvnPcKl23sQ5VWbsV-f65MFxJBdLgb7aLvtpb&new=1",
-   "summary": "阅读提示 商业秘密 侵权案件中,侵权人常以“自行研发”“有所改进”“存在差异”为由抗辩,试图通过修改、调整权利人技术秘密来...",
-   "time": "2026-06-15T22:50:54+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.9,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "US Supreme Court rejects TCS appeal in $168 million trade secrets case",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVVCSnRURXFtLXNfNTRKQUdJcUllVXdLdThOS201NDhudW50aU5sQXFtLUJxVFFpWElnSHFaOHEzQUUxeG5nN0ZkM0RORzFCQ3pkekdMSDdWcUpBMmlLRXJIYjN1X3dUeV9fWjRONC1LU2xPRE5iempuU3daM3g1NXROVlBRVWNMaGRuQURGZW1YS3FDWFpsTUVITjFMLXpuSU9jU3NudDdUWFFEOVdQM0R5TjA3NVBSWGF4RnRLRzFKRWhtdlRocHBHQVJTR09ueU1aSzE3MGZmUjFSVDY3WFhrcXZZaUFE0gHuAUFVX3lxTFBWemFFQkU0X0dNZG10Z3l6d29KM1pkclMxeVNKSjU4bW9BRW5UQUZiZzYyamFjandsRnZOMDNpVXFzUkdHOEZVOXpMSGZsMGFjNEtyVTZxVWlyV3BySmItLUl5T3p3N1p6ZlpWOXBLWVB4Y0lqTFNEdVFnWE9EZTVGVV8wYXBNTlVxSktLMFV6aTNTV2FkVnc0NEdUN2h6QnBOOHNXUkpCdXZsUVhLbTY4UF9RQlkxTWw4d2lKLU45MDNuMDlqaVNTelMzOFFhdnUzMVA3YlRPUzlBWVBCVThKeUQ0UlJsT00zS0ZFamc?oc=5",
+   "title": "US Supreme Court rejects Tata challenge to $168 million award in trade secrets case",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWhhUWFLRDJITVd3UDNJblBWUDYydlo2Zk9TN0VKeHhTa1BBZmdfUmV0bENxYXoxT1dKVEYwS2pxcER1Y0I2X09qT0JwZWtEaUVOYjlRY0pFWGFFRVU5MjJZMXctX1VsLXpnQW94LURwcGZOVmNuOEFsRHRBVHE0eDZyVjF2U2hBZkgyRFZxbFpPVTctZXFYU2tn?oc=5",
    "summary": "",
-   "time": "2026-06-15T21:55:25+08:00",
+   "time": "2026-06-15T21:44:38+08:00",
    "date": "2026-06-15",
    "sources": [
-    "The Economic Times"
+    "Yahoo Finance"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -337,7 +343,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -360,7 +366,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -383,7 +389,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -406,7 +412,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -429,7 +435,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -452,7 +458,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -488,13 +494,36 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Federal Circuit Rules for Versata Software in Trade Secrets Dispute Against Ford Motor Company",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5",
+   "title": "论商业秘密司法保护中边界确定与赔偿计算的审慎适用——以精雕案二审判赔为中心的分析",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzWXl0REx3aDhRRERaUkVvdmVkd2tZeU1tN3l5aTZodHl2eGs3Tm96NGZTd0VkZzFLNnc0NGlJOERpZkdKNjdKUktIQ2hUV2hrNG5LQ2ZR?oc=5",
    "summary": "",
-   "time": "2026-06-15T21:50:00+08:00",
+   "time": "2026-06-15T08:18:00+08:00",
    "date": "2026-06-15",
    "sources": [
-    "The National Law Review"
+    "QQ News"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密",
+    "判赔"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "OpenAI Again Defeats X.AI Trade Secrets Suit Over Code, Ex-Staff",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2ktMkhiN3hMMW5hMzRMS2RKa2o3R0FDYm5xTVhpX0dmczQ2aXRsOWE3bS1kUGtaUHUxbE5QSVd5UmxQYkFoeEpHS0xHYVRjcTg0aUJCNWpqZV95aHBrU0RUMXhwVlpoNnFYT1JEYk8tUFBmcDhwUVBjanZYN1hKemtuV0UxSDNoWVZZZElyd0MwT3gtaVhOVmRxZ2JOU3BENDQ4TXUzRzYxaGh2M0IxYWpRX240QQ?oc=5",
+   "summary": "",
+   "time": "2026-06-15T23:23:00+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "Bloomberg Law News"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -510,6 +539,51 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "Federal Circuit Rules for Versata Software in Trade Secrets Dispute Against Ford Motor Company",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5",
+   "summary": "",
+   "time": "2026-06-15T21:50:00+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "The National Law Review"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 11.8,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "收藏学习! 商业秘密 保护“十要”“十不要”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519451&ver=6784&signature=jJsmqngc5uKXv2B8pH5YhsEsL9kp5X7cnlEaVN5gu4oUTHMIyJAp*LAaUCycBrzkM3zKNS2uWpukiv3IVUZ*UMwmQrX0XLJpNbTYahpUqugwSIQszlxjex7Lx5hyI4EC&new=1",
+   "summary": "漫谈 商业秘密 保护企业如何进行 商业秘密 保护“十要”企业 商业秘密 保护1要对员工进行经常性 商业秘密 保密培训教育;2要在实际可行...",
+   "time": "2026-06-15T17:33:21+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密",
+    "保密"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "客户名单 商业秘密 案件的胜诉技巧和办案要点指南",
    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUh2rzvqadpwe-YNdOpYmDWlqXa8Fplpd9SYVMkrLY9MaSXbqswE4q6GdPRFdVslP-RHeHJA792K-PHmkmS7rCthw_vxvrxVl7QAT2GveBeZQ8ynUmcIaF1bvFj-9tV4JN7FWsuw_5UW5eIHFgggVSC-oi0Z1W7WElHJ9_-H0A50xV5vYETCmIBjFnbkgVTQmxdghmzCKNolxr1dbZWbKUeQ..&type=2&query=%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86&token=8AD8F0562DC279A77673213EEBF4D66676F909416A2FD94D",
    "summary": "客户名单 商业秘密 案件的胜诉技巧和办案要点指南【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商 ...",
@@ -520,7 +594,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "客户名单",
@@ -543,7 +617,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "客户名单",
@@ -566,35 +640,12 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "客户名单",
     "商业秘密",
     "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "收藏学习! 商业秘密 保护“十要”“十不要”",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519451&ver=6784&signature=jJsmqngc5uKXv2B8pH5YhsEsL9kp5X7cnlEaVN5gu4oUTHMIyJAp*LAaUCycBrzkM3zKNS2uWpukiv3IVUZ*UMwmQrX0XLJpNbTYahpUqugwSIQszlxjex7Lx5hyI4EC&new=1",
-   "summary": "漫谈 商业秘密 保护企业如何进行 商业秘密 保护“十要”企业 商业秘密 保护1要对员工进行经常性 商业秘密 保密培训教育;2要在实际可行...",
-   "time": "2026-06-15T17:33:21+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.6,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "保密"
    ],
    "importance": 8.0,
    "kw_score": 6.0,
@@ -658,7 +709,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "trade secret",
@@ -680,7 +731,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -902,7 +953,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 14.4,
+   "heat": 14.3,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -1170,7 +1221,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "court",
@@ -1192,7 +1243,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 2.0,
+   "heat": 1.9,
    "hot": false,
    "tags": [],
    "importance": 4.5,
