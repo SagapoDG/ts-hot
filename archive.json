@@ -13,9 +13,9 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "恶意侵权",
    "商业秘密",
-   "秘密"
+   "恶意侵权",
+   "挖人"
   ],
   "importance": 18.5,
   "kw_score": 11.0,
@@ -314,8 +314,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "挖角",
-   "秘密"
+   "秘密",
+   "挖角"
   ],
   "importance": 10.0,
   "kw_score": 8.0,
@@ -430,8 +430,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "DTSA",
-   "jury"
+   "jury",
+   "DTSA"
   ],
   "importance": 12.5,
   "kw_score": 8.0,
@@ -608,7 +608,7 @@
   "time": "2026-05-25T10:05:18+08:00",
   "date": "2026-05-25",
   "sources": [
-   "Sina finance",
+   "新浪财经",
    "Sohu"
   ],
   "region": "国内",
@@ -846,8 +846,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 8.0,
@@ -869,8 +869,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 11.0,
@@ -892,8 +892,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "技术秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 13.5,
@@ -1630,8 +1630,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "theft",
-   "court"
+   "court",
+   "theft"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -1780,13 +1780,13 @@
   "sources": [
    "人民网",
    "凤凰网山东",
-   "新浪财经",
    "thepaper.cn",
+   "新浪财经",
    "Sohu"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 14.2,
+  "heat": 14.0,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -1849,17 +1849,18 @@
   "date": "2026-06-11",
   "sources": [
    "Sohu",
-   "新浪财经"
+   "新浪财经",
+   "thepaper.cn"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 8.0,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 8.0,
+  "importance": 10.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -3292,16 +3293,17 @@
   "time": "2026-05-12T15:00:00+08:00",
   "date": "2026-05-12",
   "sources": [
-   "SMH.com.au"
+   "SMH.com.au",
+   "The Age"
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 4.0,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "espionage"
   ],
-  "importance": 9.5,
+  "importance": 11.5,
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
@@ -4392,9 +4394,9 @@
   "heat": 9.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
-   "诉讼"
+   "知识产权",
+   "秘密"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -4866,14 +4868,14 @@
   "title": "安心搞创新！检察蓝为企业撑起知识产权“保护伞”",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2gtSE1xcDhvalF4SXRSWENtRnNNZC1XOGpfeDJYZEEtVFVxVExzaTdQOWdjWDl2S1c2RFViWEJXMWE1MkVsZVc4NE1hMWNpYTMwZ0N2bnFaTDNmZU9sN2NLZng4dVZEaU5IaGFhVWJ6dy1uWmt6OEVFZGV2c3JTQ0hfSGRsTEVx?oc=5",
   "summary": "",
-  "time": "2026-06-13T10:00:00+08:00",
+  "time": "2026-06-13T15:01:41+08:00",
   "date": "2026-06-13",
   "sources": [
    "中国长安网"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 4.9,
+  "heat": 4.8,
   "hot": false,
   "tags": [
    "知识产权"
@@ -5114,7 +5116,7 @@
   ],
   "region": "国内",
   "category": "行政执法",
-  "heat": 9.3,
+  "heat": 9.0,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -5969,7 +5971,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.8,
+  "heat": 10.5,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -6053,20 +6055,21 @@
   "title": "将“数据”“算法”等纳入商业秘密保护范畴（法治聚焦）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TY3NSazNRUE41V2wyM1RjYnFlNy0xTUFtTUFBS3FGRUY3OGl0OV9QVzBodGNQTy1vVlRWc2xYY3VfOWx6TG5IeUw0RVU4TDZTdEVIYzRWYWFrQXVGQ3hTcE5pTVlNQ21Nd1hBdHRBSlQ2cGQwdEFzZ2JPRE5LeXM?oc=5",
   "summary": "",
-  "time": "2026-05-29T15:00:00+08:00",
-  "date": "2026-05-29",
+  "time": "2026-06-05T15:00:00+08:00",
+  "date": "2026-06-05",
   "sources": [
-   "人民日报"
+   "人民日报",
+   "content.foshanplus.com"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 6.0,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 6.0,
+  "importance": 8.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -6220,11 +6223,11 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 13.5,
+  "heat": 13.2,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "判赔"
   ],
   "importance": 12.5,
@@ -6466,7 +6469,7 @@
   ],
   "region": "国内",
   "category": "行政执法",
-  "heat": 9.9,
+  "heat": 9.6,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -7287,7 +7290,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.2,
+  "heat": 12.1,
   "hot": false,
   "tags": [
    "trade secret",
@@ -7298,5 +7301,205 @@
   "kw_score": 6.0,
   "weight": 2.5,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540801&ver=6784&signature=8rIoc9DMrP6XpE0svBvrzuKeMUM7k1SouILkO-vBqiAC*nYaApkOx8Ik7P99w4K6-TcvkCRkyk4HGI6uGCs4hg-FJl0Pp2qqO8t14-5N3XNWEWgnbXD7HJ-ESo*MLyAi&new=1": {
+  "title": "从商标到 商业秘密 :12个核心罪名+典型案例,讲透知识产权刑事认定的疑难杂症",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540801&ver=6784&signature=8rIoc9DMrP6XpE0svBvrzuKeMUM7k1SouILkO-vBqiAC*nYaApkOx8Ik7P99w4K6-TcvkCRkyk4HGI6uGCs4hg-FJl0Pp2qqO8t14-5N3XNWEWgnbXD7HJ-ESo*MLyAi&new=1",
+  "summary": "商业秘密 的电子取证等问题不断涌现,加之编者水平有限,本书内容可能存在疏漏与不足.后续我们将结合司法实践发展与法律修订情...",
+  "time": "2026-06-15T20:01:36+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "刑事打击",
+  "heat": 13.8,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "知识产权",
+   "秘密"
+  ],
+  "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540828&ver=6784&signature=aYCablJGCjOoQuEpUMtme57-qCFbww1ExdJP7dZSEwSQLWfaR2pP-yohd5*EPyrRqUehTa8OlTg*e8S3jPjX6HoOL3JrVcdV-HUd4pJbt0zVR4fCcN5y04mDm0C2VBeA&new=1": {
+  "title": "竞业限制 期限约定:不可扣除仲裁诉讼期间",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540828&ver=6784&signature=aYCablJGCjOoQuEpUMtme57-qCFbww1ExdJP7dZSEwSQLWfaR2pP-yohd5*EPyrRqUehTa8OlTg*e8S3jPjX6HoOL3JrVcdV-HUd4pJbt0zVR4fCcN5y04mDm0C2VBeA&new=1",
+  "summary": "【导语】 竞业限制 制度旨在平衡用人单位的商业秘密保护与劳动者的择业自由权.实践中,部分用人单位在 竞业限制 协议中设置特殊条...",
+  "time": "2026-06-15T22:03:44+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 13.9,
+  "hot": false,
+  "tags": [
+   "竞业限制",
+   "商业秘密",
+   "诉讼"
+  ],
+  "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540801&ver=6784&signature=eMf3uSlZPfgYNr8Xn7IN9PdszH-TnpUBcT-M5nD1*N3Vn3o78u0NpDc5LPUo9ClBr088300UPsfp1vWsXbJwcYEnPLKgvnPcKl23sQ5VWbsV-f65MFxJBdLgb7aLvtpb&new=1": {
+  "title": "商业秘密 “改头换面”后使用为何仍构成侵权?",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540801&ver=6784&signature=eMf3uSlZPfgYNr8Xn7IN9PdszH-TnpUBcT-M5nD1*N3Vn3o78u0NpDc5LPUo9ClBr088300UPsfp1vWsXbJwcYEnPLKgvnPcKl23sQ5VWbsV-f65MFxJBdLgb7aLvtpb&new=1",
+  "summary": "阅读提示 商业秘密 侵权案件中,侵权人常以“自行研发”“有所改进”“存在差异”为由抗辩,试图通过修改、调整权利人技术秘密来...",
+  "time": "2026-06-15T22:50:54+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 12.9,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "技术秘密",
+   "秘密"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVVCSnRURXFtLXNfNTRKQUdJcUllVXdLdThOS201NDhudW50aU5sQXFtLUJxVFFpWElnSHFaOHEzQUUxeG5nN0ZkM0RORzFCQ3pkekdMSDdWcUpBMmlLRXJIYjN1X3dUeV9fWjRONC1LU2xPRE5iempuU3daM3g1NXROVlBRVWNMaGRuQURGZW1YS3FDWFpsTUVITjFMLXpuSU9jU3NudDdUWFFEOVdQM0R5TjA3NVBSWGF4RnRLRzFKRWhtdlRocHBHQVJTR09ueU1aSzE3MGZmUjFSVDY3WFhrcXZZaUFE0gHuAUFVX3lxTFBWemFFQkU0X0dNZG10Z3l6d29KM1pkclMxeVNKSjU4bW9BRW5UQUZiZzYyamFjandsRnZOMDNpVXFzUkdHOEZVOXpMSGZsMGFjNEtyVTZxVWlyV3BySmItLUl5T3p3N1p6ZlpWOXBLWVB4Y0lqTFNEdVFnWE9EZTVGVV8wYXBNTlVxSktLMFV6aTNTV2FkVnc0NEdUN2h6QnBOOHNXUkpCdXZsUVhLbTY4UF9RQlkxTWw4d2lKLU45MDNuMDlqaVNTelMzOFFhdnUzMVA3YlRPUzlBWVBCVThKeUQ0UlJsT00zS0ZFamc?oc=5": {
+  "title": "US Supreme Court rejects TCS appeal in $168 million trade secrets case",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVVCSnRURXFtLXNfNTRKQUdJcUllVXdLdThOS201NDhudW50aU5sQXFtLUJxVFFpWElnSHFaOHEzQUUxeG5nN0ZkM0RORzFCQ3pkekdMSDdWcUpBMmlLRXJIYjN1X3dUeV9fWjRONC1LU2xPRE5iempuU3daM3g1NXROVlBRVWNMaGRuQURGZW1YS3FDWFpsTUVITjFMLXpuSU9jU3NudDdUWFFEOVdQM0R5TjA3NVBSWGF4RnRLRzFKRWhtdlRocHBHQVJTR09ueU1aSzE3MGZmUjFSVDY3WFhrcXZZaUFE0gHuAUFVX3lxTFBWemFFQkU0X0dNZG10Z3l6d29KM1pkclMxeVNKSjU4bW9BRW5UQUZiZzYyamFjandsRnZOMDNpVXFzUkdHOEZVOXpMSGZsMGFjNEtyVTZxVWlyV3BySmItLUl5T3p3N1p6ZlpWOXBLWVB4Y0lqTFNEdVFnWE9EZTVGVV8wYXBNTlVxSktLMFV6aTNTV2FkVnc0NEdUN2h6QnBOOHNXUkpCdXZsUVhLbTY4UF9RQlkxTWw4d2lKLU45MDNuMDlqaVNTelMzOFFhdnUzMVA3YlRPUzlBWVBCVThKeUQ0UlJsT00zS0ZFamc?oc=5",
+  "summary": "",
+  "time": "2026-06-15T21:55:25+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "The Economic Times"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 12.9,
+  "hot": false,
+  "tags": [
+   "trade secrets",
+   "trade secret",
+   "court"
+  ],
+  "importance": 14.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5": {
+  "title": "Federal Circuit Rules for Versata Software in Trade Secrets Dispute Against Ford Motor Company",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5",
+  "summary": "",
+  "time": "2026-06-15T21:50:00+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "The National Law Review"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 11.9,
+  "hot": false,
+  "tags": [
+   "trade secrets",
+   "trade secret"
+  ],
+  "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmthODNyNFZLLUdiRS1GSEdFRTB3THdZODRTMUJBNnk4ZWFNdUZSdG9Fd1FGNEJ3c0w4Ql9GU3c1Q3ZheXlPUmN0eHU0cDF1blo3RE1YN1RpOTFjZUttYXZCRGc5ZU03ZXBIUU9hc3FsUjFFbW9lU3d4eTg0Yy1oVTRwc2R0bjRVUUp2alpqX3VyVVFxUm40UlJaMG9UU2dSTGVvWGFia3Ruc0cyWThRUDBR0gG3AUFVX3lxTE9QVnlfRjlQWTdfZk1hanZSZ1VKWE0tdmJVNDFUSTNKM3E3VEhTR2laa25LOTNnUDFCdTJnaTlBV3RUU3Q4cUZMcDRwd3pWOEtpX25UUFEyeUVVWDROQkNJTGNMcW9OQXY4M2g1WjRGQ3ZqMmtfWHIwT3gyX0FzdXF0RDZFTmNOMGxSOHZwNWRMY2pyaUt0bHVubzduRktfZUNiaVZ5RkRFNkQ0WEpzUklaeVVrMjVoVQ?oc=5": {
+  "title": "Judge Dismisses xAI's Trade Secret Lawsuit Against OpenAI",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmthODNyNFZLLUdiRS1GSEdFRTB3THdZODRTMUJBNnk4ZWFNdUZSdG9Fd1FGNEJ3c0w4Ql9GU3c1Q3ZheXlPUmN0eHU0cDF1blo3RE1YN1RpOTFjZUttYXZCRGc5ZU03ZXBIUU9hc3FsUjFFbW9lU3d4eTg0Yy1oVTRwc2R0bjRVUUp2alpqX3VyVVFxUm40UlJaMG9UU2dSTGVvWGFia3Ruc0cyWThRUDBR0gG3AUFVX3lxTE9QVnlfRjlQWTdfZk1hanZSZ1VKWE0tdmJVNDFUSTNKM3E3VEhTR2laa25LOTNnUDFCdTJnaTlBV3RUU3Q4cUZMcDRwd3pWOEtpX25UUFEyeUVVWDROQkNJTGNMcW9OQXY4M2g1WjRGQ3ZqMmtfWHIwT3gyX0FzdXF0RDZFTmNOMGxSOHZwNWRMY2pyaUt0bHVubzduRktfZUNiaVZ5RkRFNkQ0WEpzUklaeVVrMjVoVQ?oc=5",
+  "summary": "",
+  "time": "2026-06-15T23:53:35+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "Devdiscourse"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 10.0,
+  "hot": false,
+  "tags": [
+   "trade secret",
+   "lawsuit"
+  ],
+  "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEstMXhEVm5WU1JVZEQ5clE1ME82N0tuUDlSWFFaNnVHeGRTd3ZEdDc5RlJkLWE0WlN1U1ZkMW1qX0NXbHg4enFiRTlfS25LTlNfQ0k2ZkhUR0d6SVlZcEpxbVB3bUptTkVJU2FLejRWZjVyZnI0UWdFc0RSZW1hcFpxb3daY2cyVTEtbFgzRGtiM21fay1xYzBEMmNwTnhlSF9WOWVfMVRJSjZERkE?oc=5": {
+  "title": "Texan Trade Secret Case Tests Overlapping Damages Claims Theories",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEstMXhEVm5WU1JVZEQ5clE1ME82N0tuUDlSWFFaNnVHeGRTd3ZEdDc5RlJkLWE0WlN1U1ZkMW1qX0NXbHg4enFiRTlfS25LTlNfQ0k2ZkhUR0d6SVlZcEpxbVB3bUptTkVJU2FLejRWZjVyZnI0UWdFc0RSZW1hcFpxb3daY2cyVTEtbFgzRGtiM21fay1xYzBEMmNwTnhlSF9WOWVfMVRJSjZERkE?oc=5",
+  "summary": "",
+  "time": "2026-05-18T15:00:00+08:00",
+  "date": "2026-05-18",
+  "sources": [
+   "Law.com"
+  ],
+  "region": "国际",
+  "category": "企业实践",
+  "heat": 5.0,
+  "hot": false,
+  "tags": [
+   "trade secret"
+  ],
+  "importance": 5.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2lNZ1lpVXV0LV92QThrZnFMNWdHaXRWWUNkTGhXbFd3T2cwbFAyaWNuSWFXN2hPM1EwZ0xnbHk3SXhZOG8wenVGVGJVaVJFSTlSWnVodFY0Q2x0MzdqMVdSVnlzZmkwMkdOTVhUMFlYVTMyYS10QTFhZzU3V0sxejlJX0RfTXpsOVZ5eGdkblpYYTlGYlMxT3NxNERhNlYxcDZqdU1GRHBnci0td294WWxSM3hBSVljOHpxaDVHSUp1MElYajNaVTFIczdCckhQUF9aS3F2WEtaaWFQOGxldXZZYktsM0o0NXdKMEFjNjVTUFNNeUEyMWNKWlNQNXNtTXc?oc=5": {
+  "title": "Victoria’s Secret accuses major investor Blundy of corporate espionage",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2lNZ1lpVXV0LV92QThrZnFMNWdHaXRWWUNkTGhXbFd3T2cwbFAyaWNuSWFXN2hPM1EwZ0xnbHk3SXhZOG8wenVGVGJVaVJFSTlSWnVodFY0Q2x0MzdqMVdSVnlzZmkwMkdOTVhUMFlYVTMyYS10QTFhZzU3V0sxejlJX0RfTXpsOVZ5eGdkblpYYTlGYlMxT3NxNERhNlYxcDZqdU1GRHBnci0td294WWxSM3hBSVljOHpxaDVHSUp1MElYajNaVTFIczdCckhQUF9aS3F2WEtaaWFQOGxldXZZYktsM0o0NXdKMEFjNjVTUFNNeUEyMWNKWlNQNXNtTXc?oc=5",
+  "summary": "",
+  "time": "2026-05-12T15:00:00+08:00",
+  "date": "2026-05-12",
+  "sources": [
+   "MSN",
+   "AFR"
+  ],
+  "region": "国际",
+  "category": "刑事打击",
+  "heat": 6.0,
+  "hot": false,
+  "tags": [
+   "espionage"
+  ],
+  "importance": 8.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
+  "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+ },
+ "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaUtzVC1hZ3NMV29HRGs5TGs1SWw0SXpRaE1GNG94Mkhwc0dzbFpkVW5GRVVOdC1rckVKTlI2UWY3ekQwcDdvenYwLWdSY2FDNUc3Y29yWEdWNHBmdVNsdHg1WEg4RFFudHJ2akFzMXcydkJjampFd0hLTDJHREI2RktkLTFfR1ZOUTZESG94T3FkLUVzbmQtbXhQa1l1T2FQVDlRSXVMZ3RqVVh3UUF2YmZzSHFDT1dCbTlTRU1YdXdEUGpid25GXzduaUg5cWtRQTRwTVlSbklPRVNGSGZoc3c4VTJLNENvZUEw?oc=5": {
+  "title": "Wild Corporate Espionage Claims Are Rocking the World of 401(k) Administration",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaUtzVC1hZ3NMV29HRGs5TGs1SWw0SXpRaE1GNG94Mkhwc0dzbFpkVW5GRVVOdC1rckVKTlI2UWY3ekQwcDdvenYwLWdSY2FDNUc3Y29yWEdWNHBmdVNsdHg1WEg4RFFudHJ2akFzMXcydkJjampFd0hLTDJHREI2RktkLTFfR1ZOUTZESG94T3FkLUVzbmQtbXhQa1l1T2FQVDlRSXVMZ3RqVVh3UUF2YmZzSHFDT1dCbTlTRU1YdXdEUGpid25GXzduaUg5cWtRQTRwTVlSbklPRVNGSGZoc3c4VTJLNENvZUEw?oc=5",
+  "summary": "",
+  "time": "2026-06-08T19:26:02+08:00",
+  "date": "2026-06-08",
+  "sources": [
+   "MSN"
+  ],
+  "region": "国际",
+  "category": "刑事打击",
+  "heat": 4.0,
+  "hot": false,
+  "tags": [
+   "espionage"
+  ],
+  "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
+  "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
  }
 }
