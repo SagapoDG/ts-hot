@@ -1,21 +1,13 @@
 {
- "generated_at": "2026-06-15T09:30:54.522493+08:00",
- "count": 67,
+ "generated_at": "2026-06-15T10:00:55.033610+08:00",
+ "count": 70,
  "highlight_count": 18,
  "errors": [
-  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Fair Competition Law: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "DOJ 美国司法部: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "FTC 美国联邦贸易委员会: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Law360 知识产权: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "36氪: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Solidot: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "cnBeta: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "cnBeta: not well-formed (invalid token): line 40, column 266",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
@@ -43,6 +35,52 @@
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
  ],
  "items": [
+  {
+   "title": "芮松艳: 商业秘密 案件的审理逻辑与诉讼策略选择",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781488160&ver=6783&signature=T2Ju8kdoZafNXeL1xzmzpzwT6ztp3Okol*iU9DZmvVlR03rPKB-Uwowk3cCIH4fN2ZmdVRN*Vnm6UxCVjGcxCXlp4sqXK42fc9p6spD6rPgRlzJAEMpIl6PJ78N6WVs0&new=1",
+   "summary": "商业秘密 和竞业限制,以及 商业秘密 和违约这几种竞合情形.时间关系,我只重点说一下技术秘密和专利.这是最常见的竞合情形,二...",
+   "time": "2026-06-15T08:31:49+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 16.9,
+   "hot": true,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "竞业限制"
+   ],
+   "importance": 15.5,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "办案必备|人民法院案例库“侵犯 商业秘密 罪”8大参考案例",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781488160&ver=6783&signature=iUz4rEZRjCOis5jMdpLzFKqUdLL8JkYhiUciJGWr0MMNMxCiH2n4uxWPLBDPKzV4D-w20Xmqnz3*yIgfa6Lkoc35w*J5AWimd7oYl3jEZjTKTByqOzyQC-OQpPBm1LS0&new=1",
+   "summary": "商业秘密 权利单位的雇员违反与单位的保密协议约定,向他人泄露作为本单位 商业秘密 的网络游戏源代码,给单位造成重大 经济 损失的...",
+   "time": "2026-06-15T07:00:37+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 14.8,
+   "hot": true,
+   "tags": [
+    "保密协议",
+    "商业秘密",
+    "源代码"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
   {
    "title": "最高院 商业秘密 纠纷案中关于前员工利用公司技术秘密制定企业标准及中标项目构成侵权及赔偿额全额支持的认定",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781446514&ver=6782&signature=eSzUQETsRcFsh7DO0XxaXpp8abZezM2b5Gsn*ICaPcvmEgqSyTYYU10Bh*6Qkz*III-QUiXgujynbullqyZcweADQkkQgqARE33Da6qz4-ZF1X8ONuqMMMGVNaLILPd1&new=1",
@@ -146,7 +184,7 @@
    "region": "国内",
    "category": "企业实践",
    "heat": 11.2,
-   "hot": true,
+   "hot": false,
    "tags": [
     "知识产权",
     "商业秘密",
@@ -349,7 +387,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.3,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "noncompete"
@@ -485,7 +523,7 @@
    "region": "国际",
    "category": "诉讼仲裁",
    "heat": 11.0,
-   "hot": true,
+   "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
@@ -528,7 +566,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -549,7 +587,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -630,27 +668,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Tennessee’s new noncompete law: two years, $70,000, and lots of questions to answer before July 1",
-   "url": "https://faircompetitionlaw.com/2026/06/12/tennessees-new-noncompete-law-two-years-70000-and-lots-of-questions-to-answer-before-july-1/",
-   "summary": "Tennessee’s new noncompete law creates a $70,000 salary threshold, adopts presumptively reasonable timeframes, and takes effect July 1, 2026.",
-   "time": "2026-06-12T21:35:38+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "Fair Competition Law"
-   ],
-   "region": "国际",
-   "category": "竞业与保密",
-   "heat": 6.7,
-   "hot": false,
-   "tags": [
-    "noncompete"
-   ],
-   "importance": 6.0,
-   "kw_score": 3.0,
-   "weight": 3.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "济南市启动第四届“企业商业秘密保护能力提升服务月”活动",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jV1ExaWxOZDJBMmgzaDRuMUVtSHlDWVVMc21oMVJoaU9nR0RldE5vWHE5aHkzQWZhNXc2dWVZUVk1R0plaHVvbnd3?oc=5",
    "summary": "",
@@ -671,6 +688,27 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Tennessee’s new noncompete law: two years, $70,000, and lots of questions to answer before July 1",
+   "url": "https://faircompetitionlaw.com/2026/06/12/tennessees-new-noncompete-law-two-years-70000-and-lots-of-questions-to-answer-before-july-1/",
+   "summary": "Tennessee’s new noncompete law creates a $70,000 salary threshold, adopts presumptively reasonable timeframes, and takes effect July 1, 2026.",
+   "time": "2026-06-12T21:35:38+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "Fair Competition Law"
+   ],
+   "region": "国际",
+   "category": "竞业与保密",
+   "heat": 6.6,
+   "hot": false,
+   "tags": [
+    "noncompete"
+   ],
+   "importance": 6.0,
+   "kw_score": 3.0,
+   "weight": 3.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
@@ -1373,6 +1411,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "侵犯商业秘密 案件中,研发成本能不能直接算作＂损失＂?这起入库判决厘清了一条关键界线",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781488194&ver=6783&signature=rkJ4Usq0p6v3-bmEpiusnbmNmI8fxb7z1Ul764q4axqRavXTgnQIR8Rpdf83dK5BWKICNOY3bKtVyEgJnTpv74eSSDed4Grco8T9GT8ZBTv8vWLN0CILUIMprO4bL1Hq&new=1",
+   "summary": "案发后,法院认定三被告人构成 侵犯商业秘密 罪,叶某某被判有期徒刑四年并处罚金2万元,赵某某、宋某各判三年并处罚金1万元....",
+   "time": "2026-06-09T22:48:00+08:00",
+   "date": "2026-06-09",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "又见“天价”商业秘密维权！天赐材料起诉前总工程师等12方，索赔额近15亿元",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVzFTelphQTI3V19JRGFHV21nRnM3SkRTRXZVQjNyelpLZW0wU0dNRHdLRFI4bzNUZzlyeERMQnM3MEgwTGZjekpiX1JudHpRa3owSjk4SmdWTDdQSkJMZktUc1d4YVdDMW1tRHktYU9VSkd3eTFPTFhoNmdzNHNhYjdQdm02MGJOM1RDWFEzaTZwamZHVjAyXzdSc0dPZkhCYVowNkFsY0lIN2d0bWtVRW94S1FWM0dKeVFEN1VZMFl6Rl9wUi1jTXNYOEdoZUZIb0NxM3djN1ktVVBUdUQ3QUdGUWZ3WURnSl9wc3hmZWU1dVBCT3dJ?oc=5",
    "summary": "",
@@ -1765,6 +1826,29 @@
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
    {
+    "title": "芮松艳: 商业秘密 案件的审理逻辑与诉讼策略选择",
+    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781488160&ver=6783&signature=T2Ju8kdoZafNXeL1xzmzpzwT6ztp3Okol*iU9DZmvVlR03rPKB-Uwowk3cCIH4fN2ZmdVRN*Vnm6UxCVjGcxCXlp4sqXK42fc9p6spD6rPgRlzJAEMpIl6PJ78N6WVs0&new=1",
+    "summary": "商业秘密 和竞业限制,以及 商业秘密 和违约这几种竞合情形.时间关系,我只重点说一下技术秘密和专利.这是最常见的竞合情形,二...",
+    "time": "2026-06-15T08:31:49+08:00",
+    "date": "2026-06-15",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "诉讼仲裁",
+    "heat": 16.9,
+    "hot": false,
+    "tags": [
+     "技术秘密",
+     "商业秘密",
+     "竞业限制"
+    ],
+    "importance": 15.5,
+    "kw_score": 11.0,
+    "weight": 2.0,
+    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+   },
+   {
     "title": "员工利用内部权限接连抽取盲盒大奖，因侵犯商业秘密被判赔45万元",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12UU1kVlZYaTVBSkR3dE53MGNzX1I2Y3NWZWdBM2dpTjhSSW8zbGxjTG02ekxzZlpHWm04dnNUVHVIZXFySjBYZkxCUXF1X0htUE9zUHBxVEZMN29acGJiRg?oc=5",
     "summary": "",
@@ -1920,29 +2004,6 @@
     "tags": [
      "技术秘密",
      "知识产权",
-     "秘密"
-    ],
-    "importance": 13.5,
-    "kw_score": 6.0,
-    "weight": 2.0,
-    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-   },
-   {
-    "title": "又见“天价”商业秘密维权！天赐材料起诉前总工程师等12方，索赔额近15亿元",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVzFTelphQTI3V19JRGFHV21nRnM3SkRTRXZVQjNyelpLZW0wU0dNRHdLRFI4bzNUZzlyeERMQnM3MEgwTGZjekpiX1JudHpRa3owSjk4SmdWTDdQSkJMZktUc1d4YVdDMW1tRHktYU9VSkd3eTFPTFhoNmdzNHNhYjdQdm02MGJOM1RDWFEzaTZwamZHVjAyXzdSc0dPZkhCYVowNkFsY0lIN2d0bWtVRW94S1FWM0dKeVFEN1VZMFl6Rl9wUi1jTXNYOEdoZUZIb0NxM3djN1ktVVBUdUQ3QUdGUWZ3WURnSl9wc3hmZWU1dVBCT3dJ?oc=5",
-    "summary": "",
-    "time": "2026-06-09T22:52:29+08:00",
-    "date": "2026-06-09",
-    "sources": [
-     "新浪财经"
-    ],
-    "region": "国内",
-    "category": "诉讼仲裁",
-    "heat": 8.0,
-    "hot": false,
-    "tags": [
-     "商业秘密",
-     "天价",
      "秘密"
     ],
     "importance": 13.5,
