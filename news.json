@@ -1,14 +1,13 @@
 {
- "generated_at": "2026-06-15T13:35:47.268529+08:00",
+ "generated_at": "2026-06-15T14:06:37.967376+08:00",
  "count": 77,
  "highlight_count": 19,
  "errors": [
-  "Fair Competition Law: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "DOJ 美国司法部: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "cnBeta: not well-formed (invalid token): line 40, column 266",
+  "cnBeta: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
@@ -185,7 +184,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -208,7 +207,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -230,7 +229,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "知识产权",
@@ -299,7 +298,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "restrictive covenant",
@@ -435,7 +434,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "trade secret",
@@ -702,7 +701,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -747,7 +746,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -898,7 +897,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 3.9,
+   "heat": 3.8,
    "hot": false,
    "tags": [
     "不正当竞争"
