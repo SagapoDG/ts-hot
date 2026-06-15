@@ -1,13 +1,21 @@
 {
- "generated_at": "2026-06-15T09:02:50.162635+08:00",
+ "generated_at": "2026-06-15T09:30:54.522493+08:00",
  "count": 67,
  "highlight_count": 18,
  "errors": [
+  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Fair Competition Law: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "DOJ 美国司法部: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "cnBeta: not well-formed (invalid token): line 40, column 266",
+  "FTC 美国联邦贸易委员会: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Law360 知识产权: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "36氪: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Solidot: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "cnBeta: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
@@ -46,7 +54,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.6,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "技术秘密",
@@ -69,7 +77,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.6,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "知识产权",
@@ -92,7 +100,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.6,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "技术秘密",
@@ -183,7 +191,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -319,7 +327,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 6.9,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -362,7 +370,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "知识产权"
@@ -429,7 +437,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 16.5,
+   "heat": 16.4,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -643,26 +651,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkltbUx2UHY2NkV5Uk9JVzdVSGtUU3VtWEJ0Tm03TmdHbXkzbEhDcktfOHZJQ1doTlZmUTJGcEladjhRM1JHS3g4OEQtbWo5QXQxSzc1YU5JSW45RmxhMFRpMDNVc1UzZjJwcEYzQUh5d056UXgtWV9yaTdkYXhQdDBhTVV4THZ4UzVoX3k0bnc3SEdXcUF1WQ?oc=5",
-   "summary": "",
-   "time": "2026-06-12T20:53:59+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "新浪财经"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 6.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.5,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
    "title": "济南市启动第四届“企业商业秘密保护能力提升服务月”活动",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jV1ExaWxOZDJBMmgzaDRuMUVtSHlDWVVMc21oMVJoaU9nR0RldE5vWHE5aHkzQWZhNXc2dWVZUVk1R0plaHVvbnd3?oc=5",
    "summary": "",
@@ -683,6 +671,26 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "黑龙江省双鸭山市市场监管局开展商业秘密保护服务月活动",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkltbUx2UHY2NkV5Uk9JVzdVSGtUU3VtWEJ0Tm03TmdHbXkzbEhDcktfOHZJQ1doTlZmUTJGcEladjhRM1JHS3g4OEQtbWo5QXQxSzc1YU5JSW45RmxhMFRpMDNVc1UzZjJwcEYzQUh5d056UXgtWV9yaTdkYXhQdDBhTVV4THZ4UzVoX3k0bnc3SEdXcUF1WQ?oc=5",
+   "summary": "",
+   "time": "2026-06-12T20:53:59+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "新浪财经"
+   ],
+   "region": "国内",
+   "category": "行政执法",
+   "heat": 6.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 8.5,
+   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
    "title": "Virginia expands its noncompete restrictions again and again and again (effective July 1, 2026)",
