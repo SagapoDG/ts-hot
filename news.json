@@ -1,10 +1,17 @@
 {
- "generated_at": "2026-06-17T08:08:46.512352+08:00",
+ "generated_at": "2026-06-17T08:21:08.489675+08:00",
  "count": 217,
  "highlight_count": 20,
  "errors": [
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: The read operation timed out",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "Google News: IncompleteRead(0 bytes read)",
+  "Google News: The read operation timed out",
+  "Google News: IncompleteRead(0 bytes read)"
  ],
  "items": [
   {
@@ -87,7 +94,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "DTSA"
@@ -108,19 +115,18 @@
     "Silicon UK",
     "Al Jazeera",
     "Crypto Briefing",
-    "Devdiscourse",
-    "WKZO"
+    "Devdiscourse"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 22.1,
+   "heat": 20.1,
    "hot": true,
    "tags": [
     "trade secrets",
     "trade secret",
     "lawsuit"
    ],
-   "importance": 21.5,
+   "importance": 19.5,
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -136,7 +142,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 17.5,
+   "heat": 17.4,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -254,7 +260,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 15.0,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -288,29 +294,6 @@
    "importance": 16.5,
    "kw_score": 7.0,
    "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Cognizant, Infosys Can't Shield Execs From Depositions",
-   "url": "https://www.law360.com/ip/articles/2489885?utm_source=rss&utm_medium=rss&utm_campaign=section",
-   "summary": "Infosys Ltd. and Cognizant TriZetto Software Group Inc. will each have to produce executives to speak on certain topics for depositions in a Texas federal lawsuit over claims tha…",
-   "time": "2026-06-16T06:04:33+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Law360 知识产权"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 14.1,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 14.0,
-   "kw_score": 9.0,
-   "weight": 2.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -404,6 +387,29 @@
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "Cognizant, Infosys Can't Shield Execs From Depositions",
+   "url": "https://www.law360.com/ip/articles/2489885?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "Infosys Ltd. and Cognizant TriZetto Software Group Inc. will each have to produce executives to speak on certain topics for depositions in a Texas federal lawsuit over claims tha…",
+   "time": "2026-06-16T06:04:33+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 14.0,
+   "kw_score": 9.0,
+   "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "TCS to Take $70 Million Charge After US Supreme Court Rejects Appeal in Trade Secrets Case",
@@ -1477,7 +1483,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "经营信息",
@@ -1500,7 +1506,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "经营信息",
@@ -1523,7 +1529,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "经营信息",
@@ -1534,52 +1540,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "竞业限制 五大高频纠纷,企业与打工人必看维权指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781654172&ver=6787&signature=z*Z5IfGDwEE4EMaSFwTohR11U1vwvji0VSh9hlK4pTQWldYFSp5da51DzXu3cZHAUHZqodqslK6kn1gb*fmqoWp60fC9VLCDj9iT8WwSExZP-OFAkCYXedaZihgH8htF&new=1",
-   "summary": "如今职场中随着各家企业对商业秘密、核心技术、客户资源的保护意识不断增强, 竞业限制 条款开始出现在越来越多普通员工的劳动合...",
-   "time": "2026-06-16T17:00:53+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 五大高频纠纷,企业与打工人必看维权指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781619240&ver=6786&signature=2ogYQhfBxafYI*5892KS1eEffD5GtVqX9CUORuu9fYpwJr-DqT*IvBhEwk6M89GkXifUMj4c1lImGEScAOpmGx3Wpd3ZHp5fx1CSALCBq03YVdzkX*PMKBd-OKB7mYMk&new=1",
-   "summary": "如今职场中随着各家企业对商业秘密、核心技术、客户资源的保护意识不断增强, 竞业限制 条款开始出现在越来越多普通员工的劳动合...",
-   "time": "2026-06-16T17:00:53+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "【君澜判例解读】拌黄瓜也能触发 竞业限制 ?最高法 2024 年度第 6 号案例叫停 ＂全员竞业＂ 乱象!",
@@ -1644,6 +1604,29 @@
     "non-compete",
     "竞业限制",
     "NDA"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 五大高频纠纷,企业与打工人必看维权指南",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781619240&ver=6786&signature=2ogYQhfBxafYI*5892KS1eEffD5GtVqX9CUORuu9fYpwJr-DqT*IvBhEwk6M89GkXifUMj4c1lImGEScAOpmGx3Wpd3ZHp5fx1CSALCBq03YVdzkX*PMKBd-OKB7mYMk&new=1",
+   "summary": "如今职场中随着各家企业对商业秘密、核心技术、客户资源的保护意识不断增强, 竞业限制 条款开始出现在越来越多普通员工的劳动合...",
+   "time": "2026-06-16T17:00:53+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
    ],
    "importance": 10.0,
    "kw_score": 8.0,
@@ -1789,29 +1772,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "US Supreme Court declines TCS plea in DXC trade secrets dispute; total exposure rises to $220 million",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHZkRERRN08zN0g2M3J1dm95UnNGYi10cHZRdzJxcnNVWk81ZTZYai1PQWtNZkhtMUhKekpOVllDdTBUTTNSQUpYeGNpaklUSWVZRjU0RG43NzVlUGVEQUUzNDdPUkltMHNRd0xJcjQ0dUN2OTRLemRtYmRPVXkzUDgxVlpPUEZZSTNtQ1pkS1NncC1oR2FLcV85aktmZGVuMUxlTjl6ZFJicnpSUUgtSDlWS1jSAboBQVVfeXFMTm9hZVBBNTY3dVJ6aDZ3ZGJ3R0Y4Zk5iZVRwRDlsY3JScUl1ZEE2T1lpSjNmWHMzaThiVmdNYjRuT1VYVTRjSlN0cWxvTVdOU3BjVWhUVVRRalZIME95elJZbGpGTDVvc3lwWkthZDA3NHhXTkNlbWRjMlE4VlkwVjdMUHFLVXBGd0YyUXJvTE9qbFFUdDBubmJValVoVEZibW52clp1cVBzdlhzVWNBMUNUcFVEemlsVlJR?oc=5",
-   "summary": "",
-   "time": "2026-06-16T13:04:50+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Storyboard18"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 11.9,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "court"
-   ],
-   "importance": 14.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "TCS Faces $70 Million Setback as US Supreme Court Rejects Trade Secrets Appeal",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW5uTkF5N3JfbU5PTVVaSXU3bjZsNGNIYjVFODQ2am1pdUVqTEJoRTJhSmVfNzd4QXFXVENsNGsxb1F4cnNuMUo1LWQxZ3NQZWsyUEtSWlNJa0NuaGJiVWtvMXlaRXRyLVZPcUtOMlE5UTk3M1QxMkZVSkVBV3JhYUZjUjM2SFZYQjhCNVI4b1NHRXBqWDM3UFEwbDc0eHhFczdGclFtT1LSAa4BQVVfeXFMTVN4OFVEZ2xrQlBUMk5VeHp6UENTaGNyZmdvcngwTktHMDdOaVpDS0szbTRlS1dTWG9YQ3liNnEtaUtCeVdIcE1SeEJGanFEY2pOdVdZWm9vT1BRZmMwZ2xNc2JBNF9HSWFlWlRSTTNoWE1uSTZ0R3lfUEsxMnVjTTh2M29UQWZjUWhsZ1BWWTlFSVNnOHdQdXA0LUFaRHpRWE5TdjRQd1ZuZF9JUWFR?oc=5",
    "summary": "",
@@ -1833,6 +1793,29 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "US Supreme Court declines TCS plea in DXC trade secrets dispute; total exposure rises to $220 million",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHZkRERRN08zN0g2M3J1dm95UnNGYi10cHZRdzJxcnNVWk81ZTZYai1PQWtNZkhtMUhKekpOVllDdTBUTTNSQUpYeGNpaklUSWVZRjU0RG43NzVlUGVEQUUzNDdPUkltMHNRd0xJcjQ0dUN2OTRLemRtYmRPVXkzUDgxVlpPUEZZSTNtQ1pkS1NncC1oR2FLcV85aktmZGVuMUxlTjl6ZFJicnpSUUgtSDlWS1jSAboBQVVfeXFMTm9hZVBBNTY3dVJ6aDZ3ZGJ3R0Y4Zk5iZVRwRDlsY3JScUl1ZEE2T1lpSjNmWHMzaThiVmdNYjRuT1VYVTRjSlN0cWxvTVdOU3BjVWhUVVRRalZIME95elJZbGpGTDVvc3lwWkthZDA3NHhXTkNlbWRjMlE4VlkwVjdMUHFLVXBGd0YyUXJvTE9qbFFUdDBubmJValVoVEZibW52clp1cVBzdlhzVWNBMUNUcFVEemlsVlJR?oc=5",
+   "summary": "",
+   "time": "2026-06-16T13:04:50+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "Storyboard18"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "court"
+   ],
+   "importance": 14.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "Judge dismisses xAI lawsuit accusing OpenAI of stealing trade secrets",
@@ -1995,29 +1978,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "OpenAI wins dismissal of trade secret lawsuit by Elon Musk’s xAI",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenNUanpHRjI4TFBfdWJNTzBJMnJmSmdvMzZ5NW5lVjZZeEhLSWVJcEQ2TG5pYXBsQVNSNUxZaVVORTFjS2l1X2Jpcm1jY3pFVkJsdDZ5WkRpaVl5V3MtczNNZk5BVTBhc2dqUElPU2hnaURoc1RGS3RDRzVTVDFGTG02R0JsOUVhRGEtWC1vNDg4cXhrWkFZRE1JY0Q?oc=5",
-   "summary": "",
-   "time": "2026-06-16T02:44:09+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "The Straits Times",
-    "CNBC TV18"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 10.4,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 10.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "Judge Dismisses xAI's Trade Secret Lawsuit Against OpenAI",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmthODNyNFZLLUdiRS1GSEdFRTB3THdZODRTMUJBNnk4ZWFNdUZSdG9Fd1FGNEJ3c0w4Ql9GU3c1Q3ZheXlPUmN0eHU0cDF1blo3RE1YN1RpOTFjZUttYXZCRGc5ZU03ZXBIUU9hc3FsUjFFbW9lU3d4eTg0Yy1oVTRwc2R0bjRVUUp2alpqX3VyVVFxUm40UlJaMG9UU2dSTGVvWGFia3Ruc0cyWThRUDBR0gG3AUFVX3lxTE9QVnlfRjlQWTdfZk1hanZSZ1VKWE0tdmJVNDFUSTNKM3E3VEhTR2laa25LOTNnUDFCdTJnaTlBV3RUU3Q4cUZMcDRwd3pWOEtpX25UUFEyeUVVWDROQkNJTGNMcW9OQXY4M2g1WjRGQ3ZqMmtfWHIwT3gyX0FzdXF0RDZFTmNOMGxSOHZwNWRMY2pyaUt0bHVubzduRktfZUNiaVZ5RkRFNkQ0WEpzUklaeVVrMjVoVQ?oc=5",
    "summary": "",
@@ -2062,29 +2022,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "Judge Dismisses xAI's Trade Secret Lawsuit Against OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmthODNyNFZLLUdiRS1GSEdFRTB3THdZODRTMUJBNnk4ZWFNdUZSdG9Fd1FGNEJ3c0w4Ql9GU3c1Q3ZheXlPUmN0eHU0cDF1blo3RE1YN1RpOTFjZUttYXZCRGc5ZU03ZXBIUU9hc3FsUjFFbW9lU3d4eTg0Yy1oVTRwc2R0bjRVUUp2alpqX3VyVVFxUm40UlJaMG9UU2dSTGVvWGFia3Ruc0cyWThRUDBR0gG3AUFVX3lxTE9QVnlfRjlQWTdfZk1hanZSZ1VKWE0tdmJVNDFUSTNKM3E3VEhTR2laa25LOTNnUDFCdTJnaTlBV3RUU3Q4cUZMcDRwd3pWOEtpX25UUFEyeUVVWDROQkNJTGNMcW9OQXY4M2g1WjRGQ3ZqMmtfWHIwT3gyX0FzdXF0RDZFTmNOMGxSOHZwNWRMY2pyaUt0bHVubzduRktfZUNiaVZ5RkRFNkQ0WEpzUklaeVVrMjVoVQ?oc=5",
-   "summary": "",
-   "time": "2026-06-16T02:13:06+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Devdiscourse",
-    "South China Morning Post"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 10.3,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 10.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "TCS Trade Secret Scandal: Inside US Legal Battle That Ended With A $220 Million Blow",
@@ -2192,8 +2129,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "诉讼",
-    "秘密"
+    "秘密",
+    "诉讼"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -2247,26 +2184,26 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "着力提升企业商业秘密保护水平",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhKWG5UX3Z0U08wejhKX0Y4QVQzY1FfNDdFSTNaMjVZcmplbnZqOElwTnVuRUR3LUdMenA5VVl3N1c5ajIxVWs4Vk9PV0tpc2hSTUF6eEVoejhmSXo2ZEhIN1F4TG5SRUxaNFZ1R3JhVFNpT0dsc3BJNExHam8zWF81U1BWaGxZclpGMGRPNFc4WDI1cXAzU2tFMWhrRXo2TDhtRWExT0VTNUVEX3NJ?oc=5",
+   "title": "US Supreme Court Slams the Door on TCS: $220 Million Blow in DXC Trade Secret Battle",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCei01SmExVFlHOGRVdGRoeWRCT1FaTTlDUmdWaGJ0VThDQmMwWVBVUWJicHZsaHE4ejJhV1F1TlVEX0pwRzZEWEZCMk5kbnFjSEhQbnJYNXZ1WGNfTFlxRGhfMzI2NE9qYk5QS1ppNTdUYzBwZ1IxT1g5VdIBgAFBVV95cUxQU2Jqbk5sempQT0NqTWZmYmlxejZDS0xqRERseTY4dzQ5dUZKRHI4ald0NzZubFFmZ3BXNjJYcmU5RE5WNFpKQ251QkJtWnJHemtDYjFHZGQ5dkJ1MzROQVhqbWo0M1FacWVXclhHRm4wTE95MHNmVjlHREFNcno3ag?oc=5",
    "summary": "",
-   "time": "2026-06-16T18:43:47+08:00",
+   "time": "2026-06-16T17:59:05+08:00",
    "date": "2026-06-16",
    "sources": [
-    "新浪财经"
+    "Punjab Kesari English"
    ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 9.3,
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.2,
    "hot": false,
    "tags": [
-    "商业秘密",
-    "秘密"
+    "trade secret",
+    "court"
    ],
-   "importance": 6.0,
+   "importance": 11.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "US Supreme Court Slams the Door on TCS: $220 Million Blow in DXC Trade Secret Battle",
@@ -2291,48 +2228,26 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "US Supreme Court Slams the Door on TCS: $220 Million Blow in DXC Trade Secret Battle",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCei01SmExVFlHOGRVdGRoeWRCT1FaTTlDUmdWaGJ0VThDQmMwWVBVUWJicHZsaHE4ejJhV1F1TlVEX0pwRzZEWEZCMk5kbnFjSEhQbnJYNXZ1WGNfTFlxRGhfMzI2NE9qYk5QS1ppNTdUYzBwZ1IxT1g5VdIBgAFBVV95cUxQU2Jqbk5sempQT0NqTWZmYmlxejZDS0xqRERseTY4dzQ5dUZKRHI4ald0NzZubFFmZ3BXNjJYcmU5RE5WNFpKQ251QkJtWnJHemtDYjFHZGQ5dkJ1MzROQVhqbWo0M1FacWVXclhHRm4wTE95MHNmVjlHREFNcno3ag?oc=5",
+   "title": "着力提升企业商业秘密保护水平",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhKWG5UX3Z0U08wejhKX0Y4QVQzY1FfNDdFSTNaMjVZcmplbnZqOElwTnVuRUR3LUdMenA5VVl3N1c5ajIxVWs4Vk9PV0tpc2hSTUF6eEVoejhmSXo2ZEhIN1F4TG5SRUxaNFZ1R3JhVFNpT0dsc3BJNExHam8zWF81U1BWaGxZclpGMGRPNFc4WDI1cXAzU2tFMWhrRXo2TDhtRWExT0VTNUVEX3NJ?oc=5",
    "summary": "",
-   "time": "2026-06-16T17:59:05+08:00",
+   "time": "2026-06-16T18:43:47+08:00",
    "date": "2026-06-16",
    "sources": [
-    "Punjab Kesari English"
+    "新浪财经"
    ],
-   "region": "国际",
-   "category": "诉讼仲裁",
+   "region": "国内",
+   "category": "企业实践",
    "heat": 9.2,
    "hot": false,
    "tags": [
-    "trade secret",
-    "court"
+    "商业秘密",
+    "秘密"
    ],
-   "importance": 11.5,
+   "importance": 6.0,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Elon Musks xAI Trade Secret Lawsuit Against OpenAI Dismissed By US Judge",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlFGckx2WUdDR1BsWjM0YjFjbWhuVTBqcUtJMFh1WlFsRV9wME1CV1otRHhGeHgwTUZBVERJTlVwbE1jMGN3am5tUDV6bC05a0pROEVrVG5hVm1kS3VabURsVUM3djIxSlAzM3BSZTJUNzFoaGJXUGczQzZNSFoyeGMxY2RMcEZKZXNoT3p4SlluUVhsUUk3UTdTOG9oaXM5SVBmWElsVERmVUdPMWfSAbMBQVVfeXFMTVg4VGNIc2F2eHlvaElmWGswYklWQ2tuSkZLeF83cUU0Q3M0LWNudTVBTmZjdnUzNHM1WVVVbGt0Qi12dkRhcjBUTmotT2dMSDNjcWdYdUh6Wk92dUdkQ2RlVy1GemlLMUVObzdlRXkxVmVqNlk2V0UzYjlIemdnYzZRSk5tTjVTdk9GS2tRdHJ2eWpYbEFTZUJmdnNVdGl1VENfVzlfUDBaZVZoZk9RVzZvLW8?oc=5",
-   "summary": "",
-   "time": "2026-06-16T13:20:13+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Free Press Journal"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Musk’s Another Legal Setback: Judge Dismisses xAI’s Trade Secret Lawsuit Against OpenAI",
@@ -2379,23 +2294,24 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Don't Wait to Investigate: Lessons from the Federal Circuit's Insulet v. EOFlow Trade Secret Reversal",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWx3R2l0Sm1PREQwaVQ0MHl0ZXJTWlhKNVRBZkhfWWRDRjEzR0Q2MmVGMGYxU2VJWlV5RlhzV1ZNQjZpcGVMczRtQTVjanNUY3NpS2FjQkQ2UnUycDdZNEdFNlVqT0RfaTNSSHE0VXBGMXhWU2dwSEZpZUVpOXRoVWo5WXNCam40?oc=5",
+   "title": "Elon Musks xAI Trade Secret Lawsuit Against OpenAI Dismissed By US Judge",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlFGckx2WUdDR1BsWjM0YjFjbWhuVTBqcUtJMFh1WlFsRV9wME1CV1otRHhGeHgwTUZBVERJTlVwbE1jMGN3am5tUDV6bC05a0pROEVrVG5hVm1kS3VabURsVUM3djIxSlAzM3BSZTJUNzFoaGJXUGczQzZNSFoyeGMxY2RMcEZKZXNoT3p4SlluUVhsUUk3UTdTOG9oaXM5SVBmWElsVERmVUdPMWfSAbMBQVVfeXFMTVg4VGNIc2F2eHlvaElmWGswYklWQ2tuSkZLeF83cUU0Q3M0LWNudTVBTmZjdnUzNHM1WVVVbGt0Qi12dkRhcjBUTmotT2dMSDNjcWdYdUh6Wk92dUdkQ2RlVy1GemlLMUVObzdlRXkxVmVqNlk2V0UzYjlIemdnYzZRSk5tTjVTdk9GS2tRdHJ2eWpYbEFTZUJmdnNVdGl1VENfVzlfUDBaZVZoZk9RVzZvLW8?oc=5",
    "summary": "",
-   "time": "2026-06-16T22:19:43+08:00",
+   "time": "2026-06-16T13:20:13+08:00",
    "date": "2026-06-16",
    "sources": [
-    "JD Supra"
+    "Free Press Journal"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.9,
    "hot": false,
    "tags": [
-    "trade secret"
+    "trade secret",
+    "lawsuit"
    ],
-   "importance": 7.5,
-   "kw_score": 3.0,
+   "importance": 8.5,
+   "kw_score": 4.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -2422,6 +2338,49 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "OpenAI wins dismissal of trade secret lawsuit by Elon Musk’s xAI",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenNUanpHRjI4TFBfdWJNTzBJMnJmSmdvMzZ5NW5lVjZZeEhLSWVJcEQ2TG5pYXBsQVNSNUxZaVVORTFjS2l1X2Jpcm1jY3pFVkJsdDZ5WkRpaVl5V3MtczNNZk5BVTBhc2dqUElPU2hnaURoc1RGS3RDRzVTVDFGTG02R0JsOUVhRGEtWC1vNDg4cXhrWkFZRE1JY0Q?oc=5",
+   "summary": "",
+   "time": "2026-06-16T02:44:09+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "The Straits Times"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.4,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Don't Wait to Investigate: Lessons from the Federal Circuit's Insulet v. EOFlow Trade Secret Reversal",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWx3R2l0Sm1PREQwaVQ0MHl0ZXJTWlhKNVRBZkhfWWRDRjEzR0Q2MmVGMGYxU2VJWlV5RlhzV1ZNQjZpcGVMczRtQTVjanNUY3NpS2FjQkQ2UnUycDdZNEdFNlVqT0RfaTNSSHE0VXBGMXhWU2dwSEZpZUVpOXRoVWo5WXNCam40?oc=5",
+   "summary": "",
+   "time": "2026-06-16T22:19:43+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "JD Supra"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.4,
+   "hot": false,
+   "tags": [
+    "trade secret"
+   ],
+   "importance": 7.5,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSl9adEF2STU0SGNCQkp1UXFMU2ptUHFza0dlcF9LdlF2MEo4R1ZWdGREM1RKcExzdHJUM2Y3VmFObktIdE1Hb2xkQlVxbUtncm11aTZfZkRxZ29oRjJCbmlxVzlQZGNGWDE1SVdsNHlTbEtDN0FWNkg0Ykktb3lSRzc4VG1QNnVnb2tZT0tXeGJwaGoyN2x1aVltUXc0d1dzUnE4OEpjdEsybVXSAbABQVVfeXFMT1ljSVlRZV9UcVRmLXBRVnQ0V19sb1FyZzFPc1dMcDJNSUFLZmZGTDUtR2RNRE9SeENDdXNsSHRveTNtZDg3YlR6S19DZGtWTUhTMGw4VnpJN0s0aEJqN1lLYXZDN0JybDhxR1lWN2QtSkQ1d1gzYlJiYTN1RW84dVVpc1FBY1ZfZXU1T2RFVlFBU0dOLWQ3cDdNZGJDc0NhMUNCeXJURUpZUDRnR0dFWUY?oc=5",
    "summary": "",
@@ -2432,7 +2391,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "trade secret",
@@ -2559,7 +2518,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 14.4,
+   "heat": 14.3,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -3055,9 +3014,9 @@
   },
   {
    "title": "Federal Circuit Rules for Versata Software in Trade Secrets Dispute Against Ford Motor Company",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2dnaFJJTnhSRnMzMXgxZFRNWUlsdzlwc096dHlQOTRhLWJPRmxCOGk5SDFJazhKUmlXTGlHeTBCZmcya3JHWEM1NDNTV3FQeHJxOWlaelJSMXZfZUs0Vi1nT0FXVUVRYlE0SUJRQmI0NUJMazlxYTdpM0k2aC04MzJQSU51ajh6aG5XUGpVSG9Cb2E5aFh0RFFnQl9LYWpoUmZaclZMaDFmYS00bHhyZ3NB0gG3AUFVX3lxTE9fblBKUnZyRlJod2p6MVYzN283QW9aZXJ1TUJvaWVQX2sxNnBxcmRjWDdQU2RJR1NQVUU3WkN4WWdBT2xOSTBUSFZYMFJKVHkzOEhHTmxQRHdnc1lFbF9MamdVRFZ4Z0N5QnRDcHZRdTBMXzVhVGpUcWNTZWVaZU5oaElwWHF4QTFaQnpMOC1yWnZVemJFNjFHYnlWUmxzSEVkWExZY3VZMlRONG9LSjNQVGVPTkJGVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5",
    "summary": "",
-   "time": "2026-06-15T21:49:37+08:00",
+   "time": "2026-06-15T21:50:00+08:00",
    "date": "2026-06-15",
    "sources": [
     "The National Law Review"
@@ -3077,9 +3036,9 @@
   },
   {
    "title": "Federal Circuit Rules for Versata Software in Trade Secrets Dispute Against Ford Motor Company",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX25QSlJ2ckZSaHdqejFWMzdvN0FvWmVydU1Cb2llUF9rMTZwcXJkY1g3UFNkSUdTUFVFN1pDeFlnQU9sTkkwVEhWWDBSSlR5MzhIR05sUER3Z3NZRWxfTGpnVURWeGdDeUJ0Q3B2UXUwTF81YVRqVHFjU2VlWmVOaGhJcFhxeEExWkJ6TDgtclp2VXpiRTYxR2J5VlJsc0hFZFhMWWN1WTJUTjRvS0ozUFRlT05CRlXSAbcBQVVfeXFMT19uUEpSdnJGUmh3anoxVjM3bzdBb1plcnVNQm9pZVBfazE2cHFyZGNYN1BTZElHU1BVRTdaQ3hZZ0FPbE5JMFRIVlgwUkpUeTM4SEdObFBEd2dzWUVsX0xqZ1VEVnhnQ3lCdENwdlF1MExfNWFUalRxY1NlZVplTmhoSXBYcXhBMVpCekw4LXJadlV6YkU2MUdieVZSbHNIRWRYTFljdVkyVE40b0tKM1BUZU9OQkZV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2dnaFJJTnhSRnMzMXgxZFRNWUlsdzlwc096dHlQOTRhLWJPRmxCOGk5SDFJazhKUmlXTGlHeTBCZmcya3JHWEM1NDNTV3FQeHJxOWlaelJSMXZfZUs0Vi1nT0FXVUVRYlE0SUJRQmI0NUJMazlxYTdpM0k2aC04MzJQSU51ajh6aG5XUGpVSG9Cb2E5aFh0RFFnQl9LYWpoUmZaclZMaDFmYS00bHhyZ3NB0gG3AUFVX3lxTE9fblBKUnZyRlJod2p6MVYzN283QW9aZXJ1TUJvaWVQX2sxNnBxcmRjWDdQU2RJR1NQVUU3WkN4WWdBT2xOSTBUSFZYMFJKVHkzOEhHTmxQRHdnc1lFbF9MamdVRFZ4Z0N5QnRDcHZRdTBMXzVhVGpUcWNTZWVaZU5oaElwWHF4QTFaQnpMOC1yWnZVemJFNjFHYnlWUmxzSEVkWExZY3VZMlRONG9LSjNQVGVPTkJGVQ?oc=5",
    "summary": "",
-   "time": "2026-06-15T21:50:00+08:00",
+   "time": "2026-06-15T21:49:37+08:00",
    "date": "2026-06-15",
    "sources": [
     "The National Law Review"
@@ -3114,29 +3073,6 @@
     "知识产权",
     "商业秘密",
     "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "收藏学习! 商业秘密 保护“十要”“十不要”",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519451&ver=6784&signature=jJsmqngc5uKXv2B8pH5YhsEsL9kp5X7cnlEaVN5gu4oUTHMIyJAp*LAaUCycBrzkM3zKNS2uWpukiv3IVUZ*UMwmQrX0XLJpNbTYahpUqugwSIQszlxjex7Lx5hyI4EC&new=1",
-   "summary": "漫谈 商业秘密 保护企业如何进行 商业秘密 保护“十要”企业 商业秘密 保护1要对员工进行经常性 商业秘密 保密培训教育;2要在实际可行...",
-   "time": "2026-06-15T17:33:21+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 9.9,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "保密"
    ],
    "importance": 8.0,
    "kw_score": 6.0,
@@ -3236,6 +3172,29 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "收藏学习! 商业秘密 保护“十要”“十不要”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519451&ver=6784&signature=jJsmqngc5uKXv2B8pH5YhsEsL9kp5X7cnlEaVN5gu4oUTHMIyJAp*LAaUCycBrzkM3zKNS2uWpukiv3IVUZ*UMwmQrX0XLJpNbTYahpUqugwSIQszlxjex7Lx5hyI4EC&new=1",
+   "summary": "漫谈 商业秘密 保护企业如何进行 商业秘密 保护“十要”企业 商业秘密 保护1要对员工进行经常性 商业秘密 保密培训教育;2要在实际可行...",
+   "time": "2026-06-15T17:33:21+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 9.8,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密",
+    "保密"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "“ 竞业限制 ”成“就业限制”?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519466&ver=6784&signature=YIe9zHdsluXGmlGLN5MHe89JkkU5wGOSEvyzLU4ROyYd-C0SbqgOxHhdnul3JMhvkjd0-1hS0lIxfpVH5bcDeWYNFJeB*969oel6cP9-fQKsSyTvfBROhiHQlC00r8yw&new=1",
    "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员. 竞业限制 的范围、地域、期限由用人单位与...",
@@ -3291,7 +3250,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3313,7 +3272,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4069,10 +4028,10 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "Virginia expands its noncompete restrictions again and again and again (effective July 1, 2026)",
-   "url": "https://faircompetitionlaw.com/2026/06/11/virginia-expands-its-noncompete-restrictions-again-and-again-and-again-effective-july-1-2026/",
-   "summary": "Virginia has passed three new noncompete laws, each of which will will impose new restrictions effective on July 1, 2026.",
-   "time": "2026-06-12T05:42:20+08:00",
+   "title": "Tennessee’s new noncompete law: two years, $70,000, and lots of questions to answer before July 1",
+   "url": "https://faircompetitionlaw.com/2026/06/12/tennessees-new-noncompete-law-two-years-70000-and-lots-of-questions-to-answer-before-july-1/",
+   "summary": "Tennessee’s new noncompete law creates a $70,000 salary threshold, adopts presumptively reasonable timeframes, and takes effect July 1, 2026.",
+   "time": "2026-06-12T21:35:38+08:00",
    "date": "2026-06-12",
    "sources": [
     "Fair Competition Law"
@@ -4090,10 +4049,10 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "Tennessee’s new noncompete law: two years, $70,000, and lots of questions to answer before July 1",
-   "url": "https://faircompetitionlaw.com/2026/06/12/tennessees-new-noncompete-law-two-years-70000-and-lots-of-questions-to-answer-before-july-1/",
-   "summary": "Tennessee’s new noncompete law creates a $70,000 salary threshold, adopts presumptively reasonable timeframes, and takes effect July 1, 2026.",
-   "time": "2026-06-12T21:35:38+08:00",
+   "title": "Virginia expands its noncompete restrictions again and again and again (effective July 1, 2026)",
+   "url": "https://faircompetitionlaw.com/2026/06/11/virginia-expands-its-noncompete-restrictions-again-and-again-and-again-effective-july-1-2026/",
+   "summary": "Virginia has passed three new noncompete laws, each of which will will impose new restrictions effective on July 1, 2026.",
+   "time": "2026-06-12T05:42:20+08:00",
    "date": "2026-06-12",
    "sources": [
     "Fair Competition Law"
@@ -4212,29 +4171,6 @@
     "lawsuit"
    ],
    "importance": 13.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制 纠纷:入职相同经营范围的公司,并未违反 竞业限制 义务?法院观点",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781654172&ver=6787&signature=UBV3C6IBL2srGn5aju0iGy9W234DG45sTeoovumP51ZbG271WF-vEMhnlWacWPdi4XlUTDTViP80ah3DVmVmi70xUWNG5Ac05rVl6bvj17d6G1I8-1B7xd5J4Fy-Bvtu&new=1",
-   "summary": "【摘要】本案中高管李某掌握企业商业秘密,负有 竞业限制 义务.其离职后入职的公司与原公司仅工商经营范围重合,无实质业务竞争...",
-   "time": "2026-06-11T11:01:07+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "离职"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -5127,19 +5063,18 @@
      "Silicon UK",
      "Al Jazeera",
      "Crypto Briefing",
-     "Devdiscourse",
-     "WKZO"
+     "Devdiscourse"
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 22.1,
+    "heat": 20.1,
     "hot": true,
     "tags": [
      "trade secrets",
      "trade secret",
      "lawsuit"
     ],
-    "importance": 21.5,
+    "importance": 19.5,
     "kw_score": 7.0,
     "weight": 2.0,
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
