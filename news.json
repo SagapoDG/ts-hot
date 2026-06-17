@@ -1,10 +1,9 @@
 {
- "generated_at": "2026-06-18T01:01:55.092834+08:00",
+ "generated_at": "2026-06-18T01:14:08.014404+08:00",
  "count": 248,
  "highlight_count": 21,
  "errors": [
   "DOJ 美国司法部: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "FTC 美国联邦贸易委员会: HTTP Error 503: Service Unavailable",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
@@ -54,7 +53,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 26.6,
+   "heat": 26.5,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -77,7 +76,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": true,
    "tags": [
     "misappropriation",
@@ -215,7 +214,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -2584,7 +2583,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2766,7 +2765,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2812,7 +2811,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.5,
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2957,28 +2956,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "U.S. judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1dqRm5SZkFfenJ5QUxQenkwclFWbnRUQ1VOell6YVB5dEU1WlAtQVNOUnlsLUhVZlVBT0NaVzBPZ0xhTlZpQTBSUzJSOUFHRnR4My1sUDE0aG5PVjNWSE5IRVRweWlrV0FmWHdwMjNKSkFrN0RLeTB4cUNlNGlqZkJRNXpQbGJmOFNqOE1mMDE?oc=5",
-   "summary": "",
-   "time": "2026-06-16T04:57:58+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "WKZO"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 7.6,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "Don't Wait to Investigate: Lessons from the Federal Circuit's Insulet v. EOFlow Trade Secret Reversal",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWx3R2l0Sm1PREQwaVQ0MHl0ZXJTWlhKNVRBZkhfWWRDRjEzR0Q2MmVGMGYxU2VJWlV5RlhzV1ZNQjZpcGVMczRtQTVjanNUY3NpS2FjQkQ2UnUycDdZNEdFNlVqT0RfaTNSSHE0VXBGMXhWU2dwSEZpZUVpOXRoVWo5WXNCam40?oc=5",
    "summary": "",
@@ -2996,6 +2973,28 @@
    ],
    "importance": 7.5,
    "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "U.S. judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1dqRm5SZkFfenJ5QUxQenkwclFWbnRUQ1VOell6YVB5dEU1WlAtQVNOUnlsLUhVZlVBT0NaVzBPZ0xhTlZpQTBSUzJSOUFHRnR4My1sUDE0aG5PVjNWSE5IRVRweWlrV0FmWHdwMjNKSkFrN0RLeTB4cUNlNGlqZkJRNXpQbGJmOFNqOE1mMDE?oc=5",
+   "summary": "",
+   "time": "2026-06-16T04:57:58+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "WKZO"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 7.5,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -3137,7 +3136,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 4.5,
+   "heat": 4.4,
    "hot": false,
    "tags": [
     "窃取"
@@ -3227,7 +3226,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3250,7 +3249,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3273,7 +3272,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3296,7 +3295,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3319,7 +3318,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3342,7 +3341,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3411,7 +3410,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -3434,7 +3433,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -3663,7 +3662,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -3685,7 +3684,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "trade secrets",
