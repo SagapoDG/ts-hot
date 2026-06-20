@@ -3189,17 +3189,16 @@
   "time": "2026-05-12T15:00:00+08:00",
   "date": "2026-05-12",
   "sources": [
-   "SMH.com.au",
-   "WAtoday"
+   "SMH.com.au"
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 6.0,
+  "heat": 4.0,
   "hot": false,
   "tags": [
    "espionage"
   ],
-  "importance": 11.5,
+  "importance": 9.5,
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
@@ -7467,7 +7466,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 19.5,
+  "heat": 19.4,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -9416,7 +9415,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -9486,7 +9485,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.7,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "trade secret",
@@ -10301,18 +10300,19 @@
   "time": "2026-06-16T23:54:26+08:00",
   "date": "2026-06-16",
   "sources": [
-   "The National Law Review"
+   "The National Law Review",
+   "ArentFox Schiff"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 12.0,
   "hot": false,
   "tags": [
    "trade secrets",
    "trade secret",
    "verdict"
   ],
-  "importance": 12.5,
+  "importance": 14.5,
   "kw_score": 8.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -11485,7 +11485,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 6.4,
+  "heat": 6.3,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -11966,7 +11966,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.5,
+  "heat": 8.4,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -12346,7 +12346,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 8.1,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "economic espionage",
@@ -12906,7 +12906,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -13058,7 +13058,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 5.1,
+  "heat": 5.0,
   "hot": false,
   "tags": [
    "espionage"
@@ -14707,5 +14707,26 @@
   "kw_score": 3.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tmTWN0aFo2ck1WcVNndzQxcGpycVFCQ1hLeUFUbTVYOHBxdVFLeVVDWlpidWZ2ZER4cGVsQ3ZSSVJ5MDhtRGlDd3RHeExnbzlWb2tZWXVuZWZxOHpJUEhtZEd3ZlhENWJfWGpscy1KbllVMGkyLTlRc3IwRFhsQlBZUVNQODNhaXljUjNHN0M?oc=5": {
+  "title": "A Nationwide Ban on Noncompete Clauses",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tmTWN0aFo2ck1WcVNndzQxcGpycVFCQ1hLeUFUbTVYOHBxdVFLeVVDWlpidWZ2ZER4cGVsQ3ZSSVJ5MDhtRGlDd3RHeExnbzlWb2tZWXVuZWZxOHpJUEhtZEd3ZlhENWJfWGpscy1KbllVMGkyLTlRc3IwRFhsQlBZUVNQODNhaXljUjNHN0M?oc=5",
+  "summary": "A Nationwide Ban on Noncompete Clauses The Regulatory Review",
+  "time": "2026-05-23T15:00:00+08:00",
+  "date": "2026-05-23",
+  "sources": [
+   "The Regulatory Review"
+  ],
+  "region": "国际",
+  "category": "竞业与保密",
+  "heat": 5.0,
+  "hot": false,
+  "tags": [
+   "noncompete"
+  ],
+  "importance": 5.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
  }
 }
