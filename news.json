@@ -1,12 +1,15 @@
 {
- "generated_at": "2026-06-22T00:57:46.915106+08:00",
- "count": 311,
+ "generated_at": "2026-06-22T00:55:45.502054+08:00",
+ "count": 308,
  "highlight_count": 20,
  "errors": [
-  "最高人民法院: HTTP Error 403: Forbidden",
-  "最高法知识产权法庭: HTTP Error 403: Forbidden",
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "Solidot: The read operation timed out"
  ],
  "items": [
   {
@@ -1160,36 +1163,13 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "案例解析 | 签署保密协议和 竞业限制 协议,后又跳槽至行业“上下游”企业,劳动者是否构成违反 竞业限制 约定?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1782061097&ver=6796&signature=EHhbnNF9XjlagqXE-ErKHFigULz1mT9WxtO2cWkHY*9hijE97pAgs1l77tmfDS96ie6wXXsdvBEl9IObxRXytFjgvEEBP6ZqQTPW55VzUKOkuO-XgKib7NV6*GpLS-uv&new=1",
-   "summary": "入职当天,她和A电子公司签了一份《保密协议书》,明确约定离职后的 竞业限制 义务.2022年4月,徐某离职时签署《履行 竞业限制 ...",
-   "time": "2026-06-18T17:25:39+08:00",
-   "date": "2026-06-18",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "保密协议",
-    "保密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "US Supreme Court rejects Tata challenge to $168 million award in trade secrets case",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWhhUWFLRDJITVd3UDNJblBWUDYydlo2Zk9TN0VKeHhTa1BBZmdfUmV0bENxYXoxT1dKVEYwS2pxcER1Y0I2X09qT0JwZWtEaUVOYjlRY0pFWGFFRVU5MjJZMXctX1VsLXpnQW94LURwcGZOVmNuOEFsRHRBVHE0eDZyVjF2U2hBZkgyRFZxbFpPVTctZXFYU2tn?oc=5",
+   "title": "US Supreme Court rejects TCS appeal in $168 million trade secrets case",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVVCSnRURXFtLXNfNTRKQUdJcUllVXdLdThOS201NDhudW50aU5sQXFtLUJxVFFpWElnSHFaOHEzQUUxeG5nN0ZkM0RORzFCQ3pkekdMSDdWcUpBMmlLRXJIYjN1X3dUeV9fWjRONC1LU2xPRE5iempuU3daM3g1NXROVlBRVWNMaGRuQURGZW1YS3FDWFpsTUVITjFMLXpuSU9jU3NudDdUWFFEOVdQM0R5TjA3NVBSWGF4RnRLRzFKRWhtdlRocHBHQVJTR09ueU1aSzE3MGZmUjFSVDY3WFhrcXZZaUFE0gHuAUFVX3lxTFBWemFFQkU0X0dNZG10Z3l6d29KM1pkclMxeVNKSjU4bW9BRW5UQUZiZzYyamFjandsRnZOMDNpVXFzUkdHOEZVOXpMSGZsMGFjNEtyVTZxVWlyV3BySmItLUl5T3p3N1p6ZlpWOXBLWVB4Y0lqTFNEdVFnWE9EZTVGVV8wYXBNTlVxSktLMFV6aTNTV2FkVnc0NEdUN2h6QnBOOHNXUkpCdXZsUVhLbTY4UF9RQlkxTWw4d2lKLU45MDNuMDlqaVNTelMzOFFhdnUzMVA3YlRPUzlBWVBCVThKeUQ0UlJsT00zS0ZFamc?oc=5",
    "summary": "",
    "time": "2026-06-18T16:58:38+08:00",
    "date": "2026-06-18",
    "sources": [
-    "Yahoo Finance",
+    "The Economic Times",
     "MSN"
    ],
    "region": "国际",
@@ -1207,13 +1187,13 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "US Supreme Court rejects TCS appeal in $168 million trade secrets case",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVVCSnRURXFtLXNfNTRKQUdJcUllVXdLdThOS201NDhudW50aU5sQXFtLUJxVFFpWElnSHFaOHEzQUUxeG5nN0ZkM0RORzFCQ3pkekdMSDdWcUpBMmlLRXJIYjN1X3dUeV9fWjRONC1LU2xPRE5iempuU3daM3g1NXROVlBRVWNMaGRuQURGZW1YS3FDWFpsTUVITjFMLXpuSU9jU3NudDdUWFFEOVdQM0R5TjA3NVBSWGF4RnRLRzFKRWhtdlRocHBHQVJTR09ueU1aSzE3MGZmUjFSVDY3WFhrcXZZaUFE0gHuAUFVX3lxTFBWemFFQkU0X0dNZG10Z3l6d29KM1pkclMxeVNKSjU4bW9BRW5UQUZiZzYyamFjandsRnZOMDNpVXFzUkdHOEZVOXpMSGZsMGFjNEtyVTZxVWlyV3BySmItLUl5T3p3N1p6ZlpWOXBLWVB4Y0lqTFNEdVFnWE9EZTVGVV8wYXBNTlVxSktLMFV6aTNTV2FkVnc0NEdUN2h6QnBOOHNXUkpCdXZsUVhLbTY4UF9RQlkxTWw4d2lKLU45MDNuMDlqaVNTelMzOFFhdnUzMVA3YlRPUzlBWVBCVThKeUQ0UlJsT00zS0ZFamc?oc=5",
+   "title": "US Supreme Court rejects Tata challenge to $168 million award in trade secrets case",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWhhUWFLRDJITVd3UDNJblBWUDYydlo2Zk9TN0VKeHhTa1BBZmdfUmV0bENxYXoxT1dKVEYwS2pxcER1Y0I2X09qT0JwZWtEaUVOYjlRY0pFWGFFRVU5MjJZMXctX1VsLXpnQW94LURwcGZOVmNuOEFsRHRBVHE0eDZyVjF2U2hBZkgyRFZxbFpPVTctZXFYU2tn?oc=5",
    "summary": "",
    "time": "2026-06-18T16:58:38+08:00",
    "date": "2026-06-18",
    "sources": [
-    "The Economic Times",
+    "Yahoo Finance",
     "MSN"
    ],
    "region": "国际",
@@ -4910,29 +4890,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "TCS to take $70 million hit after US Supreme Court rejects appeal in trade secrets case",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeFVxMnFxMmtNZXVNYlBMN0FNZFpZNzVWbzdmZElSeDA0U2g0cHI3aFJKNklBNXlEdzYxWkliZWhJdnR4SFNKQmlnNHR5R1MzOGQ3NlVKUFZUMVVyNFBySkQ3OWxBYTgtMndaV1kySExyQ1VnLXF0STJQczVadjlia1JZR0RaeS1acGpmb2ZacDNpQkZ6cHI4NnhicWJocTc2bm5nY1hUNGRDak9kcDhPUnJ0ajEzU2RNRU1YYmhRb1VJcDZTZG5jSGxUcGNiUmFW?oc=5",
-   "summary": "",
-   "time": "2026-06-16T13:05:36+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "MSN"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "court"
-   ],
-   "importance": 14.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "Judge tosses xAI claims that OpenAI stole trade secrets",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFdCZ3JaS3VLc3FOZnFUNkJYYVZNT0FkVzI2SkUyVnJ6SWNLTEg4YlE3cGJiN0JSX19pamJCZ2ZjcHhkVHBNbzFuckNHdGpsQlNDUm1fa3p0OFdJR2VqRThhRHlvZWZISEVpZmNwS2duNk83UnZjSVVVLThOZmdVN1V0Nm84RFJqODhqTngzZlVyelBCWFZmeUo1RQ?oc=5",
    "summary": "",
@@ -5094,6 +5051,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "TCS to take $70 million hit after US Supreme Court rejects appeal in trade secrets case",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeFVxMnFxMmtNZXVNYlBMN0FNZFpZNzVWbzdmZElSeDA0U2g0cHI3aFJKNklBNXlEdzYxWkliZWhJdnR4SFNKQmlnNHR5R1MzOGQ3NlVKUFZUMVVyNFBySkQ3OWxBYTgtMndaV1kySExyQ1VnLXF0STJQczVadjlia1JZR0RaeS1acGpmb2ZacDNpQkZ6cHI4NnhicWJocTc2bm5nY1hUNGRDak9kcDhPUnJ0ajEzU2RNRU1YYmhRb1VJcDZTZG5jSGxUcGNiUmFW?oc=5",
+   "summary": "",
+   "time": "2026-06-16T13:05:36+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "MSN"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "court"
+   ],
+   "importance": 14.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "US Supreme Court rejects Tata challenge to $168 million award in trade secrets case",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSU03RnB2SXlIZU1mUnV3a2d5WWJJNHJLZlRySU5pcm41MzVnQTYwbGZ1QTB2U3lETGtvYkFES0NWLVN0RDhOT2pvcEZ0cF9NZVU2Ukl2MGFwTG12ajdSMXpWT3JZM1o4SmVVTlBiVG9VTzMwdGZHRUtwaTJZbXlFNkpXaE1TVHg0V3k0TjU1enEtMHl2MnRpanN5XzZLX2lqUmV4MTE4ZVhsZTdaY0IwcnMxZUxHM2c?oc=5",
    "summary": "",
@@ -5160,6 +5140,29 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Musk’s Another Legal Setback: Judge Dismisses xAI’s Trade Secret Lawsuit Against OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZy0xcGFjOVZSNTFfdFpUcVlsVGpObVlTUng3Vy1YYmhVbFVITEZSeWgxRHRSR3A3UHlUVmZ4M2tZS3VITG9lcjVLbVZaZ0FMX0RXSTZxc2NoLTYtdEh0Qnd2a1RsdHhvZjAyVkkyb1ZsN0NKOTJxaWoyWnkxVW5pREc5T3hydXNKSC02OXRpM1pzV1Blbmd6NTJHWkx1TjU3cUdwOUI2angyTnUzSnYxZGdKalFVTzNPNEl4VDEyYjl0Q0VoaFprb2hCTkNWRDBsaUMw0gHYAUFVX3lxTFB2OGJGb2o2eVlhTWZhNk1yalA3OGlDa2xSb2JsajE5Zm1QcEdnXzZnNEZJaHV3S0NVeGxsMFUyMVhoaWRrNG85UjJEaHJIYUlYUHdpUVFqRGhGbmV5NnVzR2ZHV0pVLUJLZjBoQlU4SjE0Tk8yLUxKNlNuUFBjbjNULWozSThpMXQyV0w1alRic1dtb3otcEZwWV9ZaFVnTWhjS2hzaHVnVmQ5a1VWR3dmcFE2YVRIb01KbGtNMFJfRFlHeUlKSHhNRjY0NG1KZjkyMTFyN01HNw?oc=5",
+   "summary": "",
+   "time": "2026-06-16T13:36:42+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "Republic World",
+    "MSN"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 10.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Judge Dismisses xAI's Trade Secret Lawsuit Against OpenAI",
@@ -5580,28 +5583,6 @@
    "date": "2026-06-16",
    "sources": [
     "LatestLY"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Musk’s Another Legal Setback: Judge Dismisses xAI’s Trade Secret Lawsuit Against OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZy0xcGFjOVZSNTFfdFpUcVlsVGpObVlTUng3Vy1YYmhVbFVITEZSeWgxRHRSR3A3UHlUVmZ4M2tZS3VITG9lcjVLbVZaZ0FMX0RXSTZxc2NoLTYtdEh0Qnd2a1RsdHhvZjAyVkkyb1ZsN0NKOTJxaWoyWnkxVW5pREc5T3hydXNKSC02OXRpM1pzV1Blbmd6NTJHWkx1TjU3cUdwOUI2angyTnUzSnYxZGdKalFVTzNPNEl4VDEyYjl0Q0VoaFprb2hCTkNWRDBsaUMw0gHYAUFVX3lxTFB2OGJGb2o2eVlhTWZhNk1yalA3OGlDa2xSb2JsajE5Zm1QcEdnXzZnNEZJaHV3S0NVeGxsMFUyMVhoaWRrNG85UjJEaHJIYUlYUHdpUVFqRGhGbmV5NnVzR2ZHV0pVLUJLZjBoQlU4SjE0Tk8yLUxKNlNuUFBjbjNULWozSThpMXQyV0w1alRic1dtb3otcEZwWV9ZaFVnTWhjS2hzaHVnVmQ5a1VWR3dmcFE2YVRIb01KbGtNMFJfRFlHeUlKSHhNRjY0NG1KZjkyMTFyN01HNw?oc=5",
-   "summary": "",
-   "time": "2026-06-16T13:36:42+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Republic World"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
