@@ -1,14 +1,21 @@
 {
- "generated_at": "2026-06-22T02:23:03.011753+08:00",
+ "generated_at": "2026-06-22T03:02:41.633696+08:00",
  "count": 311,
  "highlight_count": 20,
  "errors": [
   "最高人民法院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "最高人民检察院: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: HTTP Error 502: Bad Gateway",
+  "微信公众号: <urlopen error _ssl.c:1112: The handshake operation timed out>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "cnBeta: The read operation timed out",
+  "Google News: The read operation timed out",
+  "Google News: The read operation timed out",
+  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
  ],
  "items": [
   {
@@ -24,7 +31,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 16.0,
+   "heat": 15.9,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -208,7 +215,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -231,7 +238,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -254,7 +261,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -277,7 +284,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -300,7 +307,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -323,7 +330,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -346,7 +353,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 13.7,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -369,7 +376,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 13.7,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -484,7 +491,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -507,7 +514,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -530,7 +537,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -553,7 +560,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -576,7 +583,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -599,7 +606,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -622,7 +629,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -645,7 +652,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -668,7 +675,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -691,7 +698,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -714,7 +721,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -737,7 +744,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -760,7 +767,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -783,7 +790,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -806,7 +813,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -829,7 +836,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -852,7 +859,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -1082,7 +1089,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.4,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "知识产权",
@@ -1105,7 +1112,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.4,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2066,19 +2073,20 @@
     "Silicon UK",
     "Al Jazeera",
     "Crypto Briefing",
-    "Claims Journal",
+    "WKZO",
+    "Mint",
     "HarianBasis.co"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 21.0,
+   "heat": 23.0,
    "hot": true,
    "tags": [
     "trade secrets",
     "trade secret",
     "lawsuit"
    ],
-   "importance": 23.5,
+   "importance": 25.5,
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -7245,19 +7253,20 @@
      "Silicon UK",
      "Al Jazeera",
      "Crypto Briefing",
-     "Claims Journal",
+     "WKZO",
+     "Mint",
      "HarianBasis.co"
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 21.0,
+    "heat": 23.0,
     "hot": true,
     "tags": [
      "trade secrets",
      "trade secret",
      "lawsuit"
     ],
-    "importance": 23.5,
+    "importance": 25.5,
     "kw_score": 7.0,
     "weight": 2.0,
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
