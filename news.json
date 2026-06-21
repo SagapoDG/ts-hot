@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-21T13:04:12.578938+08:00",
+ "generated_at": "2026-06-21T13:35:18.177324+08:00",
  "count": 307,
  "highlight_count": 21,
  "errors": [
@@ -8,7 +8,9 @@
   "最高法知识产权法庭: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "36氪: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+  "Solidot: <urlopen error _ssl.c:1112: The handshake operation timed out>"
  ],
  "items": [
   {
@@ -22,7 +24,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": true,
    "tags": [
     "经营信息",
@@ -45,7 +47,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": true,
    "tags": [
     "客户名单",
@@ -68,7 +70,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": true,
    "tags": [
     "经营信息",
@@ -91,7 +93,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": true,
    "tags": [
     "客户名单",
@@ -114,7 +116,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": true,
    "tags": [
     "经营信息",
@@ -804,7 +806,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -827,7 +829,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -850,7 +852,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -873,7 +875,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -896,7 +898,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -919,7 +921,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -942,7 +944,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -965,7 +967,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -988,7 +990,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1955,7 +1957,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.2,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2016,6 +2018,7 @@
    "date": "2026-06-17",
    "sources": [
     "grafa.com",
+    "Washington Examiner",
     "Silicon UK",
     "Al Jazeera",
     "Crypto Briefing",
@@ -2025,14 +2028,14 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 21.0,
+   "heat": 23.0,
    "hot": true,
    "tags": [
     "trade secrets",
     "trade secret",
     "lawsuit"
    ],
-   "importance": 23.5,
+   "importance": 25.5,
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -3173,6 +3176,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "Court dismisses Musk's lawsuit against OpenAI for theft of trade secrets and poaching employees",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQk9TUnl5VU5kQS11TzlSTmRXOGF1VGMwLWpPQnpKbkd1Q1NCbzdPTy1YemRkbkJ0dUZRT0g2QWFFRFZJTHNtVjA4WVAxNDVxNGVsb1BnLXJBclVVOHE3RTdTNnE0bENyTVFzNXNWR2ZubUk5cUIyeFZPbHJDWnVtZXVnZmRhQXJ3LTc2Zk8xLUJtV1FxbC16aE9WSS1pYmc3ZlJMLV9IRW80a3E1bUk0d3MtRjRNWnNMaFllMzYtWkRzNVEx?oc=5",
+   "summary": "",
+   "time": "2026-06-16T17:50:35+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "open.kg"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "Federal Circuit Reinstates $82 Million Verdict Against Ford Motor Company and Revives Trade Secrets Unjust Enrichment Theory",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdF9KMHFWT2twS3FTaHUxaGk2QlRzZXNCWWV3Qk5FNUctRE1VYkpSWjV0VGlaSjZCRW50OExrMWhQczBTcDI2enZjeGdad2w1T3JXWjkzNlNRT1Rid0ljbHNqUnM5QllWRlJ4M2VWVTh1VW5uaXlocVVzbDNZMl9WWXY0UV8zVTZad2NyaGNsenNPWlhyaHdsYnNjZUN6eVE5N3NXclN2NWdyUDdNbFHSAbMBQVVfeXFMTmsza3NjUUtLMnNXWGV6WTN3VHc2WElNYjZOVXRUTUJ3ZEhRRk52ZjZEa1BqREQ2LTFBeV8yQWo1Mk1iVXVzaWRMeDJtZGV2TTBRMzdXdTJwNmtjUnZvOGFuczAtalpmTkI3ZTN5dnlPQkEwcFB5MWxldk02clpZY3Q3NkJMMHU1MGFwWmhSaWxzVVVYRVRqbVVwbXhUcTJxLVR2SGtjdFdGV1FsYkJaVVFWd1k?oc=5",
    "summary": "Federal Circuit Reinstates $82 Million Verdict Against Ford Motor Company and Revives Trade Secrets Unjust Enrichment Theory The National Law Review",
@@ -3264,29 +3290,6 @@
    ],
    "importance": 14.5,
    "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Court dismisses Musk's lawsuit against OpenAI for theft of trade secrets and poaching employees",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQk9TUnl5VU5kQS11TzlSTmRXOGF1VGMwLWpPQnpKbkd1Q1NCbzdPTy1YemRkbkJ0dUZRT0g2QWFFRFZJTHNtVjA4WVAxNDVxNGVsb1BnLXJBclVVOHE3RTdTNnE0bENyTVFzNXNWR2ZubUk5cUIyeFZPbHJDWnVtZXVnZmRhQXJ3LTc2Zk8xLUJtV1FxbC16aE9WSS1pYmc3ZlJMLV9IRW80a3E1bUk0d3MtRjRNWnNMaFllMzYtWkRzNVEx?oc=5",
-   "summary": "",
-   "time": "2026-06-16T17:50:35+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "open.kg"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -7165,6 +7168,7 @@
     "date": "2026-06-17",
     "sources": [
      "grafa.com",
+     "Washington Examiner",
      "Silicon UK",
      "Al Jazeera",
      "Crypto Briefing",
@@ -7174,14 +7178,14 @@
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 21.0,
+    "heat": 23.0,
     "hot": true,
     "tags": [
      "trade secrets",
      "trade secret",
      "lawsuit"
     ],
-    "importance": 23.5,
+    "importance": 25.5,
     "kw_score": 7.0,
     "weight": 2.0,
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
