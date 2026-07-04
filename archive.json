@@ -269,8 +269,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "跳槽",
-   "秘密"
+   "秘密",
+   "跳槽"
   ],
   "importance": 12.0,
   "kw_score": 8.0,
@@ -292,8 +292,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "跳槽",
-   "秘密"
+   "秘密",
+   "跳槽"
   ],
   "importance": 10.0,
   "kw_score": 8.0,
@@ -700,17 +700,18 @@
   "time": "2026-06-10T15:00:00+08:00",
   "date": "2026-06-10",
   "sources": [
-   "Banking Dive"
+   "Banking Dive",
+   "Yahoo Finance"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.0,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "misappropriation",
    "trade secret"
   ],
-  "importance": 10.5,
+  "importance": 12.5,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -13831,8 +13832,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "窃取",
-   "秘密"
+   "秘密",
+   "窃取"
   ],
   "importance": 9.0,
   "kw_score": 5.0,
@@ -14599,7 +14600,7 @@
   "time": "2026-06-05T15:00:00+08:00",
   "date": "2026-06-05",
   "sources": [
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -16424,7 +16425,7 @@
   "time": "2026-06-25T18:15:45+08:00",
   "date": "2026-06-25",
   "sources": [
-   "IAM Patent"
+   "IAM Media"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -17366,7 +17367,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 6.7,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "客户名单"
@@ -17769,7 +17770,7 @@
   "time": "2026-06-26T17:58:00+08:00",
   "date": "2026-06-26",
   "sources": [
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -18677,8 +18678,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "诉讼",
-   "秘密"
+   "秘密",
+   "诉讼"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -18901,8 +18902,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "诉讼",
-   "秘密"
+   "秘密",
+   "诉讼"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -19218,8 +19219,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "窃取",
-   "秘密"
+   "秘密",
+   "窃取"
   ],
   "importance": 12.5,
   "kw_score": 5.0,
@@ -20026,12 +20027,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.7,
+  "heat": 9.5,
   "hot": false,
   "tags": [
    "商业机密",
-   "诉讼",
-   "泄密"
+   "泄密",
+   "诉讼"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -20115,7 +20116,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 7.9,
+  "heat": 7.7,
   "hot": false,
   "tags": [
    "trade secret",
@@ -20137,7 +20138,7 @@
   ],
   "region": "国际",
   "category": "竞业与保密",
-  "heat": 7.0,
+  "heat": 6.3,
   "hot": false,
   "tags": [
    "noncompete"
@@ -20312,7 +20313,7 @@
   "time": "2026-06-27T22:06:00+08:00",
   "date": "2026-06-27",
   "sources": [
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -20407,7 +20408,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 10.4,
+  "heat": 10.2,
   "hot": false,
   "tags": [
    "商业机密",
@@ -20841,7 +20842,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 11.2,
+  "heat": 11.0,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -20868,8 +20869,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "诉讼",
-   "秘密"
+   "秘密",
+   "诉讼"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -20917,6 +20918,75 @@
   ],
   "importance": 6.0,
   "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1783208903&ver=6823&signature=Dh7llRfvTmcsqJgH0CGZ1RjVHOkU6tH9d-yfvwvnKH5oxSrmsFDurmUD8x2lsODToQjuuDimZ1Jntt2OUlA1DSy8-tRXIZja10-eG7quJYQqhDSSXQMw8cWDLCtIWjCq&new=1": {
+  "title": "员工签订了《保密与 竞业限制 协议》,一定需要履行 竞业限制 义务吗?",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208903&ver=6823&signature=Dh7llRfvTmcsqJgH0CGZ1RjVHOkU6tH9d-yfvwvnKH5oxSrmsFDurmUD8x2lsODToQjuuDimZ1Jntt2OUlA1DSy8-tRXIZja10-eG7quJYQqhDSSXQMw8cWDLCtIWjCq&new=1",
+  "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员. 《中华人民共和国反不正当竞争法》第...",
+  "time": "2026-06-29T16:08:53+08:00",
+  "date": "2026-06-29",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 14.0,
+  "hot": false,
+  "tags": [
+   "反不正当竞争法",
+   "反不正当竞争",
+   "不正当竞争"
+  ],
+  "importance": 14.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=rchZQ8uOPTyVaEbXx4k-*oW0ATFjY65uLGS0uNH-eEHy1heFR7uOW9aZJuiO5eCGqqQ*3XhHkLEj3irxXgjrzUzpJ2TmQ*8ZKAQYBfe1S6g*iRXggOoxgJbeSqnGlnPi&new=1": {
+  "title": "商业秘密 鉴定中“二次泄密”风险的防范",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=rchZQ8uOPTyVaEbXx4k-*oW0ATFjY65uLGS0uNH-eEHy1heFR7uOW9aZJuiO5eCGqqQ*3XhHkLEj3irxXgjrzUzpJ2TmQ*8ZKAQYBfe1S6g*iRXggOoxgJbeSqnGlnPi&new=1",
+  "summary": "[编者按] 在 商业秘密 诉讼中,无论是原告,还是被告,都在担心“泄密”的问题.原告为了证明对方侵犯自己的 商业秘密 ,不得不展示...",
+  "time": "2026-07-05T02:21:40+08:00",
+  "date": "2026-07-05",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "窃密泄密",
+  "heat": 12.7,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "秘密",
+   "诉讼"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=DDa9MVxQbIaZU7fPwVRpPZla3lJoxM7gywJxyr2Or9t0iRBws067yygCpG8Rye5UhwOsDFAMeyTUZADkuW1dtbX5izWnYHC2jBeMC*kdczsoHmShdyCpuV-h*PZZ0q-H&new=1": {
+  "title": "【 商业秘密 】整体技术方案即使各部分已知,但独特组合仍可构成技术秘密——(2020)最高法知民终1889号案",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=DDa9MVxQbIaZU7fPwVRpPZla3lJoxM7gywJxyr2Or9t0iRBws067yygCpG8Rye5UhwOsDFAMeyTUZADkuW1dtbX5izWnYHC2jBeMC*kdczsoHmShdyCpuV-h*PZZ0q-H&new=1",
+  "summary": "第三十二条已对 商业秘密 侵权举证责任作出特别规定,本案的实践应用进一步明确了“接触+实质相同”后的举证责任转移效果.从权...",
+  "time": "2026-07-04T11:19:01+08:00",
+  "date": "2026-07-04",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 11.9,
+  "hot": false,
+  "tags": [
+   "技术秘密",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
  }

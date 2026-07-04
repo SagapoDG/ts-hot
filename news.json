@@ -1,12 +1,38 @@
 {
- "generated_at": "2026-07-05T04:14:59.874993+08:00",
- "count": 105,
+ "generated_at": "2026-07-05T07:47:53.770309+08:00",
+ "count": 107,
  "highlight_count": 19,
- "errors": [],
+ "errors": [
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+ ],
  "items": [
   {
+   "title": "商业秘密 鉴定中“二次泄密”风险的防范",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=rchZQ8uOPTyVaEbXx4k-*oW0ATFjY65uLGS0uNH-eEHy1heFR7uOW9aZJuiO5eCGqqQ*3XhHkLEj3irxXgjrzUzpJ2TmQ*8ZKAQYBfe1S6g*iRXggOoxgJbeSqnGlnPi&new=1",
+   "summary": "[编者按] 在 商业秘密 诉讼中,无论是原告,还是被告,都在担心“泄密”的问题.原告为了证明对方侵犯自己的 商业秘密 ,不得不展示...",
+   "time": "2026-07-05T02:21:40+08:00",
+   "date": "2026-07-05",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "窃密泄密",
+   "heat": 12.7,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密",
+    "诉讼"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
    "title": "【 商业秘密 】整体技术方案即使各部分已知,但独特组合仍可构成技术秘密——(2020)最高法知民终1889号案",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783196102&ver=6822&signature=47XpjqAS-lue*wIXgVFJR1BELc2qYbHp2E8DXcDwnjruWkbx*WpQEmNGk1g3QDcKa4lS3rJE85Y61DvJANXx6pRf*N8KZ5AwfQsDpexP95CdiVjiuP2S7ah8EWuFa-Rz&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208876&ver=6823&signature=DDa9MVxQbIaZU7fPwVRpPZla3lJoxM7gywJxyr2Or9t0iRBws067yygCpG8Rye5UhwOsDFAMeyTUZADkuW1dtbX5izWnYHC2jBeMC*kdczsoHmShdyCpuV-h*PZZ0q-H&new=1",
    "summary": "第三十二条已对 商业秘密 侵权举证责任作出特别规定,本案的实践应用进一步明确了“接触+实质相同”后的举证责任转移效果.从权...",
    "time": "2026-07-04T11:19:01+08:00",
    "date": "2026-07-04",
@@ -15,11 +41,11 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.1,
+   "heat": 11.9,
    "hot": false,
    "tags": [
-    "商业秘密",
     "技术秘密",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -38,11 +64,34 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.1,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "技术秘密",
     "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "【 商业秘密 】整体技术方案即使各部分已知,但独特组合仍可构成技术秘密——(2020)最高法知民终1889号案",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783196102&ver=6822&signature=47XpjqAS-lue*wIXgVFJR1BELc2qYbHp2E8DXcDwnjruWkbx*WpQEmNGk1g3QDcKa4lS3rJE85Y61DvJANXx6pRf*N8KZ5AwfQsDpexP95CdiVjiuP2S7ah8EWuFa-Rz&new=1",
+   "summary": "第三十二条已对 商业秘密 侵权举证责任作出特别规定,本案的实践应用进一步明确了“接触+实质相同”后的举证责任转移效果.从权...",
+   "time": "2026-07-04T11:19:01+08:00",
+   "date": "2026-07-04",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -61,7 +110,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -84,7 +133,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.4,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -107,7 +156,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.7,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "客户名单"
@@ -128,7 +177,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 15.6,
+   "heat": 15.4,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -142,29 +191,6 @@
   },
   {
    "title": "竞业限制 范围过宽,法院可能认定无效",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783196126&ver=6822&signature=npnSvTXkqIzl5gZpys0*BOMxdETLF9rlbLq*ztj2rNI9tjM-Gi8jUy-9AQvvvmalhW1aHYABz01D-*QuLSAo4vOdE8WEkQJpi40RemYmVKB7075IwdAUhKbCxTbEHBIR&new=1",
-   "summary": "给每个员工都签 竞业限制 协议?觉得能锁死商业秘密?别急.看看真实场景:你公司一个普通销售,没核心技术、没客户名单,离职后...",
-   "time": "2026-07-03T18:24:56+08:00",
-   "date": "2026-07-03",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 15.1,
-   "hot": true,
-   "tags": [
-    "客户名单",
-    "竞业限制",
-    "商业秘密"
-   ],
-   "importance": 15.5,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制 范围过宽,法院可能认定无效",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783110884&ver=6820&signature=IhZILhuzXLeg*gd28FfsYG*Dk6CbZUZNAXBNmVErDdpUHhIM*gwuHtft9iQCfSAU-NHCarC-gAH0VuueLgCzzx*YSNBhcMyEvKKLVDE4XRD48AbyU6EGpozFwbIjg1qk&new=1",
    "summary": "给每个员工都签 竞业限制 协议?觉得能锁死商业秘密?别急.看看真实场景:你公司一个普通销售,没核心技术、没客户名单,离职后...",
    "time": "2026-07-03T18:24:56+08:00",
@@ -174,7 +200,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.1,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -197,7 +223,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.1,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "客户名单",
@@ -220,7 +246,30 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 15.1,
+   "heat": 14.9,
+   "hot": true,
+   "tags": [
+    "客户名单",
+    "竞业限制",
+    "商业秘密"
+   ],
+   "importance": 15.5,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "竞业限制 范围过宽,法院可能认定无效",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783196126&ver=6822&signature=npnSvTXkqIzl5gZpys0*BOMxdETLF9rlbLq*ztj2rNI9tjM-Gi8jUy-9AQvvvmalhW1aHYABz01D-*QuLSAo4vOdE8WEkQJpi40RemYmVKB7075IwdAUhKbCxTbEHBIR&new=1",
+   "summary": "给每个员工都签 竞业限制 协议?觉得能锁死商业秘密?别急.看看真实场景:你公司一个普通销售,没核心技术、没客户名单,离职后...",
+   "time": "2026-07-03T18:24:56+08:00",
+   "date": "2026-07-03",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "客户名单",
@@ -243,7 +292,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "保密协议",
@@ -266,7 +315,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.2,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -289,7 +338,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 11.2,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -312,7 +361,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 11.2,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -335,7 +384,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.1,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -358,7 +407,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.1,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -381,7 +430,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.4,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业机密",
@@ -404,7 +453,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.1,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -427,7 +476,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.0,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -450,7 +499,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.8,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -473,12 +522,12 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业机密",
-    "诉讼",
-    "泄密"
+    "泄密",
+    "诉讼"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -496,7 +545,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -519,7 +568,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -541,7 +590,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 7.9,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "trade secret",
@@ -563,7 +612,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.8,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -585,7 +634,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.8,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -607,7 +656,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.5,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "noncompete"
@@ -628,7 +677,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.7,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -651,7 +700,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.7,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -674,7 +723,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.0,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -697,7 +746,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -707,6 +756,29 @@
    "importance": 11.5,
    "kw_score": 7.0,
    "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "7th Circ. Questions Contempt On Hytera Radio Redesign",
+   "url": "https://www.law360.com/ip/articles/2496209?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "A Seventh Circuit panel seemed unsure Wednesday that a district court correctly found Motorola Solutions Inc. entitled to a cut of Hytera Communications Corp. Ltd.'s sales of red…",
+   "time": "2026-07-02T06:45:45+08:00",
+   "date": "2026-07-02",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.5,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "court",
+    "theft"
+   ],
+   "importance": 12.0,
+   "kw_score": 7.0,
+   "weight": 2.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -720,7 +792,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -731,29 +803,6 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "7th Circ. Questions Contempt On Hytera Radio Redesign",
-   "url": "https://www.law360.com/ip/articles/2496209?utm_source=rss&utm_medium=rss&utm_campaign=section",
-   "summary": "A Seventh Circuit panel seemed unsure Wednesday that a district court correctly found Motorola Solutions Inc. entitled to a cut of Hytera Communications Corp. Ltd.'s sales of red…",
-   "time": "2026-07-02T06:45:45+08:00",
-   "date": "2026-07-02",
-   "sources": [
-    "Law360 知识产权"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.6,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "court",
-    "theft"
-   ],
-   "importance": 12.0,
-   "kw_score": 7.0,
-   "weight": 2.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "LSD Treatment Trade Secrets Suit Fails For Lack Of Specifics",
@@ -810,7 +859,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 6.8,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1355,8 +1404,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "诉讼",
-    "秘密"
+    "秘密",
+    "诉讼"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1423,8 +1472,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "窃取",
-    "秘密"
+    "秘密",
+    "窃取"
    ],
    "importance": 12.5,
    "kw_score": 5.0,
@@ -1589,6 +1638,29 @@
   },
   {
    "title": "员工签订了《保密与 竞业限制 协议》,一定需要履行 竞业限制 义务吗?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783208903&ver=6823&signature=Dh7llRfvTmcsqJgH0CGZ1RjVHOkU6tH9d-yfvwvnKH5oxSrmsFDurmUD8x2lsODToQjuuDimZ1Jntt2OUlA1DSy8-tRXIZja10-eG7quJYQqhDSSXQMw8cWDLCtIWjCq&new=1",
+   "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员. 《中华人民共和国反不正当竞争法》第...",
+   "time": "2026-06-29T16:08:53+08:00",
+   "date": "2026-06-29",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 14.0,
+   "hot": true,
+   "tags": [
+    "反不正当竞争法",
+    "反不正当竞争",
+    "不正当竞争"
+   ],
+   "importance": 14.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "员工签订了《保密与 竞业限制 协议》,一定需要履行 竞业限制 义务吗?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1782743878&ver=6812&signature=QxONcnTWIj62nbHlbTK2QAKa5yyrDPmujvMqC5K9VQcnB*jIDvYDhOCfneUhg-ucyS47JNo-UVhhdx6X1ECBuv*ChxRDpTsaZv-PGDAxZVIfy1LJMYiuLHr2PxlskGUX&new=1",
    "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员. 《中华人民共和国反不正当竞争法》第...",
    "time": "2026-06-29T16:08:53+08:00",
@@ -1622,7 +1694,7 @@
    "region": "国内",
    "category": "竞业与保密",
    "heat": 14.0,
-   "hot": true,
+   "hot": false,
    "tags": [
     "反不正当竞争法",
     "反不正当竞争",
@@ -1970,8 +2042,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "诉讼",
-    "秘密"
+    "秘密",
+    "诉讼"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -2285,29 +2357,6 @@
     "商业秘密",
     "员工",
     "秘密"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "ADF Foods Subsidiary Wins Favorable US Court Order for Trade Secret Misappropriation",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc2E2YUg3QjdPeUhKQkx6aHZ3M2lzejlwZjhsXzRrMEg2UUl6M25qRUlHUmFISkszZ21KRFA5ZnQ0aC1heGlPSmhPdHBETG44VnZVVW5jZ0VBQjNhZGFUUWRfOEVseVI5Y1NmcU5rUW5WNUllM1ozZ1lRTUlzTEJOTGVFbm9sRnZwbmNSXzBnNDdvUHJDNTd4OWlHQzhLMTB2Q2EyOUNrcm1fUXJZd0VVbFd6bERKUmZzRWdERTNuN3dCc2cteU1xblRScWdzNjJZUmdEa2R0b1pnRUVTdTlIbVdnc1ZpczQ1UWpBdUpJRXJPOVEzbUVBVldmUko?oc=5",
-   "summary": "",
-   "time": "2026-06-28T06:03:37+08:00",
-   "date": "2026-06-28",
-   "sources": [
-    "Whalesbook"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "misappropriation",
-    "trade secret",
-    "court"
    ],
    "importance": 11.5,
    "kw_score": 7.0,
