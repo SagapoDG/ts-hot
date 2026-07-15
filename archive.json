@@ -223,7 +223,7 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "跳槽",
+   "秘密",
    "挖角"
   ],
   "importance": 12.0,
@@ -246,7 +246,7 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "跳槽",
+   "秘密",
    "挖角"
   ],
   "importance": 10.0,
@@ -4228,7 +4228,7 @@
   "tags": [
    "商业秘密",
    "知识产权",
-   "秘密"
+   "判赔"
   ],
   "importance": 12.5,
   "kw_score": 8.0,
@@ -8543,8 +8543,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "员工",
-   "天价"
+   "天价",
+   "员工"
   ],
   "importance": 10.5,
   "kw_score": 3.0,
@@ -14379,8 +14379,8 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
+   "商业秘密",
    "秘密"
   ],
   "importance": 10.0,
@@ -14611,7 +14611,7 @@
   "tags": [
    "侵犯商业秘密",
    "商业秘密",
-   "秘密"
+   "判决"
   ],
   "importance": 12.5,
   "kw_score": 8.0,
@@ -22050,7 +22050,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 8.6,
+  "heat": 8.5,
   "hot": false,
   "tags": [
    "espionage",
@@ -22454,6 +22454,7 @@
   "sources": [
    "Reuters",
    "Virginia Lawyers Weekly",
+   "NBC News",
    "Seeking Alpha",
    "NDTV",
    "The Economic Times",
@@ -22461,14 +22462,14 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 21.2,
+  "heat": 23.2,
   "hot": false,
   "tags": [
    "former employee",
    "trade secrets",
    "trade secret"
   ],
-  "importance": 22.5,
+  "importance": 24.5,
   "kw_score": 8.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -22983,19 +22984,18 @@
   "time": "2026-07-11T07:13:02+08:00",
   "date": "2026-07-11",
   "sources": [
-   "Al Jazeera",
-   "CBC"
+   "Al Jazeera"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 11.0,
+  "heat": 9.0,
   "hot": false,
   "tags": [
    "trade secrets",
    "trade secret",
    "lawsuit"
   ],
-  "importance": 13.5,
+  "importance": 11.5,
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -23475,7 +23475,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 22.7,
+  "heat": 22.6,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -24388,8 +24388,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "员工",
-   "跳槽"
+   "跳槽",
+   "员工"
   ],
   "importance": 8.0,
   "kw_score": 6.0,
@@ -24456,8 +24456,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "poach",
-   "theft"
+   "theft",
+   "poach"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -25651,7 +25651,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.5,
+  "heat": 9.4,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -25701,8 +25701,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "窃取",
-   "挖人"
+   "挖人",
+   "窃取"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -25721,12 +25721,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.6,
+  "heat": 9.5,
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "窃取"
+   "窃取",
+   "秘密"
   ],
   "importance": 11.5,
   "kw_score": 5.0,
@@ -25744,7 +25744,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 7.5,
+  "heat": 7.4,
   "hot": false,
   "tags": [
    "商业机密",
@@ -25767,7 +25767,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 8.0,
+  "heat": 7.9,
   "hot": false,
   "tags": [
    "商业机密",
@@ -25837,7 +25837,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 6.5,
+  "heat": 6.4,
   "hot": false,
   "tags": [
    "商业机密",
@@ -25969,7 +25969,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 6.9,
+  "heat": 6.8,
   "hot": false,
   "tags": [
    "竞业限制",
@@ -25991,7 +25991,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 7.0,
+  "heat": 6.9,
   "hot": false,
   "tags": [
    "商业机密",
@@ -26119,7 +26119,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 3.8,
+  "heat": 3.7,
   "hot": false,
   "tags": [
    "poach"
@@ -26202,7 +26202,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -26271,7 +26271,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 10.1,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -26340,7 +26340,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 9.3,
+  "heat": 9.2,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -26432,7 +26432,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 5.3,
+  "heat": 5.2,
   "hot": false,
   "tags": [
    "竞业限制"
@@ -26541,7 +26541,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 4.1,
+  "heat": 4.0,
   "hot": false,
   "tags": [
    "espionage"
@@ -26725,7 +26725,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 12.3,
+  "heat": 12.2,
   "hot": false,
   "tags": [
    "espionage",
@@ -26811,7 +26811,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 5.2,
+  "heat": 5.1,
   "hot": false,
   "tags": [
    "espionage"
@@ -27203,7 +27203,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 6.6,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "trade secret"
@@ -27345,7 +27345,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 22.6,
+  "heat": 22.5,
   "hot": false,
   "tags": [
    "former employee",
@@ -27436,7 +27436,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 13.7,
+  "heat": 13.6,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -27482,7 +27482,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 10.7,
+  "heat": 10.6,
   "hot": false,
   "tags": [
    "former employee",
@@ -27505,12 +27505,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 8.2,
+  "heat": 8.1,
   "hot": false,
   "tags": [
    "知识产权",
    "窃取",
-   "员工"
+   "诉讼"
   ],
   "importance": 9.0,
   "kw_score": 5.0,
@@ -27685,12 +27685,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.3,
+  "heat": 9.2,
   "hot": false,
   "tags": [
    "商业机密",
-   "窃取",
-   "员工"
+   "诉讼",
+   "窃取"
   ],
   "importance": 10.0,
   "kw_score": 6.0,
@@ -28065,7 +28065,7 @@
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 7.0,
+  "heat": 6.9,
   "hot": false,
   "tags": [
    "竞业限制"
@@ -28311,7 +28311,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.6,
+  "heat": 10.5,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -28427,7 +28427,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 9.0,
+  "heat": 8.9,
   "hot": false,
   "tags": [
    "trade secret",
@@ -28562,7 +28562,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.6,
+  "heat": 10.5,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -28584,12 +28584,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.6,
+  "heat": 9.5,
   "hot": false,
   "tags": [
    "技术秘密",
-   "秘密",
-   "诉讼"
+   "诉讼",
+   "秘密"
   ],
   "importance": 12.5,
   "kw_score": 5.0,
@@ -28811,7 +28811,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 7.3,
+  "heat": 7.2,
   "hot": false,
   "tags": [
    "商业机密"
@@ -29105,7 +29105,7 @@
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 8.1,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "竞业限制",
@@ -29202,7 +29202,7 @@
   "tags": [
    "商业机密",
    "商业秘密",
-   "秘密"
+   "诉讼"
   ],
   "importance": 12.5,
   "kw_score": 9.0,
@@ -29224,8 +29224,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "诉讼"
+   "诉讼",
+   "秘密"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -29243,7 +29243,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 8.5,
+  "heat": 8.4,
   "hot": false,
   "tags": [
    "商业机密",
@@ -29286,7 +29286,7 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 4.5,
+  "heat": 4.4,
   "hot": false,
   "tags": [],
   "importance": 4.5,
@@ -29423,7 +29423,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 9.1,
+  "heat": 9.0,
   "hot": false,
   "tags": [
    "商业机密",
@@ -29535,12 +29535,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 19.1,
+  "heat": 19.0,
   "hot": false,
   "tags": [
    "商业机密",
    "商业秘密",
-   "秘密"
+   "员工"
   ],
   "importance": 18.5,
   "kw_score": 12.0,
@@ -29581,7 +29581,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 14.6,
+  "heat": 14.5,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -29604,7 +29604,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 14.5,
+  "heat": 14.4,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -29673,7 +29673,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.4,
+  "heat": 12.3,
   "hot": false,
   "tags": [
    "trade secret",
@@ -29696,7 +29696,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 9.0,
+  "heat": 8.9,
   "hot": false,
   "tags": [
    "trade secret",
@@ -29833,7 +29833,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 10.1,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "商业机密",
@@ -30254,5 +30254,74 @@
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784137698&ver=6844&signature=iqrbZLEab-LEHDjsc3aVuiCqDY79tCUrp88sGYAtDVyuiaYW-Kf6GoWXxuk04OuzGfSuPEcMYh3odtYD6mdR0vXY1T9Df-cJs5QaFiPkCt6wdxBVMIEZXGi*jWFYJ-Ju&new=1": {
+  "title": "律师视角讲述:一个关于人才流动、 商业秘密 与企业自救的法律故事",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784137698&ver=6844&signature=iqrbZLEab-LEHDjsc3aVuiCqDY79tCUrp88sGYAtDVyuiaYW-Kf6GoWXxuk04OuzGfSuPEcMYh3odtYD6mdR0vXY1T9Df-cJs5QaFiPkCt6wdxBVMIEZXGi*jWFYJ-Ju&new=1",
+  "summary": "但所有人都清楚,只要新品牌跑得足够快,前雇主就可能用 商业秘密 、不正当竞争、竞业限制甚至刑事控告来施加压力.这不是法律想...",
+  "time": "2026-07-15T19:45:06+08:00",
+  "date": "2026-07-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "刑事打击",
+  "heat": 16.7,
+  "hot": false,
+  "tags": [
+   "不正当竞争",
+   "竞业限制",
+   "商业秘密"
+  ],
+  "importance": 15.5,
+  "kw_score": 11.0,
+  "weight": 2.0,
+  "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784137722&ver=6844&signature=94dYySaHq62AFkTQBHh9vjCE*fl07rc9VmTXKOMcpauPO68wQEe2xKkhsTDAB-vhXRpVCAnD16n6NroMhAFGuJDEmsAqLKVlYvT5P-rxRyhSgsrBKO*g1ekX5dfOo2rk&new=1": {
+  "title": "竞业限制 和商业秘密,到底能不能“双赔”? 权利人维权路径怎么选?",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784137722&ver=6844&signature=94dYySaHq62AFkTQBHh9vjCE*fl07rc9VmTXKOMcpauPO68wQEe2xKkhsTDAB-vhXRpVCAnD16n6NroMhAFGuJDEmsAqLKVlYvT5P-rxRyhSgsrBKO*g1ekX5dfOo2rk&new=1",
+  "summary": "竞业限制 和商业秘密,到底能不能“双赔”? 权利人维权路径怎么选??员工跳槽到竞争对手,还带走了公司的商业秘密——这是很多...",
+  "time": "2026-07-10T11:40:06+08:00",
+  "date": "2026-07-10",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 12.0,
+  "hot": false,
+  "tags": [
+   "竞业限制",
+   "商业秘密",
+   "员工"
+  ],
+  "importance": 12.0,
+  "kw_score": 10.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784137745&ver=6844&signature=hThi5vhzQ8U5I99B0mLJH1R4wD0redhMmIqwOvVm6FRGudcvsXoTAU-gpHmDCNOx36C4NK7tP3suLBqiuO4SbmFcfN8TE-XJizWtqWxKCgvcjoiXrtl*XF4E0rM*wsTm&new=1": {
+  "title": "侵害 商业秘密 | 核心研发人员集体带着秘密跳槽时怎么办?",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784137745&ver=6844&signature=hThi5vhzQ8U5I99B0mLJH1R4wD0redhMmIqwOvVm6FRGudcvsXoTAU-gpHmDCNOx36C4NK7tP3suLBqiuO4SbmFcfN8TE-XJizWtqWxKCgvcjoiXrtl*XF4E0rM*wsTm&new=1",
+  "summary": "侵犯商业秘密 ,有下列情形之一应予立案追诉:1、造成损失30万元以上;2、违法所得30万元以上;3、导致企业重大经营困难、破产...",
+  "time": "2026-07-14T12:28:57+08:00",
+  "date": "2026-07-14",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 12.9,
+  "hot": false,
+  "tags": [
+   "侵犯商业秘密",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 11.0,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
  }
 }
