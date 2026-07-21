@@ -3582,9 +3582,9 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
-   "判赔"
+   "商业秘密",
+   "秘密"
   ],
   "importance": 12.5,
   "kw_score": 8.0,
@@ -7877,8 +7877,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "员工",
-   "天价"
+   "天价",
+   "员工"
   ],
   "importance": 10.5,
   "kw_score": 3.0,
@@ -20776,8 +20776,8 @@
   "hot": false,
   "tags": [
    "源代码",
-   "获刑",
-   "员工"
+   "离职",
+   "获刑"
   ],
   "importance": 13.5,
   "kw_score": 6.0,
@@ -24808,8 +24808,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "员工",
-   "窃取"
+   "窃取",
+   "员工"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -25003,7 +25003,7 @@
   "time": "2026-07-10T15:00:00+08:00",
   "date": "2026-07-10",
   "sources": [
-   "qq.co"
+   "腾讯新闻"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -32555,8 +32555,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "诉讼",
-   "窃取"
+   "窃取",
+   "诉讼"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -32823,18 +32823,19 @@
   "date": "2026-07-15",
   "sources": [
    "TradingView",
+   "新浪财经",
    "video.sina.com.cn"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.0,
+  "heat": 11.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "诉讼",
    "秘密"
   ],
-  "importance": 11.5,
+  "importance": 13.5,
   "kw_score": 5.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -32982,7 +32983,7 @@
   "time": "2026-07-11T10:34:00+08:00",
   "date": "2026-07-11",
   "sources": [
-   "腾讯新闻"
+   "qq.co"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -33172,8 +33173,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "诉讼",
-   "窃取"
+   "窃取",
+   "诉讼"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -35368,7 +35369,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 6.9,
+  "heat": 6.8,
   "hot": false,
   "tags": [
    "FBI",
@@ -35505,12 +35506,12 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 14.7,
+  "heat": 14.5,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
-   "商业秘密",
-   "知识产权"
+   "知识产权",
+   "商业秘密"
   ],
   "importance": 12.0,
   "kw_score": 10.0,
@@ -35551,11 +35552,11 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 11.7,
+  "heat": 11.5,
   "hot": false,
   "tags": [
-   "技术秘密",
    "知识产权",
+   "技术秘密",
    "窃取"
   ],
   "importance": 9.0,
@@ -35574,12 +35575,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.1,
+  "heat": 8.9,
   "hot": false,
   "tags": [
    "商业机密",
-   "诉讼",
-   "窃取"
+   "窃取",
+   "诉讼"
   ],
   "importance": 9.0,
   "kw_score": 5.0,
@@ -35597,7 +35598,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 8.7,
+  "heat": 8.5,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -35918,7 +35919,7 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 12.3,
+  "heat": 12.2,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -36032,7 +36033,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 9.8,
   "hot": false,
   "tags": [
    "技术秘密",
@@ -36100,7 +36101,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 9.4,
+  "heat": 9.2,
   "hot": false,
   "tags": [
    "trade secret",
@@ -36237,7 +36238,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 12.9,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -36374,7 +36375,7 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 8.7,
+  "heat": 8.5,
   "hot": false,
   "tags": [
    "经济间谍"
@@ -36464,7 +36465,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.1,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "trade secret",
@@ -36488,7 +36489,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 10.4,
+  "heat": 10.2,
   "hot": false,
   "tags": [
    "espionage"
@@ -36518,5 +36519,96 @@
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=Ip-GYOUdgzwIT*tPwGD7IFeYW6Azvtn6DwbAtXqIx3sIFkR5yKqH*EfR92eCpdWfwrsRQe8jUkSPLUAvvlOxEOmAn4gputJWbSusSA2Kkc5KSYw-odBRI1cQUnrhBw2S&new=1": {
+  "title": "商业秘密 属于法定知识产权!配方、算法、客户名单司法认定与跳槽泄密追责全解",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=Ip-GYOUdgzwIT*tPwGD7IFeYW6Azvtn6DwbAtXqIx3sIFkR5yKqH*EfR92eCpdWfwrsRQe8jUkSPLUAvvlOxEOmAn4gputJWbSusSA2Kkc5KSYw-odBRI1cQUnrhBw2S&new=1",
+  "summary": "导语:2026年6月1日,《 商业秘密 保护规定》(市监总局126号令)正式施行,明确将企业技术信息、深度经营信息纳入法定知识产权...",
+  "time": "2026-07-21T12:00:48+08:00",
+  "date": "2026-07-21",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "窃密泄密",
+  "heat": 17.9,
+  "hot": false,
+  "tags": [
+   "知识产权",
+   "客户名单",
+   "商业秘密"
+  ],
+  "importance": 14.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=F4*vVsWaAob2QveS4sbPq10ZjW48upL7nZsvWvzWVmTdYy9mg3ls7fTDHXBpAfQtVjJXDe7e*aBIOgkJ5ue62t5KEA85-XqZvBTwH7I*kJuvQbov0fRcoYhF8R2GlBgm&new=1": {
+  "title": "科创板周评|9.67亿天价索赔!一个 商业秘密 引发十六年纷争(0713-0719)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=F4*vVsWaAob2QveS4sbPq10ZjW48upL7nZsvWvzWVmTdYy9mg3ls7fTDHXBpAfQtVjJXDe7e*aBIOgkJ5ue62t5KEA85-XqZvBTwH7I*kJuvQbov0fRcoYhF8R2GlBgm&new=1",
+  "summary": "一个 商业秘密 引发的横跨十六年的知识产权拉锯战上周,科创板合成生物龙头凯赛生物(688065.SH)发布公告,公司及全资子公司凯...",
+  "time": "2026-07-21T08:01:14+08:00",
+  "date": "2026-07-21",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 13.7,
+  "hot": false,
+  "tags": [
+   "知识产权",
+   "商业秘密",
+   "天价"
+  ],
+  "importance": 15.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=d0f-uOa53PNV5pm1Rxa4Qtp6y0pymOg3GMXR3ADxKxkBxYbiqFLI*5fP0SRLYYFeh64e93Zk34ma1AJ3Qbx2s4w*78r9okrLYGRMEx4lrkw9Uz6*bkbIkPap35EqtCND&new=1": {
+  "title": "区域动态 | 沉浸式剧本杀走进 商业秘密 保护新课堂",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784613241&ver=6855&signature=d0f-uOa53PNV5pm1Rxa4Qtp6y0pymOg3GMXR3ADxKxkBxYbiqFLI*5fP0SRLYYFeh64e93Zk34ma1AJ3Qbx2s4w*78r9okrLYGRMEx4lrkw9Uz6*bkbIkPap35EqtCND&new=1",
+  "summary": "6月1日,市场监管总局新版《 商业秘密 保护规定》正式施行,对企业技术秘密、客户信息、核心数据等无形资产的保护力度全面升级....",
+  "time": "2026-07-20T18:32:28+08:00",
+  "date": "2026-07-20",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "行政执法",
+  "heat": 11.9,
+  "hot": false,
+  "tags": [
+   "技术秘密",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 11.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFhpeTg0cUUwcUlmNGJseURId0FlMmM5QkZLaXNJaThNdDRIRzRnaWo4aFBmR0k3ZXhCY1FZUjJNVl9GWVhuM2hYUkRlZ00tSUFJUFhVNm0wczMzRmJ4Nkg4YktoTDFBTjBsRi0xX1Q3RlpSTTM1cmI5TzVLb0hMQXBMWnJrMEI2dVdsMEZSVEFrbXQ2RmNUUG9JWG5jOEd6UnhITzBkd3BzcEg4ZmE5WUJuVExlOUlVQUxOQlFn?oc=5": {
+  "title": "Trade secrets overtake patents as top IP risk for US firms in China, survey finds",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFhpeTg0cUUwcUlmNGJseURId0FlMmM5QkZLaXNJaThNdDRIRzRnaWo4aFBmR0k3ZXhCY1FZUjJNVl9GWVhuM2hYUkRlZ00tSUFJUFhVNm0wczMzRmJ4Nkg4YktoTDFBTjBsRi0xX1Q3RlpSTTM1cmI5TzVLb0hMQXBMWnJrMEI2dVdsMEZSVEFrbXQ2RmNUUG9JWG5jOEd6UnhITzBkd3BzcEg4ZmE5WUJuVExlOUlVQUxOQlFn?oc=5",
+  "summary": "",
+  "time": "2026-06-12T15:00:00+08:00",
+  "date": "2026-06-12",
+  "sources": [
+   "IAM Patent"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 8.0,
+  "hot": false,
+  "tags": [
+   "trade secrets",
+   "trade secret"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
  }
 }
