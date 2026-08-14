@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-08-15T05:29:32.565641+08:00",
- "count": 277,
+ "generated_at": "2026-08-15T05:52:55.263928+08:00",
+ "count": 279,
  "highlight_count": 28,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
+  "Fair Competition Law: <urlopen error timed out>",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -122,7 +123,7 @@
   },
   {
    "title": "员工跳槽开同业公司、低价抢客户| 商业秘密 罪案件,家属一定要看懂的辩护逻辑",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786742975&ver=6905&signature=4LhWbGYl-6MMJOX-ZjzImRkG1BDYoAhsnJiDxIzwIgoWaWMdchRFNsmZ*fG6TfzvT5YCdWOAVBLuPOxKZEeRgGaHBVXVvlLEG9e-52qWTBBfpMGOrx*gRuIBemkrLFxs&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786744377&ver=6905&signature=4LhWbGYl-6MMJOX-ZjzImRkG1BDYoAhsnJiDxIzwIgoWaWMdchRFNsmZ*fG6Tfzv5nEvV0pnjWliIxFdSXedzRFDwF4jCDrjfh7*JoMe1NNG0t3G68*uefljfPHQgHsy&new=1",
    "summary": "导语:知识产权刑事司法审判中, 商业秘密 的认定、侵权行为的规制及损失因果关系的审查,历来是商事类刑事案件的核心难点与争议...",
    "time": "2026-08-14T18:45:17+08:00",
    "date": "2026-08-14",
@@ -134,9 +135,9 @@
    "heat": 16.4,
    "hot": true,
    "tags": [
-    "知识产权",
     "商业秘密",
-    "刑事"
+    "知识产权",
+    "员工"
    ],
    "importance": 15.5,
    "kw_score": 11.0,
@@ -351,6 +352,29 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "员工跳槽开同业公司、低价抢客户| 商业秘密 罪案件,家属一定要看懂的辩护逻辑",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786742975&ver=6905&signature=4LhWbGYl-6MMJOX-ZjzImRkG1BDYoAhsnJiDxIzwIgoWaWMdchRFNsmZ*fG6TfzvT5YCdWOAVBLuPOxKZEeRgGaHBVXVvlLEG9e-52qWTBBfpMGOrx*gRuIBemkrLFxs&new=1",
+   "summary": "导语:知识产权刑事司法审判中, 商业秘密 的认定、侵权行为的规制及损失因果关系的审查,历来是商事类刑事案件的核心难点与争议...",
+   "time": "2026-08-14T18:45:17+08:00",
+   "date": "2026-08-14",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 16.4,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "刑事"
+   ],
+   "importance": 15.5,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "知海护航丨聚焦反不正当竞争与 商业秘密 保护,企业知识产权人才沙龙(青岛站)成功举办",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786703581&ver=6904&signature=QuD1F2rsZq5AVFiMKq6QoOD0R2LDOZHObtqtxG35FW5Ji7V0ynBGGHmyNaI-q3nm-GB3qL3DB*41BnYrNnOjOJA13OclNeySeQYUH8z3cEU8xyLNyLew00BvZju7FfDx&new=1",
    "summary": "深入剖析了 商业秘密 案件的审理思路、举证责任分配及侵权认定标准,为企业构建 商业秘密 保护体系提供了极具价值的司法视角与实务...",
@@ -361,7 +385,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -384,7 +408,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -663,8 +687,8 @@
    "heat": 11.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "知识产权",
+    "商业秘密",
     "秘密"
    ],
    "importance": 10.5,
@@ -724,11 +748,11 @@
    "time": "2026-08-14T07:08:12+08:00",
    "date": "2026-08-14",
    "sources": [
-    "Briefs Finance"
+    "briefs.co"
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "non-compete"
@@ -1185,7 +1209,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1208,7 +1232,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1231,7 +1255,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1254,7 +1278,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1484,7 +1508,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1507,7 +1531,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1530,7 +1554,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1553,7 +1577,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1576,7 +1600,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1824,7 +1848,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "trade secret"
@@ -2515,7 +2539,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2538,7 +2562,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2676,7 +2700,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3961,8 +3985,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "员工",
-    "秘密"
+    "秘密",
+    "员工"
    ],
    "importance": 11.0,
    "kw_score": 5.0,
@@ -4042,7 +4066,30 @@
   },
   {
    "title": "反推 侵犯商业秘密 是否可行?能接触基础软件和基础数据的员工成立的公司生产性能相同产品是否 侵犯商业秘密 ?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786743024&ver=6905&signature=fHiZMAGsPm9b7RQaTreOPdr57gysQq*tLr6d0MEJEi9ZwLz0XKLMdWF7pwf3Ths8HFeFZ2UipgUx2un2qYsE58UTfLIVr4hq0ELkMEKGcr*mQeM-eCVPBx*0TUgcOdN8&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786744430&ver=6905&signature=fHiZMAGsPm9b7RQaTreOPdr57gysQq*tLr6d0MEJEi9ZwLz0XKLMdWF7pwf3Ths8-8twP1zzyGdl69r6fdGZcKJjajWTnlI1bRPPX7Nc0pUfzBZG1C7AE5i4g-61sbV*&new=1",
+   "summary": "“人民法院审理 侵犯商业秘密 民事案件,适用被诉侵权行为发生时的法律.被诉侵权行为在法律修改之前已经发生且持续到法律修改之...",
+   "time": "2026-08-10T19:03:52+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "反推 侵犯商业秘密 是否可行?能接触基础软件和基础数据的员工成立的公司生产性能相同产品是否 侵犯商业秘密 ?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786741019&ver=6904&signature=nPc8*GM3SXK7rk14bIrZVMsVLS3EA5XrycUjeqtCzThr*U32tnAdtVMQ4eBWIjFpm0iSKEttg*bTJV6QnoaZ7Vz4VOI-OBNIhx44h7bZisoYYXiDGYOdTqjpoJlTnnNn&new=1",
    "summary": "“人民法院审理 侵犯商业秘密 民事案件,适用被诉侵权行为发生时的法律.被诉侵权行为在法律修改之前已经发生且持续到法律修改之...",
    "time": "2026-08-10T19:03:52+08:00",
    "date": "2026-08-10",
@@ -4065,7 +4112,7 @@
   },
   {
    "title": "反推 侵犯商业秘密 是否可行?能接触基础软件和基础数据的员工成立的公司生产性能相同产品是否 侵犯商业秘密 ?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786741019&ver=6904&signature=nPc8*GM3SXK7rk14bIrZVMsVLS3EA5XrycUjeqtCzThr*U32tnAdtVMQ4eBWIjFpm0iSKEttg*bTJV6QnoaZ7Vz4VOI-OBNIhx44h7bZisoYYXiDGYOdTqjpoJlTnnNn&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786743024&ver=6905&signature=fHiZMAGsPm9b7RQaTreOPdr57gysQq*tLr6d0MEJEi9ZwLz0XKLMdWF7pwf3Ths8HFeFZ2UipgUx2un2qYsE58UTfLIVr4hq0ELkMEKGcr*mQeM-eCVPBx*0TUgcOdN8&new=1",
    "summary": "“人民法院审理 侵犯商业秘密 民事案件,适用被诉侵权行为发生时的法律.被诉侵权行为在法律修改之前已经发生且持续到法律修改之...",
    "time": "2026-08-10T19:03:52+08:00",
    "date": "2026-08-10",
@@ -4196,7 +4243,7 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "员工",
+    "秘密",
     "离职"
    ],
    "importance": 8.0,
@@ -4242,8 +4289,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "员工",
-    "秘密"
+    "秘密",
+    "员工"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -4257,7 +4304,7 @@
    "time": "2026-08-10T10:54:00+08:00",
    "date": "2026-08-10",
    "sources": [
-    "sina.cn"
+    "新浪网"
    ],
    "region": "国内",
    "category": "窃密泄密",
@@ -4265,8 +4312,8 @@
    "hot": false,
    "tags": [
     "技术泄密",
-    "离职",
-    "泄密"
+    "泄密",
+    "离职"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -4817,8 +4864,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "员工",
-    "秘密"
+    "秘密",
+    "员工"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
