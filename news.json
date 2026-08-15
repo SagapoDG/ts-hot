@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-08-15T17:51:53.744051+08:00",
- "count": 269,
+ "generated_at": "2026-08-15T18:25:17.450900+08:00",
+ "count": 260,
  "highlight_count": 27,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
+  "Fair Competition Law: <urlopen error timed out>",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
   {
    "title": "客户名单算不算 商业秘密 ?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787516&ver=6906&signature=vkFBwO*6azywIObrgrLVy5aM7vM1bzxbNz4RK4Z4KIjJ-wq6*R31jBc*0A2ney3UU8TSFO*y2YtkFPPnvZUJovXQwkyD6iuR*5kV7MLOROSq9JbItucJp6oHXv6p9Iop&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786789520&ver=6906&signature=vkFBwO*6azywIObrgrLVy5aM7vM1bzxbNz4RK4Z4KIjJ-wq6*R31jBc*0A2ney3U2B1VYUhXdmJzmWjZiRDzepIFcvxGI4MUL5*nmoo-DEr1ut5wuXFwe-xSj41dlF3y&new=1",
    "summary": "以为手里有一份客户名单,员工离职后带走客户,就一定能按 商业秘密 维权.其实答案没有那么简单.如果客户名单里只有名称、电话...",
    "time": "2026-08-15T16:11:27+08:00",
    "date": "2026-08-15",
@@ -22,9 +22,9 @@
    "heat": 13.9,
    "hot": false,
    "tags": [
-    "客户名单",
     "商业秘密",
-    "离职"
+    "客户名单",
+    "员工"
    ],
    "importance": 10.0,
    "kw_score": 8.0,
@@ -78,6 +78,29 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
+   "title": "客户名单算不算 商业秘密 ?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787516&ver=6906&signature=vkFBwO*6azywIObrgrLVy5aM7vM1bzxbNz4RK4Z4KIjJ-wq6*R31jBc*0A2ney3UU8TSFO*y2YtkFPPnvZUJovXQwkyD6iuR*5kV7MLOROSq9JbItucJp6oHXv6p9Iop&new=1",
+   "summary": "以为手里有一份客户名单,员工离职后带走客户,就一定能按 商业秘密 维权.其实答案没有那么简单.如果客户名单里只有名称、电话...",
+   "time": "2026-08-15T16:11:27+08:00",
+   "date": "2026-08-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 13.9,
+   "hot": false,
+   "tags": [
+    "客户名单",
+    "商业秘密",
+    "离职"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "客户名单是 商业秘密 吗?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786756948&ver=6905&signature=gvkyzc0QgQdsYyr2sWq*E63XmZRMGKXPDDbPRiV3btLFbWp3fq-fsRoh3OjqN7DepzvQzbInzbYNNHoKL3Zw2jWpMHuZqY7fy7nOYmYGmyWhIJpIfB4yTWqT95I67h4E&new=1",
    "summary": "客户名单算不算 商业秘密 ,关键得看它有没有“深度”.最高院曾经判了个案子:一家货运公司起诉离职员工带走25家老客户,一审二...",
@@ -88,7 +111,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.5,
+   "heat": 13.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -111,7 +134,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.5,
+   "heat": 13.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -120,6 +143,29 @@
    ],
    "importance": 12.5,
    "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "知识产权丨人民法院案例库裁判要旨: 商业秘密 侵权纠纷",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786789520&ver=6906&signature=D-uaGO2Se9OIWfcQiKLXYc9VnRp6DrLTrVvv7k-lz4bP7yBb9ovbNyDBd5v9PKW0s6R*loQaELxracGnVDA7G-YQxbSLPtYGiBdABs1fJ5WV61o7Tp99jlq1VoO4r7*N&new=1",
+   "summary": "人民法院案例库裁判要旨56: 商业秘密 侵权纠纷人民法院案例库的网址是:http://rmfyalk.court.gov.cn01、参考案例:叶某某、赵某某、...",
+   "time": "2026-08-15T17:01:17+08:00",
+   "date": "2026-08-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "court",
+    "知识产权",
+    "商业秘密"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -295,7 +341,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -318,7 +364,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -360,11 +406,11 @@
    "time": "2026-08-15T15:20:42+08:00",
    "date": "2026-08-15",
    "sources": [
-    "sohu.com"
+    "Sohu"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -487,29 +533,6 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "员工跳槽开同业公司、低价抢客户| 商业秘密 罪案件,家属一定要看懂的辩护逻辑",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787516&ver=6906&signature=Jw1CUtiO6Dt8Tr64FeKvie20wfV4EQ-RlLMdcbsiezOiKzv68MbE9aiPPJAqIMg0Zl17RoFUaFRLrTFIxFr4a0tYChXbXgXRcLHSZUKzUfC0UvM2oG2ro7nLpP4tnQK-&new=1",
-   "summary": "导语:知识产权刑事司法审判中, 商业秘密 的认定、侵权行为的规制及损失因果关系的审查,历来是商事类刑事案件的核心难点与争议...",
-   "time": "2026-08-14T18:45:17+08:00",
-   "date": "2026-08-14",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 15.7,
-   "hot": true,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 15.5,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "员工跳槽开同业公司、低价抢客户| 商业秘密 罪案件,家属一定要看懂的辩护逻辑",
@@ -638,7 +661,7 @@
    "region": "国内",
    "category": "刑事打击",
    "heat": 15.7,
-   "hot": false,
+   "hot": true,
    "tags": [
     "知识产权",
     "商业秘密",
@@ -896,6 +919,29 @@
     "知识产权",
     "商业秘密",
     "秘密"
+   ],
+   "importance": 15.5,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "员工跳槽开同业公司、低价抢客户| 商业秘密 罪案件,家属一定要看懂的辩护逻辑",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787516&ver=6906&signature=Jw1CUtiO6Dt8Tr64FeKvie20wfV4EQ-RlLMdcbsiezOiKzv68MbE9aiPPJAqIMg0Zl17RoFUaFRLrTFIxFr4a0tYChXbXgXRcLHSZUKzUfC0UvM2oG2ro7nLpP4tnQK-&new=1",
+   "summary": "导语:知识产权刑事司法审判中, 商业秘密 的认定、侵权行为的规制及损失因果关系的审查,历来是商事类刑事案件的核心难点与争议...",
+   "time": "2026-08-14T18:45:17+08:00",
+   "date": "2026-08-14",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 15.7,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "刑事"
    ],
    "importance": 15.5,
    "kw_score": 11.0,
@@ -1555,7 +1601,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "non-compete"
@@ -1690,7 +1736,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2012,7 +2058,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2035,7 +2081,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2058,7 +2104,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2081,7 +2127,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2311,7 +2357,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2334,7 +2380,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2357,7 +2403,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2380,7 +2426,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2403,7 +2449,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2426,7 +2472,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2449,7 +2495,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2472,7 +2518,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2495,7 +2541,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.4,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2518,7 +2564,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2564,7 +2610,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 7.5,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2586,7 +2632,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2630,7 +2676,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -2651,7 +2697,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.5,
+   "heat": 5.4,
    "hot": false,
    "tags": [
     "trade secret"
@@ -3612,7 +3658,7 @@
    "time": "2026-08-12T23:16:58+08:00",
    "date": "2026-08-12",
    "sources": [
-    "eastmoney.com"
+    "东方财富"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -3620,8 +3666,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "保密",
-    "秘密"
+    "秘密",
+    "保密"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -4198,29 +4244,6 @@
   },
   {
    "title": "签了 竞业限制 ,离职就不能跳槽了?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787546&ver=6906&signature=kTMVXBKvn5Bmwt6mZ22k1v*QulIMAfjA6q4L3cXivPqStsAOEpRyUsotqSiBT28eaHWG75xQZmTozYpWKnhGou0zrjX-uAuY6*ypqVbxxrJOi56KEtMj7-aVi-J*K-Oy&new=1",
-   "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员.第二十三条是正着说,公司有权跟「负有保...",
-   "time": "2026-08-11T12:09:09+08:00",
-   "date": "2026-08-11",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "保密义务",
-    "竞业限制",
-    "离职"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "签了 竞业限制 ,离职就不能跳槽了?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786491778&ver=6899&signature=Fm-LofpXmGVXvZehOOSGZgHgNSmet0xOB5lmahsDg8VHD0CtyZblJ*Vf1dCpL4oJaI5Edsq6Jw*ozdAA9olhom7kGBklWTBRpo3FDNATvLwTPVBt3iVmKUMv1BY5PnGT&new=1",
    "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员.第二十三条是正着说,公司有权跟「负有保...",
    "time": "2026-08-11T12:09:09+08:00",
@@ -4287,6 +4310,52 @@
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "签了 竞业限制 ,离职就不能跳槽了?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786787546&ver=6906&signature=kTMVXBKvn5Bmwt6mZ22k1v*QulIMAfjA6q4L3cXivPqStsAOEpRyUsotqSiBT28eaHWG75xQZmTozYpWKnhGou0zrjX-uAuY6*ypqVbxxrJOi56KEtMj7-aVi-J*K-Oy&new=1",
+   "summary": "竞业限制 的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员.第二十三条是正着说,公司有权跟「负有保...",
+   "time": "2026-08-11T12:09:09+08:00",
+   "date": "2026-08-11",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "保密义务",
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 违约金和实际损失赔偿能否同时主张?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786789551&ver=6906&signature=y8huFieH0j0g77QQnUq3FYX30MD8RnbBD2fXCW5pgjrfpg1dSPsQTYyZQfPTqzvwYNz-Qy78Cu4yg0Z0hc-My23rTt7GkRYlPk8JIz9nVlbhVPzGcPYRJo47wCRtf6aV&new=1",
+   "summary": "核心提示:当劳动者违反 竞业限制 的同时也侵犯了商业秘密——企业可以既主张违约金,又主张赔偿损失吗?答案是:一般只能＂择一...",
+   "time": "2026-08-11T18:30:36+08:00",
+   "date": "2026-08-11",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "商业秘密 民事诉讼实务——被诉侵权人责任认定与应对",
@@ -5013,7 +5082,7 @@
    "date": "2026-08-10",
    "sources": [
     "驱动之家",
-    "sohu.com"
+    "Sohu"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -5107,7 +5176,7 @@
    "time": "2026-08-10T10:24:16+08:00",
    "date": "2026-08-10",
    "sources": [
-    "donews.com"
+    "DoNews"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -5116,7 +5185,7 @@
    "tags": [
     "商业秘密",
     "秘密",
-    "员工"
+    "离职"
    ],
    "importance": 8.0,
    "kw_score": 6.0,
@@ -5184,8 +5253,8 @@
    "hot": false,
    "tags": [
     "技术泄密",
-    "泄密",
-    "离职"
+    "离职",
+    "泄密"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -5644,36 +5713,13 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "窃取",
-    "秘密"
+    "秘密",
+    "窃取"
    ],
    "importance": 11.5,
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密｜世界杯后足球消费边界拓宽，阿迪耐克们如何抓住这波生意？",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZE0yaW42aG5WcVVOdTREMjZHQ3BtaUZqWXVIbVBVbGJ0TVdnOWdHOTJmN3l4VGRCU0taZFZ2QTI2U2RSVkdwYWJWYllUZS0ycy15YU83ejFad0NZb3lUV0E0Z0lFV0VlS0o0alpn?oc=5",
-   "summary": "",
-   "time": "2026-08-09T14:38:00+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "新浪财经",
-    "QQ News"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "SK海力士前职员涉对华泄露商业秘密案二审被判刑",
@@ -5707,6 +5753,29 @@
    "sources": [
     "finance.sina.cn",
     "qq.com"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 8.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "商业秘密｜世界杯后足球消费边界拓宽，阿迪耐克们如何抓住这波生意？",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZE0yaW42aG5WcVVOdTREMjZHQ3BtaUZqWXVIbVBVbGJ0TVdnOWdHOTJmN3l4VGRCU0taZFZ2QTI2U2RSVkdwYWJWYllUZS0ycy15YU83ejFad0NZb3lUV0E0Z0lFV0VlS0o0alpn?oc=5",
+   "summary": "",
+   "time": "2026-08-09T14:38:00+08:00",
+   "date": "2026-08-09",
+   "sources": [
+    "新浪财经",
+    "QQ News"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -5876,282 +5945,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786185380&ver=6892&signature=r8pby7rICsnvcvNDpy81Y3WpcaWe0EzMSsuJTtLBbl9xY0jrEXv3kRhEqOcbsFgIMk3czmGQcIXEI2BBLuzfPgHwzjRJtgHMARG1ObB-pnUOIpM3DTA1BJaNIqDLcS0j&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786188672&ver=6892&signature=r8pby7rICsnvcvNDpy81Y3WpcaWe0EzMSsuJTtLBbl9xY0jrEXv3kRhEqOcbsFgIvn2TAcdbOO1uqNqEYikQELy771Sf6J9sRuDv8PdnDJyD9CRT9T9hFBCj9yBKG9X9&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786193618&ver=6892&signature=r8pby7rICsnvcvNDpy81Y3WpcaWe0EzMSsuJTtLBbl-iOihL8CSvkpoXTjjJ-Gy5OheVopXjoCHSlED3Vn*9AhS8u2bj19HNN9QBYZxYIlqabmOSj*7az22NqVb3vEEW&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "禁令"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786196893&ver=6892&signature=r8pby7rICsnvcvNDpy81Y3WpcaWe0EzMSsuJTtLBbl-iOihL8CSvkpoXTjjJ-Gy5klXx1U1Y63PH0hxZsF0oIrm7MyWRyN2KAFdtrlQ5e6hEdjB2jTCVZPcj4Fg4knNk&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786221167&ver=6892&signature=r8pby7rICsnvcvNDpy81Y3WpcaWe0EzMSsuJTtLBbl-Jo0jkvjucSQ0z4PFjoiOV9KuIBhWWmdK9MQzTq2Q2d6y*-CUm3nvxDQ8MF7fq0seoG7BQnpR0q-G8xAZLH4uD&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "禁令"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786224795&ver=6893&signature=1yiKgyFUtL2LqD5kT546BninkKo5wmUtefIyFXh0lZX*G3qt1t*qvYIijSr6iWh85Ci9INq317BwmOrgLyojuT-ujhidzMViIGJHWTXVU1rW*7vP3N2aSVqHD5zZXGvk&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "禁令"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786228319&ver=6893&signature=1yiKgyFUtL2LqD5kT546BninkKo5wmUtefIyFXh0lZX*G3qt1t*qvYIijSr6iWh872Pispb1DnoLGMKwt1GVVsdZfBrLwLi6uKhSZnmMrc9-aMW4eS*MUsXUfCE-lvPf&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "禁令"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786231890&ver=6893&signature=1yiKgyFUtL2LqD5kT546BninkKo5wmUtefIyFXh0lZWXUW*7hetnQFQ8Gu8rnn6b5WaUNwfdEv7YaHBrXMO5XMsALCvwKri1MFwqSOi7l*Lj2Y1hydnXdRgWzaH7bO5w&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786260810&ver=6893&signature=1yiKgyFUtL2LqD5kT546BninkKo5wmUtefIyFXh0lZWciLg7uRQb53LheVb1pJ1vCi63RY2CWiry333onocI8laQjH0Md1V*aWQpO6Rsrtb3zdlrWi*lPMSVfvXXKzzM&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786268523&ver=6894&signature=oQcznJ7g9H3z6YIVEZx9uhgQ0PP3mlriEZQDBBYz1Ebxbo3-jtwUhNgAXEyHf*sDfB36*4AvKwyVStQrjeVfewlcSLhR8RLsklPXS46ohZueBlh6YOVORWfFIXB0p3ld&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786271847&ver=6894&signature=oQcznJ7g9H3z6YIVEZx9uhgQ0PP3mlriEZQDBBYz1EZ9GNR1ZTNTcg23GaN8SW6z0wgxv43MXexrnuV6Er81eViNUuD6LrYPiDG6Ll7PKB2wIf9vlcdPLIKevMQpqvK4&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "禁令"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 犯罪缓刑期间禁令:禁干老本行!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786275119&ver=6894&signature=oQcznJ7g9H3z6YIVEZx9uhgQ0PP3mlriEZQDBBYz1EZ9GNR1ZTNTcg23GaN8SW6z8DF5petQ6sj5juTRd0gFN3z-E7WyY20rU06kqHhhIsWyRJdEj269wVe4sauHzQAG&new=1",
-   "summary": "商业秘密 犯罪缓刑期间禁令:禁干老本行!【主编简介】唐青林律师,深耕 商业秘密 20年.中国人民大学法学硕士,出版三部 商业秘密 ...",
-   "time": "2026-08-08T18:03:08+08:00",
-   "date": "2026-08-08",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "禁令",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "SK海力士前员工向中国公司泄露商业机密，二审仍被判有期徒刑1年6个月",
