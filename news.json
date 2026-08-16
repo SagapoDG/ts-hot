@@ -1,16 +1,17 @@
 {
- "generated_at": "2026-08-16T19:46:18.803314+08:00",
- "count": 360,
+ "generated_at": "2026-08-16T20:43:26.893687+08:00",
+ "count": 350,
  "highlight_count": 26,
  "errors": [
+  "最高人民法院: <urlopen error _ssl.c:993: The handshake operation timed out>",
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: <urlopen error timed out>",
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
   {
    "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880781&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6yZKxBee9FUUIZhdzVaIBhFVHu0ap3rnI*wu2t-oOGcopXygs2ceb-u4sXYlMEIED&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786884209&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6I0o6vy*fcKd007a3ZSdNJEOrZfSbQBHXaoJYrvrO0UMtxgvkA8pnvFUMxLJ8wQAQ&new=1",
    "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
    "time": "2026-08-16T07:32:39+08:00",
    "date": "2026-08-16",
@@ -22,9 +23,9 @@
    "heat": 15.3,
    "hot": true,
    "tags": [
-    "知识产权",
     "商业秘密",
-    "保密"
+    "知识产权",
+    "刑事"
    ],
    "importance": 14.5,
    "kw_score": 10.0,
@@ -354,8 +355,31 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "【视频】被买卖的 商业秘密",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880781&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6yZKxBee9FUUIZhdzVaIBhFVHu0ap3rnI*wu2t-oOGcopXygs2ceb-u4sXYlMEIED&new=1",
+   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
+   "time": "2026-08-16T07:32:39+08:00",
+   "date": "2026-08-16",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 15.3,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "保密"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "企业 商业秘密 保护实务(四):教育培训与供应商保密管理",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880781&ver=6908&signature=Mfyykx1aZm*AxgYgDigLK-v0Udo4ZvfcQFtO6E4lUQqYf3zaYxRr8*VBF1wKWh1C524YK9UdORV-eocQCuIkdBaeic6G1QVz8DZrNnnGE8IRcTS*8DT1cPt6azJ1KQlP&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786884209&ver=6908&signature=Mfyykx1aZm*AxgYgDigLK-v0Udo4ZvfcQFtO6E4lUQqYf3zaYxRr8*VBF1wKWh1Cw7DFyTLA-hHujeC9y2ricD*wBzDT8yWGN8OddfHE*7YQiqxhztqmHiSC1LxlvYc0&new=1",
    "summary": "企业 商业秘密 保护实务(四)教育培训与供应商保密管理 很多企业的泄密事件,根源不是在“制度没写”,而是在“员工不知道”或...",
    "time": "2026-08-16T16:37:47+08:00",
    "date": "2026-08-16",
@@ -368,8 +392,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "保密",
-    "员工"
+    "员工",
+    "泄密"
    ],
    "importance": 10.0,
    "kw_score": 8.0,
@@ -492,6 +516,29 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
+   "title": "企业 商业秘密 保护实务(四):教育培训与供应商保密管理",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880781&ver=6908&signature=Mfyykx1aZm*AxgYgDigLK-v0Udo4ZvfcQFtO6E4lUQqYf3zaYxRr8*VBF1wKWh1C524YK9UdORV-eocQCuIkdBaeic6G1QVz8DZrNnnGE8IRcTS*8DT1cPt6azJ1KQlP&new=1",
+   "summary": "企业 商业秘密 保护实务(四)教育培训与供应商保密管理 很多企业的泄密事件,根源不是在“制度没写”,而是在“员工不知道”或...",
+   "time": "2026-08-16T16:37:47+08:00",
+   "date": "2026-08-16",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "窃密泄密",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密",
+    "员工"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
    "title": "最高法院: 商业秘密 保密措施,与其商业价值等相适应即可,不必万无一失",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786862584&ver=6907&signature=iWq78g1mZsXANf*kqAF37DlkjsvBVdjOw9IU6KxN3QdWxtAcrN4P-g4VxleAt945qVvfIYTOI2DqwhfMQETIPbzfEKvtD2mOolQDOvLs67c2zsk4RyjCtufGCTp*sbHS&new=1",
    "summary": "黄璞琳有关竞争法的文章与资料(十一)育种材料的 商业秘密 权与植物新品种权冲突如何解决?——最高法院2025年度知识产权案件报...",
@@ -502,7 +549,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -525,7 +572,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -548,7 +595,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -571,7 +618,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -594,7 +641,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -617,7 +664,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -640,7 +687,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -663,7 +710,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -686,7 +733,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -709,7 +756,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -732,7 +779,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -755,7 +802,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -778,7 +825,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -801,7 +848,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -824,7 +871,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -847,7 +894,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -870,7 +917,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -893,7 +940,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -916,7 +963,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -939,7 +986,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -962,7 +1009,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -985,7 +1032,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1008,7 +1055,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1031,7 +1078,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1054,7 +1101,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1077,7 +1124,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1100,7 +1147,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1123,7 +1170,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1146,7 +1193,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1169,7 +1216,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1192,7 +1239,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1215,7 +1262,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1238,7 +1285,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1261,7 +1308,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1284,7 +1331,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1721,7 +1768,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1744,7 +1791,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1767,7 +1814,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1790,7 +1837,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1813,7 +1860,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1836,7 +1883,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1859,7 +1906,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1882,7 +1929,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1905,7 +1952,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1928,7 +1975,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1951,7 +1998,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1974,7 +2021,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1997,7 +2044,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2066,7 +2113,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2107,11 +2154,11 @@
    "time": "2026-08-15T14:25:34+08:00",
    "date": "2026-08-15",
    "sources": [
-    "imdb.com"
+    "IMDb"
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "espionage"
@@ -2132,7 +2179,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "espionage"
@@ -2153,7 +2200,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.1,
+   "heat": 15.0,
    "hot": false,
    "tags": [
     "保密协议",
@@ -2176,7 +2223,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.1,
+   "heat": 15.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2199,7 +2246,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -2222,7 +2269,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -2245,7 +2292,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2268,7 +2315,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2291,7 +2338,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2314,7 +2361,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2337,7 +2384,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2360,7 +2407,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2383,7 +2430,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2406,7 +2453,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2429,7 +2476,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2452,7 +2499,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2475,7 +2522,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2498,7 +2545,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2521,7 +2568,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2544,7 +2591,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2567,7 +2614,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2590,7 +2637,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2613,7 +2660,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2636,7 +2683,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2706,7 +2753,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2729,7 +2776,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2752,7 +2799,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2775,7 +2822,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2798,7 +2845,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2821,7 +2868,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2844,7 +2891,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2867,7 +2914,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.1,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2890,7 +2937,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2913,7 +2960,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "知识产权",
@@ -2936,7 +2983,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -2959,7 +3006,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -2982,7 +3029,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3005,7 +3052,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3028,7 +3075,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3051,7 +3098,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3074,7 +3121,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3097,7 +3144,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3120,7 +3167,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3143,7 +3190,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3166,7 +3213,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3189,7 +3236,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3212,7 +3259,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3235,7 +3282,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3258,7 +3305,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "non-compete",
@@ -3281,7 +3328,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3304,7 +3351,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3327,7 +3374,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.6,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -3340,7 +3387,7 @@
   },
   {
    "title": "市场传闻：Citadel要求投资员工签署最长两年的竞业禁止协议",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGJqZ3Z2RGNUTm1qX2pPaVJRdXlJMGM1am5iVkFERk9Xay1pM1JWV1ZJb2JDaEYwal9xYVRuNXBWVk9RNUstQjRjSkU5cU9Qbkk2V3dqQ0hmRlFNQmlXMnNrUDE4dUJIWENYRU9Hd0wzQ05FN3dwazl0ZnRyMXVHSUdIWXJFWjlXejFSd0JOd2NLTHFUTG10OF9jc0lsUzBJemNqYURFQ2dLQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDYxU3RxYk16QWEyV1lyRDR2OUY4bjl5NS0xdW9sRWNTLWtSbklJSG15TzlLT21La0hUdnRWR09TRVlSV2hVeUktemExYU1aUURvTkd3Y0lkQ1owVjhDa0FYU2NWeml3S1p4aThOeEx0S0RhS2dTSG1uRDZkdWVta1VLZEEyS2FWYjM3dEg5Wk5PUDVUb0V4TGpJMEl1MXZsUzk5cWRoY0JFaVBZanZLSXBiZnVnVWZiTjZWU1BLWG1FSlM1YU5lUFltNWRBQzBjeVRpa0p6Y2E?oc=5",
    "summary": "",
    "time": "2026-08-14T07:38:26+08:00",
    "date": "2026-08-14",
@@ -3349,7 +3396,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "竞业禁止",
@@ -3362,7 +3409,7 @@
   },
   {
    "title": "市场传闻：Citadel要求投资员工签署最长两年的竞业禁止协议",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDYxU3RxYk16QWEyV1lyRDR2OUY4bjl5NS0xdW9sRWNTLWtSbklJSG15TzlLT21La0hUdnRWR09TRVlSV2hVeUktemExYU1aUURvTkd3Y0lkQ1owVjhDa0FYU2NWeml3S1p4aThOeEx0S0RhS2dTSG1uRDZkdWVta1VLZEEyS2FWYjM3dEg5Wk5PUDVUb0V4TGpJMEl1MXZsUzk5cWRoY0JFaVBZanZLSXBiZnVnVWZiTjZWU1BLWG1FSlM1YU5lUFltNWRBQzBjeVRpa0p6Y2E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGJqZ3Z2RGNUTm1qX2pPaVJRdXlJMGM1am5iVkFERk9Xay1pM1JWV1ZJb2JDaEYwal9xYVRuNXBWVk9RNUstQjRjSkU5cU9Qbkk2V3dqQ0hmRlFNQmlXMnNrUDE4dUJIWENYRU9Hd0wzQ05FN3dwazl0ZnRyMXVHSUdIWXJFWjlXejFSd0JOd2NLTHFUTG10OF9jc0lsUzBJemNqYURFQ2dLQQ?oc=5",
    "summary": "",
    "time": "2026-08-14T07:38:26+08:00",
    "date": "2026-08-14",
@@ -3371,7 +3418,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "竞业禁止",
@@ -3435,7 +3482,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 4.9,
+   "heat": 4.8,
    "hot": false,
    "tags": [
     "不正当竞争"
@@ -3954,7 +4001,7 @@
   },
   {
    "title": "深圳 竞业限制 协议条款的法律解读与合规指引",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880804&ver=6908&signature=Rk6alW*uk-LGg0kc39DUbxEvv*KthMeZW03qCDJcPJYKGO799FCJNn17sjnpl9vBtlGgolnUMW4D8C0-slRAEu981f4BWdBsaadcilp7o9c1IvF4-kuuJ33TZHq-*aTZ&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786884238&ver=6908&signature=Rk6alW*uk-LGg0kc39DUbxEvv*KthMeZW03qCDJcPJYKGO799FCJNn17sjnpl9vBruASeamreDsORbKG*KpQIelN7CGKBscpupGq3WRZHPQxHyDuWhREINTIV23G2vd2&new=1",
    "summary": "私募股权与基金、知识产权、劳动法、政府法律服务 竞业限制 作为保护企业技术秘密和商业利益的重要手段,在深圳地区有着明确的法...",
    "time": "2026-08-13T10:50:18+08:00",
    "date": "2026-08-13",
@@ -3966,9 +4013,9 @@
    "heat": 11.0,
    "hot": false,
    "tags": [
-    "竞业限制",
+    "知识产权",
     "技术秘密",
-    "知识产权"
+    "竞业限制"
    ],
    "importance": 11.0,
    "kw_score": 9.0,
@@ -4666,6 +4713,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "深圳 竞业限制 协议条款的法律解读与合规指引",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880804&ver=6908&signature=Rk6alW*uk-LGg0kc39DUbxEvv*KthMeZW03qCDJcPJYKGO799FCJNn17sjnpl9vBtlGgolnUMW4D8C0-slRAEu981f4BWdBsaadcilp7o9c1IvF4-kuuJ33TZHq-*aTZ&new=1",
+   "summary": "私募股权与基金、知识产权、劳动法、政府法律服务 竞业限制 作为保护企业技术秘密和商业利益的重要手段,在深圳地区有着明确的法...",
+   "time": "2026-08-13T10:50:18+08:00",
+   "date": "2026-08-13",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "技术秘密",
+    "知识产权"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "California's Ban on Non-Competes Is Reshaping Competition Through Trade Secret Litigation",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRG55YjJudV8tbzZEeWY5QW1adWFhc3daN1o4eFp5ZjNHUzR4RFU2RjcwOVA5RnpSU0c1MW51WGlKUktZQU5Ndmhkbjd6cWhtdFlGT3MzcXg1Y1FNR2dVZTFDeGJ3UUtDYUxKbw?oc=5",
    "summary": "",
@@ -4948,7 +5018,7 @@
    "time": "2026-08-13T20:07:36+08:00",
    "date": "2026-08-13",
    "sources": [
-    "life.china.com"
+    "中华网生活"
    ],
    "region": "国内",
    "category": "窃密泄密",
@@ -7664,8 +7734,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "员工",
-    "秘密"
+    "秘密",
+    "员工"
    ],
    "importance": 9.0,
    "kw_score": 5.0,
@@ -7759,7 +7829,7 @@
    "tags": [
     "商业秘密",
     "离职",
-    "员工"
+    "秘密"
    ],
    "importance": 8.0,
    "kw_score": 6.0,
@@ -7804,8 +7874,8 @@
    "hot": false,
    "tags": [
     "技术泄密",
-    "泄密",
-    "离职"
+    "离职",
+    "泄密"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -7972,305 +8042,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786280161&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB08auMOIoe5EAeKZ0iS8hjyWZl6*gIugL2fxn-3Z8NUdjf-4J*DUAN549PUE7kk8bglPBK-veQ1A4kxAgqUdOO2&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786283554&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB08auMOIoe5EAeKZ0iS8hjyvG60mRFeawYddvePN*SJju19B970NQLmyjKgoKnbOYoaU4*UCYdnu7tpmSRsX5Wf&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786286234&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB08auMOIoe5EAeKZ0iS8hjy9srZ0ipvY2lP94Ffy9pP9Cpdy3ikw5G*HhcvIHvOu3wxnLe8F8y7lNmWdyo14iZK&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786289653&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB08auMOIoe5EAeKZ0iS8hjyjtq8U2tDCxl2yxqshB8xURXS0BMurgjaYjDqjbNO5PJs2bFLk7eXhgiC5itHm7g-&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786293516&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB3COB-MKor-cHa--Y78Xgm6laEME*3UMF09JtYARa3V-sRFSmNTMEVmkCc-DkaXpS0hha0pLEDt9s2ZbQSpjaoc&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786296818&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB3COB-MKor-cHa--Y78Xgm6R7AvnwJZLuAucKQzH-DOiPWIbx5X4cQijtKhUEEVxLtTiz*Ndhr1-XIfral53mju&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786301085&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB3N4xetgRJ0R1xx3V9cyXJ3McP4*J*on4HD70pfVCiDJNejH2eNyih5TGcandvcjroUBr-v4f14XcsZ4u7AuJB8&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786304125&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB3N4xetgRJ0R1xx3V9cyXJ34FKpNyanvWtx7KFO83iFp9NFQ5epaeRDr8jNwOXnKPFzDYzfACkpJIqvFb-*e1s3&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786307739&ver=6894&signature=29WhNa9GFHyQMMF19mQtTN5Jr2KatXGS5cvEzCf8nB3N4xetgRJ0R1xx3V9cyXJ3PLpFoZKAaQLVeEEFv4fwWWy9jEeNr-7mX2dULQTF1WjU8dcGlqIDZHDeIxbN*VYD&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786311302&ver=6895&signature=McdmqOHFAWfpnzzTUJQbvi7RUs7CnBVlXZhM*aKN1T3nLRbD2At9gVFISkgTqDhdu6pMRxn*CLwBIMZgjCfs5E7Sk4J5of3O5NtccaZbwpKOJGeJhJd5e5OJokcSNjx5&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786314846&ver=6895&signature=McdmqOHFAWfpnzzTUJQbvi7RUs7CnBVlXZhM*aKN1T3nLRbD2At9gVFISkgTqDhd91zkC2kOdX-uohQ*QoVGiFOW*nNk3191guB9FR1s4noZt6OCCwbGsHmtuH-ZQ7DF&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786318416&ver=6895&signature=McdmqOHFAWfpnzzTUJQbvi7RUs7CnBVlXZhM*aKN1T3nLRbD2At9gVFISkgTqDhdd0rGyBdBtshLFv6Fp2so9YdmFEy2MbOJNURclH82Z1lZaTnpQjGHZe3*03TfWuSi&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "公司不能证明劳动者接触 商业秘密 的,竞业限制协议就无效?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786327266&ver=6895&signature=McdmqOHFAWfpnzzTUJQbvi7RUs7CnBVlXZhM*aKN1T1CcyHCKirfUTly6P2OJ2WFxw8JPdzS8S31RR7uBgQOXBEDHQDs2lVTZB5gUvXkAgo0XiyQ4n96AB6vtxkelDMw&new=1",
-   "summary": "只有劳动者主张“未接触 商业秘密 、竞业条款不生效”时,法院才可审查;用人单位主动签订协议后又以员工非涉密为由主张无效,不...",
-   "time": "2026-08-09T20:00:23+08:00",
-   "date": "2026-08-09",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   }
  ],
  "highlights": {
