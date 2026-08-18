@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-08-18T18:31:26.139634+08:00",
- "count": 456,
+ "generated_at": "2026-08-18T19:27:31.982339+08:00",
+ "count": 460,
  "highlight_count": 27,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
+  "Fair Competition Law: <urlopen error timed out>",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -18,7 +19,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 16.5,
+   "heat": 16.4,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -41,7 +42,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 16.5,
+   "heat": 16.4,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -64,7 +65,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.9,
+   "heat": 15.8,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -88,7 +89,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": true,
    "tags": [
     "trade secret",
@@ -111,7 +112,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.5,
+   "heat": 14.4,
    "hot": true,
    "tags": [
     "侵犯商业秘密",
@@ -216,29 +217,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "离职带走的客户名单,凭什么算＂ 商业秘密 ＂?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787016107&ver=6911&signature=2rYO9BcoJqZwAyoCvJ3fzP7oijsoXWOK9V1uCKNtyuYnSjnGrdOfYsDSuIh97ZbdCmrf*RTganv5ZSJFlI4K1pYf*gBV2Rk0mNHpxwFCfbe6UPzmRZt4TSUrqp*hKyPo&new=1",
-   "summary": "离职带走的客户名单,凭什么算＂ 商业秘密 ＂?——侵犯 商业秘密 罪的密点认定与损失之辩止善刑辩 · 刑辩实务一位销售骨干离职,...",
-   "time": "2026-08-18T09:01:01+08:00",
-   "date": "2026-08-18",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.5,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "客户名单",
-    "离职"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "滥用“ 竞业限制 协议”?法院:无效!",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787020657&ver=6911&signature=zZT-DCwP46Q1XhfYLAkDP-EuvXIaSgktRD7xzwIk0afQ0nkW08hcHxsLkouF1RGiGRwlMwFCOCe1c78Uo4Z-1kYVBhvG7N5rj40L-x29bNtp6tXb0u3VpW-qDMveHfdd&new=1",
    "summary": "宠物医生离职再就业老东家以违反 竞业限制 诉至法院“正当就业权”PK“保密义务”合理的 竞业限制 是什么?案情简介梅某于2017年9...",
@@ -308,6 +286,51 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "离职带走的客户名单,凭什么算＂ 商业秘密 ＂?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787016107&ver=6911&signature=2rYO9BcoJqZwAyoCvJ3fzP7oijsoXWOK9V1uCKNtyuYnSjnGrdOfYsDSuIh97ZbdCmrf*RTganv5ZSJFlI4K1pYf*gBV2Rk0mNHpxwFCfbe6UPzmRZt4TSUrqp*hKyPo&new=1",
+   "summary": "离职带走的客户名单,凭什么算＂ 商业秘密 ＂?——侵犯 商业秘密 罪的密点认定与损失之辩止善刑辩 · 刑辩实务一位销售骨干离职,...",
+   "time": "2026-08-18T09:01:01+08:00",
+   "date": "2026-08-18",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.4,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "客户名单",
+    "离职"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "China’s New Regulation on the Protection of Trade Secrets",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSUdzWER6Vmk2WWJnbzBiODIyY2Y3VUVSZkZGb3JtdGdhY1VxZEJkSGxRTjNrcTN3bHhLdVVTZnB0WHViZnlkTnZPY1JERlRoWmxWYUpwbHZ2RmZyaEF1NWNJSDN0R0JpbHZla1kzLWh4bnFQZ2xvNklua1RvZ2xralkxMy1ad0FQUGhBMnVmbENKUm9aZlpuNTludldzZkp2Zk5VNmRVaG5VNlZnUDJNZDJOOWsxaUpvMnpEalFjNUh0aC1VeUdCcUpsNFdZaU9YWHdiYUVtQzd5eHVqWTl0cVhBSDR1dw?oc=5",
+   "summary": "",
+   "time": "2026-08-18T18:04:43+08:00",
+   "date": "2026-08-18",
+   "sources": [
+    "Rouse International"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "China’s New Regulation on the Protection of Trade Secrets",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc25BV3VCdzlSYjFPN0xKV0J2OFU0LWRuNThMTjdhZGxXQkU5YmNrTi1GNXVKQXNwRU1Hd1ZSdkRiMmo4Ui14RTZTc29qa2RROVNmN05waEMtZGxHc2FOMTlsTjNuQ01iR0YzUmYyc2Q1WmJlNnNYdjg1WGhNQmVZUHFBcUR3LUx3OGRSWGZWdmVFcjZIVVA2NjQ3V1VpVkU0UjBhYkdKcmhqaGd2OGFtX3I4cjB3dnNhUXRTcnF1QlZ5NkJrMDZyWDdsM3R2UUgzTk4zTWY0STdfSF8zUklFTWFrbUV2RVE?oc=5",
    "summary": "",
@@ -318,7 +341,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.0,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -453,7 +476,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "经营信息",
@@ -476,7 +499,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "经营信息",
@@ -499,7 +522,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -522,7 +545,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -545,103 +568,11 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
     "经营信息",
-    "诉讼"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786961119&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwup5P-St0TdjrmmJm4eatiMwTnN8tV6ZduVdchsGCpot-LROe8ucaWIAdMP*pv9XrqsaEUy8gZLMrCJQBmpyuvAU&new=1",
-   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
-   "time": "2026-08-17T09:52:05+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "经营信息",
-    "秘密"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786984252&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQHMJJcoxS*-vLxP0YmpBtq3-y9u6FnGKbnXHUdi-sUh6NjEEZSmicUEvki*8wp7Yw&new=1",
-   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
-   "time": "2026-08-17T09:52:05+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "经营信息",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786987713&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQBFYINKS4a29MWHD5lzVQo9ivnH-eMoz-y8TxDSrBhclC3Xf3x*MCgC3cf8mruNof&new=1",
-   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
-   "time": "2026-08-17T09:52:05+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "经营信息",
-    "保密"
-   ],
-   "importance": 13.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786989442&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQTchyAEiOSPa1Wr5ejVPpC72fnnqIO7LXsh9H3xFgfZFn4NdiakNROyY77wLUhfur&new=1",
-   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
-   "time": "2026-08-17T09:52:05+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "经营信息",
-    "商业秘密",
     "诉讼"
    ],
    "importance": 13.5,
@@ -673,6 +604,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786961119&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwup5P-St0TdjrmmJm4eatiMwTnN8tV6ZduVdchsGCpot-LROe8ucaWIAdMP*pv9XrqsaEUy8gZLMrCJQBmpyuvAU&new=1",
+   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
+   "time": "2026-08-17T09:52:05+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "经营信息",
+    "秘密"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "第三十三讲:员工离职带走客户算“ 侵犯商业秘密 ”吗?——3个核心要件决定成败",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786961178&ver=6910&signature=DNE1aZzoTMQjNOP9NCpaxxARD8qrOsfxBOxnBr2ZWOPNnSVMdOILByz0lkxmC44zP2yRbarC5lsZZ*OZjzuJpTn1lcaNmDR0GtsHkun*4a5X3jhJjAa3AaSVA3kThgTz&new=1",
    "summary": "《最高人民法院关于审理 侵犯商业秘密 民事案件适用法律若干问题的规定》第二条第二款明确:客户基于对员工个人的信赖而与该员工...",
@@ -689,6 +643,75 @@
     "侵犯商业秘密",
     "商业秘密",
     "秘密"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786984252&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQHMJJcoxS*-vLxP0YmpBtq3-y9u6FnGKbnXHUdi-sUh6NjEEZSmicUEvki*8wp7Yw&new=1",
+   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
+   "time": "2026-08-17T09:52:05+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "经营信息",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786987713&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQBFYINKS4a29MWHD5lzVQo9ivnH-eMoz-y8TxDSrBhclC3Xf3x*MCgC3cf8mruNof&new=1",
+   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
+   "time": "2026-08-17T09:52:05+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "经营信息",
+    "保密"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "商业秘密 典型案例解析 | 劳动争议引发侵害经营秘密纠纷案",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786989442&ver=6910&signature=b52W3*yiwSm19MDOeVRXIAuSTHFNiG*TE9lZ6mPNwuoWOhYirKp6KfwQe*2Pt7dQTchyAEiOSPa1Wr5ejVPpC72fnnqIO7LXsh9H3xFgfZFn4NdiakNROyY77wLUhfur&new=1",
+   "summary": "亦不得滥用 商业秘密 诉讼以妨碍员工依法维权;若需保护经营信息,应保存证明该信息具备竞争价值且已采取保密措施的完整证据....",
+   "time": "2026-08-17T09:52:05+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "经营信息",
+    "商业秘密",
+    "诉讼"
    ],
    "importance": 13.5,
    "kw_score": 9.0,
@@ -1617,7 +1640,7 @@
   },
   {
    "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049095&ver=6912&signature=b5CDnil6i1NDF5aBQKVruRKdaRkaum6mfwdMZejJ3knUpEMuKk71zsVaandmcyWMONErRVCIBf31gFTUDohi28eRHFJPLruTFMf6yQAAVNgktDhrdR88Z4DOro6YCuYi&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787052457&ver=6912&signature=b5CDnil6i1NDF5aBQKVruRKdaRkaum6mfwdMZejJ3kmeNj-qbD-VkvvrJzOg*2130eiQPfFKloA*Fv9ZoVZQQRx03qyn3gwz79LEdXLD961wZdl4OpbnMwxciLDAmRRi&new=1",
    "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
    "time": "2026-08-17T07:31:40+08:00",
    "date": "2026-08-17",
@@ -1626,425 +1649,11 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786929887&ver=6909&signature=mS9xyN*1F*fLPzHdOBfpDyeRFR2LTTvlg2FDZ-fwJ2DMAdADpM66sVxap0vDhZ3c-r-JIWCGb7o-qXAH9vVi9mEl7CBWsfFDSRMU0YsGU0CajU5-t0FQ0Xn1cpMtNOO*&new=1",
-   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
-   "time": "2026-08-17T07:50:52+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "源代码",
-    "员工"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786964246&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAj3h6Y5AySfcR7caKetWJSlVHxb0CKHqSwFtK00gZIc7e5lomLu3z378yUImvcpfSEWolw9S11EvuzuJ23xvA3W&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786966388&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAj3h6Y5AySfcR7caKetWJSl6QkoSKyk*6-x2-yYd-4NHXKptPXFZEVDhE9QMHPG5NTOUCzO0I02LeFKaZgi5EGM&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "商业秘密",
     "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786970963&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ33jpdlWMYo8KOEUu4*lznMOWd3BmASHctRsDod8Ph86SR2dpkW*o9L9s1dkfOg2Ot&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786974048&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ3li3G8s3fJi-FadnqSqVaNAk1SqnpDnbdMTmpZZ5R4A9aYGsF0nBmtWMQkARRk62Z&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786977053&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ3Fv8h8PzlkLmEaGiXcZF3I-zVVg7ofn5JcCE-x*f-a4Nf0x3g42t8rfq2ezPdS23D&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786981926&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAimZ83hcHGdPS9782nDAIOSq9Hnr-9JTbap1RK5ulBB1*7*otBVtECa1dXaY4iFrQN2R-v9HUOTF-uPAArcWiZJ&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786998618&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAg2Z7*94J5FWmt*NGRjjbujikA5-FEJNTjimr3*3ZqZD3nX2vAH5IMs8AQYzfl30g9FyKM6zvLm*8CbSL9zTtnA&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787000246&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAhWpYq0Cp0lWudPfXq5gEsigWlJFZRp4kp5bepGUnA3nxNDIA-EiH4JNgqGEN7emln*yhMeuvDG2bhGKagQt1hr&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787002373&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUA3vxdzxtVwqavHYXGZBco4qcknkM*DBzlICnDB-ijFcSiJjDOrYYCNKROeKrzwi59ulOWBdAjn79pc8TfxBpu&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787005629&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfRTHXD9kwGaS33oYViz-nejIB1eVfWUbEwRG5WlS35suyuDq5nMpheNOYUHEj8Xp94&new=1",
-   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
-   "time": "2026-08-17T07:50:52+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "源代码",
-    "员工"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787007149&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfRooBeoNqBbZNqE8gCEcAX5F*Z9kQcs2Zeb*BmHoF4g9kaVN1LZXNc*G4P3DQQY8-8&new=1",
-   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
-   "time": "2026-08-17T07:50:52+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "源代码",
-    "员工"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787009129&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfR6bBpmBbOYLkULF9oPZy1flV7Y1VGOAkaXNU1H1YBe6fVL*9KF6q8c3b-uuns*aPo&new=1",
-   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
-   "time": "2026-08-17T07:50:52+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "源代码",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787010512&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Did4q4Jd6nuYiuuXzW*cXc0UnGh0UuvFaeohAjFtpMoKrKPhPM3P*u8O49CJ1JVUG6REk57PYLU6NqPHXuu4dGLO&new=1",
-   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
-   "time": "2026-08-17T07:50:52+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "源代码",
-    "员工"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787024803&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUNtJKGWpFc5WHyj9vvC*GSexdFrhV1QypKibdupPkk5jqnDng*XvF*eUc3d0YkM2t7BJilTWAe*JI4YnlIkt0Z&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787027879&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUNtJKGWpFc5WHyj9vvC*GSJhgOTHlDDAwZNAt48FkrGBly--yrJ-TWDre8MfHhjz9OiWJhCvI2Aa8SJjkCm-11&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787031136&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYW-snwFC*IZt6D2t0FfJadf9uWWjHXvqr5N-mP1Oghldt668pNoS6HXqaR9bgE2wWHgwoIQPeVXI1T6hHbkWLmb&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787038780&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYW-snwFC*IZt6D2t0FfJadf6p6oJqr5luo1NMgWUQOWX7J078f*LY8huDgq1dKzjBLKu-fb*yPEV3vmTx9Opitz&new=1",
-   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
-   "time": "2026-08-17T07:31:40+08:00",
-   "date": "2026-08-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -2074,6 +1683,443 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786929887&ver=6909&signature=mS9xyN*1F*fLPzHdOBfpDyeRFR2LTTvlg2FDZ-fwJ2DMAdADpM66sVxap0vDhZ3c-r-JIWCGb7o-qXAH9vVi9mEl7CBWsfFDSRMU0YsGU0CajU5-t0FQ0Xn1cpMtNOO*&new=1",
+   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
+   "time": "2026-08-17T07:50:52+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "源代码",
+    "员工"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786964246&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAj3h6Y5AySfcR7caKetWJSlVHxb0CKHqSwFtK00gZIc7e5lomLu3z378yUImvcpfSEWolw9S11EvuzuJ23xvA3W&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786966388&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAj3h6Y5AySfcR7caKetWJSl6QkoSKyk*6-x2-yYd-4NHXKptPXFZEVDhE9QMHPG5NTOUCzO0I02LeFKaZgi5EGM&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786970963&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ33jpdlWMYo8KOEUu4*lznMOWd3BmASHctRsDod8Ph86SR2dpkW*o9L9s1dkfOg2Ot&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786974048&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ3li3G8s3fJi-FadnqSqVaNAk1SqnpDnbdMTmpZZ5R4A9aYGsF0nBmtWMQkARRk62Z&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786977053&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAgFhzQQujmTfyFU2yEV2vZ3Fv8h8PzlkLmEaGiXcZF3I-zVVg7ofn5JcCE-x*f-a4Nf0x3g42t8rfq2ezPdS23D&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786981926&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAimZ83hcHGdPS9782nDAIOSq9Hnr-9JTbap1RK5ulBB1*7*otBVtECa1dXaY4iFrQN2R-v9HUOTF-uPAArcWiZJ&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786998618&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAg2Z7*94J5FWmt*NGRjjbujikA5-FEJNTjimr3*3ZqZD3nX2vAH5IMs8AQYzfl30g9FyKM6zvLm*8CbSL9zTtnA&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787000246&ver=6910&signature=zpYmTuX3CO5SbgqYcBtst6BRboArl0o*dbSUz0P6mAhWpYq0Cp0lWudPfXq5gEsigWlJFZRp4kp5bepGUnA3nxNDIA-EiH4JNgqGEN7emln*yhMeuvDG2bhGKagQt1hr&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787002373&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUA3vxdzxtVwqavHYXGZBco4qcknkM*DBzlICnDB-ijFcSiJjDOrYYCNKROeKrzwi59ulOWBdAjn79pc8TfxBpu&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787005629&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfRTHXD9kwGaS33oYViz-nejIB1eVfWUbEwRG5WlS35suyuDq5nMpheNOYUHEj8Xp94&new=1",
+   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
+   "time": "2026-08-17T07:50:52+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "源代码",
+    "员工"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787007149&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfRooBeoNqBbZNqE8gCEcAX5F*Z9kQcs2Zeb*BmHoF4g9kaVN1LZXNc*G4P3DQQY8-8&new=1",
+   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
+   "time": "2026-08-17T07:50:52+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "源代码",
+    "员工"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787009129&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Dic8ymIgCAEoaJf0V8NbMKfR6bBpmBbOYLkULF9oPZy1flV7Y1VGOAkaXNU1H1YBe6fVL*9KF6q8c3b-uuns*aPo&new=1",
+   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
+   "time": "2026-08-17T07:50:52+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "源代码",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "本地部署还是云端?投标资料涉及 商业秘密 ,AI工具的安全红线在这",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787010512&ver=6911&signature=nmr8ioeLmDrW13sIIKP4OGAVxNjI51MQd*pZdn-2Did4q4Jd6nuYiuuXzW*cXc0UnGh0UuvFaeohAjFtpMoKrKPhPM3P*u8O49CJ1JVUG6REk57PYLU6NqPHXuu4dGLO&new=1",
+   "summary": "投标资料涉及 商业秘密 ,AI工具的安全红线在这2023年,三星半导体部门的三名员工,先后把内部会议记录和源代码贴进了ChatGPT,...",
+   "time": "2026-08-17T07:50:52+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "源代码",
+    "员工"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787024803&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUNtJKGWpFc5WHyj9vvC*GSexdFrhV1QypKibdupPkk5jqnDng*XvF*eUc3d0YkM2t7BJilTWAe*JI4YnlIkt0Z&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787027879&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYUNtJKGWpFc5WHyj9vvC*GSJhgOTHlDDAwZNAt48FkrGBly--yrJ-TWDre8MfHhjz9OiWJhCvI2Aa8SJjkCm-11&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787031136&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYW-snwFC*IZt6D2t0FfJadf9uWWjHXvqr5N-mP1Oghldt668pNoS6HXqaR9bgE2wWHgwoIQPeVXI1T6hHbkWLmb&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787038780&ver=6911&signature=wQ*BCLtcx31VbsBnByaq-FNzpIrBE1Xnrmb4cd1VMYW-snwFC*IZt6D2t0FfJadf6p6oJqr5luo1NMgWUQOWX7J078f*LY8huDgq1dKzjBLKu-fb*yPEV3vmTx9Opitz&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049095&ver=6912&signature=b5CDnil6i1NDF5aBQKVruRKdaRkaum6mfwdMZejJ3knUpEMuKk71zsVaandmcyWMONErRVCIBf31gFTUDohi28eRHFJPLruTFMf6yQAAVNgktDhrdR88Z4DOro6YCuYi&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "Case: Individual Employment Rights/Noncompete Agreements (W.D. Ky.)",
@@ -2129,7 +2175,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "客户名单"
@@ -3530,7 +3576,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3553,7 +3599,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3576,7 +3622,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3599,7 +3645,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3622,7 +3668,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3645,7 +3691,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3668,7 +3714,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "知识产权",
@@ -3727,28 +3773,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "华为天才少年离职后会面临哪些竞业限制？",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV94OHg1eXJtcXRkYzRWcXE2YVBDWXc3WTNybzRPNmlzYmFfRVBTWlNPV3RQRWdLM1ZxaWctNmUwMEpJUmo5WUpORmZjOEZWZHo4eG5ERlJyeTg3TFpETk5SM1V3elRERjlLOUwwdW01TnpwWEtLZFZrMHB0NVRSMl80RGU?oc=5",
-   "summary": "",
-   "time": "2026-08-16T23:18:24+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "finance.sina.com.cn"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 7.6,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "离职"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "黄埔联和街道开展商业秘密保护与专利转化运用专题培训",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT05qMGZMMWZDclVxOXRpTDg0dEhwS21CcW5GRFJjSjdaU3J2b2NROUU4WjYzalRMNGwxT0w4elVCcUFkZ2ZvdlhMMWxfX2JWamJUenk1TGZPLUJ4ZC1YZDJJakZMU3h2d1lNSGhWcWZNN3lpb01nWTBmdjRTclNnRkowbVd6UWVOM2ZfdA?oc=5",
    "summary": "",
@@ -3771,6 +3795,28 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
+   "title": "华为天才少年离职后会面临哪些竞业限制？",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdV94OHg1eXJtcXRkYzRWcXE2YVBDWXc3WTNybzRPNmlzYmFfRVBTWlNPV3RQRWdLM1ZxaWctNmUwMEpJUmo5WUpORmZjOEZWZHo4eG5ERlJyeTg3TFpETk5SM1V3elRERjlLOUwwdW01TnpwWEtLZFZrMHB0NVRSMl80RGU?oc=5",
+   "summary": "",
+   "time": "2026-08-16T23:18:24+08:00",
+   "date": "2026-08-16",
+   "sources": [
+    "finance.sina.com.cn"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 7.5,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "物流数据开放互联会不会泄露企业商业机密？",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UTlVMeERuQWdxaW1ETGVpNlNqMlE3Qlk5NFNWRFI5Y2k0QkYxV3BmUWdhamRYS3ktSzFMbU5tX1QxaEpfb0J1ZHBSSHA2X2NUdER3SVNYVmtYcVI3YnpZVjZIRXlIOEMyVC1sSEd2cHpBSjhxUVIxdUx0c2lIQQ?oc=5",
    "summary": "",
@@ -3781,7 +3827,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 5.8,
+   "heat": 5.7,
    "hot": false,
    "tags": [
     "商业机密"
@@ -3793,7 +3839,7 @@
   },
   {
    "title": "侵犯商业秘密 罪律师提醒区块链技术与商业秘密的安全保管",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049118&ver=6912&signature=LKXmdpbuI8zjVGHyZuzNDNT8*loQoU8pgjxuYPZM4bUvVJuJnon1sI5C3B0aT42bZLBNRAdRD2IuEWQICuu0-khDw4rtUy4TYQ9g3CGAsC1ncAqZwqAtJYaVLYl1jYNb&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787052485&ver=6912&signature=LKXmdpbuI8zjVGHyZuzNDNT8*loQoU8pgjxuYPZM4bW69R20A2AxKAp9TvAQjFPD-HztA8MVx7OViqMAbIq6t6FNrpvZG536cUgVMdLzdWodSiI2NHhOvx6ON3Ywokbx&new=1",
    "summary": "一、区块链技术与 商业秘密 诉讼中的证明时间戳技术为区块链技术的应用提供了具有可追溯性的保证,可以为 商业秘密 提供存在证明,...",
    "time": "2026-08-15T13:00:58+08:00",
    "date": "2026-08-15",
@@ -3807,7 +3853,7 @@
    "tags": [
     "侵犯商业秘密",
     "商业秘密",
-    "秘密"
+    "诉讼"
    ],
    "importance": 12.5,
    "kw_score": 8.0,
@@ -4622,6 +4668,29 @@
   {
    "title": "侵犯商业秘密 罪律师提醒区块链技术与商业秘密的安全保管",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786992683&ver=6910&signature=2IzUHICq3z7JQjIzBsH5ImThc1yw8c-3yE5WdmctiglFtp29cXjwvde21wD*FQncTbM1l30sEC-etdlo8z3vcKOj1Zzd3cIb41FW*oWXkRljJ7RDFCIra4SAezjc6YGq&new=1",
+   "summary": "一、区块链技术与 商业秘密 诉讼中的证明时间戳技术为区块链技术的应用提供了具有可追溯性的保证,可以为 商业秘密 提供存在证明,...",
+   "time": "2026-08-15T13:00:58+08:00",
+   "date": "2026-08-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "侵犯商业秘密 罪律师提醒区块链技术与商业秘密的安全保管",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049118&ver=6912&signature=LKXmdpbuI8zjVGHyZuzNDNT8*loQoU8pgjxuYPZM4bUvVJuJnon1sI5C3B0aT42bZLBNRAdRD2IuEWQICuu0-khDw4rtUy4TYQ9g3CGAsC1ncAqZwqAtJYaVLYl1jYNb&new=1",
    "summary": "一、区块链技术与 商业秘密 诉讼中的证明时间戳技术为区块链技术的应用提供了具有可追溯性的保证,可以为 商业秘密 提供存在证明,...",
    "time": "2026-08-15T13:00:58+08:00",
    "date": "2026-08-15",
@@ -6273,7 +6342,7 @@
   },
   {
    "title": "Citadel将 竞业限制 延长至两年,部分分析师也被“锁住”",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049095&ver=6912&signature=YCbCfCAQou3jnIgXNV4oLn17qOQHMHK1kERhtaRE3lJ8obqlTJ-ub9N3vsJc9wfXjrjKMG0byyc0Tvm-S6jAq*5yzX*jqFl71r9x6Y1TTizC2C8wMZgLKXCnLkdG8ZAJ&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787052457&ver=6912&signature=YCbCfCAQou3jnIgXNV4oLn17qOQHMHK1kERhtaRE3lLR*74VW8bC3VyrfMyou*pU5eYf2xalBftNiq9F6qyB5udAtMTW2bQ-bAr8cgtVVWOGRvxw2-j3*B8f24a*Xt67&new=1",
    "summary": "在多策略对冲基金激烈争夺人才的背景下, 竞业限制 (non-compete)和离职等待期(garden leave)正在成为留住核心人才的重要手...",
    "time": "2026-08-14T11:40:33+08:00",
    "date": "2026-08-14",
@@ -7054,27 +7123,27 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "江门市场监管发布三起商业秘密保护典型案例",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCMGJjNmtGam44OWxSRHl0NFo1SVFyUG11MENJakJoeUhicjA5MHRQYlBvd2h6cmg0bHVYRWpUYlI1T0lxUnQtM1MxSGpNSnpSbFViemRpMGg?oc=5",
-   "summary": "",
-   "time": "2026-08-14T11:35:05+08:00",
+   "title": "Citadel将 竞业限制 延长至两年,部分分析师也被“锁住”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787049095&ver=6912&signature=YCbCfCAQou3jnIgXNV4oLn17qOQHMHK1kERhtaRE3lJ8obqlTJ-ub9N3vsJc9wfXjrjKMG0byyc0Tvm-S6jAq*5yzX*jqFl71r9x6Y1TTizC2C8wMZgLKXCnLkdG8ZAJ&new=1",
+   "summary": "在多策略对冲基金激烈争夺人才的背景下, 竞业限制 (non-compete)和离职等待期(garden leave)正在成为留住核心人才的重要手...",
+   "time": "2026-08-14T11:40:33+08:00",
    "date": "2026-08-14",
    "sources": [
-    "中国知识产权律师网"
+    "微信公众号"
    ],
    "region": "国内",
-   "category": "行政执法",
-   "heat": 8.0,
+   "category": "竞业与保密",
+   "heat": 9.0,
    "hot": false,
    "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
+    "non-compete",
+    "竞业限制",
+    "离职"
    ],
-   "importance": 10.5,
-   "kw_score": 6.0,
+   "importance": 9.0,
+   "kw_score": 7.0,
    "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "TRADE SECRETS—N.D. Ill.: Gum...",
@@ -7122,13 +7191,35 @@
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
+   "title": "江门市场监管发布三起商业秘密保护典型案例",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCMGJjNmtGam44OWxSRHl0NFo1SVFyUG11MENJakJoeUhicjA5MHRQYlBvd2h6cmg0bHVYRWpUYlI1T0lxUnQtM1MxSGpNSnpSbFViemRpMGg?oc=5",
+   "summary": "",
+   "time": "2026-08-14T11:35:05+08:00",
+   "date": "2026-08-14",
+   "sources": [
+    "ciplawyer.cn"
+   ],
+   "region": "国内",
+   "category": "行政执法",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+  },
+  {
    "title": "市场传闻：Citadel要求投资员工签署最长两年的竞业禁止协议",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGJqZ3Z2RGNUTm1qX2pPaVJRdXlJMGM1am5iVkFERk9Xay1pM1JWV1ZJb2JDaEYwal9xYVRuNXBWVk9RNUstQjRjSkU5cU9Qbkk2V3dqQ0hmRlFNQmlXMnNrUDE4dUJIWENYRU9Hd0wzQ05FN3dwazl0ZnRyMXVHSUdIWXJFWjlXejFSd0JOd2NLTHFUTG10OF9jc0lsUzBJemNqYURFQ2dLQQ?oc=5",
    "summary": "",
    "time": "2026-08-14T07:38:26+08:00",
    "date": "2026-08-14",
    "sources": [
-    "Moomoo"
+    "moomoo.com"
    ],
    "region": "国内",
    "category": "竞业与保密",
@@ -10543,7 +10634,7 @@
     ],
     "region": "国际",
     "category": "立法监管",
-    "heat": 14.9,
+    "heat": 14.8,
     "hot": true,
     "tags": [
      "trade secret",
