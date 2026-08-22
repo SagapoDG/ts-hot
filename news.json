@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-23T07:23:05.375584+08:00",
- "count": 630,
+ "generated_at": "2026-08-23T07:46:59.764346+08:00",
+ "count": 598,
  "highlight_count": 28,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
@@ -248,7 +248,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "客户名单",
@@ -271,7 +271,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "客户名单",
@@ -386,7 +386,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "泄密"
@@ -407,7 +407,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "泄密"
@@ -475,7 +475,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.6,
+   "heat": 13.5,
    "hot": false,
    "tags": [
     "知识产权",
@@ -498,7 +498,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.6,
+   "heat": 13.5,
    "hot": false,
    "tags": [
     "知识产权",
@@ -640,7 +640,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -663,7 +663,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "保密协议",
@@ -755,7 +755,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1100,7 +1100,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1132,28 +1132,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "专攻商业秘密保护难题，上海有支“珠峰战队”",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zblI4VVlaUkp4WWw3S284SlJfdHlrdzQyeWtaMjFPRy1ZVVpmVFd2VmdaVGFJS0FLQk9KbXRqQndEcVpkSUZpMjJhN1JVcFQwa01fUXhFSndMMWdW?oc=5",
-   "summary": "",
-   "time": "2026-08-21T11:27:00+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "上观新闻"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 7.6,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Court Orders New Jersey Tax Return Preparer to Shut Down Tax Preparation Business",
@@ -1198,6 +1176,28 @@
    "kw_score": 4.0,
    "weight": 2.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "专攻商业秘密保护难题，上海有支“珠峰战队”",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zblI4VVlaUkp4WWw3S284SlJfdHlrdzQyeWtaMjFPRy1ZVVpmVFd2VmdaVGFJS0FLQk9KbXRqQndEcVpkSUZpMjJhN1JVcFQwa01fUXhFSndMMWdW?oc=5",
+   "summary": "",
+   "time": "2026-08-21T11:27:00+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "上观新闻"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 7.5,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "一套不透明的“安全证明”：特斯拉FSD闯关欧洲，商业机密能否遮住公共风险？",
@@ -1297,7 +1297,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 16.8,
+   "heat": 16.7,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -1423,7 +1423,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1447,7 +1447,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1471,7 +1471,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1495,7 +1495,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1519,7 +1519,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1543,7 +1543,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1567,7 +1567,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1591,7 +1591,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1615,7 +1615,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1639,7 +1639,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1663,7 +1663,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -2108,7 +2108,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2133,7 +2133,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2158,7 +2158,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2251,7 +2251,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "confidential information",
@@ -2576,8 +2576,8 @@
    "heat": 9.5,
    "hot": false,
    "tags": [
-    "商业秘密",
     "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -2642,7 +2642,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -2665,7 +2665,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2688,7 +2688,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2711,7 +2711,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -2780,7 +2780,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2807,8 +2807,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "秘密",
-    "窃取"
+    "窃取",
+    "诉讼"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -2921,8 +2921,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "秘密",
-    "窃取"
+    "窃取",
+    "秘密"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -3093,7 +3093,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 4.4,
+   "heat": 4.3,
    "hot": false,
    "tags": [
     "源代码"
@@ -5280,13 +5280,37 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "秘密",
-    "保密"
+    "保密",
+    "秘密"
    ],
    "importance": 9.0,
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "苹果起诉OpenAI窃密：指控前员工泄密加速其硬件研发",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVk96T3dxVGRIMnozZk9NZWFlWnZQM2lJd0tPUUtOSXFDXy1hRXhYUDNHcFd2Vm9LQTJRSTNCcE9lZlJlSThseUYxZ25zM1hETkZHZEZtNVM1WUxNaFFCNnpHNDBKcGFzTHhNSVNEdnlZTzkyc1EwZGdLT1d5Z3ZHR0xiSzZ0WXM3OVM5cg?oc=5",
+   "summary": "",
+   "time": "2026-08-19T14:22:51+08:00",
+   "date": "2026-08-19",
+   "sources": [
+    "搜狐网",
+    "QQ News"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "泄密",
+    "员工",
+    "窃密"
+   ],
+   "importance": 11.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "知识产权管理:商标、专利、著作权、 商业秘密 的保护与维权",
@@ -5609,29 +5633,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
-   "title": "苹果起诉OpenAI窃密：指控前员工泄密加速其硬件研发",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVk96T3dxVGRIMnozZk9NZWFlWnZQM2lJd0tPUUtOSXFDXy1hRXhYUDNHcFd2Vm9LQTJRSTNCcE9lZlJlSThseUYxZ25zM1hETkZHZEZtNVM1WUxNaFFCNnpHNDBKcGFzTHhNSVNEdnlZTzkyc1EwZGdLT1d5Z3ZHR0xiSzZ0WXM3OVM5cg?oc=5",
-   "summary": "",
-   "time": "2026-08-19T14:22:51+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "员工",
-    "泄密",
-    "窃密"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "加强商业秘密保护 维护市场公平竞争秩序",
@@ -6984,7 +6985,7 @@
   },
   {
    "title": "滥用“ 竞业限制 协议”?法院:无效!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=Cl7vfkEGkNYc84SMRnr9nnQvebQTkV5zHf*iH42XQ39kbhXCJujssk9rsuZUUl6uzCO47LFsw5Vl5Lm*k5c*Gnxeq45LfftaYFfXOF55eDyfa0nmV16*cScwqSnzxnD1&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787442425&ver=6921&signature=Cl7vfkEGkNYc84SMRnr9nnQvebQTkV5zHf*iH42XQ39kbhXCJujssk9rsuZUUl6ua*BbK3YVINUCYkVlk7zF3lENLUkkIGUHwdf5bYEAE4A*c-ddbMi5iuHk0VxCwkra&new=1",
    "summary": "宠物医生离职再就业老东家以违反 竞业限制 诉至法院“正当就业权”PK“保密义务”合理的 竞业限制 是什么?案情简介梅某于2017年9...",
    "time": "2026-08-18T09:47:11+08:00",
    "date": "2026-08-18",
@@ -6996,8 +6997,8 @@
    "heat": 9.0,
    "hot": false,
    "tags": [
-    "保密义务",
     "竞业限制",
+    "保密义务",
     "离职"
    ],
    "importance": 11.5,
@@ -8066,6 +8067,29 @@
   {
    "title": "滥用“ 竞业限制 协议”?法院:无效!",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787438990&ver=6921&signature=Cl7vfkEGkNYc84SMRnr9nnQvebQTkV5zHf*iH42XQ39PbxEKFCSrVMM55KvLIxDXEY1t4B*6YTLqJs14erzaABcqwtyzIzNGE7dnFY0MZI1jY0awBsSriqMyTPfVmJ9N&new=1",
+   "summary": "宠物医生离职再就业老东家以违反 竞业限制 诉至法院“正当就业权”PK“保密义务”合理的 竞业限制 是什么?案情简介梅某于2017年9...",
+   "time": "2026-08-18T09:47:11+08:00",
+   "date": "2026-08-18",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "保密义务",
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "滥用“ 竞业限制 协议”?法院:无效!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=Cl7vfkEGkNYc84SMRnr9nnQvebQTkV5zHf*iH42XQ39kbhXCJujssk9rsuZUUl6uzCO47LFsw5Vl5Lm*k5c*Gnxeq45LfftaYFfXOF55eDyfa0nmV16*cScwqSnzxnD1&new=1",
    "summary": "宠物医生离职再就业老东家以违反 竞业限制 诉至法院“正当就业权”PK“保密义务”合理的 竞业限制 是什么?案情简介梅某于2017年9...",
    "time": "2026-08-18T09:47:11+08:00",
    "date": "2026-08-18",
@@ -9387,7 +9411,7 @@
   },
   {
    "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=RIDDZ*lljWFWeSbvMDpjfZrG0UjsM8LSIgXQrOvLF1KETTTFBuP0yDMcrx7yjtpaOIGIlpnzYTIIYJ6xGtt1Fd*G3iem8sp9aFhPuRfnMuZYJQkn0nZrCbPRtm*Wd9j1&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787442425&ver=6921&signature=RIDDZ*lljWFWeSbvMDpjfZrG0UjsM8LSIgXQrOvLF1KETTTFBuP0yDMcrx7yjtpaJdmkAXjxo0GXD6fzKajzB5bHNGld5YAr8ol6GC20c83OU2Z*RNeMHOWihjtP43*W&new=1",
    "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
    "time": "2026-08-17T07:31:40+08:00",
    "date": "2026-08-17",
@@ -9399,8 +9423,8 @@
    "heat": 9.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -12054,6 +12078,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=RIDDZ*lljWFWeSbvMDpjfZrG0UjsM8LSIgXQrOvLF1KETTTFBuP0yDMcrx7yjtpaOIGIlpnzYTIIYJ6xGtt1Fd*G3iem8sp9aFhPuRfnMuZYJQkn0nZrCbPRtm*Wd9j1&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "竞业限制 ①|普通员工也被要求签竞业协议,签了就一定有效吗?--厨师离职,被公司索赔十万余元",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787096898&ver=6913&signature=n-kfA5QebNk8cFxk5jDJX9L89UyaGmqHxY3eTatAHUs4IXJYX9CmRilKJNq6GRydWGOJStPbcB8VOkBVdLpRBMylBZh9a8M4Q-TZUlbrUHw3EbXlWtHWJXXk4X5s0xzC&new=1",
    "summary": "——「言外书」第四十篇入职时,劳动合同后面附着一份《保密及 竞业限制 协议》.HR说:“这是公司统一模板,所有员工都要签....",
@@ -12392,811 +12439,6 @@
    "kw_score": 2.0,
    "weight": 1.5,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786837589&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-ZrZcENiKCKNGqyFvqv*812Gap2MJP*UrbmQzG*JbmDHrsCxXl6IHA**NssMaLvzDrA-4PdPkmHCBZiNT2CSI-D&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786843692&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-bCj-BEPCqGQN2uViVjRGDJdSlrH5Y0NmZaiguViwJmLwif51VsZUh*dLg-VElLCFHSYAFtFNjaZszfyhYbVkT3&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786848320&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-bCj-BEPCqGQN2uViVjRGDJWw50PYPbCQ4XkHQcOfH0snBsugN2VoPnzyfSHy4jGvOLwjpv9RGVi5Vq1Y31r2o6&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786852216&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-bhmvDZMPYwt1Kc7Wm2YjPQUWX6YD56JHX9n-A26eN9mEOn3hrnb3R4nVTCVd0i6d1fsXMfzGaKeCX-PcN4dgFs&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786855076&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-bhmvDZMPYwt1Kc7Wm2YjPQnbK3aJ8aoAHZOGl5DysLf67Rl*bT-ShfIRod3NSZpVAI3Uo*QJDQbOSqa-ibfYf-&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786858237&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-bhmvDZMPYwt1Kc7Wm2YjPQa4ehyyoyVKp2JTdo4aaPLbiI*4BROHq3JRXFsVKLVKD3KFTLPyzyiz9ksqXnUdIm&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786862584&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-ZE1uwKkNSe8ONeGznyHsYudBqidlsETiOgtcvjbGewlbRWMD*JFj2aQDJNxVxQo04QbzaC9-8PGN-a1O*5PIR-&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786865586&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-ZE1uwKkNSe8ONeGznyHsYusJ*65iI8MT6tDhvR9on-v0rNCpdp5bSZdymahzC0yLvcyZxPFziMj3ueIq1aycH0&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786869128&ver=6907&signature=*tuFG1jh55OqO5Xzm8Y8FqXCuPEaP7CCH3AeafDYs-ZE1uwKkNSe8ONeGznyHsYuOWir3ebiduFhUkAjjOau-HbHhkVGG9KSUak2Z8VwVYakPkK8y4pddMrgKtqO0tU1&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786872571&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znhkvkvyeGZxa8O1O3R359B9LaUtr2ZFJQllKSc-UnojJy0tWHhWRxjlGkIUJDtRaqP58LOZUR7CxSoDsxkW26G&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786874045&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znhkvkvyeGZxa8O1O3R359BijDQV6PnHsuQILUVxTET5dN2LPRKMP-Qr2-fwKaIkBqCDcgY0z*w7ZXT0Pm2nG4c&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786875956&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znhkvkvyeGZxa8O1O3R359BZc7cy2WvmB2lgRX9fVP1jzAIzXqC1hG9NAYF32Lxu4vUb-cXJHWARxxUGhD5AXq7&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786877397&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znhkvkvyeGZxa8O1O3R359BZlajobKi2UBpVt4seq06Ko4y85cOb7E5GXGhCShoEAbvBPabSX6TtYQdXC0U7abv&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786879344&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znhkvkvyeGZxa8O1O3R359BTSxoQDwv-ltVwc5AzvGf7z6RVPu0ZI5vhR-jbgu0xTPR0PYkKR-Zfsp*MwOvuhSP&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786880781&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6yZKxBee9FUUIZhdzVaIBhFVHu0ap3rnI*wu2t-oOGcopXygs2ceb-u4sXYlMEIED&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786884209&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6I0o6vy*fcKd007a3ZSdNJEOrZfSbQBHXaoJYrvrO0UMtxgvkA8pnvFUMxLJ8wQAQ&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786887190&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zmDa9iZ7cxYvt2dc8aJRAc6NNODFH5uz*RZYIsypUbkRAiYFeg9krUztGSawCh9WXkzoyuJGrKxXGYQsaXmnUaj&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786890349&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaMFphzGYHChhFkzpqujzYmCy9nEb9jIeKxm3I3KkqejUMUOIdiUaMG*fN6mH6sJyZL&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786891818&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaMWIKNvzcPA0Egn2hOmCuAgr0aFnzBiWllK3OjzAFcauKI6-YYWBTUwjvQPBjURjcW&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786893877&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaMRTHUWY4ldY-unTea2mx61IW5foPd281KQXcAvFVWYaB28S3xk02ezU85*z92y4it&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786895256&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaM8V9yyR*ea8hzhOM2yekUQL1h-l2gMa*R*O9xbUIIWSvpXmH*Y3s2yE-SF8hoD20K&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786897715&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaMzVXqxQSzl9IEJECkUm1yq*HgBN7Qls5HDr5g9DhWlV4SPFcuJHKqxfqMvPPceKZo&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786899224&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zlmNFxvT0GO*mOTbMmwjNaMXrxjTRtKCMliVSy01are0ZCXginM*t-AjASaQUQDgQHRb99edaW-6eap1wZGIvh8&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786900897&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znCMEed2PEtItO8YZOQj-gqXY0Dq0AhzLTE2-ZibNrfpg59DD1xOL2cLZE1VKg1N87nUTrIMFZCDy5BXCRiVq-y&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786902404&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znCMEed2PEtItO8YZOQj-gqNFZm-JMuz6onkafc1GyjlGYbAMC5OKgIOFVw6LCwDkf5-Q79q0xT0y2WD9ogGBOW&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786905164&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znCMEed2PEtItO8YZOQj-gqMYB8V2-WzwVdZPnfMQzhdX8qdFXeEy0QzTCoyw8X789yBbnselvd4p*N4EzwqYdJ&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786908139&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znCMEed2PEtItO8YZOQj-gqHPLuruKR9j7oDgdIIKf4*IrWOmLUlHdOVYLjFogfOMHEuFfWZc6Tz1SULK04zTD6&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786909515&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8znCMEed2PEtItO8YZOQj-gqh-cPxYHnokb-usp-MmxiqCykrAyTDeW7keAdrEESS2Cfn4VyyvoJ5qIi0eJTnV4z&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "窃取"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786911945&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zkzzIq7Utup6aJmAg7bGmh3wMrKo2JFFeqp56bxqcXtOUlhSx6m*hGZ45IBd0KwV18rVeJIs8kYiqNNEvIhtY8P&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786913336&ver=6908&signature=5NTK3S4aL6qVflEVNodlIIappBK6G4-ilVzx-RZ*8zkzzIq7Utup6aJmAg7bGmh32461k00VHXbucrClp4v*YRU4a2pRxubSchynx88TzE3NfV943fFl-nxT7Nx8k88E&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786915347&ver=6909&signature=Jgq2iCyV-CEt4FkgRQD8VtFz*vVna7W8QRpF0jkZuoOaHy9S5BGDgbMxNZ53LqHjZBkZNeVVW5h55cGesnejr79B6ia173--RP9GwBoDj1PrMVy2MCh8cFEqYUSYdrac&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786916763&ver=6909&signature=Jgq2iCyV-CEt4FkgRQD8VtFz*vVna7W8QRpF0jkZuoOaHy9S5BGDgbMxNZ53LqHjBf64ys5J676yOVuXJi43BsgLvR-qm7ie4A8OQQnLZtu8jhCj2y-EgKDEueJbsJVb&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786918995&ver=6909&signature=Jgq2iCyV-CEt4FkgRQD8VtFz*vVna7W8QRpF0jkZuoOaHy9S5BGDgbMxNZ53LqHjmQ81XeLFBAFLPHAfvNabB89MlZ3xJrm2LR5Z7ehhwraw94ulEgbPg3FiQP8*V4kR&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786920464&ver=6909&signature=Jgq2iCyV-CEt4FkgRQD8VtFz*vVna7W8QRpF0jkZuoMVwNtKGHRmOquridmUkZPpHC*9byinSHSDXYeUSiaMhYTFQm*ipn7tFggEw7*YeuwwUmfz*KYM7w5fQva-vdjj&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "保密"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "【视频】被买卖的 商业秘密",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786922529&ver=6909&signature=Jgq2iCyV-CEt4FkgRQD8VtFz*vVna7W8QRpF0jkZuoMVwNtKGHRmOquridmUkZPpYxQd4TSE4b15znKkWAaU4xBWv2ogxcvGt52R-rwX26PC3WTi7WfBk-p7eucnjbR-&new=1",
-   "summary": "知识产权不容侵犯 商业秘密 不容窃取守住保密底线远离刑事高压线来源:滨海区人民检察院编辑:李玥瑶",
-   "time": "2026-08-16T07:32:39+08:00",
-   "date": "2026-08-16",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "刑事"
-   ],
-   "importance": 14.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "企业 商业秘密 保护实务(四):教育培训与供应商保密管理",
@@ -13775,7 +13017,7 @@
   },
   {
    "title": "竞业限制 签了就生效吗?补偿金、期限、适用范围和解除一次说清",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=PEOrj0xFZSe9h-NyFFCIq4FLTNKUoz9R9vAJTqG*9Nix2u4Ubl*wISce4SpmOy7Kl-poucdNa7JlQNXy3tBcPseY9Eb1dFrEfWR0ctjp3rzmAeP7k8V7pGUGYVzLj5mP&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787442425&ver=6921&signature=PEOrj0xFZSe9h-NyFFCIq4FLTNKUoz9R9vAJTqG*9Nix2u4Ubl*wISce4SpmOy7KbNnZegAgYpTPCMs6PygfgTeLBiwvnT0fd4NTUO8F05O2vGIToAiAHxSY35rkPc7p&new=1",
    "summary": "＂离职后2年内不能去同行＂—— 竞业限制 听起来吓人,但不是所有员工都适用,没给补偿金的竞业协议,履行起来站不住脚. 先回答...",
    "time": "2026-08-16T18:01:29+08:00",
    "date": "2026-08-16",
@@ -13788,8 +13030,8 @@
    "hot": false,
    "tags": [
     "竞业限制",
-    "和解",
-    "员工"
+    "员工",
+    "离职"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -14441,6 +13683,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "竞业限制 签了就生效吗?补偿金、期限、适用范围和解除一次说清",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787440990&ver=6921&signature=PEOrj0xFZSe9h-NyFFCIq4FLTNKUoz9R9vAJTqG*9Nix2u4Ubl*wISce4SpmOy7Kl-poucdNa7JlQNXy3tBcPseY9Eb1dFrEfWR0ctjp3rzmAeP7k8V7pGUGYVzLj5mP&new=1",
+   "summary": "＂离职后2年内不能去同行＂—— 竞业限制 听起来吓人,但不是所有员工都适用,没给补偿金的竞业协议,履行起来站不住脚. 先回答...",
+   "time": "2026-08-16T18:01:29+08:00",
+   "date": "2026-08-16",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "和解",
+    "员工"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "黄埔联和街道开展商业秘密保护与专利转化运用专题培训",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT05qMGZMMWZDclVxOXRpTDg0dEhwS21CcW5GRFJjSjdaU3J2b2NROUU4WjYzalRMNGwxT0w4elVCcUFkZ2ZvdlhMMWxfX2JWamJUenk1TGZPLUJ4ZC1YZDJJakZMU3h2d1lNSGhWcWZNN3lpb01nWTBmdjRTclNnRkowbVd6UWVOM2ZfdA?oc=5",
    "summary": "",
@@ -14826,8 +14091,8 @@
     "hot": false,
     "tags": [
      "trade secret",
-     "court",
-     "theft"
+     "theft",
+     "court"
     ],
     "importance": 23.5,
     "kw_score": 5.0,
