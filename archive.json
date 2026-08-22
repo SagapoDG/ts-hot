@@ -8707,8 +8707,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "theft",
-   "poach"
+   "poach",
+   "theft"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -30040,8 +30040,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "保密义务",
    "竞业限制",
+   "保密义务",
    "保密"
   ],
   "importance": 8.0,
@@ -41368,7 +41368,7 @@
   "tags": [
    "商业秘密",
    "秘密",
-   "诉讼"
+   "窃取"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -42344,8 +42344,8 @@
   "heat": 4.0,
   "hot": false,
   "tags": [
-   "court",
-   "poach"
+   "poach",
+   "court"
   ],
   "importance": 6.5,
   "kw_score": 2.0,
@@ -45182,8 +45182,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "跳槽"
+   "跳槽",
+   "秘密"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -48562,8 +48562,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "theft",
-   "court"
+   "court",
+   "theft"
   ],
   "importance": 23.5,
   "kw_score": 5.0,
@@ -53056,8 +53056,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 10.5,
@@ -62986,8 +62986,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "保密"
+   "保密",
+   "秘密"
   ],
   "importance": 9.0,
   "kw_score": 5.0,
@@ -65027,16 +65027,17 @@
   "time": "2026-07-17T15:00:00+08:00",
   "date": "2026-07-17",
   "sources": [
-   "QQ News"
+   "QQ News",
+   "凤凰网科技"
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 5.0,
+  "heat": 7.0,
   "hot": false,
   "tags": [
    "竞业限制"
   ],
-  "importance": 5.0,
+  "importance": 7.0,
   "kw_score": 3.0,
   "weight": 2.0,
   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
@@ -67192,7 +67193,7 @@
   "time": "2026-07-29T15:00:00+08:00",
   "date": "2026-07-29",
   "sources": [
-   "凤凰网财经"
+   "凤凰网"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -67744,7 +67745,7 @@
   ],
   "region": "国际",
   "category": "竞业与保密",
-  "heat": 7.8,
+  "heat": 7.7,
   "hot": false,
   "tags": [
    "trade secret",
@@ -68042,8 +68043,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 8.0,
@@ -68563,12 +68564,12 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 9.2,
+  "heat": 9.1,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密",
-   "诉讼"
+   "窃取"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -68586,7 +68587,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 8.2,
+  "heat": 8.1,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -68633,7 +68634,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 6.2,
+  "heat": 6.1,
   "hot": false,
   "tags": [
    "trade secret"
@@ -69326,7 +69327,7 @@
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 10.5,
+  "heat": 10.4,
   "hot": false,
   "tags": [
    "竞业限制",
@@ -69377,7 +69378,7 @@
   ],
   "region": "国内",
   "category": "行政执法",
-  "heat": 12.4,
+  "heat": 12.3,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -69651,7 +69652,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 7.2,
+  "heat": 7.1,
   "hot": false,
   "tags": [
    "商业机密",
@@ -69836,7 +69837,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 7.5,
+  "heat": 7.4,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -70303,7 +70304,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 12.0,
+  "heat": 11.9,
   "hot": false,
   "tags": [
    "confidential information",
@@ -70859,7 +70860,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 11.3,
+  "heat": 11.2,
   "hot": false,
   "tags": [
    "economic espionage",
@@ -70999,7 +71000,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 7.9,
+  "heat": 7.8,
   "hot": false,
   "tags": [
    "商业机密",
@@ -71185,7 +71186,7 @@
   ],
   "region": "国际",
   "category": "刑事打击",
-  "heat": 13.1,
+  "heat": 13.0,
   "hot": false,
   "tags": [
    "economic espionage",
@@ -71995,8 +71996,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "员工"
+   "员工",
+   "秘密"
   ],
   "importance": 7.0,
   "kw_score": 5.0,
@@ -72014,7 +72015,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 8.0,
+  "heat": 7.9,
   "hot": false,
   "tags": [
    "商业机密"
@@ -72516,8 +72517,8 @@
   "heat": 4.0,
   "hot": false,
   "tags": [
-   "court",
-   "poach"
+   "poach",
+   "court"
   ],
   "importance": 6.5,
   "kw_score": 2.0,
@@ -72673,12 +72674,12 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 10.8,
+  "heat": 10.7,
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "窃密"
+   "窃密",
+   "秘密"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -72968,7 +72969,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "trade secret",
@@ -74016,7 +74017,7 @@
   ],
   "region": "国内",
   "category": "行政执法",
-  "heat": 11.7,
+  "heat": 11.6,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -74039,7 +74040,7 @@
   ],
   "region": "国内",
   "category": "行政执法",
-  "heat": 10.5,
+  "heat": 10.4,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -74071,6 +74072,75 @@
   ],
   "importance": 10.5,
   "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=p7V2syjz4n8iIDSXx8i3t8Ks4yCZnWX93lJl*LqzG29wk7AMQpQxhcK3UZL-1ZzHfNd5wwXo8vx69Fsn3GyqG*inTI9l1lzVVdnGEnzNsV69zdcR2jU0WFLZZJREe-*Z&new=1": {
+  "title": "竞业限制 不能限制非负有保密义务的劳动者的自主择业权",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=p7V2syjz4n8iIDSXx8i3t8Ks4yCZnWX93lJl*LqzG29wk7AMQpQxhcK3UZL-1ZzHfNd5wwXo8vx69Fsn3GyqG*inTI9l1lzVVdnGEnzNsV69zdcR2jU0WFLZZJREe-*Z&new=1",
+  "summary": "实践中, 竞业限制 条款存在适用主体泛化等滥用现象.部分用人单位不区分劳动者是否属于掌握本单位商业秘密、与知识产权相关保密...",
+  "time": "2026-08-20T15:25:22+08:00",
+  "date": "2026-08-20",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 15.4,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "竞业限制",
+   "知识产权"
+  ],
+  "importance": 14.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=D6pNKN*pj7dLLaR2rHjxbFaSAC*u3briw9wOdzHwzaCYZFpH9yE2u879Q0nsIedlVEIjW9p02MB2Kph7zbBQpV5yiIh3P9JAcsGijoJXxgp0H419JsneHR8aaZ5f5H3Q&new=1": {
+  "title": "竞业限制 经济补偿与违约金规定地区对照表",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=D6pNKN*pj7dLLaR2rHjxbFaSAC*u3briw9wOdzHwzaCYZFpH9yE2u879Q0nsIedlVEIjW9p02MB2Kph7zbBQpV5yiIh3P9JAcsGijoJXxgp0H419JsneHR8aaZ5f5H3Q&new=1",
+  "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+  "time": "2026-08-17T07:31:40+08:00",
+  "date": "2026-08-17",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 9.0,
+  "hot": false,
+  "tags": [
+   "竞业限制",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=fZL4sO8jqmOFn6WjIF6PUWXE3HImT5Z38NpLEi6SEKZ7peo-s0fMOG5*9H1qLsRjsQc9GKjpgpmzBPWv2zP-CfZhm9u2*CcA9CIUJ4x8uq6xbFTRhIk0We029di2XbIt&new=1": {
+  "title": "滥用“ 竞业限制 协议”?法院:无效!",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787381554&ver=6919&signature=fZL4sO8jqmOFn6WjIF6PUWXE3HImT5Z38NpLEi6SEKZ7peo-s0fMOG5*9H1qLsRjsQc9GKjpgpmzBPWv2zP-CfZhm9u2*CcA9CIUJ4x8uq6xbFTRhIk0We029di2XbIt&new=1",
+  "summary": "宠物医生离职再就业老东家以违反 竞业限制 诉至法院“正当就业权”PK“保密义务”合理的 竞业限制 是什么?案情简介梅某于2017年9...",
+  "time": "2026-08-18T09:47:11+08:00",
+  "date": "2026-08-18",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 9.0,
+  "hot": false,
+  "tags": [
+   "竞业限制",
+   "保密义务",
+   "保密"
+  ],
+  "importance": 11.5,
+  "kw_score": 7.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
  }
