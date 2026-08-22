@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-08-22T18:26:10.831660+08:00",
- "count": 563,
+ "generated_at": "2026-08-22T18:50:52.406576+08:00",
+ "count": 566,
  "highlight_count": 28,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -110,7 +111,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "泄密"
@@ -131,7 +132,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 16.6,
+   "heat": 16.5,
    "hot": true,
    "tags": [
     "economic espionage",
@@ -367,7 +368,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -390,7 +391,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "保密协议",
@@ -482,7 +483,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -620,7 +621,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.9,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -826,7 +827,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "trade secret",
@@ -836,28 +837,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "Court Orders New Jersey Tax Return Preparer to Shut Down Tax Preparation Business",
-   "url": "https://www.justice.gov/opa/pr/court-orders-new-jersey-tax-return-preparer-shut-down-tax-preparation-business",
-   "summary": "The United States District Court for the District of New Jersey issued a permanent injunction against Newark-area tax return preparer Roxanna Cedeno, doing business as RC Travel…",
-   "time": "2026-08-21T20:00:00+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "DOJ 美国司法部"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "injunction",
-    "court"
-   ],
-   "importance": 8.0,
-   "kw_score": 3.0,
-   "weight": 2.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "专攻商业秘密保护难题，上海有支“珠峰战队”",
@@ -880,6 +859,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Court Orders New Jersey Tax Return Preparer to Shut Down Tax Preparation Business",
+   "url": "https://www.justice.gov/opa/pr/court-orders-new-jersey-tax-return-preparer-shut-down-tax-preparation-business",
+   "summary": "The United States District Court for the District of New Jersey issued a permanent injunction against Newark-area tax return preparer Roxanna Cedeno, doing business as RC Travel…",
+   "time": "2026-08-21T20:00:00+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "DOJ 美国司法部"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "injunction",
+    "court"
+   ],
+   "importance": 8.0,
+   "kw_score": 3.0,
+   "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Motorola Wants Rival Hytera's Latest Radio Added To IP Fight",
@@ -978,7 +979,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "trade secret"
@@ -1077,7 +1078,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": true,
    "tags": [
     "侵犯商业秘密",
@@ -1103,7 +1104,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": true,
    "tags": [
     "侵犯商业秘密",
@@ -1405,7 +1406,7 @@
   },
   {
    "title": "竞业限制 不能限制非负有保密义务的劳动者的自主择业权",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394378&ver=6920&signature=Ka-HYmpQvFJ9SwA4qWPt62pY1mY0jnWXtXFd3zUVW1KpLqmVlf9EzuRhl1AVhP0GCsBWCiQ2FZaeEfsQ-g4wt0Yk0N5fwO6Qf3noDU2E58Wc7OUP1k4R3ZEQb3cFGsVc&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787395860&ver=6920&signature=Ka-HYmpQvFJ9SwA4qWPt62pY1mY0jnWXtXFd3zUVW1KpLqmVlf9EzuRhl1AVhP0GkLnE01nI6ZFEpOS5s7Cmw2*c*XnxpEYBUFcEeDz4VmeOWA75e-eikiQeHO8EjRpK&new=1",
    "summary": "实践中, 竞业限制 条款存在适用主体泛化等滥用现象.部分用人单位不区分劳动者是否属于掌握本单位商业秘密、与知识产权相关保密...",
    "time": "2026-08-20T15:25:22+08:00",
    "date": "2026-08-20",
@@ -1414,12 +1415,12 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
-    "竞业限制",
+    "知识产权",
     "商业秘密",
-    "保密义务"
+    "竞业限制"
    ],
    "importance": 14.0,
    "kw_score": 12.0,
@@ -1438,7 +1439,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1462,7 +1463,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1486,7 +1487,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -1509,7 +1510,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1532,11 +1533,34 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "商业秘密",
     "知识产权",
+    "保密义务"
+   ],
+   "importance": 14.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 不能限制非负有保密义务的劳动者的自主择业权",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394378&ver=6920&signature=Ka-HYmpQvFJ9SwA4qWPt62pY1mY0jnWXtXFd3zUVW1KpLqmVlf9EzuRhl1AVhP0GCsBWCiQ2FZaeEfsQ-g4wt0Yk0N5fwO6Qf3noDU2E58Wc7OUP1k4R3ZEQb3cFGsVc&new=1",
+   "summary": "实践中, 竞业限制 条款存在适用主体泛化等滥用现象.部分用人单位不区分劳动者是否属于掌握本单位商业秘密、与知识产权相关保密...",
+   "time": "2026-08-20T15:25:22+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 15.1,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
     "保密义务"
    ],
    "importance": 14.0,
@@ -1863,7 +1887,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 12.2,
+   "heat": 12.1,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1909,7 +1933,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1932,7 +1956,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1955,7 +1979,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1978,7 +2002,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2001,7 +2025,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2024,7 +2048,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2047,7 +2071,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2070,7 +2094,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2093,7 +2117,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2116,7 +2140,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2139,7 +2163,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2162,7 +2186,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2185,7 +2209,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2208,11 +2232,11 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
-    "商业秘密",
     "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -2245,7 +2269,7 @@
   },
   {
    "title": "读懂 侵犯商业秘密 罪:商业秘密边界、入罪标准与裁判实例",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394403&ver=6920&signature=EBISe8i596QUadz4-KUBY025bok-Oe7Qmff66585UIu5t6AH9ZzV865TIYCQqFed6gaeOc4cpyv1xHZjFLAClQ4NDSDdQyQP19JQNPmJ1x6e873wAWzqJs6sTfAKYlwl&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787395884&ver=6920&signature=EBISe8i596QUadz4-KUBY025bok-Oe7Qmff66585UIu5t6AH9ZzV865TIYCQqFedwCF9NzoU8mgSGmqjKHURGJfhm0M0YnugbiicQySlxu50py6B1P3mmcyR2yKWJwc5&new=1",
    "summary": "随着市场 经济 的快速发展,商业秘密作为企业核心竞争力的重要组成部分,其保护问题日益受到重视. 侵犯商业秘密 不仅损害企业的 经 ...",
    "time": "2026-08-20T10:13:14+08:00",
    "date": "2026-08-20",
@@ -2311,6 +2335,29 @@
    "kw_score": 7.0,
    "weight": 2.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "读懂 侵犯商业秘密 罪:商业秘密边界、入罪标准与裁判实例",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394403&ver=6920&signature=EBISe8i596QUadz4-KUBY025bok-Oe7Qmff66585UIu5t6AH9ZzV865TIYCQqFed6gaeOc4cpyv1xHZjFLAClQ4NDSDdQyQP19JQNPmJ1x6e873wAWzqJs6sTfAKYlwl&new=1",
+   "summary": "随着市场 经济 的快速发展,商业秘密作为企业核心竞争力的重要组成部分,其保护问题日益受到重视. 侵犯商业秘密 不仅损害企业的 经 ...",
+   "time": "2026-08-20T10:13:14+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 9.9,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "商业秘密 遭“内鬼”泄露,承诺停止侵权后“重操旧业”?司法实践揭示重复侵权的沉重代价",
@@ -2396,8 +2443,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "诉讼",
-    "秘密"
+    "秘密",
+    "窃取"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -2415,7 +2462,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "知识产权",
@@ -8568,7 +8615,7 @@
   },
   {
    "title": "竞业限制 经济补偿与违约金规定地区对照表",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394378&ver=6920&signature=6xC8cgqR9UhqEdbG12LJ2Y5ldmDfGvMIsjiRMpH6FMWbuFSq2-*pzaNVSgXXdAH*AwJFwNnKK4v2rIhdi0Aa*BRnXHFMO*nHi5DwZCuTJoA8HuAx7F-lQPbQNzCeFVhB&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787395860&ver=6920&signature=6xC8cgqR9UhqEdbG12LJ2Y5ldmDfGvMIsjiRMpH6FMWbuFSq2-*pzaNVSgXXdAH*nMPj94gyoiq88wMBW4CHJmF9k6JOPHb*dhDfXE2p4ThsbbJN56K*gc*j-c4D3tky&new=1",
    "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
    "time": "2026-08-17T07:31:40+08:00",
    "date": "2026-08-17",
@@ -8580,8 +8627,8 @@
    "heat": 9.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -10754,6 +10801,29 @@
   {
    "title": "竞业限制 经济补偿与违约金规定地区对照表",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787392422&ver=6920&signature=6xC8cgqR9UhqEdbG12LJ2Y5ldmDfGvMIsjiRMpH6FMWbuFSq2-*pzaNVSgXXdAH*UW7MMj4tiAgpRLubZvv*PSVNIAqOWLLAx1vNESc6eyQDIvhLCKdLE0-b5hoLPva1&new=1",
+   "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
+   "time": "2026-08-17T07:31:40+08:00",
+   "date": "2026-08-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿与违约金规定地区对照表",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787394378&ver=6920&signature=6xC8cgqR9UhqEdbG12LJ2Y5ldmDfGvMIsjiRMpH6FMWbuFSq2-*pzaNVSgXXdAH*AwJFwNnKK4v2rIhdi0Aa*BRnXHFMO*nHi5DwZCuTJoA8HuAx7F-lQPbQNzCeFVhB&new=1",
    "summary": "竞业限制 期限超过1年的,月经济补偿一般不宜低于平均工资的50%.违约金由双方约定,根据泄露商业秘密可能造成的经济损失及已...",
    "time": "2026-08-17T07:31:40+08:00",
    "date": "2026-08-17",
@@ -13271,28 +13341,32 @@
   ],
   "cases": [
    {
-    "title": "苹果公司起诉OpenAI窃取商业机密",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JWjJ3N2NmaXVIay0yUW1RX1BBRGxvTlcxenloTUxfOTVOclB0ekg0QzllTHFmMEtLOS1SaDktYTlDdWl0ZUMyc1FkVS1UQklhT29rNU5kcGVPTWplVDQzRzFGN3lWZUtnM0JERC1TRXN4QQ?oc=5",
-    "summary": "苹果公司起诉OpenAI窃取商业机密 新浪财经 OpenAI首度回应苹果诉讼：相信公平竞争，未发现任何证据 凤凰网 队友变对手，苹果起诉OpenAI 中华网财经 苹果起诉OpenAI：前员工利用系统漏洞窃取商业机密 搜狐网 苹果诉OpenAI八项指控：硬件团队的秘密被“内鬼”搬空？ 手机网易网 苹果起诉OpenAI及前员工，指控其窃取商业机密以开发硬件…",
-    "time": "2026-07-13T15:04:00+08:00",
-    "date": "2026-07-13",
+    "title": "Apple sues OpenAI over trade secret theft",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iRzVkTG5BYjR1dnJaanNqbHBOSTFFR01HcE1RU0FJT3dDQ3hSRzN1MVVwZl9lQWo4SklLeGFxU1QxSUdMU3ZFamg3X3FseW1NRDR2aEladFFpTzJXNndBeDZnOVFYc3lScVpJTFhBQl9kZXF1dHZqYmJRWThnUQ?oc=5",
+    "summary": "",
+    "time": "2026-07-12T15:00:00+08:00",
+    "date": "2026-07-12",
     "sources": [
-     "新浪财经",
-     "华尔街日报中文网",
-     "cnBeta.COM",
-     "品牌方舟"
+     "Courthouse News",
+     "Axios",
+     "TechCrunch",
+     "AOL.com",
+     "Storyboard18",
+     "Mediaweek",
+     "Nairametrics",
+     "News Arena India"
     ],
-    "region": "国内",
+    "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 21.8,
+    "heat": 21.0,
     "hot": false,
     "tags": [
-     "商业机密",
-     "秘密",
-     "诉讼"
+     "trade secret",
+     "theft",
+     "court"
     ],
-    "importance": 22.5,
-    "kw_score": 12.0,
+    "importance": 23.5,
+    "kw_score": 5.0,
     "weight": 2.0,
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
@@ -13515,7 +13589,7 @@
     ],
     "region": "国际",
     "category": "刑事打击",
-    "heat": 16.6,
+    "heat": 16.5,
     "hot": true,
     "tags": [
      "economic espionage",
