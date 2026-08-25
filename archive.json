@@ -7341,8 +7341,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "theft",
-   "poach"
+   "poach",
+   "theft"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -18977,8 +18977,8 @@
   "hot": false,
   "tags": [
    "侵犯商业秘密",
-   "商业秘密",
-   "知识产权"
+   "知识产权",
+   "商业秘密"
   ],
   "importance": 12.0,
   "kw_score": 10.0,
@@ -19024,7 +19024,7 @@
   "tags": [
    "技术秘密",
    "知识产权",
-   "窃取"
+   "秘密"
   ],
   "importance": 9.0,
   "kw_score": 7.0,
@@ -28610,8 +28610,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "竞业限制",
    "保密义务",
+   "竞业限制",
    "保密"
   ],
   "importance": 8.0,
@@ -47112,8 +47112,8 @@
   "hot": false,
   "tags": [
    "trade secret",
-   "theft",
-   "court"
+   "court",
+   "theft"
   ],
   "importance": 21.5,
   "kw_score": 5.0,
@@ -51586,8 +51586,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
+   "商业秘密",
    "秘密"
   ],
   "importance": 10.5,
@@ -63557,7 +63557,7 @@
   "time": "2026-07-17T15:00:00+08:00",
   "date": "2026-07-17",
   "sources": [
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "竞业与保密",
@@ -64449,18 +64449,17 @@
   "date": "2026-08-19",
   "sources": [
    "eeo.com.cn",
-   "手机网易网",
    "网易新闻客户端"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 10.0,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 10.0,
+  "importance": 8.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -67552,17 +67551,18 @@
   "time": "2026-08-13T15:00:00+08:00",
   "date": "2026-08-13",
   "sources": [
-   "Lexology"
+   "Lexology",
+   "qq.com"
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 6.0,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "商业秘密",
    "秘密"
   ],
-  "importance": 6.0,
+  "importance": 8.0,
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -67907,7 +67907,7 @@
   "sources": [
    "东方财富",
    "mrjjxw.com",
-   "QQ News",
+   "qq.com",
    "搜狐网"
   ],
   "region": "国内",
@@ -69996,11 +69996,11 @@
    "知产财经",
    "上观新闻",
    "finance.sina.com.cn",
-   "京报网",
    "eeo.com.cn",
    "chinanews.com.cn",
+   "新浪财经",
    "搜狐网",
-   "新浪财经"
+   "川观新闻"
   ],
   "region": "国内",
   "category": "企业实践",
@@ -70640,7 +70640,7 @@
   "date": "2026-08-20",
   "sources": [
    "新浪财经",
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -76996,7 +76996,7 @@
   "time": "2026-07-11T15:00:00+08:00",
   "date": "2026-07-11",
   "sources": [
-   "QQ News"
+   "qq.com"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -77939,7 +77939,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 6.0,
+  "heat": 5.9,
   "hot": false,
   "tags": [
    "泄密"
@@ -79199,7 +79199,7 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 15.4,
+  "heat": 15.3,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -79705,7 +79705,7 @@
   ],
   "region": "国内",
   "category": "窃密泄密",
-  "heat": 9.7,
+  "heat": 9.6,
   "hot": false,
   "tags": [
    "商业机密",
@@ -80254,7 +80254,7 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 14.0,
+  "heat": 13.9,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -80310,5 +80310,120 @@
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787647584&ver=6925&signature=287DYTHQRICHesZa8Mkbgehmhzt1x8N8wWOCAaZK4ULaFOWRyLeRC*Mxf*ri5xqNv1Ns7AmznSSc*zCO-i7Za3u7MTrpgi9UANI7QouajzP7YQ6h*fWdgwKQos7Entm6&new=1": {
+  "title": "竞业限制 不能限制非负有保密义务的劳动者的自主择业权",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787647584&ver=6925&signature=287DYTHQRICHesZa8Mkbgehmhzt1x8N8wWOCAaZK4ULaFOWRyLeRC*Mxf*ri5xqNv1Ns7AmznSSc*zCO-i7Za3u7MTrpgi9UANI7QouajzP7YQ6h*fWdgwKQos7Entm6&new=1",
+  "summary": "实践中, 竞业限制 条款存在适用主体泛化等滥用现象.部分用人单位不区分劳动者是否属于掌握本单位商业秘密、与知识产权相关保密...",
+  "time": "2026-08-20T15:25:22+08:00",
+  "date": "2026-08-20",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 14.0,
+  "hot": false,
+  "tags": [
+   "保密义务",
+   "竞业限制",
+   "知识产权"
+  ],
+  "importance": 14.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=rkWezMctUc*0YbOi7EYPhtv7w0bTHlgB2Z2tVhaDT9sJZXXlWNi8q9kT7382HyO9beqdKgTdPSXSk9LQ81Bv1bnH1L*YrSPGqVzQul9iJW9ZLllb5RKKDPxXmXbOTt0d&new=1": {
+  "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=rkWezMctUc*0YbOi7EYPhtv7w0bTHlgB2Z2tVhaDT9sJZXXlWNi8q9kT7382HyO9beqdKgTdPSXSk9LQ81Bv1bnH1L*YrSPGqVzQul9iJW9ZLllb5RKKDPxXmXbOTt0d&new=1",
+  "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
+  "time": "2026-08-25T15:52:38+08:00",
+  "date": "2026-08-25",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 17.0,
+  "hot": false,
+  "tags": [
+   "反不正当竞争法",
+   "反不正当竞争",
+   "不正当竞争"
+  ],
+  "importance": 13.0,
+  "kw_score": 11.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=v12kGwGlJ9MnDkm85y2kIePTwSCdZ4kjOPUEuCRsP4wklKpQTB2mX*HyjjQ8lUtSanLQnUntouIZNVOy35H7S6kLHcdxPx-mXkmPTKvBmB-A5a09jCBftn*Yi3Ek9NA8&new=1": {
+  "title": "商业秘密 小课堂(基础认知篇)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=v12kGwGlJ9MnDkm85y2kIePTwSCdZ4kjOPUEuCRsP4wklKpQTB2mX*HyjjQ8lUtSanLQnUntouIZNVOy35H7S6kLHcdxPx-mXkmPTKvBmB-A5a09jCBftn*Yi3Ek9NA8&new=1",
+  "summary": "一、基础认知篇1. 什么是 商业秘密 l法定三要件:秘密性、价值性、保密性,通俗解读l 商业秘密 ≠技术秘密,分为技术信息、经营信息两...",
+  "time": "2026-08-25T15:34:38+08:00",
+  "date": "2026-08-25",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 15.9,
+  "hot": false,
+  "tags": [
+   "技术秘密",
+   "经营信息",
+   "商业秘密"
+  ],
+  "importance": 12.0,
+  "kw_score": 10.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWHk4R2NyOHZ5SEhURndLSk4tY0ViYnZlaVhXRmZacDJ6TW8yeTdkMFBGVkdwQUV6ZXFtOUFFVW96bTJVQk04bVdtazZFYndEWlEwLUgxbTNZbkZqNmRVWUtMMTJSWjFGZzh5MmduUGlqM0JvVlFhLXpiWlNZQ2s?oc=5": {
+  "title": "Aurora engineer guilty of stealing and sharing employer's trade secrets",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWHk4R2NyOHZ5SEhURndLSk4tY0ViYnZlaVhXRmZacDJ6TW8yeTdkMFBGVkdwQUV6ZXFtOUFFVW96bTJVQk04bVdtazZFYndEWlEwLUgxbTNZbkZqNmRVWUtMMTJSWjFGZzh5MmduUGlqM0JvVlFhLXpiWlNZQ2s?oc=5",
+  "summary": "",
+  "time": "2026-08-25T13:40:00+08:00",
+  "date": "2026-08-25",
+  "sources": [
+   "Audacy"
+  ],
+  "region": "国际",
+  "category": "窃密泄密",
+  "heat": 11.8,
+  "hot": false,
+  "tags": [
+   "trade secrets",
+   "trade secret"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+ },
+ "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOQ0tLLUVXLVdwYXpMaG5CbXgtMlVBVTB2aUIxOEkxSkQ5Yl9CUTJETVFKX2dZbl84c05CLS15aktJRFQzOW1EQm1SdjBFZFhscEw1QkZHYkVXT0YxU0FrcXc2OVdnNnhMUzQ4aTRBdnp1NUMzSXR3aEpVM3haMnJPSllCTmZDQXBXTVNaNzdCTExEQTI0Snd6LXdPckQwcTBqRXJXYnZQX1k1eUs4M3ZpTFB2bTBob19ITk5JMVI0WE41Z3VIUzZYbFlCajFzazhKeXFRVGp6RTM3c3RCbVFyY1hjRXpyam1XeHZfN3MteVlvVUQ2WU0tSEt1YVdJZTVTTGtqMTBqYVRoWi1GcDV3MG4wNjZXdDZKcmRxd1N6SjRpd3pKV05rZHdfcW85aGFCUHVvdHE3S1lkT3RvRk1oWjVxckJreGNkU2FELW43Z3RUVkE5anpNVW5NWEpDT2k0cEd4b09BeDVwSU5lTHc?oc=5": {
+  "title": "加强商业秘密保护助力产业创新发展",
+  "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOQ0tLLUVXLVdwYXpMaG5CbXgtMlVBVTB2aUIxOEkxSkQ5Yl9CUTJETVFKX2dZbl84c05CLS15aktJRFQzOW1EQm1SdjBFZFhscEw1QkZHYkVXT0YxU0FrcXc2OVdnNnhMUzQ4aTRBdnp1NUMzSXR3aEpVM3haMnJPSllCTmZDQXBXTVNaNzdCTExEQTI0Snd6LXdPckQwcTBqRXJXYnZQX1k1eUs4M3ZpTFB2bTBob19ITk5JMVI0WE41Z3VIUzZYbFlCajFzazhKeXFRVGp6RTM3c3RCbVFyY1hjRXpyam1XeHZfN3MteVlvVUQ2WU0tSEt1YVdJZTVTTGtqMTBqYVRoWi1GcDV3MG4wNjZXdDZKcmRxd1N6SjRpd3pKV05rZHdfcW85aGFCUHVvdHE3S1lkT3RvRk1oWjVxckJreGNkU2FELW43Z3RUVkE5anpNVW5NWEpDT2k0cEd4b09BeDVwSU5lTHc?oc=5",
+  "summary": "市场监管部门加强商业秘密保护 助力产业创新发展 北京市人民政府门户网站",
+  "time": "2026-08-20T07:23:04+08:00",
+  "date": "2026-08-20",
+  "sources": [
+   "finance.sina.com.cn",
+   "北京市人民政府门户网站",
+   "chinanews.com.cn"
+  ],
+  "region": "国内",
+  "category": "行政执法",
+  "heat": 10.0,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 12.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
  }
 }
