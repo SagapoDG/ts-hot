@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-08-26T10:49:47.056207+08:00",
- "count": 503,
+ "generated_at": "2026-08-26T11:55:02.888591+08:00",
+ "count": 500,
  "highlight_count": 29,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -20,7 +21,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "侵犯商业秘密",
@@ -68,7 +69,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -90,7 +91,30 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.8,
+   "heat": 13.7,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "jury"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "U.S. Jury Convicts Former Philips Engineer Of Stealing X-Ray Trade Secrets For Chinese Competitor",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ044LUtLQ2lKZWd6dlczUUhPYXpJRGk3VEw0WUhoeG1ZcGJyUzloVHJkSnZ5eXBTcktFV1hTVHppUlpla2RCTnN3b0gtQ3JRcWdNa3YyVXM1SWV5NVFhTUIycEJ3LXdJdS1xNEpSSU1YM1JjMTZiS3RtcThKVkNVRTRzWjdyanIwNW85LVdfaWtTYUZmZ3RxaHhYWDNiYXdjZ1E0Rk5vbU5XckwwN2NEVlFSbXE2WWJoTjI1b00weU1ObXdmZ1E?oc=5",
+   "summary": "",
+   "time": "2026-08-26T06:06:15+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "Sahara Reporters"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -113,7 +137,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.5,
+   "heat": 13.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -150,6 +174,52 @@
   },
   {
    "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787716505&ver=6927&signature=dK4KX0Qs43rd6QaZ8**HKf5zWlxt0VoaHwDXuYpQHHQqmaec8pOfmskdiZZ45Rkl0OcaHTNDnzzENkiWM5LO8wHlZinTujXwWyA-8cbLfIrHnhIm0um**hOf2uVKdoaq&new=1",
+   "summary": "企业保护 商业秘密 ,最怕制度挂在墙上.真出事时,保密协议根本顶不上用.文章把实操避坑指南分成了四步:定密别拍脑袋:别给几...",
+   "time": "2026-08-26T10:19:01+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "保密协议",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSldiNHRXZl96UVVSbGVwQmhFVzN6X1dhbDJWRE5YLVJ6bGMwd1ZYeXdyZER2dEUwOW1SZXptZGtnUGRxSklyTldIdUJXNUk4Y2hFaHh2SnI4bWFpQXB1S0JaSFdkYWVqOE1hRUxncFA4cG5OTUp3SlJULWdDV05hNHdlSUNyVzVRdDhvanZINkNNMUpxSzJ5SG1JOVA1OVEyRm1rZWlacnZtRmljRVp1NXUzcFRMT3dhclowRXpn?oc=5",
+   "summary": "",
+   "time": "2026-08-26T10:58:00+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "9to5Mac"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "misappropriation",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787712589&ver=6927&signature=dK4KX0Qs43rd6QaZ8**HKf5zWlxt0VoaHwDXuYpQHHQqmaec8pOfmskdiZZ45RkllZ-5VxUzn951ZJifNgOrbSgm2IKZrhIdEfuHHwECHem3POBu4olXzmJRzbLRPXq*&new=1",
    "summary": "企业保护 商业秘密 ,最怕制度挂在墙上.真出事时,保密协议根本顶不上用.文章把实操避坑指南分成了四步:定密别拍脑袋:别给几...",
    "time": "2026-08-26T10:19:01+08:00",
@@ -159,12 +229,35 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.0,
+   "heat": 12.9,
    "hot": false,
    "tags": [
     "商业秘密",
     "保密协议",
     "保密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "当竞业限制不够用时怎么办?深圳8起 商业秘密 案的劳动法启示!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787716505&ver=6927&signature=CpUclgdA4RJdwBGjQ4sJYTkAY7NOTzMYNH2A7ZTmRUP6sVDD-IdgOYgvYlc*u9JoEFJrOkvmQGj*j6tEuc6LQbrmHDO42LzdNV88wBkS8j8X2NgSykJWnmSBgpvkZKfE&new=1",
+   "summary": "2026年7月21日,深圳市中级人民法院、深圳市人民检察院、深圳市市场监督管理局联合发布8件 商业秘密 保护典型案例.这8个案例,...",
+   "time": "2026-08-26T09:00:48+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.8,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
    ],
    "importance": 9.0,
    "kw_score": 7.0,
@@ -182,7 +275,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -221,16 +314,16 @@
    "title": "Biohaven, Yale win $4M judgment in trade secret case",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnMxeTBnSU5jNDIzVTEyanhwQlFyVFRsQVNiYnI5TnQ3dEVLQWxYWi1SOWpneTExQzN1RzlWSFJpdEJuVmF2cXJZZ0FSY1NGdlJBTVREeXZET2dmeTNFaU1XcGVQc1VNZlhZV2R5TnFSWHlvVlFqek1DajFFaDZxY2J2SlJ5MEVOX1lrREpOU3lSa0h3WGx6Y2Z2N0NLcGlZajlPaHUtRFI3bWc?oc=5",
    "summary": "",
-   "time": "2026-08-26T06:01:24+08:00",
+   "time": "2026-08-26T05:25:50+08:00",
    "date": "2026-08-26",
    "sources": [
     "Investing.com",
     "Law360",
-    "Investing.com Nigeria"
+    "Investing.com India"
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 12.7,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -263,6 +356,29 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
+   "title": "【论文拆解】数字时代网络空间侵犯 商业秘密 罪若干问题研究———以侵犯经营信息类 商业秘密 犯罪为展开",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787716505&ver=6927&signature=5eExoEHd8DBsJXU0VGg0VOp15oFvbRNPYVX1Hb0kn857KLl9bGrejNhEhG3sfWK9g6Fg34EICBpoyij-U64LGMhX3Phm-m9-iaRiMR0Zso3vL-WuTAIW1w6eDuwDROCb&new=1",
+   "summary": "题目:数字时代网络空间侵犯 商业秘密 罪若干问题研究———以侵犯经营信息类 商业秘密 犯罪为展开作者:郭大磊,上海市杨浦区人民...",
+   "time": "2026-08-26T11:20:04+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "经营信息",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "视点 | 李思安: 商业秘密 案件中技术信息范围的圈定与密点锁定",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787700721&ver=6927&signature=R4fhnHVS4tZf*oLB2hrmv1wMztjzHcETd5Q0WI7WvNqSxiRKI3jWL3ciByXvmieLlgS*TSUJWip2OT6K-8fs1C7-5lLhzMKJZKdXjl-H8-cvBDPwlpVwb-O1VpzBhqdk&new=1",
    "summary": "引言办理 商业秘密 案件的律师,大多熟悉这样的开场:当事人带着图纸、代码、实验记录登门,主张核心技术被离职员工或竞争对手窃...",
@@ -273,7 +389,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.8,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -318,7 +434,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "trade secret",
@@ -340,12 +456,12 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "trade secret",
-    "court",
-    "theft"
+    "theft",
+    "court"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -364,7 +480,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -385,7 +501,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -550,7 +666,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.3,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -573,7 +689,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.3,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -596,7 +712,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.3,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -619,7 +735,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.3,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -642,7 +758,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.3,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -653,52 +769,6 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787640730&ver=6925&signature=cIJXE*5rCw2O5LPOHDE2gLcX8wFtj2qIB41V6xi0JKfntSkVP5RiY2EkEWKdc4cpd9vcK5ESaUPwYlXq9mDHz7ONUaTjgxT6Sq8GIkjgvlf-bbRONu2L-YQI5wrdNvt-&new=1",
-   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
-   "time": "2026-08-25T14:45:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 15.9,
-   "hot": false,
-   "tags": [
-    "反不正当竞争法",
-    "反不正当竞争",
-    "不正当竞争"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787643997&ver=6925&signature=cIJXE*5rCw2O5LPOHDE2gLcX8wFtj2qIB41V6xi0JKfntSkVP5RiY2EkEWKdc4cpnp0JqF5OxTjFGVRtcYs85BLQq2H5vI83*DznZXSfwkliapab3zqkPBmJLoAddxHx&new=1",
-   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
-   "time": "2026-08-25T14:45:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 15.9,
-   "hot": false,
-   "tags": [
-    "反不正当竞争法",
-    "反不正当竞争",
-    "不正当竞争"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
@@ -724,73 +794,50 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629863&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hk1LzvS3FRcO3GTAgnsq7Up1WzWX6jvTL970gniFcvVQsvKJNqUz9sHKVa5QJkR6EXbY5g4KZYa8hbsx*rElLcZ&new=1",
-   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
-   "time": "2026-08-25T09:22:03+08:00",
+   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787640730&ver=6925&signature=cIJXE*5rCw2O5LPOHDE2gLcX8wFtj2qIB41V6xi0JKfntSkVP5RiY2EkEWKdc4cpd9vcK5ESaUPwYlXq9mDHz7ONUaTjgxT6Sq8GIkjgvlf-bbRONu2L-YQI5wrdNvt-&new=1",
+   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
+   "time": "2026-08-25T14:45:30+08:00",
    "date": "2026-08-25",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "竞业与保密",
-   "heat": 15.6,
+   "category": "企业实践",
+   "heat": 15.8,
    "hot": false,
    "tags": [
-    "竞业限制",
-    "保密义务",
-    "商业秘密"
+    "反不正当竞争法",
+    "反不正当竞争",
+    "不正当竞争"
    ],
    "importance": 13.0,
    "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632902&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hlPj4med68h4HpKsFMXC167raeTjRfZYZy0*Up0fTeEMDGa4dT3PJEriLaIHzG5c5Y*MLhWj1zoSU5hi*-kUyx1&new=1",
-   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
-   "time": "2026-08-25T09:22:03+08:00",
+   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787643997&ver=6925&signature=cIJXE*5rCw2O5LPOHDE2gLcX8wFtj2qIB41V6xi0JKfntSkVP5RiY2EkEWKdc4cpnp0JqF5OxTjFGVRtcYs85BLQq2H5vI83*DznZXSfwkliapab3zqkPBmJLoAddxHx&new=1",
+   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
+   "time": "2026-08-25T14:45:30+08:00",
    "date": "2026-08-25",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "竞业与保密",
-   "heat": 15.6,
+   "category": "企业实践",
+   "heat": 15.8,
    "hot": false,
    "tags": [
-    "竞业限制",
-    "保密义务",
-    "商业秘密"
+    "反不正当竞争法",
+    "反不正当竞争",
+    "不正当竞争"
    ],
    "importance": 13.0,
    "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636052&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hlPj4med68h4HpKsFMXC167XxNC2161B45*o9pYLvklrO74e16ZiHMrG7nFB8GIS2OyP4LcBSDcuw5yeBdYAyu7&new=1",
-   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
-   "time": "2026-08-25T09:22:03+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 15.6,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "保密义务",
-    "竞业限制"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Federal Jury in Chicago Convicts Engineer of Unlawfully Stealing Trade Secrets From Philips Medical Systems on Behalf of Chinese Competitor",
@@ -815,6 +862,75 @@
    "kw_score": 8.0,
    "weight": 2.5,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629863&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hk1LzvS3FRcO3GTAgnsq7Up1WzWX6jvTL970gniFcvVQsvKJNqUz9sHKVa5QJkR6EXbY5g4KZYa8hbsx*rElLcZ&new=1",
+   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
+   "time": "2026-08-25T09:22:03+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 15.5,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "保密义务",
+    "商业秘密"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632902&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hlPj4med68h4HpKsFMXC167raeTjRfZYZy0*Up0fTeEMDGa4dT3PJEriLaIHzG5c5Y*MLhWj1zoSU5hi*-kUyx1&new=1",
+   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
+   "time": "2026-08-25T09:22:03+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 15.5,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "保密义务",
+    "商业秘密"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636052&ver=6925&signature=CPeyPyzPARKsyvqkZMff5P51ZKc0-7UqKS8WdqZu2hlPj4med68h4HpKsFMXC167XxNC2161B45*o9pYLvklrO74e16ZiHMrG7nFB8GIS2OyP4LcBSDcuw5yeBdYAyu7&new=1",
+   "summary": "竞业限制 ,仅约定保密不等于需要支付 竞业限制 补偿金劳动者上诉:劳动合同设置保密条款,禁止离职后泄露商业秘密,实质上构成 竞 ...",
+   "time": "2026-08-25T09:22:03+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 15.5,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密义务",
+    "竞业限制"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "商业秘密 小课堂(基础认知篇)",
@@ -873,7 +989,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -887,29 +1003,6 @@
   },
   {
    "title": "竞业案例二: 竞业限制 范围与竞争关系认定(2)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787712622&ver=6927&signature=CpZkIT-IxFssb80re*Zm*Ah4MoNymIPEzOO3Exi-3fAFgz3g5aVhBIeWopdmdhRPT6K0oSIy3WDgkF-8eLo7XgPcKov27Rc78rChDumBcoSAo83RVQabQ7R5T7VvtZ1Q&new=1",
-   "summary": "S认为劳动合同法第24条 竞业限制 条款的立法目的在于保护企业商业秘密,以免劳动者离职后利用在企业获得的商业秘密取得不当的竞...",
-   "time": "2026-08-25T20:03:11+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业案例二: 竞业限制 范围与竞争关系认定(2)",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787669354&ver=6926&signature=8Mm3OqCif0M1iN6UUYEWrbMRqw7h9kRSpCqVANPPsxv4lSxhIllLF3xRwqSzCR4ORuIr9Dfv6z-Q7E5tfFH52Ir-gYp0lr*o6goCi9r1LEwAtda872QVec4akWrZLAbJ&new=1",
    "summary": "S认为劳动合同法第24条 竞业限制 条款的立法目的在于保护企业商业秘密,以免劳动者离职后利用在企业获得的商业秘密取得不当的竞...",
    "time": "2026-08-25T20:03:11+08:00",
@@ -919,7 +1012,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -942,7 +1035,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -965,7 +1058,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -988,7 +1081,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1011,7 +1104,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1034,7 +1127,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1057,7 +1150,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1080,7 +1173,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1103,7 +1196,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1126,7 +1219,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1149,7 +1242,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1172,11 +1265,34 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "竞业限制",
     "商业秘密",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业案例二: 竞业限制 范围与竞争关系认定(2)",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787712622&ver=6927&signature=CpZkIT-IxFssb80re*Zm*Ah4MoNymIPEzOO3Exi-3fAFgz3g5aVhBIeWopdmdhRPT6K0oSIy3WDgkF-8eLo7XgPcKov27Rc78rChDumBcoSAo83RVQabQ7R5T7VvtZ1Q&new=1",
+   "summary": "S认为劳动合同法第24条 竞业限制 条款的立法目的在于保护企业商业秘密,以免劳动者离职后利用在企业获得的商业秘密取得不当的竞...",
+   "time": "2026-08-25T20:03:11+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
     "秘密"
    ],
    "importance": 10.0,
@@ -1195,7 +1311,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.1,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1206,52 +1322,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2yVvM-ncjNcHE07SNMifURuwhQXMeBpm8MK8FIrUSUYsej3*O-cEjIuZdvpqnWXZriM1POo7mb4nnlhckmegC8&new=1",
-   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
-   "time": "2026-08-25T10:54:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632877&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2bm4dsF**JHRFe6UldWRZ9f84CaXVQQXRBsDOKGhpSM5EGiJKtwv06wKivw1gtxgfm8fjyV-DywsRhZrCyyW8U&new=1",
-   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
-   "time": "2026-08-25T10:54:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "跳槽"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
@@ -1277,29 +1347,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2bm4dsF**JHRFe6UldWRZ9igXJNKUTC2IOr4KXISQIs07N77nSM3lRslfzGfB6aU5sw7NkRJ4YkuR-B58FmzUN&new=1",
-   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
-   "time": "2026-08-25T10:54:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=3Fc58dOrZo22V3gBCIEQbrK2Qa5VnIMO-LZ*cWw4rwh1RlXETbO46GwFTqoTVxhUJPkb4Axzyz3I8XJv43lwYQMX*H*YtAp-TI8BFUSeipm9SxSv2VJHGgAqlROUGfHo&new=1",
    "summary": "商业秘密 保护这件事,难的从来不是懂道理,是落地不走样.很多企业把制度挂在墙上、保密协议签完就塞进档案柜,真遇上核心员工...",
@@ -1321,29 +1368,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787640730&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE0W8ScGj0QwSjyCYj4Xox9GqUG9hW1pjz1HxtndCN*5yfcOYFJctIgsn0lNQ91kXyIbFFJRkPHNGQ1fAwzs56ig&new=1",
-   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
-   "time": "2026-08-25T10:54:30+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
@@ -1369,6 +1393,29 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2yVvM-ncjNcHE07SNMifURuwhQXMeBpm8MK8FIrUSUYsej3*O-cEjIuZdvpqnWXZriM1POo7mb4nnlhckmegC8&new=1",
+   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
+   "time": "2026-08-25T10:54:30+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=1TZC7LuYmE3KxTMLjjcdR4Y9Wd6GvMnQERbF0PFX*A-akyZd8k-DroH8avDNKaAF9CJaLI8kbGj4AZVgUnlSmNdIzUUuwx6oNhEGzXQHQn*0JNW7a0IF5kbnJvwTsqva&new=1",
    "summary": "考虑职务侵占、侵犯 商业秘密 等刑事控告离职员工客户是自己联系的,关系是自己维护的.离职后继续做同类业务,只是正常就业或者...",
@@ -1390,6 +1437,75 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632877&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2bm4dsF**JHRFe6UldWRZ9f84CaXVQQXRBsDOKGhpSM5EGiJKtwv06wKivw1gtxgfm8fjyV-DywsRhZrCyyW8U&new=1",
+   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
+   "time": "2026-08-25T10:54:30+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "知识产权",
+    "跳槽"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2bm4dsF**JHRFe6UldWRZ9igXJNKUTC2IOr4KXISQIs07N77nSM3lRslfzGfB6aU5sw7NkRJ4YkuR-B58FmzUN&new=1",
+   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
+   "time": "2026-08-25T10:54:30+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "知识产权",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787640730&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE0W8ScGj0QwSjyCYj4Xox9GqUG9hW1pjz1HxtndCN*5yfcOYFJctIgsn0lNQ91kXyIbFFJRkPHNGQ1fAwzs56ig&new=1",
+   "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
+   "time": "2026-08-25T10:54:30+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "互联网企业高管竞业限制与 商业秘密 诉讼指南",
@@ -1701,7 +1817,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1724,7 +1840,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1791,7 +1907,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1813,7 +1929,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1836,7 +1952,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "商业机密",
@@ -1858,7 +1974,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "商业机密",
@@ -1880,7 +1996,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 8.6,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "商业机密",
@@ -1902,7 +2018,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 8.6,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "商业机密",
@@ -1924,7 +2040,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.2,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "noncompete"
@@ -1945,7 +2061,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -1968,7 +2084,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.7,
+   "heat": 15.6,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -1991,7 +2107,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 13.7,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -2037,7 +2153,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.1,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2060,7 +2176,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.1,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2083,7 +2199,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.1,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2106,7 +2222,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.1,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2129,7 +2245,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2152,7 +2268,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2175,7 +2291,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2198,7 +2314,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2221,7 +2337,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2244,7 +2360,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2267,7 +2383,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2290,7 +2406,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2313,7 +2429,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2336,7 +2452,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2359,7 +2475,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2589,7 +2705,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2612,7 +2728,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "保密协议",
@@ -2635,7 +2751,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "保密协议",
@@ -2658,7 +2774,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2681,7 +2797,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2704,7 +2820,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2727,7 +2843,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2750,7 +2866,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.4,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -2773,7 +2889,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2796,7 +2912,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2819,7 +2935,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2842,7 +2958,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2865,7 +2981,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2888,7 +3004,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2911,7 +3027,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2934,7 +3050,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -2957,7 +3073,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2980,12 +3096,12 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.3,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "商业秘密",
-    "泄密",
-    "秘密"
+    "秘密",
+    "泄密"
    ],
    "importance": 11.0,
    "kw_score": 6.0,
@@ -3003,7 +3119,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -3025,7 +3141,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.3,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3068,7 +3184,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -3091,7 +3207,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -3114,7 +3230,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -3137,7 +3253,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -3403,673 +3519,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787461351&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImL0lwFQyFOEVoWmkB9C0dmZ4WmBMhP2VHOI7HfMo9k-PJZIWMEEL6ZQegl73evcTEe0A5kWIGk-CsUA1tsDXCXD&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787470497&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImLWfclwH1Nbdj7sOrB5s3N3mdApeVaBqj4MQeeNQ6BemwlX1q6uYcE0UBPCMC7qpxRvpG*vfqcxB*8VsrF*28fd&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787473999&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImLWfclwH1Nbdj7sOrB5s3N3iTeQkn9B0UPgWFN64Mdnx8DIbHk372gThuPQdbEuPjPdcMaSF2a25Y7pLnKeWUz4&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787477406&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyd9sVELBfTe4L85FLGpNdOprMSG6qTLV7HgYthFNxGeavrXgsWoAz3wXB4fvunC3YsLDY98TdDZ0HFMK5ZW85Gr&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787478876&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyd9sVELBfTe4L85FLGpNdOpgYob6R0XVE3rwVh6t9VfVLyG4jvZlL0GLNPmxLomav5XnWgl28OEEtXEwdoW9VXY&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787480787&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPt0bD0-NxyJmXXP*F-zmfVuY8sBg8mv6QQDNcS5mLdqtDhJXxYfEFOl7XQ8PRKHeKX&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787482325&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtYWRybHUhYWQ0RJuw3zbNCR1EiIcDagj3Xu8DOdLkQBK4IEaG7zsew8sVkyxhJQaV&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787484164&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtHkUxsz9q2sbzoJ-q5-xieXWjhCIW6rbzFTgTr5VV7WmCoOsY1fVAWAOfv9E5-cAw&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787485626&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtcYjTMdMZ8hLCTpPLvy2sfGUoGIc9o8DhXVrPwBIzEDFtlKhwYZ7qZxigrE4T3n5a&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787489052&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtuMXEof1o5eomG9pqeYjaGJ1FKSrpo3jN7IV2JvMFg43UW8QmJ0xXO0YRhDFFJkdw&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787492054&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0YrKKl1coEAdEZjfdJlmrk*wK8lzmdYXtgdH3aC0b6EHEzHyFRMViOEfBUQPI-Xgb&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787495142&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0FMEyqW7OworR3OFg8lDr*4HFk8PznqJpictgPmZdue1t0yrOcW*VQZ539t6rs0dn&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787496682&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0ljdXS*JRfi6HQV8ZRSjL3b8mkOBrD8wSZwozkggAseX-5GDrcmv2hEWk4Vdu*EA4&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787498696&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0gbrFJAq90KW6iQE0K1ku7GVSfSvL6BT2Y931MC9AH62DoeEpfJchU0i1GAyMLOiE&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787500100&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTNoGS8BvjBgwbB0Kr*LU0usxqxc94l9l5VD3oOARYyN8SLHDAoJao39uIZy9q3fJm&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787502532&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTuT8WtHKuKsQbrNOI8DWbXzttKj-J54a6e0kc4ELsGWS84iadWFKy5tfQw6qlXzfr&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787504080&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbT7XzOt8cfaJv-Sd1wj9Gtn5iGdfY3tVoec4-Vwka8Gk0baVkfQzuXUj6gAlRW1xbZ&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505742&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTnxG691cHIk89kS6kGriHnCWRcAHRReErl4SpTCFA5dMNefxqtH*5K9by4DMx*Oy8&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507237&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTzIaxKsd7cVl-lPoqGcpYUQjU5isjvXqEF76Ncb4NOu4vrwFrMJsoHiVvEcFjLdkm&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787509979&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTmJy9M7YzIugrhTt3Zt4lxf0bK*TjFLmQ8gArBERA5vBx17MSNnZNvCO0IR2raqr8&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787513030&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkgCnEPSjke2BjMUFstTQdakj-SJWGoheEhpOzOPUsPWWhe1hjFVSFWEOH6HJ2-lnM&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787514346&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkpuq4oGHRQrCZPlgfhVAGiL63kK6xsS8o3VvTan2Em5UHVwzd4xgEKDm4UJ*pyiCh&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787516792&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkJ28Y*wHK*V6ehkFf1EzyUEy4n*Uij26HELV9Fdt4ChpmoMDMUe4HAswGJTtE6YRg&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787518227&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkx-1vg1MTgfUeU0LoavN5oZKLcU5t8uVKk28TfE1-GmUCJD4Fg1vRjc5h1Oam8CbP&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787520234&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrE5It9nkkPzv*2Ta5p4EoftWONvBlr-*d-mYktMuumtwkkxMR7OpjFwwm7947oMM--&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787521648&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrECg*YLg2ul6jIEqlNTOYsyE3SSDngKP*eIBbx3CC8Xo6cjw*vrbrbO7dochhQ63SO&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787523886&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrELYEhp9bCgMLHpGFpBmEzII3qjv01bhm8Y4F0vAlXAJ8OcwGQhkABOwNpzCA*4q3r&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787525359&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrEL3cMOpg03K4kEEd30-k9YKShZRa8Y1jylX5Y0CcCupM61EQsAbf*I1SHNH7Fro6f&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787527418&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrEFoitIDqpneuu4rg05prE8i1Jtv55KkgCI05jpKwyynvyVUwsADdgEHrDX0WKJ1rV&new=1",
-   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
-   "time": "2026-08-23T12:33:07+08:00",
-   "date": "2026-08-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 11.1,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "挖角"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "专利侵权之:退休≠免罪,警惕 商业秘密 侵权风险",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787454288&ver=6921&signature=waQya1DFqeDFjqV*8VungFevys435kgxQzK*vlE45LRI10PoNKqpeuZXkuPd3w01xZ73d0TxQB1E7nXUmeddhBJW1XxgJyH*iASws4jbjbGj8d1yyjtHsxGBgKGGolV8&new=1",
    "summary": "商业秘密 侵权要负刑事责任公众号摘要:找退休老师傅“咨询技术”,很多企业觉得只是人情往来.但保密义务不会随着退休消失,严...",
@@ -4093,6 +3542,673 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787461351&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImL0lwFQyFOEVoWmkB9C0dmZ4WmBMhP2VHOI7HfMo9k-PJZIWMEEL6ZQegl73evcTEe0A5kWIGk-CsUA1tsDXCXD&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787470497&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImLWfclwH1Nbdj7sOrB5s3N3mdApeVaBqj4MQeeNQ6BemwlX1q6uYcE0UBPCMC7qpxRvpG*vfqcxB*8VsrF*28fd&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787473999&ver=6921&signature=UPE4MjSu*2Vfxz-n4GONb81HIcfgql35FkH2zCV0ImLWfclwH1Nbdj7sOrB5s3N3iTeQkn9B0UPgWFN64Mdnx8DIbHk372gThuPQdbEuPjPdcMaSF2a25Y7pLnKeWUz4&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787477406&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyd9sVELBfTe4L85FLGpNdOprMSG6qTLV7HgYthFNxGeavrXgsWoAz3wXB4fvunC3YsLDY98TdDZ0HFMK5ZW85Gr&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787478876&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyd9sVELBfTe4L85FLGpNdOpgYob6R0XVE3rwVh6t9VfVLyG4jvZlL0GLNPmxLomav5XnWgl28OEEtXEwdoW9VXY&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787480787&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPt0bD0-NxyJmXXP*F-zmfVuY8sBg8mv6QQDNcS5mLdqtDhJXxYfEFOl7XQ8PRKHeKX&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787482325&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtYWRybHUhYWQ0RJuw3zbNCR1EiIcDagj3Xu8DOdLkQBK4IEaG7zsew8sVkyxhJQaV&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787484164&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtHkUxsz9q2sbzoJ-q5-xieXWjhCIW6rbzFTgTr5VV7WmCoOsY1fVAWAOfv9E5-cAw&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787485626&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtcYjTMdMZ8hLCTpPLvy2sfGUoGIc9o8DhXVrPwBIzEDFtlKhwYZ7qZxigrE4T3n5a&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787489052&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycayotFxn9BvYL9tCdOfyPtuMXEof1o5eomG9pqeYjaGJ1FKSrpo3jN7IV2JvMFg43UW8QmJ0xXO0YRhDFFJkdw&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787492054&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0YrKKl1coEAdEZjfdJlmrk*wK8lzmdYXtgdH3aC0b6EHEzHyFRMViOEfBUQPI-Xgb&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787495142&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0FMEyqW7OworR3OFg8lDr*4HFk8PznqJpictgPmZdue1t0yrOcW*VQZ539t6rs0dn&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787496682&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0ljdXS*JRfi6HQV8ZRSjL3b8mkOBrD8wSZwozkggAseX-5GDrcmv2hEWk4Vdu*EA4&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787498696&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIycmRIOJDeuABKRrDitt8lR0gbrFJAq90KW6iQE0K1ku7GVSfSvL6BT2Y931MC9AH62DoeEpfJchU0i1GAyMLOiE&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787500100&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTNoGS8BvjBgwbB0Kr*LU0usxqxc94l9l5VD3oOARYyN8SLHDAoJao39uIZy9q3fJm&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787502532&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTuT8WtHKuKsQbrNOI8DWbXzttKj-J54a6e0kc4ELsGWS84iadWFKy5tfQw6qlXzfr&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787504080&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbT7XzOt8cfaJv-Sd1wj9Gtn5iGdfY3tVoec4-Vwka8Gk0baVkfQzuXUj6gAlRW1xbZ&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505742&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTnxG691cHIk89kS6kGriHnCWRcAHRReErl4SpTCFA5dMNefxqtH*5K9by4DMx*Oy8&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507237&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTzIaxKsd7cVl-lPoqGcpYUQjU5isjvXqEF76Ncb4NOu4vrwFrMJsoHiVvEcFjLdkm&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787509979&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyffQzy0s*rZjccg3jA9kbbTmJy9M7YzIugrhTt3Zt4lxf0bK*TjFLmQ8gArBERA5vBx17MSNnZNvCO0IR2raqr8&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787513030&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkgCnEPSjke2BjMUFstTQdakj-SJWGoheEhpOzOPUsPWWhe1hjFVSFWEOH6HJ2-lnM&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787514346&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkpuq4oGHRQrCZPlgfhVAGiL63kK6xsS8o3VvTan2Em5UHVwzd4xgEKDm4UJ*pyiCh&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787516792&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkJ28Y*wHK*V6ehkFf1EzyUEy4n*Uij26HELV9Fdt4ChpmoMDMUe4HAswGJTtE6YRg&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787518227&ver=6922&signature=nBs0G826WGzQLrQ4z5tEeRgHJpE*E6sqabskQBtjIyeBDi67J2YpcBLrOHry0vqkx-1vg1MTgfUeU0LoavN5oZKLcU5t8uVKk28TfE1-GmUCJD4Fg1vRjc5h1Oam8CbP&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787520234&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrE5It9nkkPzv*2Ta5p4EoftWONvBlr-*d-mYktMuumtwkkxMR7OpjFwwm7947oMM--&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787521648&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrECg*YLg2ul6jIEqlNTOYsyE3SSDngKP*eIBbx3CC8Xo6cjw*vrbrbO7dochhQ63SO&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787523886&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrELYEhp9bCgMLHpGFpBmEzII3qjv01bhm8Y4F0vAlXAJ8OcwGQhkABOwNpzCA*4q3r&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "技术秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787525359&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrEL3cMOpg03K4kEEd30-k9YKShZRa8Y1jylX5Y0CcCupM61EQsAbf*I1SHNH7Fro6f&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "当“ 商业秘密 ”遭遇“连环挖角”,企业技术秘密侵权风险全解析",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787527418&ver=6923&signature=lnoNxyfnblMDx5F0M*lCYshWInSGVpjIUnYQ8PrWSiLPS2oLMGGZZSSxhAt-aYrEFoitIDqpneuu4rg05prE8i1Jtv55KkgCI05jpKwyynvyVUwsADdgEHrDX0WKJ1rV&new=1",
+   "summary": "企业必须重新审视自身的 商业秘密 保护体系.此外,本案也揭示出,技术秘密侵权已从零散的个体行为,日益演变为有组织、有预谋的...",
+   "time": "2026-08-23T12:33:07+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "挖角"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "Apple告Open AI偷 商业秘密 ——你团队的核心知识,守得住吗",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787473999&ver=6921&signature=aRejwE5xDJg2xGvtscnfXoT4hoHjZoZcsaBGGdHXdnEKm5spzQrmoUtHIpl2V2SlxpkvE5SNPi0v8ZMB1yo4O-0Voyh2lvxSfxrvbSC*akDyD3eP4jhDdaUja*UaSNZO&new=1",
    "summary": "7月10日,苹果正式起诉OpenAI,指控其系统性挖走苹果员工、窃取消费硬件 商业秘密 .8月3日,苹果进一步申请初步禁令.8月5日...",
@@ -4103,7 +4219,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4126,7 +4242,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4149,7 +4265,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4172,7 +4288,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4195,7 +4311,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4218,7 +4334,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4241,7 +4357,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4264,7 +4380,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4287,7 +4403,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4310,7 +4426,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4333,7 +4449,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4356,7 +4472,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4379,7 +4495,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4402,7 +4518,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4425,7 +4541,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4448,7 +4564,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4471,7 +4587,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4494,7 +4610,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4517,7 +4633,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4540,7 +4656,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4563,7 +4679,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4586,7 +4702,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4609,7 +4725,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4632,7 +4748,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4655,7 +4771,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4678,7 +4794,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4701,7 +4817,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4724,7 +4840,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -4747,7 +4863,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -5092,7 +5208,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -5139,7 +5255,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.2,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -5161,7 +5277,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 8.1,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "司法解释",
@@ -5183,7 +5299,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -6531,8 +6647,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "窃密",
-    "秘密"
+    "秘密",
+    "窃密"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -7985,8 +8101,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "窃取",
-    "诉讼"
+    "诉讼",
+    "秘密"
    ],
    "importance": 12.5,
    "kw_score": 6.0,
@@ -8316,29 +8432,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "市场监管总局公布侵犯商业秘密典型案例，涉数字文创领域",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FNS1PZWh3QWp5UFpnUVB4R1Zrc2FuYzJVSWVoeWdibm5yZGh6RUdYM2F5OVFVOTlJZnhUMWxYc2FLZExQZlJ4dGtia0lWdw?oc=5",
-   "summary": "",
-   "time": "2026-08-20T16:34:00+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "川观新闻"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "侵犯商业秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
    "title": "大成深圳成功举办“商业秘密保护与竞业限制前沿问题实务论坛”",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XZmRadzlyZ3RkelRwMWRJb0V5SVh1ak9GTlNjMWJmRkVuOTR5cHhkWDlVNWtrMF9kT3pURzFXc1ZRSTVoczZOR0xDWFdBOTQ?oc=5",
    "summary": "",
@@ -8352,8 +8445,8 @@
    "heat": 9.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 9.0,
@@ -8383,6 +8476,29 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "市场监管总局公布侵犯商业秘密典型案例，涉数字文创领域",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FNS1PZWh3QWp5UFpnUVB4R1Zrc2FuYzJVSWVoeWdibm5yZGh6RUdYM2F5OVFVOTlJZnhUMWxYc2FLZExQZlJ4dGtia0lWdw?oc=5",
+   "summary": "",
+   "time": "2026-08-20T16:34:00+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "川观新闻"
+   ],
+   "region": "国内",
+   "category": "行政执法",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
    "title": "读懂 侵犯商业秘密 罪:商业秘密边界、入罪标准与裁判实例",
@@ -8652,8 +8768,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "窃取",
-    "秘密"
+    "秘密",
+    "窃取"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -8899,30 +9015,6 @@
    "kw_score": 2.0,
    "weight": 1.5,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "查处383件……这场发布会释放“ 商业秘密 保护”新信号!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787111342&ver=6913&signature=Zt*kyy9kzP1*g9VbrzNQK-uSOZm5ZtJxxd6SGimparCV1NgOwLfCOKUJxn8Un74cyrrZD2hNg8G-vud8bw3-okX9LQ2xruOADgc6Yt03rKym0wxPvRaOe6mgeWHJqxC2&new=1",
-   "summary": "商业秘密 是指不为公众所知悉、具有商业价值并经权利人采取相应保密措施的技术信息、经营信息等商业信息.其本质上是知识产权的...",
-   "time": "2026-08-19T11:36:21+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号",
-    "ciplawyer.cn"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 13.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "知识产权",
-    "经营信息"
-   ],
-   "importance": 15.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
    "title": "将研究制定关于加强商业秘密保护的意见 市场监管总局这场发布会信息量大",
@@ -10261,30 +10353,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "最高检：查办芯片等商业秘密侵权案件，加大原始创新司法保护",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUTjhqSVhGb256MFBBRmlIaEt6OUxoczNQRzZ4bEZPM1hKUVI0b3Y3dmh5S0pxWkp1ZnZzTDk0M1p2dzFhdTBRRlM4Z2VTWkV0ZXYtbHlqNjlXYXFYZUxTa3B3?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:33:00+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "手机网易网",
-    "eeo.com.cn",
-    "网易新闻客户端"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787200815&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*OEREDZHMTZHkefEhZ1JCyAjqRxIuaYEPCeiU8d3XYQLGXoPFmYgHgluRVlnHZAFM7Ee4WO6N-yNw4Xn6ix1udd&new=1",
    "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
@@ -11367,98 +11435,6 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "市场监管总局：第四批全国商业秘密保护创新试点申请工作已启动",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56Vk80Y0ZiX0pmdElUNGtab1gxX2d1Q2V6X3UyTF9idkRveXR0VzY3V1V3M01Xa1dfUWpGdmZvQWlzekEtTmo2Vkp5V0QydU42by0xLXhZRzJzVi1zRDJDV3FHMjh4TjNCb0NDTUM1eC11OGc4RUp3?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:05:23+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "封面新闻",
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
-   "title": "最高检：查办芯片等商业秘密侵权案件，加大原始创新司法保护",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmZjWGlObWhBcUUtQjlVQlRuSGQzWkVkQV9La01NMmpFZEh4cFZCa3hfaTZBdXFhZ1g3eFphVUtuNGI4X2ZWaHZOalZPS0JMZEg3MjcwbkJ1aGtXN1E2aVVyVnlRX3pPS1h1UmNESDVoX0x3eDVPWDkwTzFWS0tYSGFYdkhxelVaNl9Sbg?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:33:00+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "21财经",
-    "eeo.com.cn"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "市监总局：聚焦生物医药、集成电路、人工智能等领域商业秘密保护",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYmRIcWtDc3BWQnhCeGoxeTY4MmE0bWl4R0V5NGI5dDJvTS0xRTFkSXprUzZEbEJ2U00zNkUwbEVHQklKNU9WTXZCd2l3WWJocUFBZzNOZ2t4eG1URzR0Ymxtc19YZFBwU0ZIZXdNS2pxWVBRRmN2b3NDbjlGVHRPeTl3?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:34:33+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "video.sina.com.cn",
-    "新浪财经"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "查处383件……这场发布会释放“商业秘密保护”新信号！",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xTkhJMUUyWUhXb250ZnZ4R0t3dnpoVFIzTGNaV0RkQk9ENFVnb25pSVRLU3pUN0loY1pBOTBaZFhTcmo1Y1lEQXBVQ3hVTE5odnNsSWFiSnc?oc=5",
-   "summary": "查处383件……这场发布会释放“商业秘密保护”新信号！ 中国知识产权律师网",
-   "time": "2026-08-19T11:36:21+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "中国知识产权律师网"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "知识产权",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
    "title": "苹果回应OpenAI驳回诉讼动议，重申对方涉嫌窃取商业秘密",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zalIxMUVucUhYeFJ1aHdNQkFVT0lsbXh5RGo4UEhrQlZzdVFRZEpEc29MRHFxbEN6eUxTWDJ4cG1yMnU2eG5WV3RpS2g3blkyNFVyTFNWOA?oc=5",
    "summary": "",
@@ -11522,50 +11498,6 @@
     "秘密"
    ],
    "importance": 9.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "市场监管总局：第四批全国商业秘密保护创新试点申请工作已启动",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUlxaHJiX3RjNjJqLWNBdVc2Y3VwZENqeFRybnlCa0ZpYjYtbVZuNmhZOTFlaER1b09SNTV3U2JxZ2J1akxSVzFCQ1AyZDRFdnJUczAyUmhZLVdnSFJvbnpObVkzZnE5UXpnbmFBaWc5V2tHSVpOUFg0NmE0LVR3UmU3OHE3YTNUcHgxMg?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:05:23+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "行政执法",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
-  },
-  {
-   "title": "最高检：查办芯片等商业秘密侵权案件，加大原始创新司法保护",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12SFRhc1M3b0I2S3l2MjFqa0J1T1EtZ0JfSUI4VU1KRlJFUDZNSlIyTnZ1bTgxeE1nS0wyRkdZNDF2ajljaFpVUlFoWkJNZTIxOW95TXBsTWE?oc=5",
-   "summary": "",
-   "time": "2026-08-19T11:33:00+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "eeo.com.cn"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 6.0,
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
