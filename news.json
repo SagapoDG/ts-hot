@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-08-26T11:55:02.888591+08:00",
- "count": 500,
+ "generated_at": "2026-08-26T12:42:02.879344+08:00",
+ "count": 439,
  "highlight_count": 29,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
   "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
-  "36氪: not well-formed (invalid token): line 9, column 542"
+  "36氪: not well-formed (invalid token): line 9, column 542",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable"
  ],
  "items": [
   {
@@ -45,7 +70,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -56,29 +81,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Insurer Gets $2 In Damages In Trade Secret, Contract Case",
-   "url": "https://www.law360.com/ip/articles/2517124?utm_source=rss&utm_medium=rss&utm_campaign=section",
-   "summary": "A Chicago-based captive insurer was granted a favorable judgment on some claims of trade secret misappropriation and breach of contract but was awarded only $2 in nominal damages…",
-   "time": "2026-08-26T03:05:00+08:00",
-   "date": "2026-08-26",
-   "sources": [
-    "Law360 知识产权",
-    "Law360"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "misappropriation",
-    "trade secret"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.5,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "United States: Federal Jury in Chicago Convicts Engineer for Stealing Trade Secrets from Philips Medical Systems on Behalf of Chinese Competitor",
@@ -114,7 +116,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.7,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -137,7 +139,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -160,7 +162,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -171,6 +173,52 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787719325&ver=6927&signature=dK4KX0Qs43rd6QaZ8**HKf5zWlxt0VoaHwDXuYpQHHQqmaec8pOfmskdiZZ45RklHCfefw1VrmQDkyvOxGyqnVKOilY*oWhIq1uo4k4cuHXZPb*N-v7R0wuQkxv43pXF&new=1",
+   "summary": "企业保护 商业秘密 ,最怕制度挂在墙上.真出事时,保密协议根本顶不上用.文章把实操避坑指南分成了四步:定密别拍脑袋:别给几...",
+   "time": "2026-08-26T10:19:01+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密协议",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787712589&ver=6927&signature=dK4KX0Qs43rd6QaZ8**HKf5zWlxt0VoaHwDXuYpQHHQqmaec8pOfmskdiZZ45RkllZ-5VxUzn951ZJifNgOrbSgm2IKZrhIdEfuHHwECHem3POBu4olXzmJRzbLRPXq*&new=1",
+   "summary": "企业保护 商业秘密 ,最怕制度挂在墙上.真出事时,保密协议根本顶不上用.文章把实操避坑指南分成了四步:定密别拍脑袋:别给几...",
+   "time": "2026-08-26T10:19:01+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密协议",
+    "保密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
@@ -219,31 +267,8 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "商业秘密 保护落地实操①:避开 90% 企业踩",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787712589&ver=6927&signature=dK4KX0Qs43rd6QaZ8**HKf5zWlxt0VoaHwDXuYpQHHQqmaec8pOfmskdiZZ45RkllZ-5VxUzn951ZJifNgOrbSgm2IKZrhIdEfuHHwECHem3POBu4olXzmJRzbLRPXq*&new=1",
-   "summary": "企业保护 商业秘密 ,最怕制度挂在墙上.真出事时,保密协议根本顶不上用.文章把实操避坑指南分成了四步:定密别拍脑袋:别给几...",
-   "time": "2026-08-26T10:19:01+08:00",
-   "date": "2026-08-26",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 12.9,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "保密协议",
-    "保密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "当竞业限制不够用时怎么办?深圳8起 商业秘密 案的劳动法启示!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787716505&ver=6927&signature=CpUclgdA4RJdwBGjQ4sJYTkAY7NOTzMYNH2A7ZTmRUP6sVDD-IdgOYgvYlc*u9JoEFJrOkvmQGj*j6tEuc6LQbrmHDO42LzdNV88wBkS8j8X2NgSykJWnmSBgpvkZKfE&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787719325&ver=6927&signature=CpUclgdA4RJdwBGjQ4sJYTkAY7NOTzMYNH2A7ZTmRUP6sVDD-IdgOYgvYlc*u9JolKho7d8TJdwrzIAymmukerJFa-spSafPsIQmCwt9HVYXq8-hhvSL*bipaCkQMXIA&new=1",
    "summary": "2026年7月21日,深圳市中级人民法院、深圳市人民检察院、深圳市市场监督管理局联合发布8件 商业秘密 保护典型案例.这8个案例,...",
    "time": "2026-08-26T09:00:48+08:00",
    "date": "2026-08-26",
@@ -255,8 +280,8 @@
    "heat": 12.8,
    "hot": false,
    "tags": [
-    "竞业限制",
     "商业秘密",
+    "竞业限制",
     "秘密"
    ],
    "importance": 9.0,
@@ -288,6 +313,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "当竞业限制不够用时怎么办?深圳8起 商业秘密 案的劳动法启示!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787716505&ver=6927&signature=CpUclgdA4RJdwBGjQ4sJYTkAY7NOTzMYNH2A7ZTmRUP6sVDD-IdgOYgvYlc*u9JoEFJrOkvmQGj*j6tEuc6LQbrmHDO42LzdNV88wBkS8j8X2NgSykJWnmSBgpvkZKfE&new=1",
+   "summary": "2026年7月21日,深圳市中级人民法院、深圳市人民检察院、深圳市市场监督管理局联合发布8件 商业秘密 保护典型案例.这8个案例,...",
+   "time": "2026-08-26T09:00:48+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.8,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "市场监管总局发布6起 商业秘密 典型案例|离职泄密、AI模型提示词、短剧剧本都踩坑",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787707626&ver=6927&signature=ktKMEetvXC0ZTC79vy7d6oiYQq2S6P9xtxvmRSxOlgqWHwgYlTn1NzSHXBIRsrsBT8GARMwJs6K145yiEJzthUvbWlSy4NeLI3dqaboCyOuVEWUGQwW3c7Rfm3TCS0QW&new=1",
    "summary": "导读2026年8月20日,市场监管总局公布了六起侵犯 商业秘密 典型案例.这六起案子覆盖面很广,从仪器制造、重型机械到AI大模型、...",
@@ -298,7 +346,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 12.8,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -344,7 +392,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -366,7 +414,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.0,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "经营信息",
@@ -412,7 +460,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -446,6 +494,28 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "Biohaven, Yale win $4M judgment in trade secret case",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnZNUUNwRXplbGpDZ0Fhdk9NRlNxN3ozQXFsY3Z5ckc4UjlrR2xLcWVCQ1NsVjktNVRWOTlZSGJsMGM0dkZhbG02M1VjT25aSm93alo2YUtYZUxhLTVxUnBGWlRhN19xSjdBQWhxMnA0bE5OMW1hQ1BwNTFXcHlhWDRJbVhVTFdoRjE5QjN6MTR1T1E3UmRKcVdaaF9ocnNOUVd0YVVEM2g2ZHNhMzUwcw?oc=5",
+   "summary": "",
+   "time": "2026-08-26T04:52:32+08:00",
+   "date": "2026-08-26",
+   "sources": [
+    "Investing.com India",
+    "Law360"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 10.6,
+   "hot": false,
+   "tags": [
+    "trade secret"
+   ],
+   "importance": 7.0,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "Court awards $4M to Biohaven and Yale for trade secret theft by Avilar and RA Capital",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUlIcUFJc2pXODJXSFZJbWNkRlhLTEtGQ0hHc3lKUEpZcFh0VXF3UUhCY0YwODNZTVFFNW91S3g3UTBpd1dNbnNQc2EwT1BDNHYtbGhDTW84TWdPU25Fa0U3YVltWFMybk5WcXd5UEZCd0ZSenFDNjBza1RIZUQzaTFQSklsSFR2TktwajlOS0lLaEtpNGFpMXF2MFh4R0phUTIxUDZsSUJwUQ?oc=5",
    "summary": "",
@@ -467,28 +537,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Biohaven, Yale win $4M judgment in trade secret case",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnZNUUNwRXplbGpDZ0Fhdk9NRlNxN3ozQXFsY3Z5ckc4UjlrR2xLcWVCQ1NsVjktNVRWOTlZSGJsMGM0dkZhbG02M1VjT25aSm93alo2YUtYZUxhLTVxUnBGWlRhN19xSjdBQWhxMnA0bE5OMW1hQ1BwNTFXcHlhWDRJbVhVTFdoRjE5QjN6MTR1T1E3UmRKcVdaaF9ocnNOUVd0YVVEM2g2ZHNhMzUwcw?oc=5",
-   "summary": "",
-   "time": "2026-08-26T04:52:32+08:00",
-   "date": "2026-08-26",
-   "sources": [
-    "Investing.com India",
-    "Law360"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 10.6,
-   "hot": false,
-   "tags": [
-    "trade secret"
-   ],
-   "importance": 7.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Apple v OpenAI at a Critical Juncture: A Trade Secret Trial Lawyer's View",
@@ -523,7 +571,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 17.6,
+   "heat": 17.5,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -547,7 +595,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 17.0,
+   "heat": 16.9,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -571,7 +619,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 17.0,
+   "heat": 16.9,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -595,7 +643,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 17.0,
+   "heat": 16.9,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -619,7 +667,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 17.0,
+   "heat": 16.9,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -643,7 +691,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 17.0,
+   "heat": 16.9,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -772,29 +820,6 @@
   },
   {
    "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=rkWezMctUc*0YbOi7EYPhtv7w0bTHlgB2Z2tVhaDT9sJZXXlWNi8q9kT7382HyO9beqdKgTdPSXSk9LQ81Bv1bnH1L*YrSPGqVzQul9iJW9ZLllb5RKKDPxXmXbOTt0d&new=1",
-   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
-   "time": "2026-08-25T15:52:38+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 15.9,
-   "hot": false,
-   "tags": [
-    "反不正当竞争法",
-    "反不正当竞争",
-    "不正当竞争"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787640730&ver=6925&signature=cIJXE*5rCw2O5LPOHDE2gLcX8wFtj2qIB41V6xi0JKfntSkVP5RiY2EkEWKdc4cpd9vcK5ESaUPwYlXq9mDHz7ONUaTjgxT6Sq8GIkjgvlf-bbRONu2L-YQI5wrdNvt-&new=1",
    "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
    "time": "2026-08-25T14:45:30+08:00",
@@ -840,28 +865,27 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "Federal Jury in Chicago Convicts Engineer of Unlawfully Stealing Trade Secrets From Philips Medical Systems on Behalf of Chinese Competitor",
-   "url": "https://www.justice.gov/usao-ndil/pr/federal-jury-chicago-convicts-engineer-unlawfully-stealing-trade-secrets-philips",
-   "summary": "CHIH-YEE JEN conspired to steal Philips’ trade secrets and bring them to a Chinese competitor.",
-   "time": "2026-08-25T19:21:10+08:00",
+   "title": "护航轴承产业高质量发展《轴承产业 商业秘密 保护实务手册》正式发布!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787647560&ver=6925&signature=rkWezMctUc*0YbOi7EYPhtv7w0bTHlgB2Z2tVhaDT9sJZXXlWNi8q9kT7382HyO9beqdKgTdPSXSk9LQ81Bv1bnH1L*YrSPGqVzQul9iJW9ZLllb5RKKDPxXmXbOTt0d&new=1",
+   "summary": "为护航轴承产业高质量发展,根据《中华人民共和国反不正当竞争法》《 商业秘密 保护规定》等法律法规要求,新昌县市场监督管理局...",
+   "time": "2026-08-25T15:52:38+08:00",
    "date": "2026-08-25",
    "sources": [
-    "DOJ 美国司法部",
-    "finchannel"
+    "微信公众号"
    ],
    "region": "国内",
-   "category": "刑事打击",
-   "heat": 15.6,
+   "category": "企业实践",
+   "heat": 15.8,
    "hot": false,
    "tags": [
-    "trade secrets",
-    "trade secret",
-    "jury"
+    "反不正当竞争法",
+    "反不正当竞争",
+    "不正当竞争"
    ],
-   "importance": 15.0,
-   "kw_score": 8.0,
-   "weight": 2.5,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "子公司≠公司分立|保密义务不等于 竞业限制 ,劳动争议二审案例解析",
@@ -933,6 +957,30 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "Federal Jury in Chicago Convicts Engineer of Unlawfully Stealing Trade Secrets From Philips Medical Systems on Behalf of Chinese Competitor",
+   "url": "https://www.justice.gov/usao-ndil/pr/federal-jury-chicago-convicts-engineer-unlawfully-stealing-trade-secrets-philips",
+   "summary": "CHIH-YEE JEN conspired to steal Philips’ trade secrets and bring them to a Chinese competitor.",
+   "time": "2026-08-25T19:21:10+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "DOJ 美国司法部",
+    "finchannel"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 15.5,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "jury"
+   ],
+   "importance": 15.0,
+   "kw_score": 8.0,
+   "weight": 2.5,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "商业秘密 小课堂(基础认知篇)",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787643997&ver=6925&signature=v12kGwGlJ9MnDkm85y2kIePTwSCdZ4kjOPUEuCRsP4wklKpQTB2mX*HyjjQ8lUtSMVKf8Qp-*zJM*ihFKCKH9lhGcXurDblZtoackOpxwXoX3n0jxwahFBVTsIdMvs85&new=1",
    "summary": "一、基础认知篇1. 什么是 商业秘密 l法定三要件:秘密性、价值性、保密性,通俗解读l 商业秘密 ≠技术秘密,分为技术信息、经营信息两...",
@@ -943,7 +991,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -966,7 +1014,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -1000,6 +1048,29 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "商业秘密立法/监管新动向，可能调整保护边界与合规义务，建议跟进后续落地细则。"
+  },
+  {
+   "title": "竞业案例二: 竞业限制 范围与竞争关系认定(2)",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787719351&ver=6927&signature=CpZkIT-IxFssb80re*Zm*Ah4MoNymIPEzOO3Exi-3fAFgz3g5aVhBIeWopdmdhRPnbBJL6qxM*x42iArqgUDArOUbs0M5jbl3RyiaqdxnBXUX43b-k2BRzXbgxhLLH48&new=1",
+   "summary": "S认为劳动合同法第24条 竞业限制 条款的立法目的在于保护企业商业秘密,以免劳动者离职后利用在企业获得的商业秘密取得不当的竞...",
+   "time": "2026-08-25T20:03:11+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "竞业案例二: 竞业限制 范围与竞争关系认定(2)",
@@ -1324,75 +1395,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632877&ver=6925&signature=3Fc58dOrZo22V3gBCIEQbrK2Qa5VnIMO-LZ*cWw4rwh1RlXETbO46GwFTqoTVxhUgTCpzQcOmzYH1nmX4fu-YyQMx3s*RIdBBCs1ToshFPS2Y8QguQWv6TmpJ9b9DyP7&new=1",
-   "summary": "商业秘密 保护这件事,难的从来不是懂道理,是落地不走样.很多企业把制度挂在墙上、保密协议签完就塞进档案柜,真遇上核心员工...",
-   "time": "2026-08-25T12:00:47+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "保密协议",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=3Fc58dOrZo22V3gBCIEQbrK2Qa5VnIMO-LZ*cWw4rwh1RlXETbO46GwFTqoTVxhUJPkb4Axzyz3I8XJv43lwYQMX*H*YtAp-TI8BFUSeipm9SxSv2VJHGgAqlROUGfHo&new=1",
-   "summary": "商业秘密 保护这件事,难的从来不是懂道理,是落地不走样.很多企业把制度挂在墙上、保密协议签完就塞进档案柜,真遇上核心员工...",
-   "time": "2026-08-25T12:00:47+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 12.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "保密协议",
-    "保密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787625625&ver=6925&signature=1TZC7LuYmE3KxTMLjjcdR4Y9Wd6GvMnQERbF0PFX*A-akyZd8k-DroH8avDNKaAFHcEjU3sJgkvUwlNGUFbd13R*Lnv8Bb6dOvyk-Oui8r1VEtdxUcXakfzO9wm4urte&new=1",
-   "summary": "考虑职务侵占、侵犯 商业秘密 等刑事控告离职员工客户是自己联系的,关系是自己维护的.离职后继续做同类业务,只是正常就业或者...",
-   "time": "2026-08-25T10:03:41+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.6,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "员工",
-    "秘密"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2yVvM-ncjNcHE07SNMifURuwhQXMeBpm8MK8FIrUSUYsej3*O-cEjIuZdvpqnWXZriM1POo7mb4nnlhckmegC8&new=1",
    "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
@@ -1414,29 +1416,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=1TZC7LuYmE3KxTMLjjcdR4Y9Wd6GvMnQERbF0PFX*A-akyZd8k-DroH8avDNKaAF9CJaLI8kbGj4AZVgUnlSmNdIzUUuwx6oNhEGzXQHQn*0JNW7a0IF5kbnJvwTsqva&new=1",
-   "summary": "考虑职务侵占、侵犯 商业秘密 等刑事控告离职员工客户是自己联系的,关系是自己维护的.离职后继续做同类业务,只是正常就业或者...",
-   "time": "2026-08-25T10:03:41+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.6,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "离职",
-    "刑事"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
@@ -1462,6 +1441,29 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
+   "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787632877&ver=6925&signature=3Fc58dOrZo22V3gBCIEQbrK2Qa5VnIMO-LZ*cWw4rwh1RlXETbO46GwFTqoTVxhUgTCpzQcOmzYH1nmX4fu-YyQMx3s*RIdBBCs1ToshFPS2Y8QguQWv6TmpJ9b9DyP7&new=1",
+   "summary": "商业秘密 保护这件事,难的从来不是懂道理,是落地不走样.很多企业把制度挂在墙上、保密协议签完就塞进档案柜,真遇上核心员工...",
+   "time": "2026-08-25T12:00:47+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密协议",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=NlRcqSsPA9kHvlClbZal4xSHCeiTmSCCZsJ6F5u7iE2bm4dsF**JHRFe6UldWRZ9igXJNKUTC2IOr4KXISQIs07N77nSM3lRslfzGfB6aU5sw7NkRJ4YkuR-B58FmzUN&new=1",
    "summary": "知识产权 · 商业秘密 · 律师价值引子一个做化工配方的企业,核心技术骨干跳槽到竞争对手那里.三个月后,竞品上市,配方几乎一...",
@@ -1483,6 +1485,29 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "商业秘密 保护落地实操①:避开 90% 企业踩过的坑",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787636024&ver=6925&signature=3Fc58dOrZo22V3gBCIEQbrK2Qa5VnIMO-LZ*cWw4rwh1RlXETbO46GwFTqoTVxhUJPkb4Axzyz3I8XJv43lwYQMX*H*YtAp-TI8BFUSeipm9SxSv2VJHGgAqlROUGfHo&new=1",
+   "summary": "商业秘密 保护这件事,难的从来不是懂道理,是落地不走样.很多企业把制度挂在墙上、保密协议签完就塞进档案柜,真遇上核心员工...",
+   "time": "2026-08-25T12:00:47+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密协议",
+    "保密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "商业秘密 案为什么难赢? 律师的真正价值藏在这三个维度",
@@ -1508,6 +1533,52 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
+   "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787625625&ver=6925&signature=1TZC7LuYmE3KxTMLjjcdR4Y9Wd6GvMnQERbF0PFX*A-akyZd8k-DroH8avDNKaAFHcEjU3sJgkvUwlNGUFbd13R*Lnv8Bb6dOvyk-Oui8r1VEtdxUcXakfzO9wm4urte&new=1",
+   "summary": "考虑职务侵占、侵犯 商业秘密 等刑事控告离职员工客户是自己联系的,关系是自己维护的.离职后继续做同类业务,只是正常就业或者...",
+   "time": "2026-08-25T10:03:41+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "员工",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "普通客户资源 vs 商业秘密 :决定罪与非罪",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787629836&ver=6925&signature=1TZC7LuYmE3KxTMLjjcdR4Y9Wd6GvMnQERbF0PFX*A-akyZd8k-DroH8avDNKaAF9CJaLI8kbGj4AZVgUnlSmNdIzUUuwx6oNhEGzXQHQn*0JNW7a0IF5kbnJvwTsqva&new=1",
+   "summary": "考虑职务侵占、侵犯 商业秘密 等刑事控告离职员工客户是自己联系的,关系是自己维护的.离职后继续做同类业务,只是正常就业或者...",
+   "time": "2026-08-25T10:03:41+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "离职",
+    "刑事"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "互联网企业高管竞业限制与 商业秘密 诉讼指南",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787621023&ver=6925&signature=doW6Vb6WjNrpTSi-z3FaXgX1XVjcwV-fWWEtxZGc9LyPdxa54Ki18x6gEvtk2*EgBZZIJt20zqa0Lbo2y7h3uSKkJQ-fMdmvtQlQmc*nDgmTQZR5NufKtotVO0QDuVpi&new=1",
    "summary": "互联网企业高管竞业限制与 商业秘密 诉讼指南互联网行业核心竞争力根植于算法模型、数据资产、用户生态及业务策略等非公开商业信...",
@@ -1518,7 +1589,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1541,7 +1612,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1564,7 +1635,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1587,7 +1658,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1610,7 +1681,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1633,7 +1704,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1656,7 +1727,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1679,7 +1750,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1702,7 +1773,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1725,7 +1796,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1748,7 +1819,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1771,7 +1842,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1794,7 +1865,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1805,6 +1876,28 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Insurer Gets $2 In Damages In Trade Secret, Contract Case",
+   "url": "https://www.law360.com/ip/articles/2517124?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "A Chicago-based captive insurer was granted a favorable judgment on some claims of trade secret misappropriation and breach of contract but was awarded only $2 in nominal damages…",
+   "time": "2026-08-25T23:05:00+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 11.7,
+   "hot": false,
+   "tags": [
+    "misappropriation",
+    "trade secret"
+   ],
+   "importance": 8.5,
+   "kw_score": 6.0,
+   "weight": 2.5,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "鹤岗 竞业限制 协议的政策解读!",
@@ -1863,7 +1956,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1885,7 +1978,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 10.8,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1943,28 +2036,6 @@
   },
   {
    "title": "飞利浦工程师为中企窃取商业机密 罪名成立",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQlZJeHh4aHBHRmxnbEpPUkdyN281MVhqRkFZTnRYRFFUVVdWZVZpemNxX09MeGNWeUl4VEdTVEJTZUN0d2JJd1NYVTl3RjR2Y1BrZC12MjNfYjhZbVNZdWRib9IBY0FVX3lxTE1aQlZJeHh4aHBHRmxnbEpPUkdyN281MVhqRkFZTnRYRFFUVVdWZVZpemNxX09MeGNWeUl4VEdTVEJTZUN0d2JJd1NYVTl3RjR2Y1BrZC12MjNfYjhZbVNZdWRibw?oc=5",
-   "summary": "",
-   "time": "2026-08-25T20:16:24+08:00",
-   "date": "2026-08-25",
-   "sources": [
-    "aboluowang.com"
-   ],
-   "region": "国内",
-   "category": "窃密泄密",
-   "heat": 9.1,
-   "hot": false,
-   "tags": [
-    "商业机密",
-    "窃取"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "飞利浦工程师为中企窃取商业机密 罪名成立",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41OVQ5RjlkVlY5TkZuSEFmRC1EVnpRZWZIZHNlbWFiMHd3clBjZVVmQkh0UVEtaEZNcEZocERBVGc2T1Bwa29oR1ZlZ1ZsTXI3WWdVamFlTDlPOEdvM2fSAWNBVV95cUxNWkJWSXh4eGhwR0ZsZ2xKT1JHcjdvNTFYakZBWU50WERRVFVXVmVWaXpjcV9PTHhjVnlJeFRHU1RCU2VDdHdiSXdTWFU5d0Y0dmNQa2QtdjIzX2I4WW1TWXVkYm8?oc=5",
    "summary": "",
    "time": "2026-08-25T20:16:24+08:00",
@@ -1987,16 +2058,16 @@
   },
   {
    "title": "飞利浦工程师为中企窃取商业机密 罪名成立",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVVo3WUhEaW1NT3gxNlhJbWI2bEF6MlJHdVRuZkVhNFZUYTJBcWxnWlR0RGR2VzJrT1ZTMGRBR1BOd0V5Z3VyN2kxUDY3ajFzNWZ5YS1lNUxYSnhUeXN3ME9R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQlZJeHh4aHBHRmxnbEpPUkdyN281MVhqRkFZTnRYRFFUVVdWZVZpemNxX09MeGNWeUl4VEdTVEJTZUN0d2JJd1NYVTl3RjR2Y1BrZC12MjNfYjhZbVNZdWRib9IBY0FVX3lxTE1aQlZJeHh4aHBHRmxnbEpPUkdyN281MVhqRkFZTnRYRFFUVVdWZVZpemNxX09MeGNWeUl4VEdTVEJTZUN0d2JJd1NYVTl3RjR2Y1BrZC12MjNfYjhZbVNZdWRibw?oc=5",
    "summary": "",
-   "time": "2026-08-25T08:47:49+08:00",
+   "time": "2026-08-25T20:16:24+08:00",
    "date": "2026-08-25",
    "sources": [
-    "万维读者网"
+    "aboluowang.com"
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 8.5,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2019,6 +2090,28 @@
    "region": "国内",
    "category": "窃密泄密",
    "heat": 8.5,
+   "hot": false,
+   "tags": [
+    "商业机密",
+    "窃取"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
+   "title": "飞利浦工程师为中企窃取商业机密 罪名成立",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVVo3WUhEaW1NT3gxNlhJbWI2bEF6MlJHdVRuZkVhNFZUYTJBcWxnWlR0RGR2VzJrT1ZTMGRBR1BOd0V5Z3VyN2kxUDY3ajFzNWZ5YS1lNUxYSnhUeXN3ME9R?oc=5",
+   "summary": "",
+   "time": "2026-08-25T08:47:49+08:00",
+   "date": "2026-08-25",
+   "sources": [
+    "万维读者网"
+   ],
+   "region": "国内",
+   "category": "窃密泄密",
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2130,7 +2223,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.5,
+   "heat": 13.4,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -2498,7 +2591,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2521,7 +2614,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2544,7 +2637,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2567,7 +2660,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "司法解释",
@@ -2590,7 +2683,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2613,7 +2706,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2636,7 +2729,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2659,7 +2752,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -2682,7 +2775,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -3096,7 +3189,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3163,7 +3256,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 4.9,
+   "heat": 4.8,
    "hot": false,
    "tags": [
     "泄密"
@@ -5886,29 +5979,6 @@
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
-   "title": "Ex-Google Engineer Convicted of Stealing AI Trade Secrets; Economic Espionage Charges Overturned",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYM0M5THdWcHoyRV9LSVhwa2JiU01FZ3Y3bU9xWnR6WnFjYm9rZHpsdWJCQTFod0lkNEFDOVNGTDJ5WXJGclA2UUdpQnpyT0lIQTYySFdOaw?oc=5",
-   "summary": "",
-   "time": "2026-08-21T16:33:50+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "OECD AI Policy Observatory"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "economic espionage",
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 16.5,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "市场监管总局公布六起侵犯 商业秘密 典型案例",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787261427&ver=6917&signature=D356XCL2Qvs*9kHShK9*cS0Fv4hCpuXPLkOJiHsiCd*XNlLNKhHFebmpWPhBeB87Dw74I4KSQGzhDXRsvyJM60aUkU8wc8ObTBkTKfUmwkQp8nEDJhmH3oo9PAeFiUUs&new=1",
    "summary": "商业秘密 是企业重要的知识产权,是企业的核心竞争力.加强 商业秘密 保护是强化反不正当竞争的重要任务,对于激发企业创新活力、...",
@@ -5931,6 +6001,29 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+  },
+  {
+   "title": "Ex-Google Engineer Convicted of Stealing AI Trade Secrets; Economic Espionage Charges Overturned",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYM0M5THdWcHoyRV9LSVhwa2JiU01FZ3Y3bU9xWnR6WnFjYm9rZHpsdWJCQTFod0lkNEFDOVNGTDJ5WXJGclA2UUdpQnpyT0lIQTYySFdOaw?oc=5",
+   "summary": "",
+   "time": "2026-08-21T16:33:50+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "OECD AI Policy Observatory"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "economic espionage",
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 16.5,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out Economic Espionage Charges",
@@ -6171,27 +6264,27 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
-   "title": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlhnSndRSlJ3MU5YR3RWcGllY0d4RFpZcVBoTFp6cG4tbzVXZW15SUdUaE5WaGlPNlpVOXFOR3czVnRRMUZMZk5oMHBsMTJuREFqdmFfUlVJQWlXQXdkbE5zV2U2UFQ3eU9ZRXVCc2FLbXQweG43S1VGRjdqSkRSZFhnMGVnektlbkhaZmxzd25zaXMtOWlvb1k5eTZTVXN4SnFMUHBSMmZZdDkxaU5BTXctb3VwSC1q?oc=5",
-   "summary": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out Benzinga",
-   "time": "2026-08-21T11:41:03+08:00",
+   "title": "Apple Accuses OpenAI Of Misusing Confidential Information, Opposes Trade Secrets Case Dismissal",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEpjVkhQdFVjWE5BWXlpSm5mQmE3QVYzdHRWdGg0WXA0MHlkNXNxSm9zTlZMRDM2UnJsQlNERWtuekQ3aEJFamZJRVJZV3FyQVAxX0l2TzBYMkVZS25qdFdrZ1o1Sjk2M1p4MWpTMnVzT2tNRkh5VkcxMWpGdDJBNklwMnNxZUh2ak9hbEs0VzMtYmMyZnphZUhCd0RENWVXd3VtZTh6RmVlaGlLck9ObWNycDVyVDJfMkV3TjRGMXpYanFadTZVc0FaYVpQYnlUSGlPa2dNSUjSAeABQVVfeXFMTW5EeGhCNmp4SWZ2dmFtam05bkY1d0ZzRkFIcE1uU2cyMjFSMW9tc284a3JYa3I0OEF6OWxxY2p2WnI4UV9TVnlGdzdHQVV3U3BickgwMEQ2LUZFa29qMm1LVmtpMEJJNVFfeHhRemdLektDNDlNNTlOWEc1THpFVWxrQXNod1VOS2tJSXcxS0h4YmczLUtScmVqbXhnb1FvUjhUZWZpckZ2TVFiZXQzT3ZleGQyazNteGFTb1U1Y0xXS3pjSEF4QzE0bUdjaWd4Qmxhd1lxaXFfdXYwZTFDTUw?oc=5",
+   "summary": "",
+   "time": "2026-08-21T01:34:44+08:00",
    "date": "2026-08-21",
    "sources": [
-    "Benzinga"
+    "NDTV Profit"
    ],
    "region": "国际",
-   "category": "刑事打击",
+   "category": "企业实践",
    "heat": 10.0,
    "hot": false,
    "tags": [
+    "confidential information",
     "trade secrets",
-    "trade secret",
-    "convicted"
+    "trade secret"
    ],
-   "importance": 12.5,
+   "importance": 10.0,
    "kw_score": 8.0,
    "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "9th Circuit tosses $40M trade secrets verdict over trial errors",
@@ -6215,53 +6308,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Judge acquits ex-Google engineer of economic espionage in AI secrets case",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlzSjl0SGUwWlQwUHpVY2ZjNzJEVVlQQXRmLWl5dkhQVV85M0I4d1h0emR6czY1N3V2bElGWl8td01LWHRUNHc2d3lOb1RvY29xYk9lS29ScGFjRGhwWVJiZDNmLWNHOUpNVkRhUWFXMHdyWWJLT2lGbmlHWUlvcUI4VDBmUTJlUXl6RTd5RWh1Qm1ueUNVbnhtaUJJWDI3NEtZ?oc=5",
-   "summary": "",
-   "time": "2026-08-21T21:00:12+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "Courthouse News",
-    "finance.biggo.com"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "economic espionage",
-    "espionage",
-    "court"
-   ],
-   "importance": 12.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Apple Accuses OpenAI Of Misusing Confidential Information, Opposes Trade Secrets Case Dismissal",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEpjVkhQdFVjWE5BWXlpSm5mQmE3QVYzdHRWdGg0WXA0MHlkNXNxSm9zTlZMRDM2UnJsQlNERWtuekQ3aEJFamZJRVJZV3FyQVAxX0l2TzBYMkVZS25qdFdrZ1o1Sjk2M1p4MWpTMnVzT2tNRkh5VkcxMWpGdDJBNklwMnNxZUh2ak9hbEs0VzMtYmMyZnphZUhCd0RENWVXd3VtZTh6RmVlaGlLck9ObWNycDVyVDJfMkV3TjRGMXpYanFadTZVc0FaYVpQYnlUSGlPa2dNSUjSAeABQVVfeXFMTW5EeGhCNmp4SWZ2dmFtam05bkY1d0ZzRkFIcE1uU2cyMjFSMW9tc284a3JYa3I0OEF6OWxxY2p2WnI4UV9TVnlGdzdHQVV3U3BickgwMEQ2LUZFa29qMm1LVmtpMEJJNVFfeHhRemdLektDNDlNNTlOWEc1THpFVWxrQXNod1VOS2tJSXcxS0h4YmczLUtScmVqbXhnb1FvUjhUZWZpckZ2TVFiZXQzT3ZleGQyazNteGFTb1U1Y0xXS3pjSEF4QzE0bUdjaWd4Qmxhd1lxaXFfdXYwZTFDTUw?oc=5",
-   "summary": "",
-   "time": "2026-08-21T01:34:44+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "NDTV Profit"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "confidential information",
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Judge acquits ex-Google engineer of economic espionage in AI secrets case",
@@ -6309,6 +6355,53 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlhnSndRSlJ3MU5YR3RWcGllY0d4RFpZcVBoTFp6cG4tbzVXZW15SUdUaE5WaGlPNlpVOXFOR3czVnRRMUZMZk5oMHBsMTJuREFqdmFfUlVJQWlXQXdkbE5zV2U2UFQ3eU9ZRXVCc2FLbXQweG43S1VGRjdqSkRSZFhnMGVnektlbkhaZmxzd25zaXMtOWlvb1k5eTZTVXN4SnFMUHBSMmZZdDkxaU5BTXctb3VwSC1q?oc=5",
+   "summary": "Former Google Engineer Convicted of Stealing AI Trade Secrets Gets Major Legal Break as Judge Throws Out Benzinga",
+   "time": "2026-08-21T11:41:03+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "Benzinga"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "convicted"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Judge acquits ex-Google engineer of economic espionage in AI secrets case",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlzSjl0SGUwWlQwUHpVY2ZjNzJEVVlQQXRmLWl5dkhQVV85M0I4d1h0emR6czY1N3V2bElGWl8td01LWHRUNHc2d3lOb1RvY29xYk9lS29ScGFjRGhwWVJiZDNmLWNHOUpNVkRhUWFXMHdyWWJLT2lGbmlHWUlvcUI4VDBmUTJlUXl6RTd5RWh1Qm1ueUNVbnhtaUJJWDI3NEtZ?oc=5",
+   "summary": "",
+   "time": "2026-08-21T21:00:12+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "Courthouse News",
+    "finance.biggo.com"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "economic espionage",
+    "espionage",
+    "court"
+   ],
+   "importance": 12.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "没签员工保密协议,药品研发数据还能按 商业秘密 维权?中美法律对比解读",
@@ -6633,51 +6726,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "技术窃密等新型知产犯罪概率上升，商业秘密保护难题何解？",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEbk9oeDZ3OVM5MmVfZXYwZFpiYUlqdkdBRG5YNXdkczBQZ0Jxa2RNckw1dTlBOTNwNjZWeTUtcF9Gem1jNjBURXNJRE9WMWVQOFpxSU9n?oc=5",
-   "summary": "",
-   "time": "2026-08-21T15:57:23+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密",
-    "窃密"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned A federal judge reverses part of the conviction of former Google software engineer Linwei Ding who was found guilty earlier this year of stealing AI trade secrets to benefit two Chinese c",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSlpmd2pnTjhuVGlaNUtuTEVkNEVMVGhYZ0JCV2dnRm5mbUZhVUhsaHBjMERvbTBUcWg4dXAyX0d5cG14YzA3d3pidXpPOGZIWVduMGVvUjFiZGFPWkttWlBnakJ3MGtsVS1ZdFRuM2p1U1JPcUgtSnE5RHZoOEM3TUNWNVdWZVBvXzE3LUU2OVJKR3lRdHcwRUJCaThUajJ6ZVNad3BkUE5CMnVtX3pUSlRzRFlRb2xGZkdCUG1BN0czWW5EcG5hdk1ERlM4dDZaQW9MNnBhWHM5N09R?oc=5",
-   "summary": "Ex-Google engineer's conviction for stealing AI secrets partially overturned A federal judge reverses part of the conviction of former Google software engineer Linwei Ding who wa…",
-   "time": "2026-08-21T22:00:44+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "facebook.com"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "专攻商业秘密保护难题，上海有支“珠峰战队”",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzJVXy1RbHd5WG9yZ0hEM3VacUNrNVdaMTNvZU5sS1J0RE5pTGMyeHNnYzdsMGZUekg2V0M4Z2J4bmNEVWRXNW1uU2pGcXJZZkQ4OFlhNXY0bVRaSFRHS202Vmp2b1VKWDE3RjM1Y3EtTkxrMWRmZVplVmZDVlYxZElsRmZhaDJlTGZMdg?oc=5",
    "summary": "",
@@ -6717,6 +6765,51 @@
     "商业秘密",
     "秘密",
     "窃密"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "技术窃密等新型知产犯罪概率上升，商业秘密保护难题何解？",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEbk9oeDZ3OVM5MmVfZXYwZFpiYUlqdkdBRG5YNXdkczBQZ0Jxa2RNckw1dTlBOTNwNjZWeTUtcF9Gem1jNjBURXNJRE9WMWVQOFpxSU9n?oc=5",
+   "summary": "",
+   "time": "2026-08-21T15:57:23+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "搜狐网"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密",
+    "窃密"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned A federal judge reverses part of the conviction of former Google software engineer Linwei Ding who was found guilty earlier this year of stealing AI trade secrets to benefit two Chinese c",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSlpmd2pnTjhuVGlaNUtuTEVkNEVMVGhYZ0JCV2dnRm5mbUZhVUhsaHBjMERvbTBUcWg4dXAyX0d5cG14YzA3d3pidXpPOGZIWVduMGVvUjFiZGFPWkttWlBnakJ3MGtsVS1ZdFRuM2p1U1JPcUgtSnE5RHZoOEM3TUNWNVdWZVBvXzE3LUU2OVJKR3lRdHcwRUJCaThUajJ6ZVNad3BkUE5CMnVtX3pUSlRzRFlRb2xGZkdCUG1BN0czWW5EcG5hdk1ERlM4dDZaQW9MNnBhWHM5N09R?oc=5",
+   "summary": "Ex-Google engineer's conviction for stealing AI secrets partially overturned A federal judge reverses part of the conviction of former Google software engineer Linwei Ding who wa…",
+   "time": "2026-08-21T22:00:44+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "facebook.com"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -8086,30 +8179,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "苹果回应OpenAI驳回诉讼动议，重申对方涉嫌窃取商业秘密",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjUUYxSnN1OXI1VzEybFNQa1dmT0lZWWxYV0pwOWJVcFJkeWlmdWIxVkMwc2tsRUhQYUYwaC1HZ2pMM2ppdUVhX09MLTh6NGd1RC1JRm9LMjBVN1dCS2k1SjhLTzJvXzNka2gwUlhUcDYxVk9ZbGFDeg?oc=5",
-   "summary": "",
-   "time": "2026-08-20T13:31:00+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "新浪财经",
-    "腾讯新闻"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "诉讼",
-    "秘密"
-   ],
-   "importance": 12.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "6.4亿!中国 商业秘密 侵权判赔天花板,一场“集体跳槽”引发的世纪之战",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787221998&ver=6916&signature=QaYhLoZIaxfhrJzKAkO6bNsz15OT15t0CdeJdt4XqS2PC*YWPj4AJ4Tbel52na6K1jarCHXGbj3W-nbq3L-AjIsRPH*enJcrfH3l5cZRQoCs9qzWu78oWGnJJ530oR*a&new=1",
    "summary": "更标志着中国 商业秘密 司法保护正式进入“严保护、高判赔”的新时代,更为今年《 商业秘密 保护规定》打下了基础.这场“官司”的...",
@@ -8409,6 +8478,30 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "苹果回应OpenAI驳回诉讼动议，重申对方涉嫌窃取商业秘密",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjUUYxSnN1OXI1VzEybFNQa1dmT0lZWWxYV0pwOWJVcFJkeWlmdWIxVkMwc2tsRUhQYUYwaC1HZ2pMM2ppdUVhX09MLTh6NGd1RC1JRm9LMjBVN1dCS2k1SjhLTzJvXzNka2gwUlhUcDYxVk9ZbGFDeg?oc=5",
+   "summary": "",
+   "time": "2026-08-20T13:31:00+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "新浪财经",
+    "腾讯新闻"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "诉讼",
+    "秘密"
+   ],
+   "importance": 12.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "OpenAI Opposes Early Discovery In Apple Trade Secret Suit",
    "url": "https://www.law360.com/ip/articles/2515402?utm_source=rss&utm_medium=rss&utm_campaign=section",
    "summary": "OpenAI and two of its employees have asked a California federal court to reject Apple's bid for expedited discovery in its trade secret lawsuit accusing OpenAI of using former Ap…",
@@ -8429,6 +8522,29 @@
    "importance": 12.0,
    "kw_score": 7.0,
    "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2VienZXSzJwN2JXS3B3aE9lSXZMeVFmd0Mwb0F1cHUxcFAwbjZNa1lZLURuZjZzOUo3a1NaQmw2OEZKblNaMy1aRUJIYnByakFuRlc0ZURXNXNlQVE3WThyMGxQZlpJOGNFNGpNajduY0hlNm9pdGpFSkplM3l2a2F6UDlCOExTQW1La1d2R3ZXX0ZOS2wxdnZ4My1QVExNLVhhSF94cnNrZDF5eVVob19xYTNJdmFwVHJvbTZUa0lzcDBQVTJuZUdKSQ?oc=5",
+   "summary": "",
+   "time": "2026-08-20T10:21:00+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "9to5Mac"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "misappropriation",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
@@ -8453,29 +8569,6 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2VienZXSzJwN2JXS3B3aE9lSXZMeVFmd0Mwb0F1cHUxcFAwbjZNa1lZLURuZjZzOUo3a1NaQmw2OEZKblNaMy1aRUJIYnByakFuRlc0ZURXNXNlQVE3WThyMGxQZlpJOGNFNGpNajduY0hlNm9pdGpFSkplM3l2a2F6UDlCOExTQW1La1d2R3ZXX0ZOS2wxdnZ4My1QVExNLVhhSF94cnNrZDF5eVVob19xYTNJdmFwVHJvbTZUa0lzcDBQVTJuZUdKSQ?oc=5",
-   "summary": "",
-   "time": "2026-08-20T10:21:00+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "9to5Mac"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "misappropriation",
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "市场监管总局公布侵犯商业秘密典型案例，涉数字文创领域",
@@ -8754,6 +8847,28 @@
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
+   "title": "No Employee NDA? Trade Secret Claims Can Still Survive — Key Lessons from WeightPack v. Mitchell",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObm5nQUpVUkdHLTBERW5rWHhzano1amh0MUhiZXctZ21NcUtoY3hyc1RLTkpKRFhva2duOWVvU1AwQ1h4LVpXSk9FTVR2LXE2YXJDWGxNVzN6RFZXLTBmQ2RDa05qVG9Ea0h5VXhDVUdRUFZUbWhGS3ZSU2swVFpDVHk1cEpZb0dLSGRsSEN4RjdwUkVYUlY3TFRDTkpvcHhKc0I1STZsN3NzS0U?oc=5",
+   "summary": "",
+   "time": "2026-08-20T04:08:50+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "Crowell & Moring LLP"
+   ],
+   "region": "国际",
+   "category": "竞业与保密",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "NDA"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "苹果反驳OpenAI驳回动议，重申商业秘密窃取",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QmRjRlE5RDNQdDZaRThBdzRwblJoU0RsWHhWaS1RM0FhMnQyMTBrS2lLU2hscW1HSERtWHExcnN4LWxlSlN1a2ZIaFdUNVVWak1VMkozNGZRUkxueFgtSHdBZVNiVkxZOEJ3SmZWaV8?oc=5",
    "summary": "",
@@ -8775,28 +8890,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "No Employee NDA? Trade Secret Claims Can Still Survive — Key Lessons from WeightPack v. Mitchell",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObm5nQUpVUkdHLTBERW5rWHhzano1amh0MUhiZXctZ21NcUtoY3hyc1RLTkpKRFhva2duOWVvU1AwQ1h4LVpXSk9FTVR2LXE2YXJDWGxNVzN6RFZXLTBmQ2RDa05qVG9Ea0h5VXhDVUdRUFZUbWhGS3ZSU2swVFpDVHk1cEpZb0dLSGRsSEN4RjdwUkVYUlY3TFRDTkpvcHhKc0I1STZsN3NzS0U?oc=5",
-   "summary": "",
-   "time": "2026-08-20T04:08:50+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "Crowell & Moring LLP"
-   ],
-   "region": "国际",
-   "category": "竞业与保密",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "NDA"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "软件与特定数据不可分割时如何认定 商业秘密 侵权?",
@@ -9479,52 +9572,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787122178&ver=6913&signature=0GKIxfh0T4Y5kyBn4cSsr8HBxF2sfPJBtyKhn-7Z3UqT16dQGZXtuOsAn09OpGgWYjTbIz*l*vsXfG7ZYBaoLfbm7Ka6DrI0dxvEIHt7b4767fFuob7rACvMwBbWwLnQ&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787128821&ver=6913&signature=0GKIxfh0T4Y5kyBn4cSsr8HBxF2sfPJBtyKhn-7Z3UqT16dQGZXtuOsAn09OpGgW3BG8ryBkfoLa4zxtq8NfndizFEJ*6mxLKE5gGuu2rhtRVssIBIf6gpLcjWfAYFFf&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787132194&ver=6914&signature=AAZ-s*7HlW7GkCJ8ytEW8M2fR1VJBxqIDGxbnGPAfx35uape0Xmo97GrnITeakEMZgSNP4jkPHYXeWdSHHqlAZdnfTXhdf*ovX*jcv*3L1J9hc0T*5n-gixRvid5Cu-9&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -9546,29 +9593,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787132217&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47925a0gP4uw0hvjI1KMq5ji4NfrroxMv4cOnDuUyssgLSEuoU6voPt*cWGPjjoraY8RDkn7zi*nVDYDNXZpgNI0iV&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -9617,29 +9641,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787143959&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia479240AlUgroJWw0rb4ufRO6GzwFlB2kiiJZXZ-LLkfcUy5lzZ4k*lfeboTQoSn3LQuKP6LodkfUtTBH*M-ZHYWaqK&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787147167&ver=6914&signature=AAZ-s*7HlW7GkCJ8ytEW8M2fR1VJBxqIDGxbnGPAfx06wkv0TOu7FLR*vofAH1vwSnR4As0Q9-cGW0j1n3IvBvyITn83RivcO-253I6B0N2QoS9i-OPLoFZcbWmhgoKO&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -9661,29 +9662,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787147199&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia479240AlUgroJWw0rb4ufRO6Gz9coDGP*xXlMtWsl9tHIijP9nJOKoCofnJH2pBOPNYt-36oh15-ijvVjViWZIt3eF&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -9755,29 +9733,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787157274&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47925bYEdHeK6dyZieJ*PzuWihnb2XzCHEC75RXR0YiwxoLcqV1C7Rl1aebF2cub0b*cjNcf4uCakEZQDMrAwOGyux&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787160520&ver=6914&signature=AAZ-s*7HlW7GkCJ8ytEW8M2fR1VJBxqIDGxbnGPAfx1-EE74PzABQy8LQ11IybaimYaoGoekwsSgu1POv*2cC0fTJHJeIm-EjwpC0zc9nqMY*ZJyryb3eHNMmfBqPpOX&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -9799,29 +9754,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787160553&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47926tTFnOpHKQ4cSvujWEtFqMW-y8GU1k4REOw8KKxb9HMZ*D5qILMT1xyTePzK3QTn6TY8B6M-QWUffe-gV0RVMz&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -9847,29 +9779,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787162009&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47926tTFnOpHKQ4cSvujWEtFqMxX1oi3UOpxIuWxwkzAm7Vykxuk6Fs0Kt8Nlr3oYLfbRojR8J9NTzGAPJlVtvNV*r&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787164730&ver=6914&signature=AAZ-s*7HlW7GkCJ8ytEW8M2fR1VJBxqIDGxbnGPAfx1-EE74PzABQy8LQ11IybaiqTsqm0JC-4vdDbA7meb5ht1EpqsSEfxesR1o8HTGNuZihvieKmfJc5DRytHYsB1X&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -9891,29 +9800,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787164753&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47926tTFnOpHKQ4cSvujWEtFqMRZXxFlQxrW9nUEpKnax5Daims5pd6Fhh--nYEedRg*EW-6DbX9IM2QQhQQ879XyW&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -9939,29 +9825,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787167699&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47926tTFnOpHKQ4cSvujWEtFqMOLoL9BxkFnRg4oP*P0zHBx4LrqZ2H90XPwuM7psBEk4rZYJ1nhSPxRFJmh2ezN3H&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787169127&ver=6914&signature=AAZ-s*7HlW7GkCJ8ytEW8M2fR1VJBxqIDGxbnGPAfx1-EE74PzABQy8LQ11IybaifF621Yzsp7KKgXLdXtIdEkLcZJmR2uBO2paJv1vhJ7lnTXRDRLO10sA5RU-pvRq2&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -9983,29 +9846,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787169151&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47926tTFnOpHKQ4cSvujWEtFqMO1sq6gtC1QwfwiAAla9z5lfea5Yw-PkwvJvrVkySWXNhTL1D1zLt399l6tUX1Frb&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -10031,29 +9871,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787171480&ver=6914&signature=dPi9pfkkCs*UVgE8CsRPjWJLRxFFgDB6zZumia47925wu5-hkKry28dNC7Iwybzlny035thMsHtZr7Olm87tMqPQ5QEnE-YM-6RoFXad9vOteMgnkvsX2n0I2nR56nDv&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787174852&ver=6915&signature=0yc7weh0B-hbLYQ9yAPVxlE8sH-HkeDA2gCOvxQpxRJb*lGuyg09sAtgSMilZp8ud1rz*4Ubpzg0iCjhKXNaQCcfCUIhajqNl6jnfHqfSU64cnGpNZH0f3nncnABZ1JN&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -10075,29 +9892,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787174877&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*NJglnhsiVF67ntJKkdg7g569pQU9kaAvCAK9gz6X7g7yUHvbeWKyyW*O3CGLM3GxRJqixhcuEr3N6*HkxGQsd*&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -10123,29 +9917,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787176406&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*NJglnhsiVF67ntJKkdg7g5ZZ1TdUUSY4SUMOXX86iPc1O7gEh21oZJVHQdFuDQKqWOKhLqVQstMdfqBBGwkIff&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787178421&ver=6915&signature=0yc7weh0B-hbLYQ9yAPVxlE8sH-HkeDA2gCOvxQpxRJb*lGuyg09sAtgSMilZp8uo5R24*iahOd*inWCPpyXnQ4j3VfMdZ22Uuqxb75oPx83Mj5Vg9s4A33aWj4UYFR3&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -10167,29 +9938,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787178447&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*NJglnhsiVF67ntJKkdg7g5AyNyoNzLa3FwU4BodEYULMkhbXecjGJ7bL*TCLSk9d1soJLLVcD1hRzVjxAW0O0E&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
@@ -10215,29 +9963,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787180009&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*MjNRav0lMKIepq5kqSZ*FnIDDsHSYe570D*Nbc*mwknHdkdhvj6*AZwyw3DbAkWFSqrYgZyMZKq-lCmUAHmInn&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "人才自由流动与 商业秘密 保护,HR挖人和窃密的红线,到底画在哪?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787181905&ver=6915&signature=0yc7weh0B-hbLYQ9yAPVxlE8sH-HkeDA2gCOvxQpxRLTJkqperlgOQwi0Aq-*RV*vf6lwhznCPbhMJ0vy8UCDTXHV4IOgfhhPyeF2J0HTMpXqf8Z0PAX*3qwNRH1hLlQ&new=1",
    "summary": "成本可以追回, 商业秘密 泄露的风险已经无法弥补.正路是四层防线,一层断在前面,后面就多一层保险.第一层 · 事前预防核心技...",
@@ -10259,1110 +9984,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787181929&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*MjNRav0lMKIepq5kqSZ*Fnn*55rsu13Uo3l5nSSPHwC*mEPsG*5gkjxnZmrhGmRnyWBUAUn4MEWbU8oZwtauGK&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787183325&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*MjNRav0lMKIepq5kqSZ*FnT3zKtNSPtfgriPw991HGfHj7hu*VUH0Bfb21oQPHllUMiK7uQeTV1i6kYTNw1s9H&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787188983&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*MjNRav0lMKIepq5kqSZ*Fn*RpwtLawGRe01UidxBeWJmUDSF5OkUF*pX0rhBgEpASrMfC8SRkTkaWRa2umRxsy&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787197766&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*P4jBEHK*kF-Whc-0tYKlfRK4Rfql4ui8qBR7M2G*heet1T3v8NDvpGfMjemIRZTvarI9oDC5UMky801qvJ4nyJ&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787200815&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*OEREDZHMTZHkefEhZ1JCyAjqRxIuaYEPCeiU8d3XYQLGXoPFmYgHgluRVlnHZAFM7Ee4WO6N-yNw4Xn6ix1udd&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787204040&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*OEREDZHMTZHkefEhZ1JCyAPERr1MkpID6-Ox8gw4FHuEzDlPLMlPXWXIfjjwbD7yLi9gvghmVb2FogEAW57YOS&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787208668&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*OEREDZHMTZHkefEhZ1JCyAlAseFAqJSEI3DrWtbk5JMBVo*MGnthtDMdYq5VTU1BCiNICOrOPT3BG6s43EeK2K&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787211808&ver=6915&signature=uY8BORz7OiNO9Gklloims3Bcd*J*XAw4SWSDiJR-B*MErZUhR8E6o7akEdwzDL75IL8AquN0wIczbCEWF18-2FWDnyjVROidVcCvNoptoZ0gWeD7laGV8F2iZKsDQo-4&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787268821&ver=6917&signature=V1w9RRH9iAXvNKi5gN5ICbLOCfrKaPyIUXAUu*Eb9o7VRqN1CDR3HZZS8sMs2GJDLXjcDI6q25rDTprcpk4ghY5TKdiEogX8CPpc5sS3TSaeWCYTRTwWuk04FgvNxYVG&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787298303&ver=6917&signature=V1w9RRH9iAXvNKi5gN5ICbLOCfrKaPyIUXAUu*Eb9o7Ew4q*1xJTdnOmhEeJ5A96lycisdAMOtCiYNO9o3B8g66ozgdypdoqUMfRAcOg5pNedCGi*6OF74l**DR0cac8&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787301800&ver=6917&signature=V1w9RRH9iAXvNKi5gN5ICbLOCfrKaPyIUXAUu*Eb9o55CE*yRS95LHIKImV1kbTdJxm3p3EdrtF97PjOG7INLpzSb1LwOoehwDsswUsQ5B4q17x88Cwu027dEwwS*b7k&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787305168&ver=6918&signature=fk4l-PKhQFSOTgqBs*iHPYZE76TaZpdoRsUlStjq7trKR*dY6JDyZsTqOB4EKXGa1trqK4Ts-MBtLVjBFE6qhGLO0mCvLUeuecpf11rvJKJnn1Qatyp5puEQa6IviIQ6&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787308384&ver=6918&signature=fk4l-PKhQFSOTgqBs*iHPYZE76TaZpdoRsUlStjq7trKR*dY6JDyZsTqOB4EKXGarkEmaXPQGkqlLJpLngMAv7AStB4d5el8tMNnBrJ1x0*PbIbtz1Ld-4rhFSNxriCd&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787352812&ver=6919&signature=-S3tA1MyddNXT-fwJg98bEa1HTXOgZGFLxLVSLu4E3OKOFint0303rin7DLpPnIGXD5DyGA9xybnTW3Q8m6W8xx1KUZ7knDqfmCkUBChW8yI22QcJ4lAC9qTD6Tpvg2-&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787354773&ver=6919&signature=-S3tA1MyddNXT-fwJg98bEa1HTXOgZGFLxLVSLu4E3OKOFint0303rin7DLpPnIGdP545t4hgQCa2jAiBqHF60RIwN7p5vKM3NK3-28onueOIcJk0cC4KON8*VQrd7qg&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787356212&ver=6919&signature=-S3tA1MyddNXT-fwJg98bEa1HTXOgZGFLxLVSLu4E3OKOFint0303rin7DLpPnIG6I7Vyhn4Yoip1XOYMfAa6ABv8df1PWD7dsezSgEBqCKV-r1lZZ-9XlzIZmVf0yul&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787397794&ver=6920&signature=0uIwanY9Kb7YUhUYJy2kwCjRbePpTvuOMNVnSeiFSQPHNpGLAh68T9IqfqqDjo6lFOHvFvAzjj9kkXjdlSDIQd2PDYsgE-4CI6K0XdUNli*l7X5K*murvvyavLtQF3Oa&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787448909&ver=6921&signature=Bk5Rtoe2q8oqcadjLx5jFo1gOWHezl0XaqHEswH81S*NoQrjCqFfY0PobNkJeF2T74FEX887BobOPJJYN2ll5uw7escTgoGCKAThst4hjS0idWGBi328frVM1WEsKigo&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787458199&ver=6921&signature=Bk5Rtoe2q8oqcadjLx5jFo1gOWHezl0XaqHEswH81S8SwGZaIN7YReILWPEiiGQpGmgiWftHbWzHKqodly5cIb*13LE6OMZQyEEcTSMklVQFGeApKWqOJxSfFePXqlwF&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787464521&ver=6921&signature=Bk5Rtoe2q8oqcadjLx5jFo1gOWHezl0XaqHEswH81S8jBs6shgASC4J0XRp3Loya72NSg6Ad-i0KEdwwXdXPzjhkgKs2PyztvkHHzI0YoaNNWtXssRHANZW02l1EQRRM&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787467533&ver=6921&signature=Bk5Rtoe2q8oqcadjLx5jFo1gOWHezl0XaqHEswH81S8jBs6shgASC4J0XRp3LoyaTRnXCCpojh-cchnc37-Bzv8sCqDbPptWb2ufUMl6TGRzvLxZCSj3v2qj1z1Al2No&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787470521&ver=6921&signature=Bk5Rtoe2q8oqcadjLx5jFo1gOWHezl0XaqHEswH81S9NHADyu9cnaQ4cKITczRH-Xl3uPhECxOURlaQPeuBPDsNofWq7i6rzblfj5eH3LEjnrZTSOLGRxtT*jnNmdGhS&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787484188&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkF4oXL4GqKtzQ7g9VW7RS5MlQXEupYcOIzjL6TSMfr-VeOyx8ur1YMsJfplHnNRa7lBJ9YP4S*7ciY1SnDsPYQ&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787485653&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkF4oXL4GqKtzQ7g9VW7RS5LESX*-xRs8ZjvwPqcJL7-R1-XhIaeqIOXizXbmCYMCTIOjfEeRghj-AkY0CakOa5&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787489076&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkF4oXL4GqKtzQ7g9VW7RS5o2ZUJ4MMeNCbuGLrCzL8UHNM2hcQwrf2YG1QBcVdafl2zqIeWG*Rjt1W4cUHctj-&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787495171&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkRETuL3L6AxWdnEtRAX5-7pNvidDS606HzV27DSAZ*6wB4ClASsD07NndPEYYgWrIRs--jc14Xo24E9CP2OOXm&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787496713&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkRETuL3L6AxWdnEtRAX5-77kpzei2T4yYGSuXtTfiLHgUPxXWBE6rLj-*54tlSE5DzUkiORP64KHU6TbF1-T*v&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787500137&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGmnNMt594GmLfVDW0XRUD*AnoZ--vZpb8jqL693OXtMMeYV10y1O4*WgFD9el1qAwwZbwoVSVFvlVhtghxgsOF0&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787502556&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGmnNMt594GmLfVDW0XRUD*AaAhXZKW*mLqARSjR8itbhLXGM*NVLwRR8orZeTegxZye7LkTrPxO8BUHMZooHc4A&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787504106&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGmnNMt594GmLfVDW0XRUD*An*dEzQNvq6SjVAYeflXiDLh1rah0lrGHhqKNlgAFsFFQ2ZTIzHjPMiWH8Mqg21Ld&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505768&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGmnNMt594GmLfVDW0XRUD*An2me2geDAXkPO-bXNTqerJ12xlcvO-HId5jyYDT9DYzfmFQtlnNz5DrbwVAg7D9h&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507264&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGmnNMt594GmLfVDW0XRUD*AbRQIlcR19n1yioI1ltHcbRLtwf7A*YT4rf55tinZ6cNKEOnHALGqgglaHGKT5W3y&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787510003&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkcHezlw9PikBNsFTLoyJQu*s5BPXLdE663ht4F9RW8aZ3E-ygabXSULnu1YVFo4zIs5X4O6WelOnjPkwNdjnAx&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787513057&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkcHezlw9PikBNsFTLoyJQu8OBnA1lhbPqIr*xsE5LxAXEIYHRCnUwvWeAkKukQlySj*wxP6b2wT*Fa7hlr-rDs&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787514375&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkcHezlw9PikBNsFTLoyJQuzyoh0j6enuPvRxCZRjpmTimiUkNNfTyA7ZqeI4oUn5x7PAUr37yg4cfrRYxLwqXQ&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787516817&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkcHezlw9PikBNsFTLoyJQu7J0Eqx8Ir9NZZaC07UG*-YftwgtrqmzyEkgShPa985KgHwcjEkL3gQYfn1q9OkfQ&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787518251&ver=6922&signature=Te12FBdB*XbxJj9877QGjF83I*8vO8GU2LYlJhuHRGkcHezlw9PikBNsFTLoyJQuNJ69S-HvTNkzPQYiW5vtxYeqHhrkc-qzg3rWLjuj6EZUCrp7j418FxfYK5PPJxMu&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787520258&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRRE443wNbY4BO24CYBtI*PUnLAoKFx9XUR7Tvme*-crB7rhD5q41zjHMI2oFvHpM2qrrtFI6Vc0hTe28dsTypc&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787521675&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRRE443wNbY4BO24CYBtI*PoBoGnlT4MyekzH72mjke2ixIdWvZ27TThw3WiX9kcv0eO2h8XLrL*7Psniyeryl5&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787528865&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRRE443wNbY4BO24CYBtI*PTvLrRgGCKO7*PPwC1EOWFh2cgq4BLVHBePo4CUUrh1wEGpTH6w4GYf0VL2RDQOcW&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787534837&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRrYNVq6vQu-ehecI6d47j4xOlMLgeXM12cDU1s5haM6aj8bHAERxUT8MSXu77TeIDxNxPTaq3JBf6l**juFZk*&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787543800&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXT0YBzTB*eSvz6q7UlBB0gHEbFXRjEymQl9DUM*5vVTxp3ydsRv10T*Nax2JSMk*9oTNKaEvMcclz2u7KsYxche&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787547155&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXT0YBzTB*eSvz6q7UlBB0gHqSY9WOrCrTB0g5KUrwT10OIhp1GFj7cOuQXoXGB9kCl-uNlw2l*UwPFM7qULmxlR&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787550030&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRLwXHtNsEFl6UR*ViSEh90kCqweLbfKADF7jkFV3eU9mggqC276kNAS0dWJ3QUKIl65Wp77NIsKDGXFPno2cKn&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787559109&ver=6923&signature=MWLrs3xP2AePKR56etxohdDCSGz84CF72EtXPNpjBXRLwXHtNsEFl6UR*ViSEh90nYpQEy8wxLMmvbfxzvNtBH1XU8wVTWhTgvrLRkd56dsP7RCoz9iEvmIolsxkrqdg&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787607132&ver=6925&signature=kPZ8m1B8CEHLza6H2htsBTv9ZHeMaHmO7u72kpCCdj5hVg2XxpjDeSdGcwP4nHMS5PrXG2hNheulrndEF4jeGKVEgBclY7dtFNTpaoX3GFfuhMkOShdqdGpe5VPgbhOz&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787698717&ver=6927&signature=dFpSdkPJM-vO*u2T4wn9Sa1d92WQhjG49srl8*Pl9HiM*38AZ*D2Nns*eYTkHNcRmppOcNAe624-6kPh3orGba88c4QNvt*oPSggWi4ugPyWGSdZMKTqyBSAsg9dtVq3&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 别乱约定!HR 必看的合规常识与实操避坑指南",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787700748&ver=6927&signature=dFpSdkPJM-vO*u2T4wn9Sa1d92WQhjG49srl8*Pl9Hiv5XPDXiS-AketrYmoZEoi7clkpSaJGPoQC2REMlr9eiQG1Zk8Qr5b-G352CESFTKjs8SNWud2HpLtU0l13tnq&new=1",
-   "summary": "随着企业对自身商业秘密的日益重视,越来越多的企业对员工有了 竞业限制 的要求.实践中,除了在入职前搞清楚员工是否存在 竞业限 ...",
-   "time": "2026-08-19T12:15:36+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "超纯应材：特定客户合作情况涉及商业秘密及客户保密约定，公司未对外披露该类信息",
@@ -11412,29 +10033,6 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "市监总局：聚焦生物医药、集成电路、人工智能等领域商业秘密保护",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFNkQWJFLXVUWG13Wk96cE40TDlyV0V6WDZ5bWtUdllRVTE3NGtfbTZfZDY4TkF6UEtIdGlMU3NTbGEwS0N1M3JvNkFzSWtPWF92U1JLbnE5dUdfZDU1a1Q2d0tCV1EzWG1vSFZ4X0xpTHctNUtEajB4M3hNTTZJMURkXzBhdDBIMWhVZA?oc=5",
-   "summary": "",
-   "time": "2026-08-19T15:26:31+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "21财经",
-    "新浪财经"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 8.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "苹果回应OpenAI驳回诉讼动议，重申对方涉嫌窃取商业秘密",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zalIxMUVucUhYeFJ1aHdNQkFVT0lsbXh5RGo4UEhrQlZzdVFRZEpEc29MRHFxbEN6eUxTWDJ4cG1yMnU2eG5WV3RpS2g3blkyNFVyTFNWOA?oc=5",
    "summary": "",
@@ -11456,6 +10054,29 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "市监总局：聚焦生物医药、集成电路、人工智能等领域商业秘密保护",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFNkQWJFLXVUWG13Wk96cE40TDlyV0V6WDZ5bWtUdllRVTE3NGtfbTZfZDY4TkF6UEtIdGlMU3NTbGEwS0N1M3JvNkFzSWtPWF92U1JLbnE5dUdfZDU1a1Q2d0tCV1EzWG1vSFZ4X0xpTHctNUtEajB4M3hNTTZJMURkXzBhdDBIMWhVZA?oc=5",
+   "summary": "",
+   "time": "2026-08-19T15:26:31+08:00",
+   "date": "2026-08-19",
+   "sources": [
+    "21财经",
+    "新浪财经"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 8.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "苹果起诉OpenAI窃密：指控前员工泄密加速其硬件研发",
@@ -11481,28 +10102,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "上海落地商业秘密质押融资1.52亿元",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1c5bGpQNVR6UjVESFRSRUdmRW81NzJpZk5uU1FyWXhMX0g0VGozLXdZYkEyc01pUUZZOEItOFNEYURvS0RaWWRrOEtjZmpxSEU2cW1hekNldjh3YmtmTGJmNGpoSzB5a2dBSmNDMndBUXk4YWNhU1QzcktZTlZYbnNVTWRnUHY4NkdKbFhfRXRvUEFWbnljQ1VTZVNXaENjRHpMUUk2Skc?oc=5",
-   "summary": "",
-   "time": "2026-08-19T15:00:00+08:00",
-   "date": "2026-08-19",
-   "sources": [
-    "上观新闻"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "市监总局：聚焦生物医药、集成电路、人工智能等领域商业秘密保护",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVBBZVQtWGNpN09NNmNXYmtqUFVVOERyZDcyN1RSTndBeG1SYk1ZM1E2dGg4M2g1WkpTaGNrc1JBV0dDc0ZnSnJQUmhHXzFjSGJvOTdKZG56SDJsczdVSkplODgxbEg4dkdBOXpvbXhmX2oyWkRlV0MzUTVLUk5UeGFjbWpob3pYM1VGSjBLZHlOUjM1OVMzMA?oc=5",
    "summary": "",
@@ -11520,6 +10119,28 @@
     "秘密"
    ],
    "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "上海落地商业秘密质押融资1.52亿元",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1c5bGpQNVR6UjVESFRSRUdmRW81NzJpZk5uU1FyWXhMX0g0VGozLXdZYkEyc01pUUZZOEItOFNEYURvS0RaWWRrOEtjZmpxSEU2cW1hekNldjh3YmtmTGJmNGpoSzB5a2dBSmNDMndBUXk4YWNhU1QzcktZTlZYbnNVTWRnUHY4NkdKbFhfRXRvUEFWbnljQ1VTZVNXaENjRHpMUUk2Skc?oc=5",
+   "summary": "",
+   "time": "2026-08-19T15:00:00+08:00",
+   "date": "2026-08-19",
+   "sources": [
+    "上观新闻"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
