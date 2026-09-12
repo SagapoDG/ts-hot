@@ -1,12 +1,13 @@
 {
- "generated_at": "2026-09-12T19:07:44.432689+08:00",
- "count": 159,
+ "generated_at": "2026-09-12T22:17:40.842187+08:00",
+ "count": 151,
  "highlight_count": 29,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
   "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "36氪: not well-formed (invalid token): line 9, column 542"
+  "36氪: not well-formed (invalid token): line 9, column 542",
+  "cnBeta: The read operation timed out"
  ],
  "items": [
   {
@@ -21,8 +22,8 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 15.6,
-   "hot": false,
+   "heat": 15.5,
+   "hot": true,
    "tags": [
     "trade secret",
     "verdict",
@@ -44,7 +45,7 @@
    ],
    "region": "国际",
    "category": "行政执法",
-   "heat": 13.7,
+   "heat": 13.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -58,7 +59,7 @@
   },
   {
    "title": "员工签了 竞业限制 协议入职同行,就一定能要违约金吗?企业主张 竞业限制 违约金必须搞明白这些!",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789211293&ver=6962&signature=rtfSEoHGd2BOCag7KLKFD8G1jN8-0WgkWyBdgh2u2rDJNdYxwk*CuED9e6q39*Ame152*KVcxNz*-TczHK*WEQv-rSylHcLfp39HNg2eAodnuoukNgZllEEAdpY043*y&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789222692&ver=6962&signature=rtfSEoHGd2BOCag7KLKFD8G1jN8-0WgkWyBdgh2u2rAQF4v6OGuE0Te3T89YuwuHEdDRstqBUgbYF2Aph75RGeUj1D3d8hOctvmJTn1kXcYJZNH4xfPxpPreax0BRL-N&new=1",
    "summary": "为保护自身商业秘密、核心技术与市场竞争优势,很多企业都会与核心员工签订 竞业限制 协议.但实务中常见一个误区:只要签了协议...",
    "time": "2026-09-12T09:38:23+08:00",
    "date": "2026-09-12",
@@ -67,12 +68,12 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.5,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "竞业限制",
     "商业秘密",
-    "秘密"
+    "员工"
    ],
    "importance": 10.0,
    "kw_score": 8.0,
@@ -90,11 +91,34 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.5,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "商业秘密",
     "竞业限制",
+    "秘密"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "员工签了 竞业限制 协议入职同行,就一定能要违约金吗?企业主张 竞业限制 违约金必须搞明白这些!",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789211293&ver=6962&signature=rtfSEoHGd2BOCag7KLKFD8G1jN8-0WgkWyBdgh2u2rDJNdYxwk*CuED9e6q39*Ame152*KVcxNz*-TczHK*WEQv-rSylHcLfp39HNg2eAodnuoukNgZllEEAdpY043*y&new=1",
+   "summary": "为保护自身商业秘密、核心技术与市场竞争优势,很多企业都会与核心员工签订 竞业限制 协议.但实务中常见一个误区:只要签了协议...",
+   "time": "2026-09-12T09:38:23+08:00",
+   "date": "2026-09-12",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 13.3,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
     "秘密"
    ],
    "importance": 10.0,
@@ -114,7 +138,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.9,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -136,7 +160,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 16.7,
+   "heat": 16.5,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -159,7 +183,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 16.7,
+   "heat": 16.5,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -182,7 +206,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 16.7,
+   "heat": 16.5,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -205,7 +229,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 16.7,
+   "heat": 16.5,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -228,7 +252,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 16.2,
+   "heat": 16.0,
    "hot": true,
    "tags": [
     "经营信息",
@@ -242,7 +266,7 @@
   },
   {
    "title": "竞业限制 怎么签?不是签了就管用",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789211293&ver=6962&signature=TbU0HD7HGB1ftQKm09CvpC9yYmbDa0ssPpXUnVNA6Rv1RSJfRv3DULTHMv6Q3NF8YD50lfi3vDv*8fVBykxhNrUMKQoVUHBRO7jyWJH71VzXGQDKEKL90WrqhTeQc5Kt&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789222692&ver=6962&signature=TbU0HD7HGB1ftQKm09CvpC9yYmbDa0ssPpXUnVNA6RtrdeojfR39C3mMbZLFTpApuZsPqU5HIjK4jqxCMooD-Hffw2xVo622MheydLCtDGpBIWsQmi0WliTx5BcT9E67&new=1",
    "summary": "现实里很多人分不清保密义务和 竞业限制 .保密义务,只要接触商业秘密,在职离职都要遵守,不需要额外给钱.但 竞业限制 不一样,...",
    "time": "2026-09-11T20:00:39+08:00",
    "date": "2026-09-11",
@@ -251,12 +275,12 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.7,
+   "heat": 15.5,
    "hot": true,
    "tags": [
+    "竞业限制",
     "商业秘密",
-    "保密义务",
-    "竞业限制"
+    "保密义务"
    ],
    "importance": 13.0,
    "kw_score": 11.0,
@@ -274,7 +298,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.7,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -297,7 +321,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.7,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -320,7 +344,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.7,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -343,8 +367,31 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 15.7,
-   "hot": true,
+   "heat": 15.5,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密义务",
+    "竞业限制"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 怎么签?不是签了就管用",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789211293&ver=6962&signature=TbU0HD7HGB1ftQKm09CvpC9yYmbDa0ssPpXUnVNA6Rv1RSJfRv3DULTHMv6Q3NF8YD50lfi3vDv*8fVBykxhNrUMKQoVUHBRO7jyWJH71VzXGQDKEKL90WrqhTeQc5Kt&new=1",
+   "summary": "现实里很多人分不清保密义务和 竞业限制 .保密义务,只要接触商业秘密,在职离职都要遵守,不需要额外给钱.但 竞业限制 不一样,...",
+   "time": "2026-09-11T20:00:39+08:00",
+   "date": "2026-09-11",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 15.5,
+   "hot": false,
    "tags": [
     "商业秘密",
     "保密义务",
@@ -366,7 +413,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.5,
+   "heat": 14.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -389,7 +436,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.5,
+   "heat": 14.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -412,7 +459,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 14.0,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -435,7 +482,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -458,7 +505,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.4,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -481,7 +528,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.2,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -504,7 +551,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.0,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -527,7 +574,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.6,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -550,7 +597,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 10.9,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -572,7 +619,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 10.6,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -594,7 +641,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -616,7 +663,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 9.4,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "confidential information",
@@ -638,7 +685,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.2,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "former employee",
@@ -661,7 +708,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -683,7 +730,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.3,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "noncompete",
@@ -705,7 +752,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.0,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "不正当竞争",
@@ -728,7 +775,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.8,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -749,7 +796,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.5,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "不正当竞争"
@@ -770,7 +817,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.3,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -793,7 +840,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.3,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -816,7 +863,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.3,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -839,7 +886,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 15.3,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -862,7 +909,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 14.9,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -885,7 +932,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 14.9,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -908,7 +955,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.8,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -931,7 +978,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -954,7 +1001,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.0,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -977,7 +1024,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 12.0,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "former employee",
@@ -1000,7 +1047,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1023,7 +1070,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1046,7 +1093,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "客户名单",
@@ -1069,7 +1116,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 10.8,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1089,11 +1136,11 @@
    "date": "2026-09-10",
    "sources": [
     "India Today",
-    "Vision Times"
+    "visiontimes.com"
    ],
    "region": "国际",
    "category": "行政执法",
-   "heat": 10.5,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1115,7 +1162,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.4,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1138,7 +1185,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "司法解释",
@@ -1161,7 +1208,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "经营信息",
@@ -1184,7 +1231,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1207,7 +1254,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.7,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1230,7 +1277,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.4,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1253,7 +1300,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.6,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -1275,7 +1322,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.4,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1297,7 +1344,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.8,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "noncompete",
@@ -1315,11 +1362,11 @@
    "time": "2026-09-10T21:28:04+08:00",
    "date": "2026-09-10",
    "sources": [
-    "openPR.com"
+    "openpr.com"
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.5,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "non-compete"
@@ -1340,7 +1387,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.5,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "non-compete"
@@ -1361,7 +1408,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.3,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "商业机密"
@@ -1382,7 +1429,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.0,
+   "heat": 5.8,
    "hot": false,
    "tags": [
     "non-compete"
@@ -1403,7 +1450,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 5.6,
+   "heat": 5.4,
    "hot": false,
    "tags": [
     "trade secret"
@@ -1429,9 +1476,9 @@
    "heat": 14.0,
    "hot": false,
    "tags": [
-    "保密协议",
     "技术秘密",
-    "保密"
+    "保密协议",
+    "秘密"
    ],
    "importance": 16.5,
    "kw_score": 8.0,
@@ -2917,8 +2964,8 @@
    "hot": false,
    "tags": [
     "商业秘密",
-    "秘密",
-    "和解"
+    "和解",
+    "秘密"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -3399,236 +3446,6 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789211293&ver=6962&signature=9iYXF04KqpFC9tqyrdZ6*XDfCLiyOgygCiuUPX5xGE-LsKqTc0ObrLX6Zy6bY3CchDd0UQ8VyijFL0xCLBcsdT4cmrrod0aB2kaA4huKcTsuOqJiQpkZrkQ7WsYVnoVL&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "天价"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1788620469&ver=6948&signature=t-IV5rPrY2lqoQsqpvwZRe9bxOVLBBzDzQBYIvuj56S-nwXLOQs2p7EYI4rg9W7tbtZAaOIO*Vg9VLrwQhfJomPtrHs-XkcoakE4YUaus70i1eD4ZDPdrTlOlRTUvmge&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "天价"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1788629336&ver=6948&signature=t-IV5rPrY2lqoQsqpvwZRe9bxOVLBBzDzQBYIvuj56S-nwXLOQs2p7EYI4rg9W7tK*mRCVP91-esP9ZPu2U-BmnP8j5l7aVtLs7yowqFFIXBNWWGorOht9Chg2Bwh-zP&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1788636162&ver=6948&signature=t-IV5rPrY2lqoQsqpvwZRe9bxOVLBBzDzQBYIvuj56StnPvsldLjUtnSQxik72AnAxTWhgurXeVSQRNuDcyRwkmaovCpvsHog6-fDBazIBVuOMwak3K0rmG4SS1jRTAN&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1788683314&ver=6949&signature=2dXkJ3L6DpWiiyMVb2*j8Y1v*RGbIKYY9lBELRzGkEUzLdwX94z7zts-r3B9aSqeOmrHaKAtX9zVC0NquMME1Aa1I8vzdU*vzahktLni8U79aMZPWM4nlL9STTSsZ1HY&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "天价"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1788915946&ver=6955&signature=UCZXpQfLc6H91-8HdBMyzLscpZypWjc0q9SyOxaCxO9UGiULouUR5N2FV-iyV*NSYM4W11Cy6wA5n2SE9AcySMV9tiJW9qXtyTFRU9u6NZqNSUVt7gZob3BvyEy3an-v&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789120573&ver=6959&signature=xQPLOKyfr3i5huLYya-sMFk9lrFG0OlDdkeh-7b7IUuziEvNIuxkBe9Ube7H4jB2EvSowF6C5WWMsKvIEAT6PyoNl1x8RhIlOOyxul2qIEJcO03*xSUA-iL-ujOcwM5z&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789148994&ver=6960&signature=rAHsmLru8DUN7mxhU205yLmt1sNLUai7HThfpV-Vd8eONVn6zb5cWG32F7vangpCp4-ps4Rjt1b7pkyYEAEaSMe3ZMvJVrArbWBgfK3gGPkjMQ8jxlr9aTrEAMo8xn3p&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789167846&ver=6961&signature=7**JHyDgiFzNXa40cToJ9sX1ez*CEJF01s2cR9zbWxIlf6URsYnRHYc0UJa6A5WpqGhZzquqPzToePnTvEYxdByRJeTL*X*bNDLrDXFm0wVdo*Dm*QhbDDYFA3p6H5y5&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "竞业限制 违约金如何计算?——从17,400元补偿金到87,000元违约金的司法认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789193761&ver=6961&signature=7**JHyDgiFzNXa40cToJ9sX1ez*CEJF01s2cR9zbWxI3ZTH623fj5ZQ2gUiOE1kGnXetSCYPDBlugssfLo9e*v0yOAhy9NaAx8lEcQJku*YO*Mq8zT5pZ6VzDYj1cvrG&new=1",
-   "summary": "导语 竞业限制 制度旨在平衡企业商业秘密保护与劳动者就业自由,但在实践中,违约金“天价”与补偿金“低价”之间的巨大落差,长...",
-   "time": "2026-09-05T19:21:34+08:00",
-   "date": "2026-09-05",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   }
  ],
  "highlights": {
@@ -4275,9 +4092,9 @@
     "heat": 14.0,
     "hot": false,
     "tags": [
-     "保密协议",
      "技术秘密",
-     "保密"
+     "保密协议",
+     "秘密"
     ],
     "importance": 16.5,
     "kw_score": 8.0,
