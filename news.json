@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-28T01:35:13.266161+08:00",
- "count": 116,
+ "generated_at": "2026-09-28T05:04:37.097293+08:00",
+ "count": 114,
  "highlight_count": 27,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: HTTP Error 403: Forbidden",
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -19,7 +19,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 17.0,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -42,7 +42,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.6,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -66,7 +66,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 16.5,
+   "heat": 16.3,
    "hot": true,
    "tags": [
     "侵犯商业秘密",
@@ -89,7 +89,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -112,7 +112,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -135,7 +135,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -158,7 +158,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.4,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -181,7 +181,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 16.0,
+   "heat": 15.9,
    "hot": true,
    "tags": [
     "misappropriation",
@@ -204,7 +204,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -227,7 +227,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -250,7 +250,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -273,7 +273,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -296,7 +296,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -315,11 +315,11 @@
    "time": "2026-09-26T22:41:19+08:00",
    "date": "2026-09-26",
    "sources": [
-    "凤凰网"
+    "news.ifeng.com"
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.5,
+   "heat": 14.3,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -342,7 +342,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.5,
+   "heat": 14.3,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -365,7 +365,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.1,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -388,7 +388,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -410,7 +410,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.8,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -432,7 +432,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -455,7 +455,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -474,11 +474,11 @@
    "time": "2026-09-26T05:31:31+08:00",
    "date": "2026-09-26",
    "sources": [
-    "c-span.org"
+    "C-SPAN"
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 5.6,
+   "heat": 5.4,
    "hot": false,
    "tags": [
     "espionage"
@@ -499,11 +499,11 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.6,
+   "heat": 5.4,
    "hot": false,
    "tags": [
-    "赔偿",
-    "窃取"
+    "窃取",
+    "赔偿"
    ],
    "importance": 6.0,
    "kw_score": 2.0,
@@ -521,7 +521,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -544,7 +544,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.8,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -567,7 +567,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -590,7 +590,7 @@
    ],
    "region": "国际",
    "category": "行政执法",
-   "heat": 8.8,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -612,7 +612,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.1,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -634,7 +634,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.5,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -657,7 +657,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 6.7,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "trade secret",
@@ -679,7 +679,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.4,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -697,11 +697,11 @@
    "time": "2026-09-25T20:40:00+08:00",
    "date": "2026-09-25",
    "sources": [
-    "fiercebiotech.com"
+    "Fierce Biotech"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.1,
+   "heat": 5.9,
    "hot": false,
    "tags": [
     "trade secret"
@@ -722,7 +722,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 5.9,
+   "heat": 5.7,
    "hot": false,
    "tags": [
     "trade secret"
@@ -999,8 +999,8 @@
    "heat": 8.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "知识产权",
+    "商业秘密",
     "秘密"
    ],
    "importance": 11.0,
@@ -1078,13 +1078,59 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "竞业限制 非通用,要看岗位适不适用!工会教你看合同",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790543082&ver=6992&signature=WIzDToYGhXZH*PndVRvrli3lW7y7qJqAq8Xoh1-lWzw8xsXz35izMZZhtO3sZLT7P9FXsfdCBCnYrGrPNwCFiKqcusfbLPxpFRIMDtePdzAPx8vfc-Ou5vatyShYnWL0&new=1",
+   "summary": "竞业限制 是企业保护商业秘密的手段,但实践中部分用人单位对 竞业限制 制度理解有误,对保安、普通文员等不接触商业秘密的一线岗...",
+   "time": "2026-09-23T19:30:33+08:00",
+   "date": "2026-09-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 经济补偿能包含在工资中吗?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790543082&ver=6992&signature=uqaTWmykCpasHgO8VYGabozQIy8bkdchQAnXzWyP2bFfCCGDe9yZgkM83a-yPHfcBw6tBFozBnwmJtpUmo8fvrBA6K3N6Skz5NbWITeqdk7Y0qpaZZxgp7XRuhdmGHiY&new=1",
+   "summary": "竞业限制 是指企业与负有保守商业秘密义务的劳动者约定,在解除或终止劳动合同后一定期限内,劳动者不得到与本单位生产或经营同...",
+   "time": "2026-09-23T16:40:00+08:00",
+   "date": "2026-09-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "$40 Million Trade Secrets Award Vacated Due To Trial Court Error",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1JGSzVaN1lTbVFkZ0ZrbUdMS01JcDMzNk53NjZnZGlQQXNSSVJxMWxJWUZrRFZmajJsQ2Y0cUZ3d3NaSmZZRVgxQXRIUjFtaGxzNGFOM0RHOFY4STBoV3JuOEtNUUdGUUhKeHdSZUJrLXptQ1Nkd1Bkc2JKejQtNGRsRlA3VDJJcEJMUEhEbDktRkg1WVJpdVdDNHlpTHZmY2pzYnYwMFFTMy1uVkdteUVWQ3dqMlcw?oc=5",
    "summary": "",
    "time": "2026-09-23T10:31:08+08:00",
    "date": "2026-09-23",
    "sources": [
-    "calemploymentlawupdate.proskauer.com"
+    "California Employment Law Update"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -2432,105 +2478,13 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
-   "title": "【早安赋能】商业秘密第56讲: 竞业限制 专题篇—— 竞业限制 协议怎么解除?(下)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789945461&ver=6979&signature=PbeNv3pqpX*Zwdw2IQbS5HQ19pQLg61XVHK3W8znilOGQ91Pc1hZW3-XnI9qS60mB2ZVCO*Zt3kNYcF9Ox9lR2YWOr1tb*tSVjcPeTkphtSeukHK*d3qPfXVEnt7kpFf&new=1",
-   "summary": "上期我们提到, 竞业限制 不是 “一纸签完就万事大吉”,它的约束力和解除条件,法律有着明确的边界.企业的补偿义务、员工的择业...",
-   "time": "2026-09-21T05:01:03+08:00",
-   "date": "2026-09-21",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "秘密"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "【早安赋能】商业秘密第56讲: 竞业限制 专题篇—— 竞业限制 协议怎么解除?(下)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789953911&ver=6979&signature=PbeNv3pqpX*Zwdw2IQbS5HQ19pQLg61XVHK3W8znilNKFbR0tB89y0nmIOgzoxg*13u*7VDLBsxldtyIKPWKW3IYeWTO6t3ou8m5vVV5MahWGhsx0iiGSxNCvTMlEkhH&new=1",
-   "summary": "上期我们提到, 竞业限制 不是 “一纸签完就万事大吉”,它的约束力和解除条件,法律有着明确的边界.企业的补偿义务、员工的择业...",
-   "time": "2026-09-21T05:01:03+08:00",
-   "date": "2026-09-21",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "【早安赋能】商业秘密第56讲: 竞业限制 专题篇—— 竞业限制 协议怎么解除?(下)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789973548&ver=6979&signature=PbeNv3pqpX*Zwdw2IQbS5HQ19pQLg61XVHK3W8znilPQ1vV2e5gxjIwYybQ6SprsqdjrGNow20Hy0IWL25vQIaee3MKWtt7H-sBk5LYHS9u-6qu*vECjO9wssubRPvCe&new=1",
-   "summary": "上期我们提到, 竞业限制 不是 “一纸签完就万事大吉”,它的约束力和解除条件,法律有着明确的边界.企业的补偿义务、员工的择业...",
-   "time": "2026-09-21T05:01:03+08:00",
-   "date": "2026-09-21",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "商业秘密",
-    "员工"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
-   "title": "【早安赋能】商业秘密第56讲: 竞业限制 专题篇—— 竞业限制 协议怎么解除?(下)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789998302&ver=6980&signature=tT13MbZwzrprIzyqi4L79J8lQll1RrJv2ny0BVPVktOtyALZ6A*3t*19PwZb1A*vR4h-lFMUlGdqbHAeRkNUJE9cJyi-N525ikMV5oEMZUWjJvErx38tf3ZV93z0ZR9g&new=1",
-   "summary": "上期我们提到, 竞业限制 不是 “一纸签完就万事大吉”,它的约束力和解除条件,法律有着明确的边界.企业的补偿义务、员工的择业...",
-   "time": "2026-09-21T05:01:03+08:00",
-   "date": "2026-09-21",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "和解"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "Case: Trade Secrets/Injunctions (6th Cir.)",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHg0bklCM0xuR0JEdDhkTVEzcVRaMUF5bjlPN281QUprLUN2Y1NaTFRXc2o5VDE1TnN3cXF3M2l2OXZtbU1IeEswV3VhaFlxYWVEVXdvQWg1eEw5XzVpb1ZUTGNXWmkyaDlqcGJpNXR0WXoySEFwYzBMQkk0UDF4UHF3aw?oc=5",
-   "summary": "Case: Trade Secrets/Injunctions (6th Cir.) news.bloomberglaw.com",
+   "summary": "Case: Trade Secrets/Injunctions (6th Cir.) Bloomberg Law News",
    "time": "2026-09-21T22:57:00+08:00",
    "date": "2026-09-21",
    "sources": [
-    "news.bloomberglaw.com"
+    "Bloomberg Law News"
    ],
    "region": "国际",
    "category": "企业实践",
@@ -2560,8 +2514,8 @@
    "heat": 8.0,
    "hot": false,
    "tags": [
-    "商业秘密",
     "知识产权",
+    "商业秘密",
     "秘密"
    ],
    "importance": 8.0,
@@ -2583,8 +2537,8 @@
    "heat": 7.0,
    "hot": false,
    "tags": [
-    "知识产权",
-    "竞业限制"
+    "竞业限制",
+    "知识产权"
    ],
    "importance": 7.0,
    "kw_score": 5.0,
@@ -2721,8 +2675,8 @@
     "hot": false,
     "tags": [
      "侵犯商业秘密",
-     "商业秘密",
-     "司法解释"
+     "司法解释",
+     "商业秘密"
     ],
     "importance": 15.0,
     "kw_score": 10.0,
@@ -3064,7 +3018,7 @@
     "date": "2026-09-02",
     "sources": [
      "新浪财经",
-     "凤凰网"
+     "news.ifeng.com"
     ],
     "region": "国内",
     "category": "刑事打击",
@@ -3072,8 +3026,8 @@
     "hot": false,
     "tags": [
      "商业机密",
-     "获刑",
-     "员工"
+     "员工",
+     "获刑"
     ],
     "importance": 17.5,
     "kw_score": 8.0,
@@ -3138,7 +3092,7 @@
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 16.0,
+    "heat": 15.9,
     "hot": true,
     "tags": [
      "misappropriation",
