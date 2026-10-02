@@ -1,13 +1,105 @@
 {
- "generated_at": "2026-10-02T08:03:33.657337+08:00",
- "count": 103,
+ "generated_at": "2026-10-02T14:00:51.506030+08:00",
+ "count": 107,
  "highlight_count": 28,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: HTTP Error 403: Forbidden",
+  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
+  {
+   "title": "员工离职带走客户名单,就是侵犯 商业秘密 ?法院:不构成",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790920854&ver=7001&signature=S5vjvt8UTuRTYLm9Mtjomvx6-nkHFrB7LuO2pN9N5xH*t8hDZixjUlok5ZACTuxORWNPyRA3Rk4PHTQA1MM8OoitjOzlDfrLxGzfPedLjS5eB4FODNsZORCsI7Avk-O8&new=1",
+   "summary": "得过三道关 商业秘密 的法定门槛有三条:不为公众所知悉、具有商业价值、采取了保密措施.三条缺一不可.打个比方:把客户名单当...",
+   "time": "2026-10-02T11:01:03+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 14.8,
+   "hot": true,
+   "tags": [
+    "商业秘密",
+    "客户名单",
+    "离职"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "员工出现这几个迹象,可能要带走 商业秘密 了",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790920854&ver=7001&signature=Lk61OyWFzPdSqtc1SOHELFisfbPEs7xgMHlxJXK6Pa6ayLxEhPL6E-RpnviQC8IFeozJ6s2AXarSrawQkobKQfGkq*6wOFK33mDJgBKdvwP8dqcRFRmVQlpBpVboCeni&new=1",
+   "summary": "6芯片技术带出去的,首犯判6年、罚金300万.# 商业秘密 #员工离职 #企业合规 #知识产权 #老板必看北京知寰律师事务所",
+   "time": "2026-10-02T08:30:28+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 13.7,
+   "hot": false,
+   "tags": [
+    "知识产权",
+    "商业秘密",
+    "离职"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Novartis Can't Dodge Hedge Fund Trade Secrets Suit",
+   "url": "https://www.law360.com/ip/articles/2532760?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "A New York federal judge has denied Novartis' bid to toss an investment management firm's lawsuit accusing the pharmaceutical company and others of helping the firm's former chie…",
+   "time": "2026-10-02T07:36:59+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 12.0,
+   "kw_score": 7.0,
+   "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "OpenAI Loses $1M Fee Award After Defeating SpaceXAI Suit",
+   "url": "https://www.law360.com/ip/articles/2533052?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "A California federal judge on Wednesday rejected OpenAI's request for $1 million in attorney fees after the company defeated a trade secrets suit from SpaceXAI, ruling that altho…",
+   "time": "2026-10-02T06:47:13+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "ruling"
+   ],
+   "importance": 12.0,
+   "kw_score": 7.0,
+   "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
   {
    "title": "Fed. Circ. Backs Galderma In Injection Training IP Case",
    "url": "https://www.law360.com/ip/articles/2532759?utm_source=rss&utm_medium=rss&utm_campaign=section",
@@ -19,7 +111,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.2,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -41,11 +133,11 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 8.3,
+   "heat": 8.0,
    "hot": false,
    "tags": [
-    "泄密",
-    "员工"
+    "员工",
+    "泄密"
    ],
    "importance": 4.5,
    "kw_score": 3.0,
@@ -63,11 +155,11 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 7.9,
    "hot": false,
    "tags": [
-    "poach",
-    "court"
+    "court",
+    "poach"
    ],
    "importance": 7.0,
    "kw_score": 2.0,
@@ -85,7 +177,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 15.8,
+   "heat": 15.5,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -108,7 +200,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 12.7,
+   "heat": 12.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -131,7 +223,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 12.7,
+   "heat": 12.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -145,6 +237,29 @@
   },
   {
    "title": "商业秘密 是企业创新成果的重要体现,决定了企业的核心竞争力",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790920854&ver=7001&signature=v7Y0NuZMS3tWsNgHIG06xQlthYHHRtBeNISoFo2D9Uz6LVq1XXaEdWaC6*zBcwXBf6B*sq*BdnJbcRrwCK6qPNzIbNQ86SYKPX49VIN2UNMQ6Abe30IlI1XeLZVc*V76&new=1",
+   "summary": "某科技有限公司、郑某某等3人侵犯 商业秘密 罪案【关键词】离职人员 商业秘密 保护 竞业限制【案情摘要】朱某某、王某曾在杭州某过...",
+   "time": "2026-10-01T00:03:02+08:00",
+   "date": "2026-10-01",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "商业秘密 是企业创新成果的重要体现,决定了企业的核心竞争力",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790807336&ver=6999&signature=MSDD11lBWGrYy9mtquJ1taNVdz7u0AKh7Tq6jhe12XqUHy7s3TqMbU3M0fNyB4yE48QohGZnmXVLkKGebjz7dFcyUBMAlCzC136SgObBJBFrAoaZ9BuPf-5lByeyrsn-&new=1",
    "summary": "某科技有限公司、郑某某等3人侵犯 商业秘密 罪案【关键词】离职人员 商业秘密 保护 竞业限制【案情摘要】朱某某、王某曾在杭州某过...",
    "time": "2026-10-01T00:03:02+08:00",
@@ -154,7 +269,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.2,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -177,7 +292,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.2,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -200,7 +315,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.2,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -223,7 +338,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.0,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -246,7 +361,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.0,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -269,7 +384,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 11.5,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -291,7 +406,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.9,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -314,7 +429,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "injunction",
@@ -337,7 +452,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "noncompete",
@@ -359,7 +474,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 9.8,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -375,14 +490,14 @@
    "title": "CAFC Says Trade Secret Owner Forfeited Tortious Interference, Damages Arguments",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGFFM2dFNDFuYmNZRjNRUGJHdjFqRUFJajZhenlhZ2VXZEV5eHB5SG1qLXNUSDBIUmFZX21YZUFuR2stcGctbEdYdjVndzZSUDlmeGxpakJYNEhxaEthWkhUXy02blU5ZnlWV3NrZnBDMU93V19XUFN5R3JZbFFFT0c3S29oejVodHJ2clNXc05LazhZSm54YTg2SWNPcjJHNHQ4dTRudW9qTWRLVnItWWFxQQ?oc=5",
    "summary": "",
-   "time": "2026-10-01T23:27:35+08:00",
+   "time": "2026-10-01T23:31:08+08:00",
    "date": "2026-10-01",
    "sources": [
     "IPWatchdog.com"
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.5,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "trade secret"
@@ -403,7 +518,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.9,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -426,7 +541,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.9,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -449,7 +564,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.9,
+   "heat": 13.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -460,29 +575,6 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 专题分享 | 客户名单的认定",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790749433&ver=6997&signature=*rJ*wm9yOecBj5w6csiWb9RPH5La8K4iIeqR*IG1*uF5qTFfBOC0RAgjB0UiFcashOXeN*xmErMq7oHJYtHYVdvMYeXMySrnaecyhqRJwMCrmcW0VO97oH2nHuOFBGiH&new=1",
-   "summary": "司法实践中的 商业秘密 纠纷案件大多数是技术秘密,经营秘密案件所占比例很少,究其原因是因为经营秘密在构成条件的认定上难以把...",
-   "time": "2026-09-30T10:10:57+08:00",
-   "date": "2026-09-30",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 12.5,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "客户名单"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "一场“挖人”引发3.8亿技术侵权赔偿：创世纪二审判赔翻近30倍，多重推定引发争议",
@@ -497,7 +589,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.5,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "挖人",
@@ -520,12 +612,35 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.4,
+   "heat": 12.1,
    "hot": false,
    "tags": [
     "客户名单",
     "商业秘密",
     "源代码"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "商业秘密 专题分享 | 客户名单的认定",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790749433&ver=6997&signature=*rJ*wm9yOecBj5w6csiWb9RPH5La8K4iIeqR*IG1*uF5qTFfBOC0RAgjB0UiFcashOXeN*xmErMq7oHJYtHYVdvMYeXMySrnaecyhqRJwMCrmcW0VO97oH2nHuOFBGiH&new=1",
+   "summary": "司法实践中的 商业秘密 纠纷案件大多数是技术秘密,经营秘密案件所占比例很少,究其原因是因为经营秘密在构成条件的认定上难以把...",
+   "time": "2026-09-30T10:10:57+08:00",
+   "date": "2026-09-30",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 12.1,
+   "hot": false,
+   "tags": [
+    "技术秘密",
+    "商业秘密",
+    "客户名单"
    ],
    "importance": 11.0,
    "kw_score": 9.0,
@@ -543,7 +658,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 12.3,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -566,7 +681,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.5,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "客户名单",
@@ -589,7 +704,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.8,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -613,7 +728,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "挖人",
@@ -636,7 +751,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.6,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "保密义务",
@@ -660,12 +775,12 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.4,
+   "heat": 10.1,
    "hot": false,
    "tags": [
-    "赔偿",
+    "挖人",
     "判赔",
-    "挖人"
+    "赔偿"
    ],
    "importance": 11.5,
    "kw_score": 5.0,
@@ -684,7 +799,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.4,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "赔偿",
@@ -707,7 +822,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -729,7 +844,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -737,29 +852,6 @@
    ],
    "importance": 10.5,
    "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制 违约金,法院为什么总要“打折”?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790899418&ver=7001&signature=9LBG7422K22L1Db71ZGrPjkcCcnprdonO7qROc5FgExIYr9zXIgPqRuN2S0XFezPa7YqolJZLSq7p6suzNXm6TLHXCv3vQpzH9sCnn3SPjWzRaBOuNFKyUa4FEzqHGoQ&new=1",
-   "summary": "竞业限制 违约金常被约定为“离职前年薪的若干倍”或者“经济补偿金总额的若干倍”,但真进入诉讼,法院未必照单全收.笔者近年...",
-   "time": "2026-09-30T11:16:38+08:00",
-   "date": "2026-09-30",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.5,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "离职",
-    "诉讼"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
@@ -774,7 +866,30 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "离职",
+    "诉讼"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "竞业限制 违约金,法院为什么总要“打折”?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790899418&ver=7001&signature=9LBG7422K22L1Db71ZGrPjkcCcnprdonO7qROc5FgExIYr9zXIgPqRuN2S0XFezPa7YqolJZLSq7p6suzNXm6TLHXCv3vQpzH9sCnn3SPjWzRaBOuNFKyUa4FEzqHGoQ&new=1",
+   "summary": "竞业限制 违约金常被约定为“离职前年薪的若干倍”或者“经济补偿金总额的若干倍”,但真进入诉讼,法院未必照单全收.笔者近年...",
+   "time": "2026-09-30T11:16:38+08:00",
+   "date": "2026-09-30",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -797,7 +912,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.9,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -819,7 +934,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.8,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -841,7 +956,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.8,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -863,7 +978,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 6.9,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "trade secret"
@@ -884,7 +999,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 6.7,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "FBI",
@@ -907,7 +1022,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 6.2,
+   "heat": 5.9,
    "hot": false,
    "tags": [
     "FBI",
@@ -929,7 +1044,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 6.2,
+   "heat": 5.8,
    "hot": false,
    "tags": [
     "trade secret"
@@ -950,7 +1065,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.5,
+   "heat": 5.2,
    "hot": false,
    "tags": [
     "court",
@@ -972,7 +1087,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.8,
+   "heat": 14.5,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -995,7 +1110,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.8,
+   "heat": 14.5,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -1018,7 +1133,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.8,
+   "heat": 14.5,
    "hot": true,
    "tags": [
     "反不正当竞争法",
@@ -1041,7 +1156,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.2,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "反不正当竞争法",
@@ -1064,7 +1179,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.5,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "知识产权",
@@ -1087,7 +1202,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -1110,7 +1225,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.6,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1133,7 +1248,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.6,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1156,7 +1271,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.6,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1179,7 +1294,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.5,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1202,7 +1317,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.2,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -1225,7 +1340,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.9,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1244,11 +1359,11 @@
    "time": "2026-09-29T21:03:09+08:00",
    "date": "2026-09-29",
    "sources": [
-    "mondaq.com"
+    "Mondaq"
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 9.7,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "confidentiality",
@@ -1271,7 +1386,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1294,7 +1409,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 7.4,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1317,7 +1432,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -1340,7 +1455,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 5.5,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "竞业禁止"
@@ -1361,7 +1476,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 2.9,
+   "heat": 2.5,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1380,7 +1495,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 2.9,
+   "heat": 2.5,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1541,8 +1656,8 @@
    "hot": false,
    "tags": [
     "技术秘密",
-    "赔偿",
-    "秘密"
+    "秘密",
+    "赔偿"
    ],
    "importance": 12.5,
    "kw_score": 5.0,
@@ -1556,7 +1671,7 @@
    "time": "2026-09-28T15:00:00+08:00",
    "date": "2026-09-28",
    "sources": [
-    "Lexology"
+    "lexology.com"
    ],
    "region": "国内",
    "category": "竞业与保密",
@@ -1586,8 +1701,8 @@
    "hot": true,
    "tags": [
     "侵犯商业秘密",
-    "技术秘密",
-    "商业秘密"
+    "商业秘密",
+    "技术秘密"
    ],
    "importance": 17.0,
    "kw_score": 10.0,
@@ -1745,7 +1860,7 @@
    "region": "国内",
    "category": "企业实践",
    "heat": 14.0,
-   "hot": true,
+   "hot": false,
    "tags": [
     "侵犯商业秘密",
     "商业秘密",
@@ -1942,6 +2057,28 @@
   },
   {
    "title": "India to consult industry on trade secrets law, whistleblower safeguards and contract enforcement",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGVYb3dlNWFzdGVRbEZVT1MybEs0RkRDcEJRVzg4M2N4bWJxZ0F2NFNrRGtuc0dfeGhWWHF5SE1Kcm90T1dsdzdIbkpCbXRVLUlDZlRKcVhqQ25vUFRJMWVHQ0ttSEJaX0NnaVBjdGhLTVQxd1NyR3NHaVp4SHhJSnNJTHl2NThaSGRVbGJrckRiTFNMLTBxSlh6enliY3hZOWpYSk9pUW5PbU5IX3NVbGYxN3BRNVA1ZmRYUThSR1ZMbFJ0bEVrWUpteTEtc2h4TVl6MlVxdHBmdmJGQzMzUWZ3WnI3TGQza0tjVk5TMGlrdWdzTWNhbG9uWnp5WWllZDVZR09kRDQ?oc=5",
+   "summary": "",
+   "time": "2026-09-26T11:01:54+08:00",
+   "date": "2026-09-26",
+   "sources": [
+    "The Economic Times"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "India to consult industry on trade secrets law, whistleblower safeguards and contract enforcement",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGVYb3dlNWFzdGVRbEZVT1MybEs0RkRDcEJRVzg4M2N4bWJxZ0F2NFNrRGtuc0dfeGhWWHF5SE1Kcm90T1dsdzdIbkpCbXRVLUlDZlRKcVhqQ25vUFRJMWVHQ0ttSEJaX0NnaVBjdGhLTVQxd1NyR3NHaVp4SHhJSnNJTHl2NThaSGRVbGJrckRiTFNMLTBxSlh6enliY3hZOWpYSk9pUW5PbU5IX3NVbGYxN3BRNVA1ZmRYUThSR1ZMbFJ0bEVrWUpteTEtc2h4TVl6MlVxdHBmdmJGQzMzUWZ3WnI3TGQza0tjVk5TMGlrdWdzTWNhbG9uWnp5WWllZDVZR09kRDTSAY4CQVVfeXFMUEtaekl0cms2cGYxZDdkMTJCV0piZkpZQVVhWl80VUJxVTFIanVaY1BRNlhHbGw4LXNpOEs3bGtKcHVwODd0VHJRN2tZeFh1Ukkzc1Y2ZXRhTmhtLTdjLXNvYlJMNlZiUkZZSS1iUU9YRm9oc2g4NThmalRYS2NTLXpjU0hVWUtsdnlkR01fMjJZYkx3VUFONG9tY3doenBnWm9jMEI4Z192cGxnZHpGRzJXUUUta1VkSXRvSS16emJUc2p4TTlSRld6eVlST0VjdVZwb1NJRldKTE9BUElmVkdGT2ljZUpRVmU1MG92ZFBQbm84SHhac2h3dktFbEpONXdKYTJQT1R5OEd3WVRR?oc=5",
    "summary": "",
    "time": "2026-09-26T11:01:54+08:00",
@@ -2049,29 +2186,6 @@
    "kw_score": 2.0,
    "weight": 1.5,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制 职场常见问题Q&A",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790899418&ver=7001&signature=TvaYMq5i1*ScblV00FrzStH16RcnP5mU0zzVP-vZ07VxmVzyCnKW*lh3aozqwE8d24zSve*EXAXzBG8hCrx482pKvduLl2FRqOsXejsuW8mI3UE2fNQ48o5SmdOgw*TF&new=1",
-   "summary": "一、什么是 竞业限制 ? 竞业限制 本质上是企业为了保护商业秘密、提升竞争力,对员工自由择业权进行一定程度的制约.它约束两类人...",
-   "time": "2026-09-25T18:52:12+08:00",
-   "date": "2026-09-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "竞业限制",
-    "员工"
-   ],
-   "importance": 10.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "竞业限制 职场常见问题Q&A",
@@ -2189,6 +2303,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "竞业限制 职场常见问题Q&A",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790899418&ver=7001&signature=TvaYMq5i1*ScblV00FrzStH16RcnP5mU0zzVP-vZ07VxmVzyCnKW*lh3aozqwE8d24zSve*EXAXzBG8hCrx482pKvduLl2FRqOsXejsuW8mI3UE2fNQ48o5SmdOgw*TF&new=1",
+   "summary": "一、什么是 竞业限制 ? 竞业限制 本质上是企业为了保护商业秘密、提升竞争力,对员工自由择业权进行一定程度的制约.它约束两类人...",
+   "time": "2026-09-25T18:52:12+08:00",
+   "date": "2026-09-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "竞业限制",
+    "员工"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "招投标中冒用他人业绩材料是否 侵犯商业秘密 ?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790378779&ver=6989&signature=f73orOeOf-HqXWd-1KNeV7r5K9qiDNj26G8XdhsCkx6oI1Njo9hFdirhe25THBXTt*sXs*VofP*30b7s4ss9dOMC7nRPy0cHOmvCcBpdQQ0c2xE79wo4TTOWjDg6AOIO&new=1",
    "summary": "商业秘密 案例评析招投标中冒用他人业绩材料是否侵犯 商业秘密 ?阅读提示工程项目招投标看的是业绩:干过哪些项目、有哪些资质、...",
@@ -2253,51 +2390,6 @@
    ],
    "importance": 8.0,
    "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "泄露半导体制造工程中使用的核心消耗性零部件相关商业秘密,在离职的公司使用的50多岁的人在一审中被判实刑。",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTWZROHl4YTNMSkdQdUV5UUNWZnoya3h2S05vT0VGOEdFeldIX19YN25KLWplRnRjc3RibHJjLXQ3RDBrN05mVGU4Qy1mbGcyYnc?oc=5",
-   "summary": "",
-   "time": "2026-09-25T10:37:41+08:00",
-   "date": "2026-09-25",
-   "sources": [
-    "매일경제"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "离职",
-    "秘密"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "10月1日起实施！江西反不正当竞争新规划出这些“红线”",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsMFkzTklEUDdVeGt4TWwxUHlSQmg1cVZ0SmptRy11LTVVSTQ2TFdWTDkySmlHSEd3ZjlGSkFDWld4eDdfTkEtVExn?oc=5",
-   "summary": "",
-   "time": "2026-09-25T08:15:57+08:00",
-   "date": "2026-09-25",
-   "sources": [
-    "jx.ifeng.com"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "反不正当竞争",
-    "不正当竞争"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
