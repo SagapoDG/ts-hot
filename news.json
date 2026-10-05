@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-05T06:26:17.109386+08:00",
- "count": 119,
+ "generated_at": "2026-10-05T09:08:49.599223+08:00",
+ "count": 121,
  "highlight_count": 27,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
+  "Fair Competition Law: HTTP Error 403: Forbidden",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
@@ -19,7 +19,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -42,7 +42,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": true,
    "tags": [
     "客户名单",
@@ -65,7 +65,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -88,7 +88,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.0,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -97,6 +97,28 @@
    ],
    "importance": 8.0,
    "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "竞业限制 :公司不付补偿金,协议还算数吗",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791162535&ver=7007&signature=aMOQhHtNMQ0aK0ZEAZNpnFiEaqFmkN7ScMW1G4ya7RRRgVGUUnjIAoA7t9CP4rJ6uw*rWw4bRQ7iPALbLl7ircZfSK4aJOH8xd1p6V*HC5ES8ZQvYbwKFjlyZgiJBfJa&new=1",
+   "summary": "入职时签过一份《 竞业限制 协议》,离职时 HR 说＂公司不启动,你不用管＂.三个月后他找到新工作,前公司突然发来律师函,说他...",
+   "time": "2026-10-04T07:46:03+08:00",
+   "date": "2026-10-04",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 8.6,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "离职"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
@@ -111,7 +133,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -134,7 +156,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": true,
    "tags": [
     "反不正当竞争",
@@ -157,7 +179,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -180,7 +202,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -203,7 +225,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -226,7 +248,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 13.4,
+   "heat": 13.3,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -246,11 +268,11 @@
    "date": "2026-10-03",
    "sources": [
     "Law360 知识产权",
-    "Law360"
+    "law360.com"
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 13.0,
+   "heat": 12.9,
    "hot": false,
    "tags": [
     "former employee",
@@ -273,7 +295,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -296,7 +318,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -319,7 +341,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -342,7 +364,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -365,7 +387,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -388,7 +410,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "客户名单",
@@ -411,7 +433,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -434,7 +456,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -457,7 +479,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -480,7 +502,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 11.7,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "former employee",
@@ -503,7 +525,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -517,6 +539,29 @@
   },
   {
    "title": "事业编人员能否约定 竞业限制 违约金?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791129324&ver=7006&signature=w82yyOJcuG795UA0Dix-n9cHEePm3dO5Qyw-Fz1Zh*UPt3cwYXdvQDt74d7vwlv0B9DP-VjfGDgnBHcU-IhZfZ13n*lyYBCdHTDxoP2lhYJFb-GIrjuw4etZ84G*xCnt&new=1",
+   "summary": "很多事业单位在编人员在签订聘用合同时,会遇到 竞业限制 、保密协议.不少人存在疑问:事业编属于人事关系,不是普通劳动关系,...",
+   "time": "2026-10-03T08:02:31+08:00",
+   "date": "2026-10-03",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.3,
+   "hot": false,
+   "tags": [
+    "保密协议",
+    "竞业限制",
+    "保密"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "事业编人员能否约定 竞业限制 违约金?",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791152782&ver=7007&signature=N-d1WosT97sowFQHIbIeIO*ji9iFqg6k6zmeCLXuLq6AS98lIywhMJv5dDWrUocP3hXTFVLjgqVmh0K5GNiJbYUjdQ60DzsDLbetDOCHna-z*Rf6GKYFVH75HLqyK5qK&new=1",
    "summary": "很多事业单位在编人员在签订聘用合同时,会遇到 竞业限制 、保密协议.不少人存在疑问:事业编属于人事关系,不是普通劳动关系,...",
    "time": "2026-10-03T08:02:31+08:00",
@@ -526,7 +571,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "保密协议",
@@ -549,7 +594,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.4,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -559,29 +604,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "事业编人员能否约定 竞业限制 违约金?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791129324&ver=7006&signature=w82yyOJcuG795UA0Dix-n9cHEePm3dO5Qyw-Fz1Zh*UPt3cwYXdvQDt74d7vwlv0B9DP-VjfGDgnBHcU-IhZfZ13n*lyYBCdHTDxoP2lhYJFb-GIrjuw4etZ84G*xCnt&new=1",
-   "summary": "很多事业单位在编人员在签订聘用合同时,会遇到 竞业限制 、保密协议.不少人存在疑问:事业编属于人事关系,不是普通劳动关系,...",
-   "time": "2026-10-03T08:02:31+08:00",
-   "date": "2026-10-03",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 9.4,
-   "hot": false,
-   "tags": [
-    "保密协议",
-    "竞业限制",
-    "保密"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "美国法院缩减了Joby针对Archer Aviation提起的商业秘密诉讼范围",
@@ -594,12 +616,12 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "商业秘密",
-    "秘密",
-    "诉讼"
+    "诉讼",
+    "秘密"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -617,7 +639,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.9,
+   "heat": 13.7,
    "hot": true,
    "tags": [
     "知识产权",
@@ -640,7 +662,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.9,
+   "heat": 13.7,
    "hot": true,
    "tags": [
     "保密协议",
@@ -663,7 +685,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 13.9,
+   "heat": 13.7,
    "hot": true,
    "tags": [
     "客户名单",
@@ -686,7 +708,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 13.3,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "侵犯商业秘密",
@@ -709,7 +731,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -732,7 +754,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -755,7 +777,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -778,7 +800,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -801,7 +823,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "客户名单",
@@ -824,7 +846,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.1,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "知识产权",
@@ -847,7 +869,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -905,6 +927,28 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "劳动争议纠纷之 竞业限制",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791162535&ver=7007&signature=vVWVPXEiakwuUomMP0mOZphTcC4WtOZKaTidh0Yiejt6I6DBWvjMhrN5nXMHp*f9DkETwGMEbRtJ4Kp5rdJQh6uP1qVXyXaCLUxHHlI6DflNw8J4c0iCzbdkkE0vfWKQ&new=1",
+   "summary": "LABOR LAW · 法律科普2026.10 竞业限制 =全员都能签?补偿·解除· 违约金四问说透 竞业限制 司法解释二 · 人社部合规指引 · 成...",
+   "time": "2026-10-02T06:02:54+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "司法解释"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "OpenAI Denied $1 Million Fees Award in X.AI Trade Secrets Suit",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXJkMTNaMF9odUhvRHBXbHhncWxiNkFHcnRZYkVVaGN2RDRLb19jNFZOeE80ZDUyYWhKZjhiOGk2aE45cEYzaWE4QkFUOWxpYnZTMDJPaTNHWGY5dUM4cHljcHpXcmdZVkJtVjVNQ1Q1NU5fTTdhajNXVHhGX0NrOTdJRm1PZ2c3dkdrdkZ2NEdEZ0MxdS1LZEF5Vk1TaU0?oc=5",
    "summary": "",
@@ -937,7 +981,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "trade secret"
@@ -1294,7 +1338,7 @@
    "time": "2026-10-01T19:00:00+08:00",
    "date": "2026-10-01",
    "sources": [
-    "tomshardware.com"
+    "Tom's Hardware"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -1724,29 +1768,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "竞业限制 违约金,法院为什么总要“打折”?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791152782&ver=7007&signature=2P*IwKLgOFBbRukdxkaFRoKeelBkzZhEXaZjnMaTRYFWTUmB751B379q-m0x3abuUPyIQTbAnWtHDW3bPFiHmtN7dwHmf2yGDfNzIwja9y43C3vg2pKycg3wo7Yme51F&new=1",
-   "summary": "竞业限制 违约金常被约定为“离职前年薪的若干倍”或者“经济补偿金总额的若干倍”,但真进入诉讼,法院未必照单全收.笔者近年...",
-   "time": "2026-09-30T11:16:38+08:00",
-   "date": "2026-09-30",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "诉讼",
-    "离职"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "一场“挖人”引发3.8亿技术侵权赔偿：创世纪二审判赔翻近30倍，多重推定引发争议",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkd2NGRGelNKTzZFVTBDSzBmOElYemZhSl9mc0lnZ2JCMXZ1dlRUQjNZMmlLeE10emJWdHlBNXpTOWg0emZOSk1VMC1LQVJzWElGbEhQZ1VnSENDODkyMzY0aWFVb2JqUEVNc3o1X2xpZHM0bG5DT2U2djZhU1dKYkVsS0ZHSm1xaGVuSWtlOA?oc=5",
    "summary": "",
@@ -1885,13 +1906,36 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "竞业限制 违约金,法院为什么总要“打折”?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791152782&ver=7007&signature=2P*IwKLgOFBbRukdxkaFRoKeelBkzZhEXaZjnMaTRYFWTUmB751B379q-m0x3abuUPyIQTbAnWtHDW3bPFiHmtN7dwHmf2yGDfNzIwja9y43C3vg2pKycg3wo7Yme51F&new=1",
+   "summary": "竞业限制 违约金常被约定为“离职前年薪的若干倍”或者“经济补偿金总额的若干倍”,但真进入诉讼,法院未必照单全收.笔者近年...",
+   "time": "2026-09-30T11:16:38+08:00",
+   "date": "2026-09-30",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "诉讼",
+    "离职"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "江西首个！ 赣州全国商业秘密保护创新试点成效初显",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdHU2N0RhbzM2YjFLMHBRaFVRa2RYSnlqY3ZPN3dMVTRDMnJPTkRFQmJ3dkFjckM5THloeElqdGFUZHMzZjBBMV9vS1NfZjhIalNYaVJ0Zi1BNW1JNmhrSUZ6VXZWQ0FBdlY3cw?oc=5",
    "summary": "",
    "time": "2026-09-30T15:59:00+08:00",
    "date": "2026-09-30",
    "sources": [
-    "jxgz.jxnews.com.cn"
+    "赣州新闻"
    ],
    "region": "国内",
    "category": "企业实践",
@@ -2365,7 +2409,7 @@
    "time": "2026-09-29T23:01:20+08:00",
    "date": "2026-09-29",
    "sources": [
-    "reuters.com"
+    "Reuters"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -2380,29 +2424,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "竞业限制 范围不能随意“扩容”",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791152782&ver=7007&signature=zUwKx2Rpzh6IaSWrAThBoPppKVDwDwpYko9VVziSOSehoOAqYKD4CGzk0JHWrkbeH-I1tzeA3JURiVbwFtllWM5u34cet5bdrZGnpbMiWvyvKdz1L6TxkssJAmNmo*7x&new=1",
-   "summary": "小法身边事王铁牛之前在A公司从事气动钉枪研发相关工作,入职时双方签订了《保密和 竞业限制 协议》,约定王铁牛离职后两年内要...",
-   "time": "2026-09-29T16:04:05+08:00",
-   "date": "2026-09-29",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "竞业限制",
-    "保密",
-    "离职"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
    "title": "竞业限制 范围不能随意“扩容”",
@@ -2497,13 +2518,36 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "竞业限制 范围不能随意“扩容”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791152782&ver=7007&signature=zUwKx2Rpzh6IaSWrAThBoPppKVDwDwpYko9VVziSOSehoOAqYKD4CGzk0JHWrkbeH-I1tzeA3JURiVbwFtllWM5u34cet5bdrZGnpbMiWvyvKdz1L6TxkssJAmNmo*7x&new=1",
+   "summary": "小法身边事王铁牛之前在A公司从事气动钉枪研发相关工作,入职时双方签订了《保密和 竞业限制 协议》,约定王铁牛离职后两年内要...",
+   "time": "2026-09-29T16:04:05+08:00",
+   "date": "2026-09-29",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "竞业限制",
+    "保密",
+    "离职"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
    "title": "上海飞乐音响控股股东履行竞业禁止义务",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVRWU0VlQld2czdZSHh5NFNPVF9BOHhGcUUyWGZfeWZ3U1VtLU9pTUY4MHA3SmdJVEZSVHhKQlFVRTQtQWhoclFGbzNCTzVCQ0JMWnVmcFRQeUVPWnZYcWs5YW1ZWXBJd1Rwa01VQkZDUjllZ0R2cXhMcGtLTFZTWFMyUklzWlpYUGdyckZqRVUxVzh1VHdrdFctZ0lnczJKSFpLdWZjXzRaU3NPb2NSWkZIVDBWa1ZQRnpuLTJB?oc=5",
    "summary": "",
    "time": "2026-09-29T16:27:13+08:00",
    "date": "2026-09-29",
    "sources": [
-    "富途牛牛"
+    "news.futunn.com"
    ],
    "region": "国内",
    "category": "竞业与保密",
@@ -2543,7 +2587,7 @@
    "time": "2026-09-29T23:26:00+08:00",
    "date": "2026-09-29",
    "sources": [
-    "36 Kr"
+    "36Kr"
    ],
    "region": "国内",
    "category": "竞业与保密",
