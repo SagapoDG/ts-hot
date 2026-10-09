@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T23:04:27.309300+08:00",
- "count": 99,
+ "generated_at": "2026-10-10T04:14:32.843750+08:00",
+ "count": 97,
  "highlight_count": 28,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
@@ -20,7 +20,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 14.2,
+   "heat": 13.9,
    "hot": true,
    "tags": [
     "保密义务",
@@ -43,7 +43,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.5,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -61,11 +61,11 @@
    "time": "2026-10-09T19:57:57+08:00",
    "date": "2026-10-09",
    "sources": [
-    "Sohu"
+    "搜狐网"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -87,7 +87,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.7,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -109,7 +109,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -131,33 +131,11 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "商业机密",
     "诉讼"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbC1Ob29YV3lYOTdxX1N6dDBCZmw4UzNQZkNqTjNJQUpnWVlZX1pRUWFSRE1OQTgxbm5wcTNidWwxVVdvdjl1Uy15VXVzR19tTXRXRkxTV01QRmhQRW9SQ2tPMlRiemtyZ21ua0ozSXlSUGNPVWNnc3ZSVFhxSEEtb2tLWGl6V1ZPb1RyaXVVMGtfYlF3Ymc2ZXlBelVXNGZ5OEdMTkVoNHFBU2VJMXc?oc=5",
-   "summary": "",
-   "time": "2026-10-09T05:14:00+08:00",
-   "date": "2026-10-09",
-   "sources": [
-    "9to5Mac"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "lawsuit"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -175,7 +153,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.9,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "trade secret",
@@ -185,6 +163,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
+   "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbC1Ob29YV3lYOTdxX1N6dDBCZmw4UzNQZkNqTjNJQUpnWVlZX1pRUWFSRE1OQTgxbm5wcTNidWwxVVdvdjl1Uy15VXVzR19tTXRXRkxTV01QRmhQRW9SQ2tPMlRiemtyZ21ua0ozSXlSUGNPVWNnc3ZSVFhxSEEtb2tLWGl6V1ZPb1RyaXVVMGtfYlF3Ymc2ZXlBelVXNGZ5OEdMTkVoNHFBU2VJMXc?oc=5",
+   "summary": "",
+   "time": "2026-10-09T05:14:00+08:00",
+   "date": "2026-10-09",
+   "sources": [
+    "9to5Mac"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.7,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "英国拟限制竞业禁止条款，为AI初创企业招聘人才扫清障碍",
@@ -197,7 +197,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.8,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "竞业禁止"
@@ -218,7 +218,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.4,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "trade secret"
@@ -239,7 +239,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.2,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "trade secret"
@@ -248,31 +248,6 @@
    "kw_score": 3.0,
    "weight": 2.5,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYS02dHEzbWFmVTl0R2lDSnpVSjE1M2d4a0lGS1Q5YjRyT3FlaXY5NTllLXpJaXlzTTBDclRESTc5Y2pNQWZocUxheFY5eVNlQ190eDlRY2NyY1pHRjNqWnliakdhVmdfUk43UHlHN1lBeHJNMjNYalRJMUkySklpb3ljWS11dlNJamlVSGN2UUdPMmsyV09YeFdhVXFOZ09DVld6aHF3aXJPNGx0Q2U3bE5nQWRLc1NBejc0?oc=5",
-   "summary": "",
-   "time": "2026-10-08T11:11:08+08:00",
-   "date": "2026-10-08",
-   "sources": [
-    "Los Angeles Times",
-    "streamlinefeed.co.ke",
-    "AOL.ca"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 17.0,
-   "hot": true,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "verdict"
-   ],
-   "importance": 17.5,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "竞业限制 、竞业禁止、保密义务区分及近五年诉讼高发问题与法院观点",
@@ -285,7 +260,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.6,
+   "heat": 16.3,
    "hot": true,
    "tags": [
     "保密义务",
@@ -308,7 +283,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.6,
+   "heat": 16.3,
    "hot": true,
    "tags": [
     "竞业限制",
@@ -331,7 +306,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 16.6,
+   "heat": 16.3,
    "hot": true,
    "tags": [
     "保密义务",
@@ -354,7 +329,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.3,
+   "heat": 13.0,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -377,8 +352,8 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.2,
-   "hot": true,
+   "heat": 11.9,
+   "hot": false,
    "tags": [
     "商业秘密",
     "竞业限制",
@@ -400,8 +375,8 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.2,
-   "hot": true,
+   "heat": 11.9,
+   "hot": false,
    "tags": [
     "商业秘密",
     "竞业限制",
@@ -423,7 +398,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.7,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -438,14 +413,14 @@
    "title": "Joby Aviation to Pay $116.9 Million in Trade Secrets Case",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDAwVWpXYkRLWjRwQlh5TC04Yld2NzlhMHpBV0wyQm4zdzR6eFhyempISjJpWmJaWWVOQXhwX0JwTFFTS1NPajg3eWoxSUpxODRhUXBPcUtJRlNVRFdMLUxpNXQ2TWJSVHZhQV9HcWhKMnZVc3RHMVc3RVlxMWxmdzdTd3ZrUUZxdzZKNUJXVXdaRnMxa2lZ?oc=5",
    "summary": "",
-   "time": "2026-10-08T03:53:25+08:00",
+   "time": "2026-10-08T03:52:44+08:00",
    "date": "2026-10-08",
    "sources": [
     "AeroXplorer"
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.6,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -467,7 +442,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -490,7 +465,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 8.8,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -512,7 +487,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 6.4,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "trade secret"
@@ -521,6 +496,30 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYS02dHEzbWFmVTl0R2lDSnpVSjE1M2d4a0lGS1Q5YjRyT3FlaXY5NTllLXpJaXlzTTBDclRESTc5Y2pNQWZocUxheFY5eVNlQ190eDlRY2NyY1pHRjNqWnliakdhVmdfUk43UHlHN1lBeHJNMjNYalRJMUkySklpb3ljWS11dlNJamlVSGN2UUdPMmsyV09YeFdhVXFOZ09DVld6aHF3aXJPNGx0Q2U3bE5nQWRLc1NBejc0?oc=5",
+   "summary": "",
+   "time": "2026-10-07T18:00:00+08:00",
+   "date": "2026-10-07",
+   "sources": [
+    "Los Angeles Times",
+    "AOL.ca"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 13.8,
+   "hot": true,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "lawsuit"
+   ],
+   "importance": 15.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Jury Finds Air Taxi Firm Joby Breached NDA, Misused Trade Secrets",
@@ -533,7 +532,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -556,7 +555,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -579,7 +578,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -602,7 +601,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -625,7 +624,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -648,7 +647,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -671,7 +670,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -694,7 +693,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -717,7 +716,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 10.9,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "non-compete",
@@ -740,7 +739,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.2,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -763,7 +762,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 7.6,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -786,7 +785,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.8,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "restrictive covenant",
@@ -809,7 +808,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 5.6,
+   "heat": 5.3,
    "hot": false,
    "tags": [
     "竞业禁止"
@@ -830,7 +829,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.8,
+   "heat": 4.5,
    "hot": false,
    "tags": [
     "poach",
@@ -852,11 +851,11 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
-    "court",
-    "poach"
+    "poach",
+    "court"
    ],
    "importance": 6.5,
    "kw_score": 2.0,
@@ -900,7 +899,7 @@
    "region": "国际",
    "category": "诉讼仲裁",
    "heat": 12.0,
-   "hot": false,
+   "hot": true,
    "tags": [
     "trade secrets",
     "trade secret",
@@ -1008,11 +1007,11 @@
    "title": "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlcnBVSm1tR214RFhWa3ZQOTMzRHlPYVZKNnVWbkhmVG9ERHNjOEptLXVVdi1DX3pwc2xxU0MtM1lnZDZWOW1fZVBsSWJSMHBKYUVCMXcyUE9hbWJtWW8zbk1RSmlKT2pjZjY4S2lrNjRUNXBVcWF4SXNqNUxmVEE?oc=5",
    "summary": "",
-   "time": "2026-10-06T09:59:54+08:00",
+   "time": "2026-10-06T10:01:06+08:00",
    "date": "2026-10-06",
    "sources": [
     "新浪财经",
-    "手机新浪网"
+    "凤凰网科技"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -1693,7 +1692,7 @@
    "region": "国内",
    "category": "企业实践",
    "heat": 12.0,
-   "hot": false,
+   "hot": true,
    "tags": [
     "反不正当竞争",
     "不正当竞争",
@@ -1982,29 +1981,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "Advisory Co. Says Ex-Worker Stole Client Data Via AI Notes",
-   "url": "https://www.law360.com/ip/articles/2533402?utm_source=rss&utm_medium=rss&utm_campaign=section",
-   "summary": "A former employee of a compensation, benefits and business risk advisory firm used an unapproved artificial intelligence note-taking app to record confidential client meetings be…",
-   "time": "2026-10-03T03:15:05+08:00",
-   "date": "2026-10-03",
-   "sources": [
-    "Law360 知识产权"
-   ],
-   "region": "国际",
-   "category": "窃密泄密",
-   "heat": 10.5,
-   "hot": false,
-   "tags": [
-    "former employee",
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 10.5,
-   "kw_score": 8.0,
-   "weight": 2.5,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
    "title": "离职员工的聊天记录,为什么成了 商业秘密 刑案的主战场?——官方会话存档的合规留痕指南",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791032948&ver=7004&signature=pjLqb8vnZ-S1Ms1bYdUYXT7qNzIj51k*kbJ3IkLa2FAKyQIJ1RlSLXAmQgin343LWtT6cmpUijg0vPgK7S*IcQFcQHcFaSNObouM8Wcc0deVzW9VV1N2eg8p9qk9r7NF&new=1",
    "summary": "取证合法性审查的＂双向穿透＂——权利人与辩护人的攻防新前线在侵犯 商业秘密 罪的刑事控告与辩护中,证据结构的重心正在发生微...",
@@ -2072,29 +2048,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Lightkeeper lawsuit alleges trademark infringement and trade secret misappropriation",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGpjcGVBLVlXbWdYXzhHaGpkTmlUOVRTbkVMSlg4YXZ1NnNHZUZVVU94VzVpalNZN2pRZHpFYk1iZ2g5X2ZNclg5T3R3VkdhTHBiNmdVUm9YQjZvcGlyT243NVVlSDVRNUVuU2pNdkV1SjdRaWVncE1pOERTV1p6VXpLSlRuWDh1Q3FhbTFLRTVNWDRtTkl3SUJkdUozVGJYdF85eTJXRGJVaDJHUDRmRg?oc=5",
-   "summary": "",
-   "time": "2026-10-03T00:31:33+08:00",
-   "date": "2026-10-03",
-   "sources": [
-    "Hedgeweek"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "misappropriation",
-    "trade secret",
-    "lawsuit"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "TRADE SECRETS—Fla. App.: Auto rental company’s trade secret liability upheld; $864,000 award reduced",
@@ -2698,31 +2651,6 @@
     "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
    },
    {
-    "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYS02dHEzbWFmVTl0R2lDSnpVSjE1M2d4a0lGS1Q5YjRyT3FlaXY5NTllLXpJaXlzTTBDclRESTc5Y2pNQWZocUxheFY5eVNlQ190eDlRY2NyY1pHRjNqWnliakdhVmdfUk43UHlHN1lBeHJNMjNYalRJMUkySklpb3ljWS11dlNJamlVSGN2UUdPMmsyV09YeFdhVXFOZ09DVld6aHF3aXJPNGx0Q2U3bE5nQWRLc1NBejc0?oc=5",
-    "summary": "",
-    "time": "2026-10-08T11:11:08+08:00",
-    "date": "2026-10-08",
-    "sources": [
-     "Los Angeles Times",
-     "streamlinefeed.co.ke",
-     "AOL.ca"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 17.0,
-    "hot": true,
-    "tags": [
-     "trade secrets",
-     "trade secret",
-     "verdict"
-    ],
-    "importance": 17.5,
-    "kw_score": 9.0,
-    "weight": 2.0,
-    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-   },
-   {
     "title": "9th Circ. Ruling Exposes A Flaw In Federal Trade Secrets Law",
     "url": "https://www.law360.com/ip/articles/2509141?utm_source=rss&utm_medium=rss&utm_campaign=section",
     "summary": "The Ninth Circuit's recent decision in Comet Technologies v. XP Power, addressing a difference between the federal Defend Trade Secrets Act and California's Uniform Trade Secrets…",
@@ -2904,6 +2832,29 @@
      "反不正当竞争法",
      "反不正当竞争",
      "不正当竞争"
+    ],
+    "importance": 16.5,
+    "kw_score": 12.0,
+    "weight": 2.0,
+    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+   },
+   {
+    "title": "竞业限制 、竞业禁止、保密义务区分及近五年诉讼高发问题与法院观点",
+    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791470872&ver=7014&signature=3T78Lthuxyv6*0iXjWmzITX1uXvNwotbiEgjf2yojZ4GgZcbrZZmgzR2V1dffaskaVfz9TcMSYghCF5cp9CDGbKPHF-pUH20rxS6mU435hv3voU-6*VWmEJ1UhVnSMfp&new=1",
+    "summary": "引言实务中人们常把＂竞业协议＂＂竞业禁止＂＂ 竞业限制 ＂混为一谈,甚至认为＂签了保密协议就能限制员工跳槽＂.但严格来说,...",
+    "time": "2026-10-08T21:37:32+08:00",
+    "date": "2026-10-08",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "诉讼仲裁",
+    "heat": 17.9,
+    "hot": false,
+    "tags": [
+     "保密义务",
+     "竞业限制",
+     "保密协议"
     ],
     "importance": 16.5,
     "kw_score": 12.0,
