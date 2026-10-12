@@ -14382,8 +14382,8 @@
   "heat": 9.0,
   "hot": false,
   "tags": [
-   "竞业限制",
    "商业秘密",
+   "竞业限制",
    "秘密"
   ],
   "importance": 9.0,
@@ -35350,7 +35350,7 @@
   "tags": [
    "侵犯商业秘密",
    "商业秘密",
-   "跳槽"
+   "获刑"
   ],
   "importance": 18.5,
   "kw_score": 11.0,
@@ -35742,9 +35742,9 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "窃密",
-   "批捕",
-   "诉讼"
+   "员工",
+   "诉讼",
+   "批捕"
   ],
   "importance": 13.5,
   "kw_score": 6.0,
@@ -42976,8 +42976,8 @@
   "hot": false,
   "tags": [
    "商业机密",
-   "跳槽",
-   "员工"
+   "获刑",
+   "跳槽"
   ],
   "importance": 15.5,
   "kw_score": 8.0,
@@ -47129,8 +47129,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 8.0,
@@ -47175,8 +47175,8 @@
   "hot": false,
   "tags": [
    "侵犯商业秘密",
-   "司法解释",
-   "商业秘密"
+   "商业秘密",
+   "司法解释"
   ],
   "importance": 15.0,
   "kw_score": 10.0,
@@ -47724,8 +47724,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "知识产权",
-   "竞业限制"
+   "竞业限制",
+   "知识产权"
   ],
   "importance": 7.0,
   "kw_score": 5.0,
@@ -49644,8 +49644,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "知识产权",
    "商业秘密",
+   "知识产权",
    "秘密"
   ],
   "importance": 11.0,
@@ -49689,8 +49689,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "窃密",
-   "员工"
+   "员工",
+   "窃密"
   ],
   "importance": 10.5,
   "kw_score": 3.0,
@@ -50343,7 +50343,7 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "窃密",
+   "秘密",
    "批捕"
   ],
   "importance": 12.5,
@@ -51305,8 +51305,8 @@
   "hot": false,
   "tags": [
    "侵犯商业秘密",
-   "商业秘密",
-   "技术秘密"
+   "技术秘密",
+   "商业秘密"
   ],
   "importance": 15.0,
   "kw_score": 10.0,
@@ -51942,8 +51942,8 @@
   "hot": false,
   "tags": [
    "侵犯商业秘密",
-   "知识产权",
-   "商业秘密"
+   "商业秘密",
+   "知识产权"
   ],
   "importance": 11.0,
   "kw_score": 9.0,
@@ -55478,9 +55478,9 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
+   "赔偿",
    "判赔",
-   "挖人",
-   "赔偿"
+   "挖人"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -55801,7 +55801,7 @@
   "tags": [
    "商业秘密",
    "秘密",
-   "诉讼"
+   "禁令"
   ],
   "importance": 13.5,
   "kw_score": 7.0,
@@ -57013,17 +57013,18 @@
   "time": "2026-10-08T04:49:58+08:00",
   "date": "2026-10-08",
   "sources": [
-   "Yahoo News UK"
+   "Yahoo News UK",
+   "AeroXplorer"
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 9.7,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "trade secrets",
    "trade secret"
   ],
-  "importance": 8.0,
+  "importance": 10.0,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
@@ -57240,7 +57241,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 6.5,
+  "heat": 6.3,
   "hot": false,
   "tags": [
    "反不正当竞争",
@@ -57283,7 +57284,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 6.6,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -57349,7 +57350,7 @@
   ],
   "region": "国际",
   "category": "竞业与保密",
-  "heat": 5.8,
+  "heat": 5.6,
   "hot": false,
   "tags": [
    "竞业禁止"
@@ -57461,7 +57462,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 6.7,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "trade secret"
@@ -57551,7 +57552,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 8.1,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -57994,6 +57995,75 @@
   ],
   "importance": 8.0,
   "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=e3H4FkR54xis6jZ1F5n7-y9yTx9TGmXXy7CqF13ur107bdt2rMQ4BZufN5XqfNHULSVHp3DB8YrRFXXg7C4-y1zpkCqz4K8bzd8mmwIG0sGVBCfkvepn78SMi9HbYh2n&new=1": {
+  "title": "竞业限制 ＂全员签＂时代终结——HR必做的四层合规审查——从司法解释(二)到合规指引,企业 竞业限制 操作全指南",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=e3H4FkR54xis6jZ1F5n7-y9yTx9TGmXXy7CqF13ur107bdt2rMQ4BZufN5XqfNHULSVHp3DB8YrRFXXg7C4-y1zpkCqz4K8bzd8mmwIG0sGVBCfkvepn78SMi9HbYh2n&new=1",
+  "summary": "竞业限制 人员仅限三类:高级管理人员、高级技术人员、其他负有保密义务的人员(《劳动合同法》第24条第1款)司法解释(二)第...",
+  "time": "2026-10-09T08:30:44+08:00",
+  "date": "2026-10-09",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "立法监管",
+  "heat": 11.0,
+  "hot": false,
+  "tags": [
+   "司法解释",
+   "竞业限制",
+   "保密义务"
+  ],
+  "importance": 14.0,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "商业秘密立法/监管新动向，可能调整保护边界与合规义务，建议跟进后续落地细则。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=x7pTEQU23c8i5IEqDbyYacgvvVoiKwPuDwt9JFnKj5OvywNkr*W7oIrpPtB9eNB5Cw7G7yYF8cMBzIH6ffU7MPqUIqVAnmgFgzpntinmb7tZFcSRRl79eukWojDARGU2&new=1": {
+  "title": "竞业限制 协议能和全体员工都签吗?多数员工签了也白签",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=x7pTEQU23c8i5IEqDbyYacgvvVoiKwPuDwt9JFnKj5OvywNkr*W7oIrpPtB9eNB5Cw7G7yYF8cMBzIH6ffU7MPqUIqVAnmgFgzpntinmb7tZFcSRRl79eukWojDARGU2&new=1",
+  "summary": "常有顾问单位拿着一份“全员 竞业限制 协议”来找郭律把关,理由出奇一致:先把字签了,人走了就不能去竞争对手那里,商业秘密也...",
+  "time": "2026-10-09T07:23:33+08:00",
+  "date": "2026-10-09",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 10.0,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "竞业限制",
+   "秘密"
+  ],
+  "importance": 10.0,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=G8moaqsoF8lTJvuJJFCaDwaMDkgC2W37OzyOLzD4kiJrvQaksQE3NxB36MhCBfgSLPyPJzxeSk-9H6GHUG9*KDHNt9IQKFF4CXos7nMCM6gb86zAo-GTSMREK*CFk4jH&new=1": {
+  "title": "【早安赋能】商业秘密第59讲: 竞业限制 专题篇—— 竞业限制 案件如何维权(下)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791768926&ver=7021&signature=G8moaqsoF8lTJvuJJFCaDwaMDkgC2W37OzyOLzD4kiJrvQaksQE3NxB36MhCBfgSLPyPJzxeSk-9H6GHUG9*KDHNt9IQKFF4CXos7nMCM6gb86zAo-GTSMREK*CFk4jH&new=1",
+  "summary": "当完成前期案件评估、并且收集到一套完整闭环的证据材料之后,企业就来到了 竞业限制 维权的落地冲刺阶段.不少企业证据准备充足...",
+  "time": "2026-10-12T05:01:14+08:00",
+  "date": "2026-10-12",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "竞业与保密",
+  "heat": 12.7,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "竞业限制",
+   "秘密"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
   "weight": 2.0,
   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
  }
