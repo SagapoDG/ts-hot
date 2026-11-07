@@ -8008,8 +8008,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
+   "商业秘密",
    "秘密"
   ],
   "importance": 8.0,
@@ -15430,18 +15430,19 @@
   "time": "2026-10-05T15:00:00+08:00",
   "date": "2026-10-05",
   "sources": [
-   "Reuters"
+   "Reuters",
+   "TradingView"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 12.0,
   "hot": false,
   "tags": [
    "trade secrets",
    "trade secret",
    "jury"
   ],
-  "importance": 12.5,
+  "importance": 14.5,
   "kw_score": 8.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -22999,8 +23000,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "窃取"
+   "窃取",
+   "秘密"
   ],
   "importance": 7.0,
   "kw_score": 5.0,
@@ -33714,8 +33715,8 @@
   "hot": false,
   "tags": [
    "商业秘密",
-   "秘密",
-   "保密"
+   "保密",
+   "秘密"
   ],
   "importance": 7.0,
   "kw_score": 5.0,
@@ -34528,7 +34529,7 @@
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 8.5,
+  "heat": 8.3,
   "hot": false,
   "tags": [
    "知识产权",
@@ -34845,11 +34846,11 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 8.7,
+  "heat": 8.5,
   "hot": false,
   "tags": [
-   "商业秘密",
    "知识产权",
+   "商业秘密",
    "秘密"
   ],
   "importance": 8.0,
@@ -34959,7 +34960,7 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 9.9,
+  "heat": 9.6,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
@@ -35095,7 +35096,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 10.7,
+  "heat": 10.4,
   "hot": false,
   "tags": [
    "知识产权",
@@ -35185,7 +35186,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 9.5,
+  "heat": 9.3,
   "hot": false,
   "tags": [
    "misappropriation",
@@ -35273,12 +35274,12 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 11.0,
+  "heat": 10.8,
   "hot": false,
   "tags": [
    "技术泄密",
-   "获刑",
-   "泄密"
+   "泄密",
+   "员工"
   ],
   "importance": 14.5,
   "kw_score": 7.0,
@@ -35342,7 +35343,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 9.7,
+  "heat": 9.5,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -35433,7 +35434,7 @@
   ],
   "region": "国际",
   "category": "企业实践",
-  "heat": 10.2,
+  "heat": 9.9,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -35477,7 +35478,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 7.9,
+  "heat": 7.7,
   "hot": false,
   "tags": [
    "trade secret",
@@ -35499,7 +35500,7 @@
   ],
   "region": "国际",
   "category": "竞业与保密",
-  "heat": 7.4,
+  "heat": 7.2,
   "hot": false,
   "tags": [
    "noncompete"
@@ -35520,7 +35521,7 @@
   ],
   "region": "国内",
   "category": "竞业与保密",
-  "heat": 7.2,
+  "heat": 6.6,
   "hot": false,
   "tags": [
    "保密协议",
@@ -35565,7 +35566,7 @@
   ],
   "region": "国际",
   "category": "竞业与保密",
-  "heat": 13.9,
+  "heat": 13.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -35746,7 +35747,7 @@
   ],
   "region": "国内",
   "category": "企业实践",
-  "heat": 9.0,
+  "heat": 8.8,
   "hot": false,
   "tags": [
    "商业秘密",
@@ -35835,7 +35836,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 5.2,
+  "heat": 5.0,
   "hot": false,
   "tags": [
    "trade secret"
@@ -35879,7 +35880,7 @@
   ],
   "region": "国际",
   "category": "窃密泄密",
-  "heat": 15.9,
+  "heat": 15.7,
   "hot": false,
   "tags": [
    "trade secrets",
@@ -35902,12 +35903,12 @@
   ],
   "region": "国内",
   "category": "刑事打击",
-  "heat": 14.6,
+  "heat": 14.4,
   "hot": false,
   "tags": [
    "侵犯商业秘密",
    "商业秘密",
-   "赔偿"
+   "离职"
   ],
   "importance": 13.5,
   "kw_score": 9.0,
@@ -35993,7 +35994,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 9.9,
+  "heat": 9.7,
   "hot": false,
   "tags": [
    "trade secret",
@@ -36003,5 +36004,119 @@
   "kw_score": 4.0,
   "weight": 2.0,
   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=APX6ob8FSnxAgBUygFF48Xymxd7fDreY6YSD2Gh*ZcsNGcTw*Qz-tFYIPP3xkqYvMpwMrzSxrNvPtWb1vskwv22Kh5xuf-jQkjwfIY54sojfr7XB--pI*TsQI5gWUdtS&new=1": {
+  "title": "兰迪埃及研究| 埃及 商业秘密 保护实务问答(10)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=APX6ob8FSnxAgBUygFF48Xymxd7fDreY6YSD2Gh*ZcsNGcTw*Qz-tFYIPP3xkqYvMpwMrzSxrNvPtWb1vskwv22Kh5xuf-jQkjwfIY54sojfr7XB--pI*TsQI5gWUdtS&new=1",
+  "summary": "埃及作为中东和北非地区的重要 经济 体,在 商业秘密 方面也拥有较为完善的法律体系,如埃及知识产权保护法(第82/2002号法律)、...",
+  "time": "2026-11-06T18:32:12+08:00",
+  "date": "2026-11-06",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 11.2,
+  "hot": false,
+  "tags": [
+   "知识产权",
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=O9nj40ieK-2ibJyvrN3b0uDbKBmguzyunwEvOs1yGZCgwk9RONSVgThalRU9TfvkzvU*rY8aR7Ls3Jq2SlgqLfIZxv2POoio-dhgFz4wxNbX4ojJYMm0fdVpNpkOCx3N&new=1": {
+  "title": "江西发布航空产业 商业秘密 指引:无人机、eVTOL 被纳入,源代码与试飞数据列为重点",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=O9nj40ieK-2ibJyvrN3b0uDbKBmguzyunwEvOs1yGZCgwk9RONSVgThalRU9TfvkzvU*rY8aR7Ls3Jq2SlgqLfIZxv2POoio-dhgFz4wxNbX4ojJYMm0fdVpNpkOCx3N&new=1",
+  "summary": "2026 年 10 月 26 日,江西省市场监督管理局发布《江西省航空产业 商业秘密 保护合规指引》,同时配套发布《江西省航空产业企业 商 ...",
+  "time": "2026-11-06T22:32:22+08:00",
+  "date": "2026-11-06",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 11.5,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "源代码",
+   "秘密"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=kxFe2NL907QyffhA5i7K6pqoPxfoyxu6Ny6pnx5JuSas7WJv1DhXxcfj8OZnf6k9gNGgyvIPzwhyIkJjQjzCa38m6BL6F62fPFoAFYyeuD2jeZ7CY*-RVHfwMEAoPZpf&new=1": {
+  "title": "商业秘密 与软件诉讼专题:部分被告自认侵权,其他被告有危险吗?|李营营律师团队",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794010382&ver=7073&signature=kxFe2NL907QyffhA5i7K6pqoPxfoyxu6Ny6pnx5JuSas7WJv1DhXxcfj8OZnf6k9gNGgyvIPzwhyIkJjQjzCa38m6BL6F62fPFoAFYyeuD2jeZ7CY*-RVHfwMEAoPZpf&new=1",
+  "summary": "尤其是 商业秘密 案件和软件著作权案件涉及证据保全、技术信息的总结和确定、非公知/新颖性的分析论证、采取合理保密措施的分析论...",
+  "time": "2026-11-06T19:52:17+08:00",
+  "date": "2026-11-06",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 11.3,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "诉讼",
+   "保密"
+  ],
+  "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9na2FnOHJjR2ZSVDNocVc3SnBCRDh2RU94YTdYczgwOG9BZUpSejQ2YWF6RkV0c194V2RfNFQ5OUlxcG9yXzk3ODJLU0NlUGpMeUlLNHlIdXJ1VkhOUlpTRUJfZWUxTzdD?oc=5": {
+  "title": "商务部就美以窃取商业秘密为由制裁中国企业答记者问",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9na2FnOHJjR2ZSVDNocVc3SnBCRDh2RU94YTdYczgwOG9BZUpSejQ2YWF6RkV0c194V2RfNFQ5OUlxcG9yXzk3ODJLU0NlUGpMeUlLNHlIdXJ1VkhOUlpTRUJfZWUxTzdD?oc=5",
+  "summary": "",
+  "time": "2026-10-20T15:00:00+08:00",
+  "date": "2026-10-20",
+  "sources": [
+   "中国新闻网"
+  ],
+  "region": "国内",
+  "category": "窃密泄密",
+  "heat": 7.0,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "窃取",
+   "秘密"
+  ],
+  "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
+  "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+ },
+ "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2FfUDg5WDB5WDRRRFRvWG8xSFgyUEtQb2hULVZOOFBkOWVoc1pnelBOVEFtazY5WXdGOUVRYUZLNVlWeF96R0J1cktEUEVoSTF2allWZUNZbzgwYXdwSnNvUHhadzJsaE91ZXdCNlVIOEFRWWlieWxabHd5TUwwLWE3UGJPR3pFOU51eklpOA?oc=5": {
+  "title": "深圳发布全国首个AI工具应用商业秘密保护指引",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2FfUDg5WDB5WDRRRFRvWG8xSFgyUEtQb2hULVZOOFBkOWVoc1pnelBOVEFtazY5WXdGOUVRYUZLNVlWeF96R0J1cktEUEVoSTF2allWZUNZbzgwYXdwSnNvUHhadzJsaE91ZXdCNlVIOEFRWWlieWxabHd5TUwwLWE3UGJPR3pFOU51eklpOA?oc=5",
+  "summary": "",
+  "time": "2026-11-03T15:28:00+08:00",
+  "date": "2026-11-03",
+  "sources": [
+   "21财经"
+  ],
+  "region": "国内",
+  "category": "企业实践",
+  "heat": 6.0,
+  "hot": false,
+  "tags": [
+   "商业秘密",
+   "秘密"
+  ],
+  "importance": 9.0,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
  }
 }
