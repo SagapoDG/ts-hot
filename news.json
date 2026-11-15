@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T23:47:22.842464+08:00",
- "count": 114,
+ "generated_at": "2026-11-16T04:53:12.877164+08:00",
+ "count": 115,
  "highlight_count": 30,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
@@ -9,29 +9,6 @@
   "36氪: not well-formed (invalid token): line 10, column 168"
  ],
  "items": [
-  {
-   "title": "实务资料|常见 商业秘密 信息分类(指引附件)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794757645&ver=7090&signature=90l5NqTzgqAqJMPUaCTfSj7D569hpBxGw1XtnWC5pUNnEOuEmEMOXnjCxLa7QTt-zTqqQgIBJUv8n-ta1SkreRA-zukDNCzgHMfhow08MfmQ2Ib-2hEibsGD6urtd-Pf&new=1",
-   "summary": "商业秘密 等义务,也未承担任何竞业限制义务.2.乙方如因曾经签订相关保密协议、竞业限制协议而承担有相应的保密义务及竞业限制...",
-   "time": "2026-11-15T07:02:17+08:00",
-   "date": "2026-11-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 17.1,
-   "hot": true,
-   "tags": [
-    "保密协议",
-    "竞业限制",
-    "保密义务"
-   ],
-   "importance": 14.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
   {
    "title": "实务资料|常见 商业秘密 信息分类(指引附件)",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794705141&ver=7089&signature=Wac2oo3z4VxPm0OkG3tovnM0OdzgGz*3f0wa6z1yhtMChT*yqfWjYFHrsa6n3183FKZbHmwHEwMkKR-tgcJIKSkp6mt7ovEvn9Gti*Y7U-lSvMJ0T2tn8mGzK1ziqI5J&new=1",
@@ -43,12 +20,35 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 17.1,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "保密义务",
     "商业秘密",
     "保密协议"
+   ],
+   "importance": 14.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "实务资料|常见 商业秘密 信息分类(指引附件)",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794757645&ver=7090&signature=90l5NqTzgqAqJMPUaCTfSj7D569hpBxGw1XtnWC5pUNnEOuEmEMOXnjCxLa7QTt-zTqqQgIBJUv8n-ta1SkreRA-zukDNCzgHMfhow08MfmQ2Ib-2hEibsGD6urtd-Pf&new=1",
+   "summary": "商业秘密 等义务,也未承担任何竞业限制义务.2.乙方如因曾经签订相关保密协议、竞业限制协议而承担有相应的保密义务及竞业限制...",
+   "time": "2026-11-15T07:02:17+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 16.8,
+   "hot": true,
+   "tags": [
+    "保密协议",
+    "竞业限制",
+    "保密义务"
    ],
    "importance": 14.0,
    "kw_score": 12.0,
@@ -66,7 +66,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": true,
    "tags": [
     "经营信息",
@@ -89,7 +89,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 12.8,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -112,7 +112,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.6,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -134,7 +134,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 8.5,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "商业机密",
@@ -156,7 +156,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.1,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "espionage"
@@ -177,7 +177,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 14.0,
+   "heat": 13.7,
    "hot": true,
    "tags": [
     "商业秘密",
@@ -200,7 +200,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.0,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -223,7 +223,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.0,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -246,7 +246,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 11.0,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -259,6 +259,29 @@
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   },
   {
+   "title": "Nvidia scandal: 'Precisely' what the US Economic Espionage Act is for?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUdCSjMxQzh4UUUxclhSdDd0MkRLYllMbThQcFZqQjRTUmFsbkVPS3RkWVE1dXFRcWFBdWhUUWtwWG9YVk94RHlwT0FuUW5seTdTeTBBV2IyMmMzMkxKdEZPSFVVLUNaTGpCTU4xLXoyN2E3MG9zcmI1bklNLUpXY1dpbWJNSVRybHNELUczaWZhcDJ2a2ZCNU5McVlsUVl1WUt4WE5Na0xoVUtQVzh0S1JtT0poS0RS?oc=5",
+   "summary": "",
+   "time": "2026-11-14T05:19:22+08:00",
+   "date": "2026-11-14",
+   "sources": [
+    "World IP Review"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 10.4,
+   "hot": false,
+   "tags": [
+    "economic espionage",
+    "espionage",
+    "NDA"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
    "title": "入库案例:客户名单类 商业秘密 的保护与串通侵权的惩罚性连带赔偿",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794609992&ver=7087&signature=5iUT4UScxzPc-e6A3SdlFOKO*wzdOmbzmR3uR5zU594od2ETgyHbczgyfTeCyTuYHhlFoYl*6rvWApc6TUbUGEOkl7enitQpZWGqpa6cyuvvsgIvEN1mcr-E7U4PNYX7&new=1",
    "summary": "入库案例裁判观点:1、在 商业秘密 保护中,对于客户名单、交易意向包括具体需求、价格咨询等具有即时性和私密性且能带来现实利...",
@@ -269,7 +292,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -292,7 +315,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "客户名单",
@@ -305,29 +328,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Nvidia scandal: 'Precisely' what the US Economic Espionage Act is for?",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUdCSjMxQzh4UUUxclhSdDd0MkRLYllMbThQcFZqQjRTUmFsbkVPS3RkWVE1dXFRcWFBdWhUUWtwWG9YVk94RHlwT0FuUW5seTdTeTBBV2IyMmMzMkxKdEZPSFVVLUNaTGpCTU4xLXoyN2E3MG9zcmI1bklNLUpXY1dpbWJNSVRybHNELUczaWZhcDJ2a2ZCNU5McVlsUVl1WUt4WE5Na0xoVUtQVzh0S1JtT0poS0RS?oc=5",
-   "summary": "",
-   "time": "2026-11-14T05:19:22+08:00",
-   "date": "2026-11-14",
-   "sources": [
-    "World IP Review"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 10.6,
-   "hot": false,
-   "tags": [
-    "economic espionage",
-    "espionage",
-    "NDA"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "The End of the \"Leaks\" Era or a Trap for Business: How the New Law on Trade Secrets May Change the Rules of the Game",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbnkyZ1dvVXhlU0E4ZDBmLVpGY2JtWHhzUGt6SFFnc3dkS3B0QUdUd2ZrNDVVd19KWmE3WEVFODBsYzBaWjAtWldPb1lqZnNDSWRoUFVIQWltemdIYUk2RVluZDB3MFAyUTlob0M4dmUwNUxWMHR0RkNvLVhONEpSLTJ3QkVkWjJ5NkRDSzVJN2ZNZU4wVzYxbHlEMG91bmpPZTFoTWlDMExDZW1KaDctOWRVSnNDQzZEU3NjSlpXV0IzQWRqVk9aNjVvTXNIdThDaFFHekJRVkI0bEk3LXZIaVdDdUtIcFZaaUpvbQ?oc=5",
    "summary": "",
@@ -338,7 +338,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 9.3,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -360,7 +360,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 9.3,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "trade secret",
@@ -382,7 +382,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.5,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -404,7 +404,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 7.7,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "trade secret",
@@ -449,7 +449,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -472,7 +472,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.7,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -495,7 +495,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.7,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -518,7 +518,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "misappropriation",
@@ -541,7 +541,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "反不正当竞争",
@@ -564,7 +564,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -587,7 +587,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -610,7 +610,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -633,7 +633,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "知识产权",
@@ -656,7 +656,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -679,7 +679,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.0,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -702,7 +702,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -725,7 +725,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.7,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "保密协议",
@@ -748,7 +748,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 9.5,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "economic espionage",
@@ -771,7 +771,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -794,7 +794,7 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 7.0,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "竞业限制",
@@ -816,7 +816,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 6.3,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "FBI",
@@ -839,7 +839,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 6.2,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -861,7 +861,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 5.4,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "trade secret"
@@ -1143,8 +1143,8 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Samsung, SK hynix tighten security training amid industrial espionage concerns",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcFkzNmg5RUI1cFcwdXkzY21VVGFKNnBXS0YtMGM3MDhlUm1ZS3h1MDhRc01xTFRmLWNBdGVXd1ZOOE85U2c2UXlwYjh6cXBuc3d0dUQzRFNEOHZlclhhV3VqR2EyWlhSejIwTVJKWmxtd2s1c1JNZW1sUnEyQUZNTlVFMHJmUlhlV2FIRm9LVmdJNXdWMjMwanhIRGFrSmhBQlpZZlZPNHBXV2RZajZkU2hDZHpqVFgwVm83Ty1Bai1OMFU2RS1pUjVFUUM1WkHSAdQBQVVfeXFMTUEwM3ZacEVycF9sYmV1YWhmTkpiN0dsdHBRanJXMFhRVlg2eUJBbFFCcUFFazRQc3VGU3dyNVpORUhKRmpNeG1KQ2tEYW04bVJfMS10SGdRVl9mNm4xbnFqTkxydnJSSVZheVByaGl6TUQxVHVyYWtzYnlfdlZ2djJBWU5HTzFSYkwtdG9lNmF0VDJVcVNGaE1UNU4xMUtKN01RZ3ZDLVFGTTlubHY0VEZwNDVzNDJ4SVRWM0h1R3FLaldwUmM4dmw3SzNhUVNSRkZYMG0?oc=5",
+   "title": "Korean tech firms tighten security training amid industrial espionage concerns",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnMyWVpoZC1YeFdkYXphNU1YQmplaXBlN2ZKbUtwbU9VeU8ya2s2WjZNQS1QNGJsVWJmYXhqWnBwRHotejlCUlJmOXVzUHlvX1lvbUlmTy00TUpIOHRhZTNEc0tNR3pHSGFiZ3FGY0VrYTlZSWpzb2Y4RFIzQk9pZWpDVUludUVBTXF5dUVvSjRYaV9WT21fU1ZLb05QU3gzNUs0dmFPdGhNcGE0bWpmRS1BTU5qVFlhQmQ0WjZMdk1HYTRDN2JMWXNrRVRzVWVh0gHWAUFVX3lxTE9GcjVuLUN3Z0NVbWRVeVRfWGFVWW9nLTQ2TWxsMmdGS2xwUjh5SjRabTRGXzltVk9NaHBPNlZWUjNQVWVpdlZSVkVzbmgxa3RuOEVXOHFwRklQUHNQQVdtajBRRjN5N0poZHhLb2kzSGhHaXotajgyakdlU19OYzN4UkRkZzkxNktXRWNRTHZqRnJITkFZM3l6QzFsR1h5LXJtNVBmbVY2WWJOTjFkcEpjaGRmVkxFMnhMZlFZcUNJQ0Noa3RDV25fTXZCX0xhTlpEQ2FaQmc?oc=5",
    "summary": "",
    "time": "2026-11-12T14:50:07+08:00",
    "date": "2026-11-12",
@@ -1164,8 +1164,8 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "Korean tech firms tighten security training amid industrial espionage concerns",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnMyWVpoZC1YeFdkYXphNU1YQmplaXBlN2ZKbUtwbU9VeU8ya2s2WjZNQS1QNGJsVWJmYXhqWnBwRHotejlCUlJmOXVzUHlvX1lvbUlmTy00TUpIOHRhZTNEc0tNR3pHSGFiZ3FGY0VrYTlZSWpzb2Y4RFIzQk9pZWpDVUludUVBTXF5dUVvSjRYaV9WT21fU1ZLb05QU3gzNUs0dmFPdGhNcGE0bWpmRS1BTU5qVFlhQmQ0WjZMdk1HYTRDN2JMWXNrRVRzVWVh0gHWAUFVX3lxTE9GcjVuLUN3Z0NVbWRVeVRfWGFVWW9nLTQ2TWxsMmdGS2xwUjh5SjRabTRGXzltVk9NaHBPNlZWUjNQVWVpdlZSVkVzbmgxa3RuOEVXOHFwRklQUHNQQVdtajBRRjN5N0poZHhLb2kzSGhHaXotajgyakdlU19OYzN4UkRkZzkxNktXRWNRTHZqRnJITkFZM3l6QzFsR1h5LXJtNVBmbVY2WWJOTjFkcEpjaGRmVkxFMnhMZlFZcUNJQ0Noa3RDV25fTXZCX0xhTlpEQ2FaQmc?oc=5",
+   "title": "Samsung, SK hynix tighten security training amid industrial espionage concerns",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcFkzNmg5RUI1cFcwdXkzY21VVGFKNnBXS0YtMGM3MDhlUm1ZS3h1MDhRc01xTFRmLWNBdGVXd1ZOOE85U2c2UXlwYjh6cXBuc3d0dUQzRFNEOHZlclhhV3VqR2EyWlhSejIwTVJKWmxtd2s1c1JNZW1sUnEyQUZNTlVFMHJmUlhlV2FIRm9LVmdJNXdWMjMwanhIRGFrSmhBQlpZZlZPNHBXV2RZajZkU2hDZHpqVFgwVm83Ty1Bai1OMFU2RS1pUjVFUUM1WkHSAdQBQVVfeXFMTUEwM3ZacEVycF9sYmV1YWhmTkpiN0dsdHBRanJXMFhRVlg2eUJBbFFCcUFFazRQc3VGU3dyNVpORUhKRmpNeG1KQ2tEYW04bVJfMS10SGdRVl9mNm4xbnFqTkxydnJSSVZheVByaGl6TUQxVHVyYWtzYnlfdlZ2djJBWU5HTzFSYkwtdG9lNmF0VDJVcVNGaE1UNU4xMUtKN01RZ3ZDLVFGTTlubHY0VEZwNDVzNDJ4SVRWM0h1R3FLaldwUmM4dmw3SzNhUVNSRkZYMG0?oc=5",
    "summary": "",
    "time": "2026-11-12T14:50:07+08:00",
    "date": "2026-11-12",
@@ -1328,6 +1328,30 @@
     "秘密"
    ],
    "importance": 13.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "历时四年,一起 侵犯商业秘密 案重审二审开庭,上诉人今年报案称被诬告陷害",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794776000&ver=7090&signature=uUfnsx7okCRPl1NEJQ9t*8zJD05k61YA3LCtYCaqqo0tPN751slxD58t*6IgqlTy8H7Sbz1B5LaSonbv9OTzNcTe0RLNvnvEZUtfMD57yI2zKufAFoQM6PCsh5-YM7hZ&new=1",
+   "summary": "一起因“生产工艺”引发的 侵犯商业秘密 案,在历经原审一审、原审二审、发回重审一审后,目前正处于重审二审阶段.2026年1月,...",
+   "time": "2026-11-11T14:54:43+08:00",
+   "date": "2026-11-11",
+   "sources": [
+    "微信公众号",
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "侵犯商业秘密",
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.0,
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
