@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26T13:18:37.461739+08:00",
- "count": 197,
+ "generated_at": "2026-11-26T23:36:56.741542+08:00",
+ "count": 200,
  "highlight_count": 30,
  "errors": [
   "最高人民检察院: HTTP Error 403: Forbidden",
-  "Fair Competition Law: not well-formed (invalid token): line 1, column 119",
+  "Fair Competition Law: Remote end closed connection without response",
   "FTC 美国联邦贸易委员会: HTTP Error 404: Not Found",
   "36氪: not well-formed (invalid token): line 10, column 168"
  ],
@@ -23,12 +23,12 @@
     "The Guardian",
     "Times West Virginian",
     "eNCA",
-    "The Weekly Times",
+    "Bangkok Post",
     "The Journal"
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 31.5,
+   "heat": 30.9,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -49,22 +49,21 @@
    "sources": [
     "Broadband Breakfast",
     "Engadget",
-    "The Globe and Mail",
+    "PM News Nigeria",
     "PBS",
-    "Yahoo Finance",
     "The Journal Gazette",
     "Canadian Affairs"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 25.7,
+   "heat": 23.1,
    "hot": true,
    "tags": [
     "trade secrets",
     "trade secret",
     "jury"
    ],
-   "importance": 24.5,
+   "importance": 22.5,
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
@@ -85,7 +84,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 23.3,
+   "heat": 22.7,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -113,7 +112,7 @@
    ],
    "region": "国际",
    "category": "行政执法",
-   "heat": 21.5,
+   "heat": 20.9,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -135,7 +134,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.5,
+   "heat": 12.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -158,7 +157,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.4,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -169,6 +168,29 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei found guilty in trade secrets theft case",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkVLMGFwNGhlVm9VTmZmTEE0TGJ1WU1heGJPUnVuNjMydVlVSXE4T3Z4VlphNXZiVFBMV3VwdFdZLUtZNnRFbk8yMy0xTFpMc0o5SldVY0FXZlg0LXB5TmNGMWI5WEhLeFd3eEtIOVhMakg0QzJBNVpTRUdWRVE4ZmFvczBqR0o2MUw0VmdEeEdaQUplOUVZZWVfVXhZcnVU0gGmAUFVX3lxTFBEQkJtUzd1WFVfNzRzRFRLZW1RaXk3Mk92akpYQkFjVVlOUF9OYjh3LUxmc3dPLVlvZkJsc3dSbk51b200V290MzZneklKYUFISUc1bmlMVzlaRWtaak1fNmlhcW5qOHJLZURldnBGVGxrb0l5TVNvQXlGb0VMdGhmN3hZX24xYlVXY05aNHdkbktqR0JTdTZtVGt2ZGRpT0haR3ZkUXc?oc=5",
+   "summary": "",
+   "time": "2026-11-26T06:04:00+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "The Hill"
+   ],
+   "region": "国际",
+   "category": "窃密泄密",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "theft"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "The Huawei Verdict: What a Landmark Trade Secret Conviction Means for Your Business",
@@ -182,13 +204,57 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.5,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secret",
     "verdict"
    ],
    "importance": 14.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Laptop Search Yields No Evidence of JGR Trade Secrets at Spire, Federal Judge Says",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXpxUnhGaGYyUlB3YkN3UzY5QXpxSkRuMWl4M1BFQVZQRjM3YUh4MUs3bHNyU3FhdnJQRXhrcllqRER4QVFpbzNmQ0FrazNoQVZBZHphNmFZRmpUUmlxSWN0c3BPX1M0anFBRXIyajNFWFVPYTNWY1I4bWFpaldqX1FfdmxfWFBpeV80c3NLS241dw?oc=5",
+   "summary": "",
+   "time": "2026-11-26T19:55:28+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "Yahoo Sports"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 11.8,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "US Jury Convicts Huawei on Fraud and Trade Secret Charges",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnOGFoa1BMNWJmbU1xeTR2OGhPSUpNQ2RTR1RmZDcyQTVkSHFpcHREV3JrZy1CdHBQQ1NZMFc3dHpxdS0zdC1XMlN3SWlERVBVQkozWVI5cTF1RUlKMlBNQUhDbTloMVk2YVlOVmZtRUtIdw?oc=5",
+   "summary": "",
+   "time": "2026-11-26T22:56:53+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "Demokratis.co.id"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 11.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "jury"
+   ],
+   "importance": 9.5,
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
@@ -205,7 +271,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 11.6,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "商业机密",
@@ -227,7 +293,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 11.4,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "trade secret",
@@ -250,7 +316,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 11.3,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -272,7 +338,7 @@
    ],
    "region": "国际",
    "category": "行政执法",
-   "heat": 11.3,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -282,6 +348,51 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+  },
+  {
+   "title": "从高层换血到员工降薪：宗馥莉接手娃哈哈后，一场未完成的组织重构｜商业秘密",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1V1X0NubDk3VzlwZVFfWGlucWZfUTlFVVliUTdIZTNNTlg1WDd0eXNTS0ctU1p1RDRYdFdBTGlBZlJNRjRUcXVyTVFTaEpWRFJGLTY2VllEQmJ6dTc5bHNYNVd6Zld0OWE4R2RaSXdpdUxJZm1ramhoMXpWX2RPS3BVUzNrQTdIRjV3?oc=5",
+   "summary": "",
+   "time": "2026-11-26T19:05:00+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 10.7,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "员工",
+    "秘密"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Huawei convicted of stealing trade secret – but cleared of racketeering",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUw3YWNWTWJvbEE1bkV6MnFaSlAtcU9aV1hST3cxaHc0ZFAyYzJsOW5JODFpSnlPS1kyQy1qTFl2Z19MbEQxSFZkb1VRRnpMajZMcjRwa2dVVnFGX3h4Y2NPM3RBSlFSU2o0TzNNVVlRaXd3Ti02LWZYdzRlYm11Y3lWb2Q1VVRZLU9QcjVOTUtqdVBTZWhXMnBVSkVaa0sxNnVXNnlBZ3E?oc=5",
+   "summary": "",
+   "time": "2026-11-26T16:22:00+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "Evertiq"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 10.6,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "convicted"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "华为在美国被裁定共谋窃取商业秘密，及银行欺诈等10项罪名成立",
@@ -294,7 +405,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 10.3,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -307,6 +418,50 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
+   "title": "国家数据局征求意见：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTJCcV83Uk1SSERjd2YxeHNzUE9aUnVXRUh2Zl82UzFHbHhoaUNtNHFIazNPT2c4MkRZUk11UF9VcW1zejQyVXFpZjRkT0tDLVdxUGJONFhEeUNfM2p0Ui12TlYwakF1bzVDdHAzQXROazhoUUxNN0hnaU9OZUV4U2ctRGh2d0c1dDFr?oc=5",
+   "summary": "",
+   "time": "2026-11-26T18:55:00+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 9.7,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密立法/监管新动向，可能调整保护边界与合规义务，建议跟进后续落地细则。"
+  },
+  {
+   "title": "美国法院裁定：中国科技巨头华为，共谋窃取商业机密罪名成立",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tdEx5MFZySHI3QWlSRE1JOGpucnJBd3hfZjlRcWRPV2tJTlpTVGtTOGVpMWV4OVlBcjRMZVJxQWRXRWxpY1E1bjJyU2g2bi1pRlN0Y1RSd2ViNjUyUV82OTdBM21BemPSAWxBVV95cUxOaGR4NVVMRlRVVXFlSHBCZHY3d0x5bldlNEIwZlBESmdvRHUtdjZhbEpBMzZwVjBzSGhmUVlzRm00bmpTTlRRc3NNNTZ2UFl4ZzJ2eUlZc2w2TGFtUXZWcnE3ekIxblk5eXg5R2Y?oc=5",
+   "summary": "",
+   "time": "2026-11-26T15:44:16+08:00",
+   "date": "2026-11-26",
+   "sources": [
+    "BBC"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 9.6,
+   "hot": false,
+   "tags": [
+    "商业机密",
+    "窃取"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "Readily Ascertainable - WilmerHale's Trade Secret Bulletin: October 2026",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQjRvNnljWHFuaGI3ZFlNNmRYUlFqdkFLQXlqVmNjek1JM1U4bkpSUzRJTWpSQmRRYUJVUXR6SDdoV01KTVhuczMyajhndTByTjFCQXh4TGFvWVZEbnM1UkRzTmZQN3lqQmVpdVJmRGJHMEpfZ1FoZkY2YkpwTHI2OTlKQQ?oc=5",
    "summary": "",
@@ -317,7 +472,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.7,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "trade secret"
@@ -338,7 +493,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.9,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "espionage"
@@ -359,47 +514,13 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.3,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "espionage"
    ],
    "importance": 6.5,
    "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
-   "summary": "",
-   "time": "2026-11-25T10:57:00+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "DW.com",
-    "France 24",
-    "TRT World",
-    "Arab News",
-    "Bangkok Post",
-    "Modern Ghana",
-    "Yahoo News UK",
-    "Inquirer.net",
-    "The Journal",
-    "KLSE Screener",
-    "BGNES",
-    "NewsBreak: Local News & Alerts"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 34.5,
-   "hot": true,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "jury"
-   ],
-   "importance": 34.5,
-   "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
@@ -411,19 +532,19 @@
    "date": "2026-11-25",
    "sources": [
     "Business Insider",
+    "Blaze Media",
     "New York Post",
     "Bangor Daily News",
     "The Killeen Daily Herald",
     "Daily Camera",
     "TRT World",
-    "NBC News",
     "Radio-Canada",
     "Yahoo Finance",
     "CBC"
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 33.2,
+   "heat": 32.6,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -434,6 +555,33 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "US Jury Finds Huawei Guilty of Bank Fraud and Trade Secrets Theft Conspiracy",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTlJZV8yMF9XLU9XaDJzSjhTUVZGZ0ZaX0pwczkweDdGSHlTTkZXYndNdWRYS0o3UGQ1X3VjR1NqTHgwcjhNQ3dqR09aaVdLQmNUeGU3NFJYanJ4UHpMUldacnV2aXhhMWlxY1VBRncwNnV5ZDIwOVJTaUt5NjNBTmZEbzQweG43b3U2cF90SE5sXzVQTUZaQjRzNFpCcjhGV3psamlGSGZxMGs?oc=5",
+   "summary": "",
+   "time": "2026-11-25T21:07:49+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "PhoneWorld",
+    "Yahoo Finance",
+    "Washington Examiner",
+    "The Next Web",
+    "Chosunbiz"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 21.5,
+   "hot": true,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "theft"
+   ],
+   "importance": 21.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds",
@@ -450,7 +598,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 20.2,
+   "heat": 19.6,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -476,7 +624,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 19.9,
+   "heat": 19.4,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -502,7 +650,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 19.3,
+   "heat": 18.7,
    "hot": true,
    "tags": [
     "trade secrets",
@@ -511,6 +659,32 @@
    ],
    "importance": 19.5,
    "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
+   "summary": "",
+   "time": "2026-11-25T20:19:00+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "DW.com",
+    "Fox Business",
+    "France 24",
+    "TAG24 NEWS USA INC"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 18.5,
+   "hot": true,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "jury"
+   ],
+   "importance": 18.5,
+   "kw_score": 8.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
@@ -528,8 +702,8 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 19.1,
-   "hot": true,
+   "heat": 18.5,
+   "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
@@ -554,7 +728,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 18.4,
+   "heat": 17.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -574,13 +748,13 @@
    "date": "2026-11-25",
    "sources": [
     "SDxCentral",
+    "شبكة تواصل الإخبارية",
     "BigGo Finance",
-    "WION",
-    "شبكة تواصل الإخبارية"
+    "WION"
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 18.1,
+   "heat": 17.6,
    "hot": false,
    "tags": [
     "trade secret",
@@ -589,31 +763,6 @@
    ],
    "importance": 17.5,
    "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Huawei Convicted of Stealing Trade Secrets in US Criminal Trial",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3ZaQWZZdjRKMDk4Tk1nMjVNdVlMa3ZVVU5Rck1ET2FkZXZNd1pZckl2VFNYS1M2OXRNY3laOFBvTWU3eUE1QkNiaFFUM1RHdEZ4MURzb2tFSHpDNll4aDR5UERtSWF6eS0tOEsyTzhMb3hSN3BrOW5mN3VsQng3dnFrSi1aV2RheElncUNOcmRFT0dHMGZ6ZmFsNW8?oc=5",
-   "summary": "",
-   "time": "2026-11-25T08:20:27+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "NTD News",
-    "Newser",
-    "Courthouse News"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 17.4,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "convicted"
-   ],
-   "importance": 17.5,
-   "kw_score": 9.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
@@ -628,7 +777,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 17.1,
+   "heat": 16.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -653,7 +802,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 17.0,
+   "heat": 16.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -666,28 +815,28 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "Cummins' $23M AI Trade Secrets Verdict Reduced To $1.5M",
-   "url": "https://www.law360.com/ip/articles/2558927?utm_source=rss&utm_medium=rss&utm_campaign=section",
-   "summary": "A Delaware state court reduced to $1.5 million what had been a $23.3 million verdict awarded in favor of artificial intelligence software developer C3.ai in its trade secrets cas…",
-   "time": "2026-11-25T07:00:04+08:00",
+   "title": "Huawei Convicted of Stealing Trade Secrets in US Criminal Trial",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3ZaQWZZdjRKMDk4Tk1nMjVNdVlMa3ZVVU5Rck1ET2FkZXZNd1pZckl2VFNYS1M2OXRNY3laOFBvTWU3eUE1QkNiaFFUM1RHdEZ4MURzb2tFSHpDNll4aDR5UERtSWF6eS0tOEsyTzhMb3hSN3BrOW5mN3VsQng3dnFrSi1aV2RheElncUNOcmRFT0dHMGZ6ZmFsNW8?oc=5",
+   "summary": "",
+   "time": "2026-11-25T22:29:00+08:00",
    "date": "2026-11-25",
    "sources": [
-    "Law360 知识产权",
-    "Law360"
+    "NTD News",
+    "HotHardware"
    ],
    "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 15.8,
+   "category": "刑事打击",
+   "heat": 15.6,
    "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
-    "verdict"
+    "convicted"
    ],
-   "importance": 16.0,
+   "importance": 15.5,
    "kw_score": 9.0,
-   "weight": 2.5,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "US jury convicts Huawei of trade secrets theft conspiracy, Iran-related bank fraud | Hindustan Times",
@@ -701,7 +850,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 15.5,
+   "heat": 14.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -725,7 +874,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 15.4,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -738,24 +887,47 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "U.S. jury convicts Huawei of sanctions violations, trade secret theft and fraud",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Nhc3k1RVUyYWdFUVA0Q0lYRXNObF9hRm8tYjhBdTlDWTF1OXRJM0VNVWZpbGljWExwY3VIbUFWa0dYcjJkOW9wR25RZF9xUE5ZUjBpS0VZQ21sMjFwbE8xeGJYMUlHWEdtX013aFBQQ0FUQ3RlR0k4S3lmQy0xVTRuLUU3aVN0cVdoejZacXhucndPMUhfSE5qZ1JxZGNwdFZxakUzOXJGZmNzN3NGaWtmU0lBSEJWWVgxa1VUR3Y3UnhZSTBNUmNPSXBSbFZnWUxGdHkzeUR4NDdm?oc=5",
-   "summary": "",
-   "time": "2026-11-25T23:38:35+08:00",
+   "title": "Chinese billionaire Ren Zhengfei's Huawei is convicted by a U.S. jury of conspiring to steal trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdU91LWhRN1FHeEdob05ibUNIUUhqV3lEZUw5T3ZPemU1endSWGRPMXoyV0otbFNkaURVdGd2LUp6R1ZsQWpqUjA3bEJGanpDZmlFTUptclJwNnl1S0FjaEVrbG5UdXdKWmVXNzZtVXMzRWtZYzNBZ3pGTk1OMHFfN0FmNjVzbmZyMEozMUV6YnZfaWVKYXJobVkybGE1M19TNktlLVNOb05xX1dHUWI2YmJyQ3JYU055VG9saDAwelgxX3FVQkxoSDI3S3ZBQW1jOFRSSm5TeWpuUDE0R3E1LXZ3?oc=5",
+   "summary": "Chinese billionaire Ren Zhengfei's Huawei is convicted by a U.S. jury of conspiring to steal trade secrets Billionaires.Africa",
+   "time": "2026-11-25T19:57:24+08:00",
    "date": "2026-11-25",
    "sources": [
-    "INSIGHT EU MONITORING",
+    "Billionaires.Africa"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 14.5,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "convicted"
+   ],
+   "importance": 17.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei Convicted of US Fraud and Trade Secret Theft in Brooklyn",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oY201RW05QWV2MmlaUEhvSjF5LUEwN0VwRjRJTzNXQXpZNGVabUxrQTZ6aVE3VjV2RmxJODVKSWhUeDBjNEEtQUJ2UXdjLTZDRWRCNm55UHBJQ2wyRXg1bXFCWTk?oc=5",
+   "summary": "",
+   "time": "2026-11-25T20:36:04+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "cwibc.co.id",
     "Quartz",
-    "La Voce di New York"
+    "bsinews.id"
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 15.2,
+   "heat": 14.5,
    "hot": false,
    "tags": [
     "trade secret",
-    "theft",
-    "jury"
+    "convicted",
+    "theft"
    ],
    "importance": 14.5,
    "kw_score": 6.0,
@@ -773,7 +945,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 15.1,
+   "heat": 14.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -784,54 +956,6 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Huawei Convicted of US Fraud and Trade Secret Theft in Brooklyn",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oY201RW05QWV2MmlaUEhvSjF5LUEwN0VwRjRJTzNXQXpZNGVabUxrQTZ6aVE3VjV2RmxJODVKSWhUeDBjNEEtQUJ2UXdjLTZDRWRCNm55UHBJQ2wyRXg1bXFCWTk?oc=5",
-   "summary": "",
-   "time": "2026-11-25T20:36:04+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "cwibc.co.id",
-    "Quartz",
-    "Malay Mail"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 15.1,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "convicted",
-    "theft"
-   ],
-   "importance": 14.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Chinese billionaire Ren Zhengfei's Huawei is convicted by a U.S. jury of conspiring to steal trade secrets",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdU91LWhRN1FHeEdob05ibUNIUUhqV3lEZUw5T3ZPemU1endSWGRPMXoyV0otbFNkaURVdGd2LUp6R1ZsQWpqUjA3bEJGanpDZmlFTUptclJwNnl1S0FjaEVrbG5UdXdKWmVXNzZtVXMzRWtZYzNBZ3pGTk1OMHFfN0FmNjVzbmZyMEozMUV6YnZfaWVKYXJobVkybGE1M19TNktlLVNOb05xX1dHUWI2YmJyQ3JYU055VG9saDAwelgxX3FVQkxoSDI3S3ZBQW1jOFRSSm5TeWpuUDE0R3E1LXZ3?oc=5",
-   "summary": "Chinese billionaire Ren Zhengfei's Huawei is convicted by a U.S. jury of conspiring to steal trade secrets Billionaires.Africa",
-   "time": "2026-11-25T19:57:24+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Billionaires.Africa"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 15.0,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "convicted"
-   ],
-   "importance": 17.5,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "Huawei Found Guilty of Conspiracy to Steal Trade Secrets by a US Jury; Other Charges Dropped",
@@ -845,7 +969,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 14.9,
+   "heat": 14.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -856,30 +980,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Jury Convicts Huawei of Bank Fraud, Trade Secrets",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanJkbnY0OUY2aURXdG9uXzJIUWZ2RmI2UWlZR0Q5ZDFUaC1NZ2JIV2U1MlVRR3FTRTlESk80cW1aMGZQc3dZaVNVdEwzcHJBRlE0SjltVmtsaDRxSC00OTZPZ3J5M05vWUZjSkVQV0tsN1BJMFh3MldJQ19IbkQybHNWcWdhNVdKQTBF?oc=5",
-   "summary": "",
-   "time": "2026-11-25T18:13:38+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Wisevoter",
-    "The Next Web"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 14.9,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "jury"
-   ],
-   "importance": 14.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
@@ -893,7 +993,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 14.4,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -917,7 +1017,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 14.2,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -930,6 +1030,53 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "US Court convicts Huawei for fraud, Iran operations, conspiring to steal trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXdjSGtBRWV1eEdrQzFIMkFiVUkwZTFWbzNRSHE4MW16LUZwbkZGM0tZb3QyckJrYWFVQ050QXJlYXB6amNobGp6NnhEb3JHOWwyaDdQdlFCN05HOGQ2UjZMc09HNGpoM3FjNlI4Vkw4NF9jbEtzM1QydmxrbnVHTzFwMm8wQld5Qi1GU3dySTRJQURwdTh5Slp3OHQ3VGhtRlJReEpKUDFtZGFHc3hkZWhEdC1Ta3B2YU5j?oc=5",
+   "summary": "US court convicts China’s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business CNN",
+   "time": "2026-11-25T21:48:39+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "MyIndMakers",
+    "CNN"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 13.6,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "court"
+   ],
+   "importance": 13.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Cummins' $23M AI Trade Secrets Verdict Reduced To $1.5M",
+   "url": "https://www.law360.com/ip/articles/2558927?utm_source=rss&utm_medium=rss&utm_campaign=section",
+   "summary": "A Delaware state court reduced to $1.5 million what had been a $23.3 million verdict awarded in favor of artificial intelligence software developer C3.ai in its trade secrets cas…",
+   "time": "2026-11-25T02:00:04+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Law360 知识产权"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "verdict"
+   ],
+   "importance": 14.0,
+   "kw_score": 9.0,
+   "weight": 2.5,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fZlBuMDVuWGZXcXBPanQzYlNVeGEyeVhpZDN6Z0dxVkRRcXNZU0ZRR3N2QjQ1b29JaXVSSHFCUzk3OVlXdXBkcXBaaVZHRUhham55czZqTU5aMmw2eUc2NE5lWkE5UzRsWWl4RUR30gFzQVVfeXFMUDAtRVI0VTlIVHRuS25UZUl6NDBHdXZXZlkwTG13bzR2ZGhwNnh0ZzNtMFhPTzVuUGV1Sk9ZbEIzMEFtRHhVeWVnWU9pT25pdERINnJJeVFib0tVOGVHNm10RVd2VUpJN05oREtIMXJmSlNJYw?oc=5",
    "summary": "",
@@ -940,7 +1087,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.5,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -953,29 +1100,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "Jury finds tech giant Huawei stole American trade secrets",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDNxYkhueEdjMDk5eG1nYmczbmRIUDh2TWNKTGpncnRKblhhVUxjS0tCMG9sVWU1WUx2RFR1Z2p4RkJNVDB0b0FwSXVBUDJpOGtIZnBxOVNVZVdmWGEwalVkREZKQVBHTVNZNWx1SGlqM1BVR21nTzZzZm9yNWpnMmhtYm5LSFVOWm9zQkRoYl9vUW8?oc=5",
-   "summary": "",
-   "time": "2026-11-25T22:36:00+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "WORLD News Group"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "jury"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
    "title": "Jury convicts Huawei of violating sanctions, conspiring to steal U.S. trade secrets",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3RtTlNMNGd2ZFhrM0o2RU41TmszUnQwOHIxM2JpaGNQM1FETFpQcWhKeVpJbllrd1RZZXBFa2tWbnJQZWlBUy1kLTd0VTNkWGVLNk5jdG5LakpETzdGdDFDNGJBeFN3d1BudGpMVlYzMkFDZTlYcldza3ZueDZqNFdQaHZlSkRyc2xwYU1jdExkNkwycUtlQkxoR2xIa2VWcUtXZG95WEQ?oc=5",
    "summary": "",
@@ -986,7 +1110,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 13.2,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1009,7 +1133,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.2,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1022,17 +1146,41 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "US jury finds Huawei guilty of assisting Iran and stealing trade secrets",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObktCZDJIWk8zNndoQm5KdWQ4ZzNkb25ocGd2OUNBM3U2NVBlZDQ5Sm00TGN2Uk1PbjNzSTdDMC11MGhwUVFFc2ZQU01EejlSdEh2Um50eWRoRExsN29PUnc0LUtMNEZnbldHeTYxT1NPaTlLZnQ1NkptemFCc1FaeGZYRXRWQ3lSRkhobUZWTVlFcHBick5fSmhIUXc1XzMtRFdfRFVCNGZtQldzR1prQzdvYw?oc=5",
+   "title": "U.S. jury convicts Huawei of sanctions violations, trade secret theft and fraud",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Nhc3k1RVUyYWdFUVA0Q0lYRXNObF9hRm8tYjhBdTlDWTF1OXRJM0VNVWZpbGljWExwY3VIbUFWa0dYcjJkOW9wR25RZF9xUE5ZUjBpS0VZQ21sMjFwbE8xeGJYMUlHWEdtX013aFBQQ0FUQ3RlR0k4S3lmQy0xVTRuLUU3aVN0cVdoejZacXhucndPMUhfSE5qZ1JxZGNwdFZxakUzOXJGZmNzN3NGaWtmU0lBSEJWWVgxa1VUR3Y3UnhZSTBNUmNPSXBSbFZnWUxGdHkzeUR4NDdm?oc=5",
    "summary": "",
-   "time": "2026-11-25T21:07:49+08:00",
+   "time": "2026-11-25T23:38:35+08:00",
    "date": "2026-11-25",
    "sources": [
-    "Washington Examiner"
+    "INSIGHT EU MONITORING",
+    "La Voce di New York"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 12.7,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "theft",
+    "jury"
+   ],
+   "importance": 12.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Jury finds tech giant Huawei stole American trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDNxYkhueEdjMDk5eG1nYmczbmRIUDh2TWNKTGpncnRKblhhVUxjS0tCMG9sVWU1WUx2RFR1Z2p4RkJNVDB0b0FwSXVBUDJpOGtIZnBxOVNVZVdmWGEwalVkREZKQVBHTVNZNWx1SGlqM1BVR21nTzZzZm9yNWpnMmhtYm5LSFVOWm9zQkRoYl9vUW8?oc=5",
+   "summary": "",
+   "time": "2026-11-25T22:36:00+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "WORLD News Group"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.1,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1055,12 +1203,35 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.0,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
     "verdict"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "US jury finds Huawei guilty of assisting Iran and stealing trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObktCZDJIWk8zNndoQm5KdWQ4ZzNkb25ocGd2OUNBM3U2NVBlZDQ5Sm00TGN2Uk1PbjNzSTdDMC11MGhwUVFFc2ZQU01EejlSdEh2Um50eWRoRExsN29PUnc0LUtMNEZnbldHeTYxT1NPaTlLZnQ1NkptemFCc1FaeGZYRXRWQ3lSRkhobUZWTVlFcHBick5fSmhIUXc1XzMtRFdfRFVCNGZtQldzR1prQzdvYw?oc=5",
+   "summary": "",
+   "time": "2026-11-25T21:07:49+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Washington Examiner"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "jury"
    ],
    "importance": 12.5,
    "kw_score": 8.0,
@@ -1079,7 +1250,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 13.0,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1089,29 +1260,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
-   "summary": "",
-   "time": "2026-11-25T17:46:11+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "ICLG"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 12.9,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "convicted"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "U.S. jury convicts Chinese tech giant Huawei of stealing trade secrets",
@@ -1124,12 +1272,81 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.9,
+   "heat": 12.4,
    "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
     "jury"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
+   "summary": "",
+   "time": "2026-11-25T17:46:11+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "ICLG"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 12.3,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "convicted"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Jury Convicts Huawei of Bank Fraud, Trade Secrets",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanJkbnY0OUY2aURXdG9uXzJIUWZ2RmI2UWlZR0Q5ZDFUaC1NZ2JIV2U1MlVRR3FTRTlESk80cW1aMGZQc3dZaVNVdEwzcHJBRlE0SjltVmtsaDRxSC00OTZPZ3J5M05vWUZjSkVQV0tsN1BJMFh3MldJQ19IbkQybHNWcWdhNVdKQTBF?oc=5",
+   "summary": "",
+   "time": "2026-11-25T15:22:43+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Wisevoter"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 12.2,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "jury"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei convicted in US over Iran sanctions, trade secret theft, bank fraud",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVJVT1I5Y1NQZEJma0t6NGtkRzBLSU5lY0tKcDVOOGJYb0FKZjdIWGVFLUlKbU5DZDd2NW5DQUZLWVpMNWJsTVk0djhQUlA2UmEySUNIMHc2NldBRnZuVTk3REc3ZHp5VW9kOFVDQ2drVUhZSm5kZzhfX3VneHBkS1JyVEVPX2RYbnNSNnRvNkdPTXpVM1BtLXEzR1JfVnYwQXlSZHM3dkdGaFM5N3JCR2E2M1FFb3g2QXN1LVk3dUQ4SlnSAcgBQVVfeXFMT1ZiZjFqNlgzVWhQVFF5a3pMUElCbWg1ckxtSGZiQ08waTVuN3dwVC1DdVpwOGlHd1ZnN2t4RVQxTUZnNEhsWUdHNHI1al93bkRSREtwZkJEamJHcG1SczIzckJPU2NuWmgybmVHemE2TTk4enNEZTJXQ0JFbGRVSkpYZnBYdWtLVm9qNXNUTmFSU1VKVllURWNzVmV2VXRSTDFkbVhadE9zbVI0V3ZXUHRhQ2trNU1MM1BmXzMwaWZBaVQyQUJMS2I?oc=5",
+   "summary": "",
+   "time": "2026-11-25T10:50:07+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Business Standard"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "convicted",
+    "theft"
    ],
    "importance": 12.5,
    "kw_score": 8.0,
@@ -1147,7 +1364,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.6,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1170,7 +1387,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1183,40 +1400,17 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Huawei Guilty on 10 of 12 Counts: Trade Secrets Verdict",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelNvRURzeFJEbGlWcEFJcEJpSDVHaDZTbmtYcE9LOU1WaXZtMC0tV1lQMDdORldrdWl3SkZmNGpOX3A0N0lvY2Q4Uzl6M3JDOWQtN2tXQl8yeGVwR0VlREdMYmsyYndQaVdyUTMxYmVVenhjOEl2TWtGaTdZR1Fpa2p2X0dhMUxl?oc=5",
-   "summary": "",
-   "time": "2026-11-25T10:01:25+08:00",
+   "title": "China's Huawei convicted by US jury of trade secret theft conspiracy: What is the case and what happens next?",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcTczY2lFb2QwLXppRXc0eE9acldfbC1YMEItSElBRlo4c2lJbGpnNURmQU9xMXo1UzlTam9sWGZvSFBNMGEtMWpld3p1Vi1nbGZKa3V0WjJSYXJVSUxiZUpUX084bnpZMWZZQXpqakMwREkxRDVKWWVQdjBiYkFwakV1ci1jSUFoSHpvM1NPbTJvaVdmY1pQUWZXYlJyODZGVU54R244TEpxVWdaWnl1U2psNzFPeHlSMDZsY3FlckY0Wm1ld1dqQlBmaW5ERDhWNlQyWGIzWTJKZEdvMkMycGVTT2FHNFR1cjUw0gHwAUFVX3lxTE9jMm5HT2ZLZzM3X0dXSmRmcEZPV2ptYS1XWWVqZXNRclVDalMwMUx0Q3ZUNTdlZE44QV9yVTZkWmVxMlU0OGJqbnJodFM4UXRjZUJrZGN6WUd4NjZyVU43Y21FSGo2Mnk3RUhpczRidHViaGtGQV9nWVFvcmdQWUxuX3FQQTBaQUV0d2JBS09HbmNtLWVFdllnQVJhRThCS0tBTXg5cnBGdE9aeHE3Rldfc3FmWnFwNUx1RDRDeXlNc25jTVQ4ai1hakRISmZLdndOTmlmVmNjcnJLTmJFV1ZUNGtaVjZxdm1BQUJ2VkdZSA?oc=5",
+   "summary": "China's Huawei convicted by US jury of trade secret theft conspiracy: What is the case and what happens next? ET Now",
+   "time": "2026-11-25T09:25:05+08:00",
    "date": "2026-11-25",
    "sources": [
-    "shattered.io"
+    "ET Now"
    ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 12.5,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "verdict"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "Huawei convicted in US over Iran sanctions, trade secret theft, bank fraud",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVJVT1I5Y1NQZEJma0t6NGtkRzBLSU5lY0tKcDVOOGJYb0FKZjdIWGVFLUlKbU5DZDd2NW5DQUZLWVpMNWJsTVk0djhQUlA2UmEySUNIMHc2NldBRnZuVTk3REc3ZHp5VW9kOFVDQ2drVUhZSm5kZzhfX3VneHBkS1JyVEVPX2RYbnNSNnRvNkdPTXpVM1BtLXEzR1JfVnYwQXlSZHM3dkdGaFM5N3JCR2E2M1FFb3g2QXN1LVk3dUQ4SlnSAcgBQVVfeXFMT1ZiZjFqNlgzVWhQVFF5a3pMUElCbWg1ckxtSGZiQ08waTVuN3dwVC1DdVpwOGlHd1ZnN2t4RVQxTUZnNEhsWUdHNHI1al93bkRSREtwZkJEamJHcG1SczIzckJPU2NuWmgybmVHemE2TTk4enNEZTJXQ0JFbGRVSkpYZnBYdWtLVm9qNXNUTmFSU1VKVllURWNzVmV2VXRSTDFkbVhadE9zbVI0V3ZXUHRhQ2trNU1MM1BmXzMwaWZBaVQyQUJMS2I?oc=5",
-   "summary": "",
-   "time": "2026-11-25T10:50:07+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Business Standard"
-   ],
-   "region": "国际",
+   "region": "国内",
    "category": "刑事打击",
-   "heat": 12.5,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1229,6 +1423,29 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
+   "title": "Huawei Guilty on 10 of 12 Counts: Trade Secrets Verdict",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelNvRURzeFJEbGlWcEFJcEJpSDVHaDZTbmtYcE9LOU1WaXZtMC0tV1lQMDdORldrdWl3SkZmNGpOX3A0N0lvY2Q4Uzl6M3JDOWQtN2tXQl8yeGVwR0VlREdMYmsyYndQaVdyUTMxYmVVenhjOEl2TWtGaTdZR1Fpa2p2X0dhMUxl?oc=5",
+   "summary": "",
+   "time": "2026-11-25T10:01:25+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "shattered.io"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "verdict"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
    "title": "A Brooklyn Jury Convicts Huawei on 10 of 12 Counts in Fraud and Trade Secrets Case",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1sYjdzcTM0a080S214R3N3LTNoMzdscFpfV1Zobkx6a2l5dVFCTlZUeGJvczVrTy16dUdN?oc=5",
    "summary": "",
@@ -1239,7 +1456,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.5,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1262,35 +1479,12 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.5,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secrets",
     "trade secret",
     "convicted"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "China's Huawei convicted by US jury of trade secret theft conspiracy: What is the case and what happens next?",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcTczY2lFb2QwLXppRXc0eE9acldfbC1YMEItSElBRlo4c2lJbGpnNURmQU9xMXo1UzlTam9sWGZvSFBNMGEtMWpld3p1Vi1nbGZKa3V0WjJSYXJVSUxiZUpUX084bnpZMWZZQXpqakMwREkxRDVKWWVQdjBiYkFwakV1ci1jSUFoSHpvM1NPbTJvaVdmY1pQUWZXYlJyODZGVU54R244TEpxVWdaWnl1U2psNzFPeHlSMDZsY3FlckY0Wm1ld1dqQlBmaW5ERDhWNlQyWGIzWTJKZEdvMkMycGVTT2FHNFR1cjUw0gHwAUFVX3lxTE9jMm5HT2ZLZzM3X0dXSmRmcEZPV2ptYS1XWWVqZXNRclVDalMwMUx0Q3ZUNTdlZE44QV9yVTZkWmVxMlU0OGJqbnJodFM4UXRjZUJrZGN6WUd4NjZyVU43Y21FSGo2Mnk3RUhpczRidHViaGtGQV9nWVFvcmdQWUxuX3FQQTBaQUV0d2JBS09HbmNtLWVFdllnQVJhRThCS0tBTXg5cnBGdE9aeHE3Rldfc3FmWnFwNUx1RDRDeXlNc25jTVQ4ai1hakRISmZLdndOTmlmVmNjcnJLTmJFV1ZUNGtaVjZxdm1BQUJ2VkdZSA?oc=5",
-   "summary": "China's Huawei convicted by US jury of trade secret theft conspiracy: What is the case and what happens next? ET Now",
-   "time": "2026-11-25T09:25:05+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "ET Now"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 12.5,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "convicted",
-    "theft"
    ],
    "importance": 12.5,
    "kw_score": 8.0,
@@ -1308,7 +1502,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.5,
+   "heat": 11.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1331,7 +1525,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.4,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1354,7 +1548,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 12.3,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1377,7 +1571,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.3,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1401,7 +1595,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 12.3,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1423,7 +1617,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.3,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1446,7 +1640,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 12.1,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "espionage",
@@ -1457,29 +1651,6 @@
    "kw_score": 7.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Huawei Found Guilty Of Trade Secrets Theft And Fraud After 7-Year Trial; Firm Vows To Defend Its “Rights And Interests”",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTN3ZzQ5VTRGeGxVU0NjV0IwY3dpNGxBSmZtQUlaRTU0NHRCRVE3OGRkX21POGRZZzBEOElxRWRPZ1dCX2RaY0pOV0x4SlRYOXBzbTRvWFJkdHBlbV85N18wb1dKMmdVUDIwRktWbEFmbDRUWVNzZ0FaS1o0MXZUTkIxMS1pc1lScVVOQWFNWTRqWUVyNmFNNXJRb2c0Rlk0R2MwRGlaWjHSAa4BQVVfeXFMUDUwN3FidVBMbjlseTBFdF9ucnhBRDZaX3NJdnZNaXR4blIwdTA3d2VjYnZldm45ZENVa0FrZXJmS0x5T1VjMWhVN2JUdWQwei1OM05fNGcxSERidk13VDlrclZmelJHNEFHTi1KMVpPN0RxdVlPNUJ5SzBQcW1qcHBDSHQwX1k1VWdkRzJIWlVYNjN0TnYxcTdnaWF0eWxHZEF0Vy1Gcm5mRUVwNFBn?oc=5",
-   "summary": "Huawei Found Guilty Of Trade Secrets Theft And Fraud After 7-Year Trial; Firm Vows To Defend Its “Rights And Interests” Wccftech",
-   "time": "2026-11-25T19:03:26+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Wccftech"
-   ],
-   "region": "国际",
-   "category": "窃密泄密",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret",
-    "theft"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "美国陪审团裁定华为共谋窃取商业秘密、违反伊朗制裁等10项罪名成立",
@@ -1493,7 +1664,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 12.0,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1516,7 +1687,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.9,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1529,6 +1700,29 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "Huawei Found Guilty Of Trade Secrets Theft And Fraud After 7-Year Trial; Firm Vows To Defend Its “Rights And Interests”",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTN3ZzQ5VTRGeGxVU0NjV0IwY3dpNGxBSmZtQUlaRTU0NHRCRVE3OGRkX21POGRZZzBEOElxRWRPZ1dCX2RaY0pOV0x4SlRYOXBzbTRvWFJkdHBlbV85N18wb1dKMmdVUDIwRktWbEFmbDRUWVNzZ0FaS1o0MXZUTkIxMS1pc1lScVVOQWFNWTRqWUVyNmFNNXJRb2c0Rlk0R2MwRGlaWjHSAa4BQVVfeXFMUDUwN3FidVBMbjlseTBFdF9ucnhBRDZaX3NJdnZNaXR4blIwdTA3d2VjYnZldm45ZENVa0FrZXJmS0x5T1VjMWhVN2JUdWQwei1OM05fNGcxSERidk13VDlrclZmelJHNEFHTi1KMVpPN0RxdVlPNUJ5SzBQcW1qcHBDSHQwX1k1VWdkRzJIWlVYNjN0TnYxcTdnaWF0eWxHZEF0Vy1Gcm5mRUVwNFBn?oc=5",
+   "summary": "Huawei Found Guilty Of Trade Secrets Theft And Fraud After 7-Year Trial; Firm Vows To Defend Its “Rights And Interests” Wccftech",
+   "time": "2026-11-25T19:03:26+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Wccftech"
+   ],
+   "region": "国际",
+   "category": "窃密泄密",
+   "heat": 11.4,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret",
+    "theft"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
    "title": "Huawei Found Guilty in US Court on Trade Secrets and Fraud",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYndvQkYwY2kyNzlIekpXSGdlV3VNNzdIc0F1YkVnU0E4dVFiWFc3TkhpYmNsNnA3bnVVN1NNdjZnZklLcDFYN2xpeURxdDJWTmJHYzNpd1pjejdxbG9jSHVqd3hXNjFFUFdhMVJETVZyX1pQY2FGb0ttVkFYTTU4cXliWHo2a3JQbzdPZERHYnZ6YzhUV3c1blViWjF6bEk?oc=5",
    "summary": "",
@@ -1539,7 +1733,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.8,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1562,7 +1756,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 11.5,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1585,7 +1779,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 11.4,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1608,12 +1802,35 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 11.2,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "trade secret",
     "convicted",
     "theft"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "华为被控窃取商业机密 10项刑事案罪名成立",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3NDWVpIZ3NDQUJOTGlja2xjQ2FIWjNzT0RNalBXdjVUcWRXSC1LMDlMRlM5QTF4VjM3NVROVjZCeDZnbUVqU1QxeUVJOFp0Znd4ZG1SVTF5RkFWRUcyYU1pUF9CM2FOZlVRLXJLUWF3bTBTNU13dHJ2R0FVaUEzTjM1aWdSVFdvdkJjSmVsRmh0THFGcHgwNEpLRW1mb2VfQ2pNRA?oc=5",
+   "summary": "",
+   "time": "2026-11-25T22:24:59+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "八度空间8TV"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 10.6,
+   "hot": false,
+   "tags": [
+    "商业机密",
+    "窃取",
+    "刑事"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1631,7 +1848,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1654,7 +1871,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.9,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1667,6 +1884,28 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
+   "title": "Huawei Found Guilty on Most Charges in US Trade Secrets Case, Cleared of Racketeering",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTJHY1pnY3U4YnRiNjZFVXVqYTd3MGNzU3gyeXVZUXlMUkF2WlZaejNuYXZDV09UdUZ3bHFDYXpsWGZGakw4aVhFSDVtNFQtUE02SXI4VVB3dk1uUkM4QTdpS3VvTHFiWmxkNjVFUHU3eGtEbEJvY0JFMEk1blh6eGgxVTZIUVNzYkloUU8xZzVFT19WTDN2OW9USlF4ajBtQmdkTlYxQm5STmRyM0tZcDEzaXk?oc=5",
+   "summary": "",
+   "time": "2026-11-25T14:29:06+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Dawan Africa"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 10.2,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
    "title": "美国陪审团裁定华为窃取商业秘密及银行欺诈罪名成立 但未认定刑事敲诈勒索共谋",
    "url": "https://www.cnbeta.com.tw/articles/tech/1587880.htm",
    "summary": "美国一个联邦陪审团于周二裁定，中国科技巨头华为技术有限公司在窃取商业秘密共谋及银行欺诈方面罪名成立。该案涉及华为成长为全球最大无线电信设备供应商之一过程中的多项商业行为。 阅读全文",
@@ -1677,7 +1916,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.7,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -1690,28 +1929,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "Huawei Found Guilty on Most Charges in US Trade Secrets Case, Cleared of Racketeering",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTJHY1pnY3U4YnRiNjZFVXVqYTd3MGNzU3gyeXVZUXlMUkF2WlZaejNuYXZDV09UdUZ3bHFDYXpsWGZGakw4aVhFSDVtNFQtUE02SXI4VVB3dk1uUkM4QTdpS3VvTHFiWmxkNjVFUHU3eGtEbEJvY0JFMEk1blh6eGgxVTZIUVNzYkloUU8xZzVFT19WTDN2OW9USlF4ajBtQmdkTlYxQm5STmRyM0tZcDEzaXk?oc=5",
-   "summary": "",
-   "time": "2026-11-25T14:29:06+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Dawan Africa"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 10.7,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "US Jury Finds Huawei Guilty on 10 Counts, Including Trade Secret Theft",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMERKSkpQUmpxUkN4U3NIVG5fVzNfazVEMTVINmsycEFqZGRDYzBXZndOeWNoWVBNVFRWU0dtSDY3dDB0aVcwTHFmcDJyNDdDWnZtX0x3NWVQZ0tHRmRiWUQ2UUlBWlhJa0pzNkJETUd6eXNzeW5HRkNnbkNSNzZrd0lHYw?oc=5",
    "summary": "",
@@ -1722,7 +1939,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1745,35 +1962,12 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 10.6,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "trade secret",
     "theft",
     "jury"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "华为被控窃取商业机密 10项刑事案罪名成立",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3NDWVpIZ3NDQUJOTGlja2xjQ2FIWjNzT0RNalBXdjVUcWRXSC1LMDlMRlM5QTF4VjM3NVROVjZCeDZnbUVqU1QxeUVJOFp0Znd4ZG1SVTF5RkFWRUcyYU1pUF9CM2FOZlVRLXJLUWF3bTBTNU13dHJ2R0FVaUEzTjM1aWdSVFdvdkJjSmVsRmh0THFGcHgwNEpLRW1mb2VfQ2pNRA?oc=5",
-   "summary": "",
-   "time": "2026-11-25T11:10:16+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "八度空间8TV"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 10.5,
-   "hot": false,
-   "tags": [
-    "商业机密",
-    "刑事",
-    "窃取"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1791,7 +1985,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 10.5,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1813,7 +2007,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.5,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "trade secret",
@@ -1826,29 +2020,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "Huawei convicted of trade secret theft and bank fraud, acquitted of racketeering",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0wtNzhSSDNWRUZRZ1Y0cmNBNDgtTldPRUIzRzBkLTNobTJPOXpKeW15THczVU1Bdms2TjZIZEwtMkN4QWJlN1BPODRMZlhrZ3hHdXQ4OGwycENkQUxURzBsbGR6YVp0RDdlZ1FVbjhZeENUeTV1NEZjU1N1VnhHTUNFZWZiT19NT1Q5RG9BTTQwVlNpNGV0YS0zMEVlYkJ4al8tOVJNUmN5X0hGSUNXMkJZUzBLVkFCdy1xWVo1dUtyQ0VuUmlZN1pYdXI0dVZsUHk4VDRmaGJMS28wZjZv?oc=5",
-   "summary": "",
-   "time": "2026-11-25T07:40:19+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "BusinessLine"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 10.4,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "convicted",
-    "theft"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "US jury convicts Huawei of trade secret theft, bank fraud; escapes racketeering charge",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYVJzaEtxU2MtSHVoWTlOUVQ1NGpFc3ZZdU5DeDdlTzVHX2kwMVVGQkJBWl90ZkExajFOV3VqYldlWDNDbS1PZlNrLWFaRWdxa0xSVjQ5bnYxMmRNaHctTXBHejRpWTA4SjVETW84eUZCRzhoM2Y2UUlwWVV0WlZNMzdvSUE1VWhBWWpWMW5mQkxvX285UEFna1U3N0k5R29LUnZ0M0k2UmJCYmxKbGRMZS1ESWloOGotYm1NdURURlU3ek9zckhPeFdKUnN4OTFYeWlPVXZkaE9GWlBySzNPVXpOVm1yeEJ2eFY00gHwAUFVX3lxTE8zbHhQNDBTTmhnWmd3QmY4cTZwOVBxOHhpU1ZRWHdORTBiaU1YN2l0blhHMFNvdnBmWEh2YXptZXRqMGpaREdiNjJ3b3Q1aU0zQnVDQ2tzdm1XTWtIb0hENXZzdUtxQV94TXF0Y2VyT2I3NUxvM1lJVUVfVVVaVTRXUEU2NndjUXVZT1lWSWJldVpfUlZGZXhlRTZZd3pRRGdmRU9rcnN3NjNNOVdvaWdFeEZWb2d2U3VESVByNC1NbFpUN3QxUXZRbWIxbXVkWElHQTNNYVpYSWVZcHlVNVpzTGlTSTktZzNPaVRUSy1HUw?oc=5",
    "summary": "",
@@ -1859,12 +2030,35 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.3,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "trade secret",
     "theft",
     "jury"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei convicted of trade secret theft and bank fraud, acquitted of racketeering",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0wtNzhSSDNWRUZRZ1Y0cmNBNDgtTldPRUIzRzBkLTNobTJPOXpKeW15THczVU1Bdms2TjZIZEwtMkN4QWJlN1BPODRMZlhrZ3hHdXQ4OGwycENkQUxURzBsbGR6YVp0RDdlZ1FVbjhZeENUeTV1NEZjU1N1VnhHTUNFZWZiT19NT1Q5RG9BTTQwVlNpNGV0YS0zMEVlYkJ4al8tOVJNUmN5X0hGSUNXMkJZUzBLVkFCdy1xWVo1dUtyQ0VuUmlZN1pYdXI0dVZsUHk4VDRmaGJMS28wZjZv?oc=5",
+   "summary": "",
+   "time": "2026-11-25T07:40:19+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "BusinessLine"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 9.8,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "convicted",
+    "theft"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1882,34 +2076,11 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.3,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "trade secrets",
     "trade secret"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "Huawei Convicted of Trade Secret Theft, Sanctions Evasion Conspiracy",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWENOMFZQaDBTekw5X2E5SGVXV3FzY2RFeGhvWEN5eUFwUEdmeTZ4YTBLRUJJNU9zcVpqS1VFa3VHM0lPUWhrdUxoRnpZZ0lxVnZLR3lEMkFDazRKVHZWNGxBemx6ckdFcFYxdFdMNHFpMHBfbXJCRUZiakdEQXNKNTlNMkQwXzNRdG9xR2ZxN0dpbnBLUU1BajJiTHNkYlB2Z1ZUdjJzY0ZkakxlMjNXSmNueFlENHg0cWVhZ29XUU1icHd4M0xLR2ROblFraHFzcF9zM3hKR3FBeGxzSTAweG9R?oc=5",
-   "summary": "",
-   "time": "2026-11-25T04:29:09+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Law.com"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 10.2,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "convicted",
-    "theft"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1927,12 +2098,35 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 10.2,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "trade secret",
     "theft",
     "jury"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "Huawei Convicted of Trade Secret Theft, Sanctions Evasion Conspiracy",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWENOMFZQaDBTekw5X2E5SGVXV3FzY2RFeGhvWEN5eUFwUEdmeTZ4YTBLRUJJNU9zcVpqS1VFa3VHM0lPUWhrdUxoRnpZZ0lxVnZLR3lEMkFDazRKVHZWNGxBemx6ckdFcFYxdFdMNHFpMHBfbXJCRUZiakdEQXNKNTlNMkQwXzNRdG9xR2ZxN0dpbnBLUU1BajJiTHNkYlB2Z1ZUdjJzY0ZkakxlMjNXSmNueFlENHg0cWVhZ29XUU1icHd4M0xLR2ROblFraHFzcF9zM3hKR3FBeGxzSTAweG9R?oc=5",
+   "summary": "",
+   "time": "2026-11-25T04:29:09+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Law.com"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 9.6,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "convicted",
+    "theft"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -1950,7 +2144,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 10.0,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1972,7 +2166,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -1994,7 +2188,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 9.9,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2017,7 +2211,30 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 8.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "窃取",
+    "秘密"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "“窃取商业秘密和银行欺诈：华为在美国被判有罪”",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNHR5UnY2UFhydFRDZUlkbkkxQ3lRQWV3bDlXdG5qSFZUOGJmS01jd1Zmc2ozaG1mMVg5UUFMNWdGUk9JbUQzM245MFJoQ2h6Qm95VWJPNTFOMW9FMEw3ZkdRTVRMMjl1aG41c1ZMaXNsZE1rOUR4RDNYS1Q1N0RodzBwTFFIWkQxdXltNGtucnE3SnF4RnA1R05vbjF2cUdCc2h6YUdvbW1jaWVXUk1STUp6S3NyeTV0TVR4b2FqUkFoUzZTcVRVN003Z0FTRkdsLXRxejhqRWZfUmNrQkNUR0Z5SDNmUGlxbjg1M1k4TTQtdWJFVnRTbzUyOHZJam1RcTEzQ0djTGZaeWNZVDhMZ2ttc3dSdTU0NUlzTktxMm9Ic2VCdHpGUi1ROGNSOTAyaHBPU1NCa0hrUXd2U2RIYnliaC1McVR2dkJwZXFzSlJRamFwRDd4TF930gHiAkFVX3lxTE5kMVZBbU5BWXVJaVh6R1lJNVhEa2RlU2Jya1N3dUdxVC1kNGw3YVVDclJmRXdZOEdaeU54MFJSTVJWanJnNzZWbGxYWEFDWmxwdjJKaXhLM3lTSG1Fa2Mxb096ajAtT0ZVd3hSTHQ2OWJtOVVRWkpqeGkyQ3B2cDVtSUp5ejhEMDNGUDhndVowRFQtQ0hpQUI4OW5ZSkNLUTZGU0FGd0xrZHFyOV9hUktWUTlaVGZQbE1OOW1QcUhSN0dDaklMNTZRV1VBZHR4blVKbU1JeldUWXVzdUYxcjktWXZXSUlRYktxMmIwYWFxQ1dWN1RJaEI1X19jb3U5RUNxNHNiVlBGVU9VbkM5b1ZLS2ZUVjN3R283alliTWptVVhDMmxqczI3UUt3X1Ezb2k0QVRxYmg4SGFtNUt6ZlZ1aHA0bVA5aV95VWVRWEZTZVBCTEJwZ2NOUkVOeTVBRzJ1Zw?oc=5",
+   "summary": "",
+   "time": "2026-11-25T05:26:41+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "L'Unione Sarda"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2040,7 +2257,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 9.3,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "trade secret",
@@ -2062,7 +2279,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 9.3,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2072,29 +2289,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "“窃取商业秘密和银行欺诈：华为在美国被判有罪”",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNHR5UnY2UFhydFRDZUlkbkkxQ3lRQWV3bDlXdG5qSFZUOGJmS01jd1Zmc2ozaG1mMVg5UUFMNWdGUk9JbUQzM245MFJoQ2h6Qm95VWJPNTFOMW9FMEw3ZkdRTVRMMjl1aG41c1ZMaXNsZE1rOUR4RDNYS1Q1N0RodzBwTFFIWkQxdXltNGtucnE3SnF4RnA1R05vbjF2cUdCc2h6YUdvbW1jaWVXUk1STUp6S3NyeTV0TVR4b2FqUkFoUzZTcVRVN003Z0FTRkdsLXRxejhqRWZfUmNrQkNUR0Z5SDNmUGlxbjg1M1k4TTQtdWJFVnRTbzUyOHZJam1RcTEzQ0djTGZaeWNZVDhMZ2ttc3dSdTU0NUlzTktxMm9Ic2VCdHpGUi1ROGNSOTAyaHBPU1NCa0hrUXd2U2RIYnliaC1McVR2dkJwZXFzSlJRamFwRDd4TF930gHiAkFVX3lxTE5kMVZBbU5BWXVJaVh6R1lJNVhEa2RlU2Jya1N3dUdxVC1kNGw3YVVDclJmRXdZOEdaeU54MFJSTVJWanJnNzZWbGxYWEFDWmxwdjJKaXhLM3lTSG1Fa2Mxb096ajAtT0ZVd3hSTHQ2OWJtOVVRWkpqeGkyQ3B2cDVtSUp5ejhEMDNGUDhndVowRFQtQ0hpQUI4OW5ZSkNLUTZGU0FGd0xrZHFyOV9hUktWUTlaVGZQbE1OOW1QcUhSN0dDaklMNTZRV1VBZHR4blVKbU1JeldUWXVzdUYxcjktWXZXSUlRYktxMmIwYWFxQ1dWN1RJaEI1X19jb3U5RUNxNHNiVlBGVU9VbkM5b1ZLS2ZUVjN3R283alliTWptVVhDMmxqczI3UUt3X1Ezb2k0QVRxYmg4SGFtNUt6ZlZ1aHA0bVA5aV95VWVRWEZTZVBCTEJwZ2NOUkVOeTVBRzJ1Zw?oc=5",
-   "summary": "",
-   "time": "2026-11-25T05:26:41+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "L'Unione Sarda"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.2,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "窃取",
-    "秘密"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "Huawei Convicted Of Stealing US Tech Secrets In Corporate Espionage Trial",
@@ -2107,7 +2301,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 9.2,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "espionage",
@@ -2117,28 +2311,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "1.55亿元降到1001万元！美法院改判AI商业秘密侵权案",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbElERDh2aEo0WndCWXNiaVFodVNETHpwNnlSUmk4MHdjNnJSMWRYM3R3WWRQYkJULTJxRHJiNFJGQWRrbXpzbS00ZUVQYTZoWHdpOTNIWWtSMnlWbkZHQWp4ZWxpYWpnRkRrekJvRXE3WDF6d1VsYlByWElHOUdnemxpcmtTWWNVTFZEQQ?oc=5",
-   "summary": "",
-   "time": "2026-11-25T19:23:57+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Sohu"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "华为被判窃取商业机密罪名成立；中国称美国正在“打压”它。",
@@ -2151,7 +2323,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2173,7 +2345,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 9.0,
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "trade secret",
@@ -2183,6 +2355,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
+   "title": "1.55亿元降到1001万元！美法院改判AI商业秘密侵权案",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbElERDh2aEo0WndCWXNiaVFodVNETHpwNnlSUmk4MHdjNnJSMWRYM3R3WWRQYkJULTJxRHJiNFJGQWRrbXpzbS00ZUVQYTZoWHdpOTNIWWtSMnlWbkZHQWp4ZWxpYWpnRkRrekJvRXE3WDF6d1VsYlByWElHOUdnemxpcmtTWWNVTFZEQQ?oc=5",
+   "summary": "",
+   "time": "2026-11-25T19:23:57+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.4,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 11.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
    "title": "华为因涉商业秘密及违反制裁规定在美国被定罪",
@@ -2195,7 +2389,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.9,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2217,7 +2411,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "trade secret",
@@ -2239,7 +2433,29 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.8,
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "商业机密",
+    "窃取"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
+  },
+  {
+   "title": "美国陪审团裁定中国科技巨头华为窃取商业机密",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMDJxMlc0RElkMlV6U19sX0llckhyYkZBX2tuMlF5TG9fNXlIU0MtbkFyYTRma1dKdnVnMC1ZMG05UTZBMUh1NHpGWTcyTTdxemoyVkxHUDdhSEVv?oc=5",
+   "summary": "",
+   "time": "2026-11-25T15:34:42+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "TRT中文"
+   ],
+   "region": "国内",
+   "category": "窃密泄密",
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2261,7 +2477,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.8,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2271,50 +2487,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "美国陪审团裁定中国科技巨头华为窃取商业机密",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMDJxMlc0RElkMlV6U19sX0llckhyYkZBX2tuMlF5TG9fNXlIU0MtbkFyYTRma1dKdnVnMC1ZMG05UTZBMUh1NHpGWTcyTTdxemoyVkxHUDdhSEVv?oc=5",
-   "summary": "",
-   "time": "2026-11-25T15:34:42+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "TRT中文"
-   ],
-   "region": "国内",
-   "category": "窃密泄密",
-   "heat": 8.8,
-   "hot": false,
-   "tags": [
-    "商业机密",
-    "窃取"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "商业秘密｜当399元羽绒服售罄后，中高端品牌该怎么走？",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53NENNQ01ZZHUzQmpVYVB6ZnFyb2hacnVULVRWWGNmNVozbzNSV0I0ZHpqaEQ1ZFpvUTloREhVM0RWT2tyN1V0VjBRSlNxZ2RtSXdn?oc=5",
-   "summary": "",
-   "time": "2026-11-25T13:25:18+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "第一财经"
-   ],
-   "region": "国内",
-   "category": "企业实践",
-   "heat": 8.7,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "美国判华为窃取商业机密罪名成立【东方头条】2026-11-25",
@@ -2327,7 +2499,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.7,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2349,7 +2521,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 8.6,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2359,28 +2531,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "Huawei Found Guilty on 10 Counts in US Trial Over Fraud, Trade Secret Theft, and Sanctions",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1pWcnBSX0dHWm9jMTg4cUhiRzdXeHVfSHRnQVA2N2VxaXoxN1JONkQtTXctMHR6UjdHRkRrRW9YQkJJTW1FTkFZY0hlaVRlNm9fRTdQNmJSc3ZUNUlmaXppVG1STXJXMVdoWUgxS08zaVNLU3VuME01dTdLdjVsVUw3SE9lcnRka3NBQ2pvNmw5aGJLZXhEbFFzWExHb1dsWUpHWThtdF9jajZ1cnhrTU95b2wySy01YWU2bmt3MzBTaE1PREdKR1pEUDY?oc=5",
-   "summary": "",
-   "time": "2026-11-25T11:24:28+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "Vision Times"
-   ],
-   "region": "国际",
-   "category": "行政执法",
-   "heat": 8.6,
-   "hot": false,
-   "tags": [
-    "trade secret",
-    "theft"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
   },
   {
    "title": "华为遭美国法院裁定10项罪名成立 涉隐瞒伊朗业务和窃取商业机密",
@@ -2393,7 +2543,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2403,6 +2553,72 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
+  },
+  {
+   "title": "Huawei Found Guilty on 10 Counts in US Trial Over Fraud, Trade Secret Theft, and Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1pWcnBSX0dHWm9jMTg4cUhiRzdXeHVfSHRnQVA2N2VxaXoxN1JONkQtTXctMHR6UjdHRkRrRW9YQkJJTW1FTkFZY0hlaVRlNm9fRTdQNmJSc3ZUNUlmaXppVG1STXJXMVdoWUgxS08zaVNLU3VuME01dTdLdjVsVUw3SE9lcnRka3NBQ2pvNmw5aGJLZXhEbFFzWExHb1dsWUpHWThtdF9jajZ1cnhrTU95b2wySy01YWU2bmt3MzBTaE1PREdKR1pEUDY?oc=5",
+   "summary": "",
+   "time": "2026-11-25T11:24:28+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "Vision Times"
+   ],
+   "region": "国际",
+   "category": "行政执法",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "trade secret",
+    "theft"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+  },
+  {
+   "title": "商业秘密｜当399元羽绒服售罄后，中高端品牌该怎么走？",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53NENNQ01ZZHUzQmpVYVB6ZnFyb2hacnVULVRWWGNmNVozbzNSV0I0ZHpqaEQ1ZFpvUTloREhVM0RWT2tyN1V0VjBRSlNxZ2RtSXdn?oc=5",
+   "summary": "",
+   "time": "2026-11-25T09:06:57+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "第一财经"
+   ],
+   "region": "国内",
+   "category": "企业实践",
+   "heat": 7.9,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "秘密"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "华为涉窃取商业机密及隐瞒伊朗业务被美国陪审团定罪｜即时新闻｜中港台｜on.cc东网",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbm9OZEtjb2Y3U3k5aW5ydDU0eHd3NjNvSlpQUjJIcmZxUEZuSDI1SE9jdmYtNjR6X1Z4UEhpQXhoWFd6UVBtTkpWM0pKMTBVdzJ2Um9FN1UxMDVlVU5ybFFfdWpwSkNhUFVhU29jQ2o1ZTlqZWF4OEk4bFJhN0RvRUdHeWtxYmtmMEo0Rm83QQ?oc=5",
+   "summary": "",
+   "time": "2026-11-25T07:30:11+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "on.cc東網"
+   ],
+   "region": "国际",
+   "category": "窃密泄密",
+   "heat": 7.8,
+   "hot": false,
+   "tags": [
+    "商业机密",
+    "窃取"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "What The Huawei Verdict Really Means For Corporate Espionage",
@@ -2415,7 +2631,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.4,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "espionage",
@@ -2437,7 +2653,7 @@
    ],
    "region": "国际",
    "category": "窃密泄密",
-   "heat": 8.4,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2459,7 +2675,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 8.3,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "espionage",
@@ -2469,28 +2685,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "华为涉窃取商业机密及隐瞒伊朗业务被美国陪审团定罪｜即时新闻｜中港台｜on.cc东网",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbm9OZEtjb2Y3U3k5aW5ydDU0eHd3NjNvSlpQUjJIcmZxUEZuSDI1SE9jdmYtNjR6X1Z4UEhpQXhoWFd6UVBtTkpWM0pKMTBVdzJ2Um9FN1UxMDVlVU5ybFFfdWpwSkNhUFVhU29jQ2o1ZTlqZWF4OEk4bFJhN0RvRUdHeWtxYmtmMEo0Rm83QQ?oc=5",
-   "summary": "",
-   "time": "2026-11-25T07:30:11+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "on.cc東網"
-   ],
-   "region": "国际",
-   "category": "窃密泄密",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "商业机密",
-    "窃取"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
@@ -2503,7 +2697,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.2,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "espionage",
@@ -2525,7 +2719,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 8.2,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "convicted",
@@ -2547,7 +2741,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.0,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2569,7 +2763,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 7.9,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "non-compete"
@@ -2590,7 +2784,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.5,
+   "heat": 6.9,
    "hot": false,
    "tags": [
     "商业机密"
@@ -2611,7 +2805,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 7.4,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "商业机密"
@@ -2632,7 +2826,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 7.4,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "商业机密"
@@ -2641,6 +2835,27 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "行政执法动态，反映监管查处重点与尺度，可对照排查自身泄密与合规风险点。"
+  },
+  {
+   "title": "中美高科技竞争背景下，美司法裁定华为窃密等十项罪名成立| 零新聞",
+   "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNOTIwZmgzU0kwOTJHMVdrQWlKSldGNG1ZM3E2R21nQ2lHOVdIRm9UZDl5TnByeDBmMWJZMF9WR2haS2hFMVdzRURYbzZCSDNqMkN4UHZNVzdXbG1CTmstSElnV0R1SF9sVkJIYnBTbmIwX0liT0NuSkRfeEF3VktvbHdvNjBHR3dmMFJWaXk4Sm1sdWdWZkhURDFDZS11TlNjTWdTdm1VekctakttX1dGT1RUZUVSSFdkTm5NUGoxTlZKTDNKRFdWTXFQM0FRVlNOVjlvU3FORnVQcEljdTdCOUo4M3VDd3FBVllPcTZmM21lUWtPQ1FmY2pEWEJVYjJJd2c4SkVnVHdFZGYyRXk5N2tfanZvSlY2dTZJSG5kVGZVWUpZOHNKNU03YklmV0NsYnpHd1Y3Qm5ZbF81WFlpeE9zbnNFWVZlM3U4WlU0dkdjQVVMNWJFeUZFX0J6Uk9CWUw4S2QtTEZ2aVJ5QTNZd2RwbDhYZWFYa3FsaG1YTFZ1RF8yOTJLTjFQZTBvMkNuWVBiZG56N2JnM2NJc0E?oc=5",
+   "summary": "",
+   "time": "2026-11-25T23:42:55+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "GitHub"
+   ],
+   "region": "国内",
+   "category": "窃密泄密",
+   "heat": 6.7,
+   "hot": false,
+   "tags": [
+    "窃密"
+   ],
+   "importance": 4.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "Huawei Faces US Fraud and Trade Secret Convictions in Brooklyn",
@@ -2653,7 +2868,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.3,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "trade secret"
@@ -2670,11 +2885,11 @@
    "time": "2026-11-25T23:00:09+08:00",
    "date": "2026-11-25",
    "sources": [
-    "Bloomberg.com"
+    "Bloomberg"
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 7.2,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "espionage"
@@ -2683,27 +2898,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "中美高科技竞争背景下，美司法裁定华为窃密等十项罪名成立| 零新聞",
-   "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNOTIwZmgzU0kwOTJHMVdrQWlKSldGNG1ZM3E2R21nQ2lHOVdIRm9UZDl5TnByeDBmMWJZMF9WR2haS2hFMVdzRURYbzZCSDNqMkN4UHZNVzdXbG1CTmstSElnV0R1SF9sVkJIYnBTbmIwX0liT0NuSkRfeEF3VktvbHdvNjBHR3dmMFJWaXk4Sm1sdWdWZkhURDFDZS11TlNjTWdTdm1VekctakttX1dGT1RUZUVSSFdkTm5NUGoxTlZKTDNKRFdWTXFQM0FRVlNOVjlvU3FORnVQcEljdTdCOUo4M3VDd3FBVllPcTZmM21lUWtPQ1FmY2pEWEJVYjJJd2c4SkVnVHdFZGYyRXk5N2tfanZvSlY2dTZJSG5kVGZVWUpZOHNKNU03YklmV0NsYnpHd1Y3Qm5ZbF81WFlpeE9zbnNFWVZlM3U4WlU0dkdjQVVMNWJFeUZFX0J6Uk9CWUw4S2QtTEZ2aVJ5QTNZd2RwbDhYZWFYa3FsaG1YTFZ1RF8yOTJLTjFQZTBvMkNuWVBiZG56N2JnM2NJc0E?oc=5",
-   "summary": "",
-   "time": "2026-11-25T23:42:55+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "GitHub"
-   ],
-   "region": "国内",
-   "category": "窃密泄密",
-   "heat": 7.2,
-   "hot": false,
-   "tags": [
-    "窃密"
-   ],
-   "importance": 4.0,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
    "title": "Judge Cuts C3.ai Trade Secret Award Against Cummins",
@@ -2716,7 +2910,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "trade secret"
@@ -2737,7 +2931,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.5,
+   "heat": 5.9,
    "hot": false,
    "tags": [
     "知识产权"
@@ -2746,27 +2940,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
-   "title": "OpenAI engineer Abdulrahman Alfozan accused of corporate espionage released",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXhvcDRWd2dJZDVyOVQzT2FFRXZCWVp5QlFjTE4yUlBGOXI3aGtMVzZKc2JUWEtQa0R3RW11cUJMek9xNWpDaGd2N2ppNEJYS2duRUYxYmo1YXNFSlVfWVZ3OW9JVy13ZkhJdDVxY2NXeG91bHdZYXlnYUd3SmxvaENIbEZDZHFuOGxVRGZ1ZGhpQl9tcVE0VkZ1M1FCcXFKRkpOX2VGWDAxdjZ1dldxLUdROWc1V2xHcjBGcjhWQQ?oc=5",
-   "summary": "",
-   "time": "2026-11-25T05:05:49+08:00",
-   "date": "2026-11-25",
-   "sources": [
-    "NewsBytes"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 6.2,
-   "hot": false,
-   "tags": [
-    "espionage"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
    "title": "Should businesses train leaders on corporate espionage?",
@@ -2779,7 +2952,28 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 6.2,
+   "heat": 5.6,
+   "hot": false,
+   "tags": [
+    "espionage"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "OpenAI engineer Abdulrahman Alfozan accused of corporate espionage released",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXhvcDRWd2dJZDVyOVQzT2FFRXZCWVp5QlFjTE4yUlBGOXI3aGtMVzZKc2JUWEtQa0R3RW11cUJMek9xNWpDaGd2N2ppNEJYS2duRUYxYmo1YXNFSlVfWVZ3OW9JVy13ZkhJdDVxY2NXeG91bHdZYXlnYUd3SmxvaENIbEZDZHFuOGxVRGZ1ZGhpQl9tcVE0VkZ1M1FCcXFKRkpOX2VGWDAxdjZ1dldxLUdROWc1V2xHcjBGcjhWQQ?oc=5",
+   "summary": "",
+   "time": "2026-11-25T05:05:49+08:00",
+   "date": "2026-11-25",
+   "sources": [
+    "NewsBytes"
+   ],
+   "region": "国际",
+   "category": "刑事打击",
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "espionage"
@@ -2800,7 +2994,7 @@
    ],
    "region": "国内",
    "category": "刑事打击",
-   "heat": 16.2,
+   "heat": 15.6,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2823,7 +3017,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 11.1,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2846,7 +3040,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 10.0,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -2869,7 +3063,7 @@
    ],
    "region": "国际",
    "category": "刑事打击",
-   "heat": 9.4,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "convicted",
@@ -2892,7 +3086,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "trade secrets",
@@ -2914,7 +3108,7 @@
    ],
    "region": "国际",
    "category": "企业实践",
-   "heat": 8.7,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "trade secret",
@@ -2936,7 +3130,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.4,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "confidential information",
@@ -2959,7 +3153,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.6,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "商业机密",
@@ -2981,7 +3175,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 7.0,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3003,7 +3197,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 6.8,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "商业机密"
@@ -3024,7 +3218,7 @@
    ],
    "region": "国际",
    "category": "竞业与保密",
-   "heat": 6.1,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "non-compete"
@@ -3045,7 +3239,7 @@
    ],
    "region": "国内",
    "category": "行政执法",
-   "heat": 5.1,
+   "heat": 4.6,
    "hot": false,
    "tags": [
     "泄密"
@@ -3112,7 +3306,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 11.2,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "商业间谍",
@@ -3125,52 +3319,6 @@
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
   },
   {
-   "title": "员工泄露 商业秘密 ,刑事追责后,企业还能主张什么?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795479156&ver=7107&signature=tbI0wFuxRcQIHNTu3DafJrjs4pT1otbt0eYQZmiPbq*5Z3jqIto5aS0*enV3A5n9PbK4oGerE7h175hnsQ48tWK240MjBm6C8vixVQ*S8tEGIFDUN6FGTeN5tsfxaNfq&new=1",
-   "summary": "商业秘密 案例讨论|从“卡波”案看刑事追责与民事索赔2018年1月,一家生产卡波产品的企业,其原法定代表人等因侵犯 商业秘密 罪被...",
-   "time": "2026-11-23T21:35:19+08:00",
-   "date": "2026-11-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 9.5,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "刑事",
-    "员工"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "签了保密协议, 商业秘密 就保住了吗",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795479156&ver=7107&signature=fQlec24JESHOuUSnB7okMVop-EtGzRFKLfIABRmT6F6WDVqLCeifeEOrYsTPNi9HWDTFyDZMOHI3X15phVlIsqnk2AhzrVFnRrIhmE-FaVlj1ZkifTyja7kvjwMarXTU&new=1",
-   "summary": "《 商业秘密 保护规定》第 5 条把「经权利人采取相应保密措施」写进了 商业秘密 的定义:措施不到位,这件东西可能根本不构成 商业秘 ...",
-   "time": "2026-11-23T21:18:35+08:00",
-   "date": "2026-11-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 9.4,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "保密协议",
-    "秘密"
-   ],
-   "importance": 9.0,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
-  },
-  {
    "title": "商业秘密 保护典型案例",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795435931&ver=7106&signature=*3eaQYO-INivzG9fRm2LpJwBuxiGJQaRUPGzEKtmuq3L2sODjmXgTLukQRC5cH7t3ynRz1X1MFWvq8OCxVL9VVQgok63ApPATaqDopaIDRHyKp3Nez21c1YsHbIociyI&new=1",
    "summary": "1李某、罗某侵犯 商业秘密 罪案2某甲公司与某乙公司、肖某、许某等侵害 商业秘密 纠纷案3欧洲某公司与苏州某公司侵害技术秘密纠纷...",
@@ -3181,7 +3329,7 @@
    ],
    "region": "国内",
    "category": "企业实践",
-   "heat": 9.2,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "技术秘密",
@@ -3204,11 +3352,57 @@
    ],
    "region": "国内",
    "category": "竞业与保密",
-   "heat": 9.2,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "竞业限制",
     "商业秘密",
+    "秘密"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "员工泄露 商业秘密 ,刑事追责后,企业还能主张什么?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795479156&ver=7107&signature=tbI0wFuxRcQIHNTu3DafJrjs4pT1otbt0eYQZmiPbq*5Z3jqIto5aS0*enV3A5n9PbK4oGerE7h175hnsQ48tWK240MjBm6C8vixVQ*S8tEGIFDUN6FGTeN5tsfxaNfq&new=1",
+   "summary": "商业秘密 案例讨论|从“卡波”案看刑事追责与民事索赔2018年1月,一家生产卡波产品的企业,其原法定代表人等因侵犯 商业秘密 罪被...",
+   "time": "2026-11-23T21:35:19+08:00",
+   "date": "2026-11-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "刑事打击",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "刑事",
+    "员工"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+  },
+  {
+   "title": "签了保密协议, 商业秘密 就保住了吗",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795479156&ver=7107&signature=fQlec24JESHOuUSnB7okMVop-EtGzRFKLfIABRmT6F6WDVqLCeifeEOrYsTPNi9HWDTFyDZMOHI3X15phVlIsqnk2AhzrVFnRrIhmE-FaVlj1ZkifTyja7kvjwMarXTU&new=1",
+   "summary": "《 商业秘密 保护规定》第 5 条把「经权利人采取相应保密措施」写进了 商业秘密 的定义:措施不到位,这件东西可能根本不构成 商业秘 ...",
+   "time": "2026-11-23T21:18:35+08:00",
+   "date": "2026-11-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "竞业与保密",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "商业秘密",
+    "保密协议",
     "秘密"
    ],
    "importance": 9.0,
@@ -3240,28 +3434,6 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "Unfair Competition Italy: Trade Secrets Guide 2026",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkJCb3YtZFM5SGk5TkdrU25hdVVhS0drbzFGd0ozckxEZ0hlV2VuRWFHNXFsSEJCay1XQm9yVEFNMVBfbVIweXlhUktIbXItSGNMNDRNazhlV0szcjBreFdTTGlERnU0OHNPdnlIcUY3dW16Ujk1RUdCRmtldVd4amt2cFVOQVNya1lqaGd0RXdHOEZhd3FNQ1V3?oc=5",
-   "summary": "Unfair Competition Italy: Trade Secrets Guide 2026 Global Advisory Experts",
-   "time": "2026-11-23T17:07:44+08:00",
-   "date": "2026-11-23",
-   "sources": [
-    "Global Advisory Experts"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 8.2,
-   "hot": false,
-   "tags": [
-    "trade secrets",
-    "trade secret"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
-  },
-  {
    "title": "从商业秘密到金融制裁：美国知识产权法案下中国企业的跨境合规风险与应对",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVnpCdW1rUldmS1RfV2xObUtnbWtNUVBSOVZRTjRjakFDeWFVTUI4bTJGSE5DRkNpOGFJem9sektXWmxCVi1rR0dyYVBPbFNwcXR0NC1jMlktNHc?oc=5",
    "summary": "",
@@ -3278,6 +3450,28 @@
     "知识产权",
     "商业秘密",
     "秘密"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
+  },
+  {
+   "title": "Unfair Competition Italy: Trade Secrets Guide 2026",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkJCb3YtZFM5SGk5TkdrU25hdVVhS0drbzFGd0ozckxEZ0hlV2VuRWFHNXFsSEJCay1XQm9yVEFNMVBfbVIweXlhUktIbXItSGNMNDRNazhlV0szcjBreFdTTGlERnU0OHNPdnlIcUY3dW16Ujk1RUdCRmtldVd4amt2cFVOQVNya1lqaGd0RXdHOEZhd3FNQ1V3?oc=5",
+   "summary": "Unfair Competition Italy: Trade Secrets Guide 2026 Global Advisory Experts",
+   "time": "2026-11-23T17:07:44+08:00",
+   "date": "2026-11-23",
+   "sources": [
+    "Global Advisory Experts"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "trade secrets",
+    "trade secret"
    ],
    "importance": 8.0,
    "kw_score": 6.0,
@@ -3317,7 +3511,7 @@
    ],
    "region": "国内",
    "category": "窃密泄密",
-   "heat": 6.3,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "商业秘密",
@@ -3327,27 +3521,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "窃密/泄密事件通常引发民刑交叉追责，可作为应急响应与保密制度复盘素材。"
-  },
-  {
-   "title": "Trade Secret Protection in Israel: A 2026 Playbook for Startup Founders",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGtIYktXQmlKMnk4b1J0eG1oWjItblB0VGhkRlpmNF9rU0NUQjZBOGZBcEZ0eTNZemFaT0F2ZkNOcGZyWkVzTUl2Q2FtN3ExUll2M3d2RzVrVWNRd2VRak90YUhTc05ZMy1QRVlhZHROQTBrM0Rfb1kySksyRWlVYzM5RmJvWVBmcWlzWkxDMWF3Zw?oc=5",
-   "summary": "",
-   "time": "2026-11-23T18:22:47+08:00",
-   "date": "2026-11-23",
-   "sources": [
-    "Global Advisory Experts"
-   ],
-   "region": "国际",
-   "category": "企业实践",
-   "heat": 5.3,
-   "hot": false,
-   "tags": [
-    "trade secret"
-   ],
-   "importance": 5.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "Anthropic上市要求承销商半年竞业限制",
@@ -3369,6 +3542,27 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
+  },
+  {
+   "title": "Trade Secret Protection in Israel: A 2026 Playbook for Startup Founders",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGtIYktXQmlKMnk4b1J0eG1oWjItblB0VGhkRlpmNF9rU0NUQjZBOGZBcEZ0eTNZemFaT0F2ZkNOcGZyWkVzTUl2Q2FtN3ExUll2M3d2RzVrVWNRd2VRak90YUhTc05ZMy1QRVlhZHROQTBrM0Rfb1kySksyRWlVYzM5RmJvWVBmcWlzWkxDMWF3Zw?oc=5",
+   "summary": "",
+   "time": "2026-11-23T18:22:47+08:00",
+   "date": "2026-11-23",
+   "sources": [
+    "Global Advisory Experts"
+   ],
+   "region": "国际",
+   "category": "企业实践",
+   "heat": 5.0,
+   "hot": false,
+   "tags": [
+    "trade secret"
+   ],
+   "importance": 5.0,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "企业商业秘密管理实践动态，可作为保密体系建设与对标参考。"
   },
   {
    "title": "天赐诉研一,锂电圈最大 商业秘密 案件始末",
@@ -4344,27 +4538,6 @@
    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
   },
   {
-   "title": "The Spy Games: There's a secret world of corporate espionage and power plays",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeEdRczhsS0xlWTk0YkdoS1I5NncyZGNQQ1RuUWFFSGV5NktXQjlKQ3haeG5RWkJReDJqSm1jeFJQRzI3b3kzTnhpdGx1bThrQ2FkLWcyXzRlM3J3YW1QcVQ0clhnMmU2V2Y0dlZ2dWs2WkdIdjZJazhBOG51V1lRVVhrdHlDY3paM1FSQXp2dWdjVzVMeEFsTUwwMFFNc3RfcV9tZ3lRS3J3Um5PLVNEOGp2TUdWc0IzT0xUOVlvbDlLazVYYUpCWWY0WjFOSU1ucmxfTnc1eVZUb0RCeXRaVmZCMUFldmZHb0t4WVJIUG9tc0xBVU1xTmVHYTNzaWZhM2VPX0ZMUE1BM1FoVzNNcm9EaHZlQ2fSAZwCQVVfeXFMUF9mTTR5YzBXanN2SmhXRmo0anRzOXRncElZZTZSb1U2Zk5WZkMtRGFjWmlPVmhqV0tXdzdUZGN6ak9IZW56RE9tTUJtcm5HWS1KclVSdXhDNlhkbUZuY3JaRTU4eWFaeEFaOExWRUFRM1dsVzJ4dTRDYmFzU1kyY0MwWFl6LWtTUWxUcVNsYWh4SmxyMUNZbDdQbEZuekoxcWpVemFRVm5yVEZNMUx2MnRKRi1mZ2dMN0R3UHVyaDVYak5OSDRwdE9QaUE4V2JzUEFiTWxzZ18xUnlPb0p3czRabHFxbUtqblpEZ1ZVUl9US29vckt6M2dfZU1CaHZrNTAtaDdQeE5rUld4VDM2bV9XUlQ1bzUzVmNvdUY?oc=5",
-   "summary": "",
-   "time": "2026-11-20T17:53:43+08:00",
-   "date": "2026-11-20",
-   "sources": [
-    "The Economic Times"
-   ],
-   "region": "国际",
-   "category": "刑事打击",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "espionage"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
    "title": "Political debate emerges on corporate espionage and data leaks at Guidance Tamil Nadu - India Today",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd253Vmkzam9weURjaG5UaHJ3TWFmdThWdG00emQwTnRxYmt6clR1SGFqRlhmd01zTEtZNWt0NTZMc01tdFNTUDBrWVZWS2o3UHdyd2pYaXZXN28yZlhTZUh0VFJzNzN1SktqbXAyaTJfNXl6ZjNYNkNyaWZBYnpIZzl4ZUtLdm01ZUZlVlRGZ1k2ZHlqczJWd05zUGxrVEU5T2p6WXlOTDZlRVo5cmhBYzNsT3g3ajBDWnZNN0ZxT1dyWVFSSDhGQ1MzNk5WMmIwbVRGWGNB0gHbAUFVX3lxTE14emFhWlN5X0NzZEpGVDQxS3JuZFJSYUFvREpKanBEWU1hRFF4V2M5dzBzVXZYUFYzVERUdGZJWDYtZHdZaHdYb3lHNGh0SDN1WTVXOTM4YnZQclpKM0xUdnBDalczMXE5NnI3a2xqY1d6b1lOV0UxSzZGdW1iUVpRS1FMcE9WTlN4UDJrNjJqRkJER3hTcFFRbUVXNEtRX0lsUGdncndpaTY3cHZWU252WVhiQnBaTnF5YkluendsQVdkRHhKWmljbXhkNmFyaUIzTW5sZ3RKdDVVcw?oc=5",
    "summary": "",
@@ -4386,140 +4559,25 @@
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
   },
   {
-   "title": "四川 侵犯商业秘密 罪辩护:员工离职后带走技术资料,如何认定犯罪?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795079657&ver=7098&signature=c7PKjCdVn6gUl*kYk-hFtOllo7FbqwOxeXIZxqqqL0GJVST9sfs*izppNeTVQzFJfGIrWu6NrWT36I9bpUSD**ktyw*5fTmaC0k5H3o*3cg4PZ2C401z8uroooJsd98w&new=1",
-   "summary": "发布机构:四川观鉴律师事务所关键词:四川 侵犯商业秘密 罪辩护、成都商业秘密律师、员工离职带走技术资料、技术秘密泄露、 侵犯 ...",
-   "time": "2026-11-19T15:32:10+08:00",
-   "date": "2026-11-19",
+   "title": "The Spy Games: There's a secret world of corporate espionage and power plays",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeEdRczhsS0xlWTk0YkdoS1I5NncyZGNQQ1RuUWFFSGV5NktXQjlKQ3haeG5RWkJReDJqSm1jeFJQRzI3b3kzTnhpdGx1bThrQ2FkLWcyXzRlM3J3YW1QcVQ0clhnMmU2V2Y0dlZ2dWs2WkdIdjZJazhBOG51V1lRVVhrdHlDY3paM1FSQXp2dWdjVzVMeEFsTUwwMFFNc3RfcV9tZ3lRS3J3Um5PLVNEOGp2TUdWc0IzT0xUOVlvbDlLazVYYUpCWWY0WjFOSU1ucmxfTnc1eVZUb0RCeXRaVmZCMUFldmZHb0t4WVJIUG9tc0xBVU1xTmVHYTNzaWZhM2VPX0ZMUE1BM1FoVzNNcm9EaHZlQ2fSAZwCQVVfeXFMUF9mTTR5YzBXanN2SmhXRmo0anRzOXRncElZZTZSb1U2Zk5WZkMtRGFjWmlPVmhqV0tXdzdUZGN6ak9IZW56RE9tTUJtcm5HWS1KclVSdXhDNlhkbUZuY3JaRTU4eWFaeEFaOExWRUFRM1dsVzJ4dTRDYmFzU1kyY0MwWFl6LWtTUWxUcVNsYWh4SmxyMUNZbDdQbEZuekoxcWpVemFRVm5yVEZNMUx2MnRKRi1mZ2dMN0R3UHVyaDVYak5OSDRwdE9QaUE4V2JzUEFiTWxzZ18xUnlPb0p3czRabHFxbUtqblpEZ1ZVUl9US29vckt6M2dfZU1CaHZrNTAtaDdQeE5rUld4VDM2bV9XUlQ1bzUzVmNvdUY?oc=5",
+   "summary": "",
+   "time": "2026-11-20T17:53:43+08:00",
+   "date": "2026-11-20",
    "sources": [
-    "微信公众号"
+    "The Economic Times"
    ],
-   "region": "国内",
+   "region": "国际",
    "category": "刑事打击",
-   "heat": 14.0,
+   "heat": 4.0,
    "hot": false,
    "tags": [
-    "侵犯商业秘密",
-    "技术秘密",
-    "商业秘密"
+    "espionage"
    ],
-   "importance": 16.5,
-   "kw_score": 12.0,
+   "importance": 6.5,
+   "kw_score": 2.0,
    "weight": 2.0,
    "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "商业秘密 指导案例裁判规则评析系列(一):＂以侵权为业＂的认定与惩罚性赔偿的适用",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795113045&ver=7098&signature=lxnWb2pSkcrCFmSqo*huSFsSuG20B7ivgT7uIr6*Om-vuhRXlkj5bvbzTa*MfiDblS3HMKIG4qJG5iGSpnYyhXSfA-FzZASA728QPDjvslfL3OrHifGOvExUJPPtmjmy&new=1",
-   "summary": "2018年1月,刘某等因侵犯 商业秘密 罪被追究刑事责任.在刑事判决已认定华某、刘某等实施侵犯技术秘密行为的情况下,安徽纽某公...",
-   "time": "2026-11-19T21:58:20+08:00",
-   "date": "2026-11-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.0,
-   "hot": false,
-   "tags": [
-    "技术秘密",
-    "商业秘密",
-    "刑事"
-   ],
-   "importance": 15.5,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "商业秘密 指导案例裁判规则评析系列(一):＂以侵权为业＂的认定与惩罚性赔偿的适用",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795136713&ver=7099&signature=jl55eQ8dljbyxhjvK3*8F9G5cSkg6u1xgbBj77z6*hgTnBZwbFWMRshSgPXGOGrUbzoa0LgXbd56aClB4gyBUusBttzUC1y*dOxrACWdTA78Vz4lcyI6cXahBc3yegQ6&new=1",
-   "summary": "2018年1月,刘某等因侵犯 商业秘密 罪被追究刑事责任.在刑事判决已认定华某、刘某等实施侵犯技术秘密行为的情况下,安徽纽某公...",
-   "time": "2026-11-19T21:58:20+08:00",
-   "date": "2026-11-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 13.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "技术秘密",
-    "刑事"
-   ],
-   "importance": 15.5,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "华为海思芯片 商业秘密 案刑事责任解析及“研发费用”对赔偿额的影响",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795113045&ver=7098&signature=KeaQfprnrT4XSfQquS0ULfib7c9bURkOGg8dQCc*Xw9zzM42FBNGa8ymBr60MvCWcydyqEXYyV8PVfJVPgzzJTKl7C**ZDhO66p5-VZcuJkRqt4yl1J-V7pndWwsj62P&new=1",
-   "summary": "2025年7月28日,上海市第三中级人民法院对张某等十四人侵犯 商业秘密 案作出一审判决:十四名被告人全部构成侵犯 商业秘密 罪,主...",
-   "time": "2026-11-19T20:32:43+08:00",
-   "date": "2026-11-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "刑事打击",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "商业秘密",
-    "刑事",
-    "秘密"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
-  },
-  {
-   "title": "最新判例:没有盈利,为什么构成 侵犯商业秘密 罪?",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1795079657&ver=7098&signature=xDPUjVpbCtpKK2WvBAQxKg6YuoMwMMCfutxO1zVHc8RWXoDQc2PAapuxqZsOGziECXYDzXOFoMGmclHhhIQN6dlYFLHM9SWVCAkWSlaa8bNJydNUDKAg58Y79LMVAiMo&new=1",
-   "summary": "汪某文犯 侵犯商业秘密 罪.又过了十个月,2025 年 4 月,最高人民法院、最高人民检察院联合举行新闻发布会,发布《关于办理侵犯...",
-   "time": "2026-11-19T15:02:37+08:00",
-   "date": "2026-11-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "侵犯商业秘密",
-    "商业秘密",
-    "秘密"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-  },
-  {
-   "title": "观点 | 竞业之界（三）：互联网游戏行业竞业限制条款“部分无效”之辩",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZREd1N3hUMEU0NXNDZlNXZEdQb24xQV9sYU52TU8wS01KUTd6MjhsRmlhUm9NSG1iSU5XUG9NQ2F4Z1ctN3JzQlZNUE1BenhmNWltV0hYZlRfcUZHTC1qQW82UEhodHZ6eUh0dXE0Zw?oc=5",
-   "summary": "观点 | 竞业之界（三）：互联网游戏行业竞业限制条款“部分无效”之辩 新浪财经_金融信息服务商",
-   "time": "2026-11-19T17:51:59+08:00",
-   "date": "2026-11-19",
-   "sources": [
-    "新浪财经_金融信息服务商"
-   ],
-   "region": "国内",
-   "category": "竞业与保密",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "竞业限制"
-   ],
-   "importance": 5.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "竞业限制与保密协议实务动态，直接关系人才流动管控与保密体系设计。"
   }
  ],
  "highlights": {
@@ -4883,36 +4941,34 @@
   ],
   "cases": [
    {
-    "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
+    "title": "A US jury convicted Chinese tech giant Huawei of conspiring to steal trade secrets",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXI1Q041bVJQemJsSGlpM1Rfc0hsN3JRanAzVWNFWHp2eE96bDNOLUxEN09PQXM5RzQxbDltM0J0UFJ5T1VUbkRjSWRsZFBfdUJlNGJPSXBSZnZHeUVIOFNveHdnc1Y5RXRSY2FYb2NPUmZlaGJUUWpDZWZWMlpGTklZOWZOSzU1N3RvZFluMy1XdjIzcFoyampRdw?oc=5",
     "summary": "",
-    "time": "2026-11-25T10:57:00+08:00",
+    "time": "2026-11-25T22:41:06+08:00",
     "date": "2026-11-25",
     "sources": [
-     "DW.com",
-     "France 24",
+     "Business Insider",
+     "Blaze Media",
+     "New York Post",
+     "Bangor Daily News",
+     "The Killeen Daily Herald",
+     "Daily Camera",
      "TRT World",
-     "Arab News",
-     "Bangkok Post",
-     "Modern Ghana",
-     "Yahoo News UK",
-     "Inquirer.net",
-     "The Journal",
-     "KLSE Screener",
-     "BGNES",
-     "NewsBreak: Local News & Alerts"
+     "Radio-Canada",
+     "Yahoo Finance",
+     "CBC"
     ],
-    "region": "国际",
+    "region": "国内",
     "category": "刑事打击",
-    "heat": 35.9,
-    "hot": false,
+    "heat": 32.6,
+    "hot": true,
     "tags": [
      "trade secrets",
      "trade secret",
-     "jury"
+     "convicted"
     ],
-    "importance": 34.5,
-    "kw_score": 8.0,
+    "importance": 32.5,
+    "kw_score": 10.0,
     "weight": 2.0,
     "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
    },
@@ -5174,30 +5230,6 @@
     "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    },
    {
-    "title": "Cummins' $23M AI Trade Secrets Verdict Reduced To $1.5M",
-    "url": "https://www.law360.com/ip/articles/2558927?utm_source=rss&utm_medium=rss&utm_campaign=section",
-    "summary": "A Delaware state court reduced to $1.5 million what had been a $23.3 million verdict awarded in favor of artificial intelligence software developer C3.ai in its trade secrets cas…",
-    "time": "2026-11-25T07:00:04+08:00",
-    "date": "2026-11-25",
-    "sources": [
-     "Law360 知识产权",
-     "Law360"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 15.8,
-    "hot": false,
-    "tags": [
-     "trade secrets",
-     "trade secret",
-     "verdict"
-    ],
-    "importance": 16.0,
-    "kw_score": 9.0,
-    "weight": 2.5,
-    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
-   },
-   {
     "title": "《无限暖暖》泄密者被判赔百万，法院认定侵犯商业秘密",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xREFPbkhmbDBUdGdhSnhwZnplS3NSU0FjUE5fdndja2xzbXR5QWRrOFNKQ1lkWE11SzJkNXc1MDg4QXVlNURUS2hOdmE2SEpSdW1SNFpGcmNxOUE?oc=5",
     "summary": "",
@@ -5242,6 +5274,29 @@
     "kw_score": 8.0,
     "weight": 2.0,
     "reason": "侵犯商业秘密刑事案件，反映入罪门槛与量刑尺度，可用于内部威慑宣导与刑民交叉策略参考。"
+   },
+   {
+    "title": "商业秘密 保护合规|没黑进服务器,没偷一份源代码,就是在自己电脑上＂解了个包＂,就被判赔100万",
+    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793808106&ver=7068&signature=y7eNWHhk8sHQ7P8d1tJTv73UW0z-2A*YM*5AyNsC359dYXIuALiUCIw0hRnbrazgMjvdXd9L1nzGICRUxK7DNQycdW0KQ5pBClx0AwWkQqJBWf5j5wxHmPtBojsBl1RQ&new=1",
+    "summary": "商业秘密 保护的不是信息保护的多好,而是权利人有没有划定明确边界.签了保密协议的人、被授权进入系统的人、拿到测试资格的人...",
+    "time": "2026-11-04T19:18:14+08:00",
+    "date": "2026-11-04",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "诉讼仲裁",
+    "heat": 16.7,
+    "hot": false,
+    "tags": [
+     "保密协议",
+     "商业秘密",
+     "源代码"
+    ],
+    "importance": 15.5,
+    "kw_score": 11.0,
+    "weight": 2.0,
+    "reason": "商业秘密民事争议案例，秘点界定、举证、禁令与赔偿口径对类案处理有参考价值。"
    }
   ]
  }
